@@ -1,0 +1,13 @@
+[project]
+name = "projector-insight"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi>=0.115.0",
+    "google-genai>=1.0.0",
+    "numpy>=1.26.0",
+    "python-dotenv>=1.0.0",
+]
+
+[tool.vercel]
+entrypoint = "api.ask:app"

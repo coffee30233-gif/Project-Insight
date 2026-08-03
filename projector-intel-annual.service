@@ -1,0 +1,11 @@
+[Unit]
+Description=投影機情報站 — 年度報告
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=__RUN_USER__
+WorkingDirectory=__PROJECT_DIR__
+EnvironmentFile=/etc/projector-intel.env
+ExecStart=/usr/bin/python3 run_annual.py

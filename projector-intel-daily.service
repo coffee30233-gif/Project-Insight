@@ -1,0 +1,13 @@
+[Unit]
+Description=投影機情報站 — 每日爬蟲
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=__RUN_USER__
+WorkingDirectory=__PROJECT_DIR__
+EnvironmentFile=/etc/projector-intel.env
+ExecStart=/usr/bin/python3 run_daily.py
+# 找不到 python 套件時，改成虛擬環境內的直譯器路徑，例如：
+# ExecStart=__PROJECT_DIR__/.venv/bin/python run_daily.py

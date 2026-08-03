@@ -1,0 +1,30 @@
+# 這些是本機/離線用的工具（爬蟲、資料匯入、報告產生、systemd 服務），
+# 跟部署到 Vercel 上的網站無關，排除掉可以縮小部署體積、避免混淆。
+__pycache__/
+*.pyc
+.git/
+.env
+.env.*
+
+# 舊版整合式 FastAPI 伺服器，只用於本機開發測試（uvicorn api:app --reload），
+# Vercel 上改用 api/ask.py 這個獨立、輕量的 Serverless Function
+api.py
+
+scraper_example*.py
+ingest.py
+backfill_last_year.py
+check_data_coverage.py
+import_research_articles.py
+generate_monthly_report.py
+generate_semiannual_report.py
+generate_annual_report.py
+generate_weekly_report.py
+send_weekly_email.py
+*.bat
+install.sh
+*.service
+
+# reports/ 的原始檔案已經由 export_static_data.py 複製一份到 data/reports/，
+# 網站實際讀取的是 data/reports/，原始的根目錄 reports/ 不需要一起部署。
+# 注意：一定要加開頭斜線只指定根目錄，不然這個規則會連 data/reports/ 也一起排除掉！
+/reports/

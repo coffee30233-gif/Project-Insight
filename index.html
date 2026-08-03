@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>投影機情報站</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
+</head>
+<body>
+
+<header class="topbar">
+    <div class="logo"><span class="dot"></span>投影機情報站</div>
+    <nav class="tabs">
+        <button class="tab-btn active" data-panel="articles">最新情報</button>
+        <button class="tab-btn" data-panel="reports">月報／年報</button>
+        <button class="tab-btn" data-panel="ask">AI 問答</button>
+    </nav>
+</header>
+
+<main>
+
+    <!-- ============ 最新情報 ============ -->
+    <section id="panel-articles" class="panel active">
+        <div class="hero">
+            <h1>投影機產業市場情報</h1>
+            <p class="tagline">彙整全球投影機產業媒體、論壇、市場研究機構的即時動態</p>
+            <div class="stat-strip" id="stat-strip">
+                <div class="stat-item"><div class="value">—</div><div class="label">收錄文章</div></div>
+                <div class="stat-item"><div class="value">—</div><div class="label">追蹤來源</div></div>
+                <div class="stat-item"><div class="value">—</div><div class="label">最新更新</div></div>
+            </div>
+        </div>
+
+        <div class="filter-bar">
+            <input type="text" id="filter-search" placeholder="搜尋標題或摘要關鍵字…">
+            <select id="filter-source"><option value="">全部來源</option></select>
+            <select id="filter-category">
+                <option value="">全部分類</option>
+                <option value="市場數據">市場數據</option>
+                <option value="新品發布">新品發布</option>
+                <option value="技術動態">技術動態</option>
+                <option value="供應鏈">供應鏈</option>
+            </select>
+        </div>
+
+        <div class="article-list" id="article-list"></div>
+        <button class="load-more" id="load-more" style="display:none;">載入更多</button>
+    </section>
+
+    <!-- ============ 月報／年報 ============ -->
+    <section id="panel-reports" class="panel">
+        <div class="reports-layout">
+            <div class="report-list-col">
+                <h4>年度報告</h4>
+                <ul id="annual-report-list"></ul>
+                <h4>半年報</h4>
+                <ul id="semiannual-report-list"></ul>
+                <h4>月報</h4>
+                <ul id="monthly-report-list"></ul>
+                <h4>週報</h4>
+                <ul id="weekly-report-list"></ul>
+            </div>
+            <div>
+                <div class="report-toolbar" id="report-toolbar" style="display:none;">
+                    <a id="report-download-pptx-btn" class="download-btn" download>⬇ 下載簡報（.pptx）</a>
+                </div>
+                <div class="report-viewer" id="report-viewer">
+                    <div class="empty-state">從左側選擇一份報告開始閱讀</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ AI 問答 ============ -->
+    <section id="panel-ask" class="panel">
+        <div class="ask-layout">
+            <div class="ask-messages" id="ask-messages">
+                <div class="ask-empty">
+                    問我任何關於投影機市場的問題，例如「最近雷射光源投影機有什麼技術進展？」<br>
+                    回答只會根據資料庫中已收錄的文章生成，並附上參考來源。
+                </div>
+            </div>
+            <div class="ask-input-row">
+                <input type="text" id="ask-input" placeholder="輸入你的問題…" autocomplete="off">
+                <button id="ask-send">送出</button>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<footer class="site-footer">
+    <div class="subscribe-box">
+        <div class="subscribe-text">
+            <strong>訂閱投影機產業週報</strong>
+            <span>每週一將最新市場動態整理寄到你的信箱</span>
+        </div>
+        <form id="subscribe-form" class="subscribe-form">
+            <input type="email" id="subscribe-email" placeholder="你的 email" required autocomplete="email">
+            <button type="submit" id="subscribe-btn">訂閱</button>
+        </form>
+        <div id="subscribe-message" class="subscribe-message"></div>
+    </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

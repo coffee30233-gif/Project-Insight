@@ -1,0 +1,28 @@
+{
+  "monthly": [
+    {
+      "file": "2026-07.md",
+      "hasSlides": true
+    }
+  ],
+  "semiannual": [
+    {
+      "file": "2026-h1.md",
+      "hasSlides": true
+    },
+    {
+      "file": "2025-h2.md",
+      "hasSlides": true
+    },
+    {
+      "file": "2025-h1.md",
+      "hasSlides": true
+    }
+  ],
+  "annual": [
+    {
+      "file": "2025-annual.md",
+      "hasSlides": true
+    }
+  ]
+}

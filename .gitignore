@@ -1,0 +1,19 @@
+# API Key
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Logs
+logs/
+
+# 資料庫：projector_intel.db 需要提交（Vercel 部署後 /api/ask 要唯讀讀取它做 RAG 檢索），
+# 其他 .db 檔案（例如本機測試用的暫存檔）仍然排除
+*.db
+!projector_intel.dbTokens/ 

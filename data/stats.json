@@ -1,0 +1,18 @@
+{
+  "total_articles": 23,
+  "total_sources": 5,
+  "by_source": {
+    "ProjectorReviews": 16,
+    "Reddit r/projectors": 4,
+    "ProjectorCentral": 1,
+    "IT之家": 1,
+    "DigiTimes": 1
+  },
+  "by_category": {
+    "供應鏈": 1,
+    "市場數據": 1,
+    "技術動態": 2,
+    "新品發布": 19
+  },
+  "latest_publish_date": "2026-07-27"
+}

@@ -1,0 +1,473 @@
+[
+  {
+    "id": 148,
+    "source_name": "DigiTimes",
+    "title_zh": "蔡司加速擴產以突破艾司摩爾（ASML）EUV 光學元件瓶頸，迎合 AI 晶片熱潮",
+    "summary_zh": "德國蔡司半導體製造技術部門正積極擴大其在當地的生產產能，旨在緩解艾司摩爾（ASML）極紫外光（EUV）微影設備關鍵光學元件的供應瓶頸。隨著人工智慧數據中心投資的爆發性成長，全球對於先進邏輯與記憶體晶片的需求急遽攀升，蔡司此舉將有助於穩定半導體上游關鍵設備的產出，滿足市場對高效能晶片的迫切需求。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.digitimes.com/news/a20260727VL213/euv-asml-optics-germany-production-capacity.html",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "EUV",
+      "ASML",
+      "蔡司",
+      "半導體供應鏈",
+      "光學元件",
+      "AI晶片"
+    ],
+    "mentioned_brands": [
+      "Zeiss",
+      "ASML"
+    ]
+  },
+  {
+    "id": 147,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "美國250美元以下戶外電影夜投影機推薦諮詢",
+    "summary_zh": "本篇為美國 Reddit 社群上的用戶諮詢，尋求預算在 250 美元以下、適合用於戶外電影夜的投影機推薦。此類討論反映了消費者對於低價位、便攜式戶外娛樂投影設備的真實市場需求，通常會吸引社群成員推薦二手品牌機或高性價比的入門級機種。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7ujft/under_250_outdoor_movie_night_projector_usa/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "戶外投影機",
+      "預算型投影機",
+      "Reddit",
+      "消費需求"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 74,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信擴展三色雷射投影機產品線，推出 XR10 與 PX4-PRO",
+    "summary_zh": "海信（Hisense）宣布擴大其三色雷射投影機產品陣容，推出兩款全新機種。其中 XR10 具備高達 6,000 流明的亮度與彈性的投射比設計；另一款 PX4-PRO 則為 4K 超短焦（UST）投影機，擁有 3,500 流明亮度並支援 IMAX-Enhanced 視覺效果。這兩款新機的加入，進一步強化了海信在高端雷射家庭劇院市場的佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-expands-its-tri-laser-projector-lineup-with-the-xr10-and-px4-pro/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "三色雷射",
+      "超短焦投影機",
+      "4K",
+      "IMAX-Enhanced",
+      "海信"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 73,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信發表全新 100 吋與 120 吋 L5G 4K 智慧雷射電視系統",
+    "summary_zh": "知名家電品牌海信（Hisense）宣布推出全新 L5G 系列 4K 智慧雷射電視，提供 100 吋與 120 吋兩種超大畫面規格。該系列整合了高畫質雷射投影技術與智慧電視系統，旨在為家庭娛樂市場帶來更具沉浸感的巨幕觀影體驗，進一步豐富其雷射電視產品線。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-announces-new-120-and-100-l5g-4k-smart-laser-tv-systems/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "L5G",
+      "雷射電視",
+      "4K",
+      "智慧電視"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 70,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Formovie 推出 Theater Premium 4K 雷射電視",
+    "summary_zh": "Formovie 推出全新 Theater Premium 4K 雷射電視，主打卓越的視覺效果、沉浸式音效與智慧功能。此款新品旨在提升家庭娛樂體驗，為消費者帶來高品質的影音享受，是家庭劇院市場的全新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/formovie-introduces-the-theater-premium-4k-laser-tv/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Formovie",
+      "Theater Premium",
+      "雷射電視",
+      "4K",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Formovie"
+    ]
+  },
+  {
+    "id": 60,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson 推出 QS100 4K PRO-UHD 超短焦雷射投影機，專為客製化家庭劇院整合設計",
+    "summary_zh": "Epson（愛普生）推出全新 QS100 4K PRO-UHD 超短焦雷射投影機，專為客製化家庭劇院整合而設計。該機型旨在提供無縫的安裝體驗與沉浸式觀影享受，滿足高端家庭影音市場對於大畫面與空間美學的雙重需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-the-qs100-4k-pro-uhd-ultra-short-throw-laser-projector-designed-for-custom-home-integration/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "QS100",
+      "4K PRO-UHD",
+      "超短焦",
+      "雷射投影機",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 44,
+    "source_name": "ProjectorReviews",
+    "title_zh": "CEDIA EXPO 2021 第二天回顧：Metra AV、GDC Technology、Severtson 投影幕、Kaleidescape 與 Meyer Sound 合作及 Screen Innovations",
+    "summary_zh": "本文回顧了 2021 年 CEDIA 展會第二天的重點內容，介紹了參展廠商的最新動態與專訪。亮點包括 Metra AV、GDC Technology、Severtson Screens 的投影幕技術，以及 Kaleidescape 與 Meyer Sound 的合作夥伴關係，並展示了 Screen Innovations 的創新產品，為家庭劇院與影音整合產業提供重要參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/cedia-expo-2021-day-two-recap-metra-av-gdc-technology-severtson-screens-kaleidescape-partnership-with-meyer-audio-and-screen-innovations/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "CEDIA Expo 2021",
+      "家庭劇院",
+      "投影幕",
+      "影音整合",
+      "展會回顧"
+    ],
+    "mentioned_brands": [
+      "Metra AV",
+      "GDC Technology",
+      "Severtson Screens",
+      "Kaleidescape",
+      "Meyer Sound",
+      "Screen Innovations"
+    ]
+  },
+  {
+    "id": 43,
+    "source_name": "ProjectorReviews",
+    "title_zh": "CEDIA EXPO 2021 第三天回顧：Draper、Straight Wire 與 AIM Electronics",
+    "summary_zh": "本文為 2021 年 CEDIA 展會第三天的回顧報導，重點介紹了參展商 Draper、Straight Wire 和 AIM Electronics。作者分享了在展會現場與這些製造商交流的實地心得，探討其最新展示的影音與投影配件相關產品與技術動態。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.projectorreviews.com/cedia-expo-2021-day-three-recap-draper-straight-wire-and-aim-electronics/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "CEDIA Expo",
+      "Draper",
+      "Straight Wire",
+      "AIM Electronics",
+      "投影配件"
+    ],
+    "mentioned_brands": [
+      "Draper",
+      "Straight Wire",
+      "AIM Electronics"
+    ]
+  },
+  {
+    "id": 42,
+    "source_name": "ProjectorReviews",
+    "title_zh": "CEDIA Expo 2021 首日回顧：Kaleidescape、AVPro Edge 與 EPV 投影幕",
+    "summary_zh": "本文為 2021 年 CEDIA 展會首日的重點回顧。作者分享了展會現場的實際體驗，並探討今年與往年的不同之處。展會中展示了 Kaleidescape 的高端影音播放系統、AVPro Edge 的影音傳輸解決方案，以及 EPV Projection Screens (Elite Screens) 的最新投影幕產品，為家庭劇院愛好者帶來最新的技術與硬體展示。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/cedia-expo-2021-day-one-recap-kaleidescape-avproedge-and-elite-screens/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "CEDIA Expo",
+      "投影幕",
+      "家庭劇院",
+      "影音系統"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape",
+      "AVPro Edge",
+      "EPV Projection Screens",
+      "Elite Screens"
+    ]
+  },
+  {
+    "id": 41,
+    "source_name": "ProjectorReviews",
+    "title_zh": "最佳高亮度平價戶外投影機推薦 - Projector Reviews",
+    "summary_zh": "知名評測網站 ProjectorReviews 推出最新選購指南，針對預算有限但有戶外投影需求的消費者，推薦多款兼具高亮度、價格親民且易於攜帶的戶外投影機。該指南旨在幫助用戶在進行露營或庭院電影夜時，能以最划算的預算挑選出畫質清晰、便利性高的投影設備，是夏日戶外娛樂的理想參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/budget-friendly-outdoor-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "戶外投影機",
+      "平價投影機",
+      "高亮度",
+      "便攜投影機",
+      "選購指南"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 40,
+    "source_name": "ProjectorReviews",
+    "title_zh": "2026年最佳戶外投影幕推薦 - Projector Reviews",
+    "summary_zh": "本文為知名評測網站 Projector Reviews 針對 2026 年所選出的年度最佳戶外投影幕推薦指南。內容指出，若想獲得最佳的戶外投影效果，搭配一款優質的戶外專用投影幕是不可或缺的。該指南彙整並篩選出當前市場上最值得推薦的戶外投影幕產品，為計畫打造戶外家庭劇院或露營活動的消費者提供實用的選購建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/best-outdoor-projection-screens/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "戶外投影幕",
+      "投影幕推薦",
+      "戶外家庭劇院",
+      "露營投影"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 39,
+    "source_name": "ProjectorReviews",
+    "title_zh": "BenQ 推出 Ace (AH700ST) 雷射高爾夫模擬投影機",
+    "summary_zh": "BenQ 發表全新 Ace (AH700ST) 雷射高爾夫模擬投影機，專為提供沉浸式運動模擬體驗而設計。該機型具備高品質的視覺呈現效果，能滿足高爾夫及各類運動愛好者對於高畫質與擬真場景的需求，為家用及專業運動模擬市場注入全新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/benq-introduces-the-ace-ah700st-laser-golf-simulator-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "BenQ",
+      "AH700ST",
+      "雷射投影機",
+      "高爾夫模擬器",
+      "運動模擬"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ]
+  },
+  {
+    "id": 38,
+    "source_name": "ProjectorReviews",
+    "title_zh": "BenQ 推出 LK936ST 4K 顛覆性高爾夫模擬專用投影機",
+    "summary_zh": "明基（BenQ）宣布推出專為高爾夫模擬系統設計的全新 4K 雷射投影機 LK936ST。該款產品針對室內高爾夫運動愛好者與專業訓練場景打造，提供高解析度與精準色彩，帶來極具沉浸感的視覺體驗，預計於 2021 年 11 月初正式出貨，為高爾夫模擬市場注入全新技術活力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/benq-introduces-lk936st-4k-game-changing-golf-simulation-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "BenQ",
+      "LK936ST",
+      "4K 投影機",
+      "高爾夫模擬",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ]
+  },
+  {
+    "id": 37,
+    "source_name": "ProjectorReviews",
+    "title_zh": "BenQ 推出 8500 流明 LU9750 與 10,000 流明 LU9800 大型場館雷射投影機",
+    "summary_zh": "BenQ（明基）宣布在其 BlueCore 雷射投影機系列中推出兩款全新高亮度機種：LU9750 與 LU9800。這兩款投影機專為大型場館設計，分別具備 8,500 流明與 10,000 流明的超高亮度，能提供優異的色彩表現與長效穩定的光源壽命，滿足展覽、大型會議等專業投影需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/benq-debuts-the-8500-lumen-lu9750-and-10000-lumen-lu9800-large-venue-laser-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "BenQ",
+      "雷射投影機",
+      "LU9750",
+      "LU9800",
+      "BlueCore",
+      "大型場館"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ]
+  },
+  {
+    "id": 36,
+    "source_name": "ProjectorReviews",
+    "title_zh": "BenQ 發表 X3000i 4K 電競投影機",
+    "summary_zh": "BenQ（明基）宣布推出全新 X3000i 4K 投影機，專為電競與遊戲愛好者設計。該機型主打低輸入延遲與高畫質表現，旨在為玩家提供沉浸式的遊戲與娛樂體驗。此新品的發布展現了 BenQ 在家用娛樂及電競投影市場的持續深耕與技術布局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/benq-announces-x3000i-4k-low-input-lag-gaming-and-entertainment-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "BenQ",
+      "X3000i",
+      "4K",
+      "電競投影機",
+      "低輸入延遲"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ]
+  },
+  {
+    "id": 35,
+    "source_name": "ProjectorReviews",
+    "title_zh": "AWOL Vision 推出 Aetherion 系列三色雷射超短焦投影機",
+    "summary_zh": "AWOL Vision 發表全新 Aetherion 系列三色雷射超短焦投影機。該系列具備 4K 超高畫質與超短焦投影技術，並特別針對遊戲玩家優化，提供低延遲與可變更新率功能，同時兼顧劇院級的色彩與畫面表現，為家庭娛樂與電競市場帶來全新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/awol-vision-debuts-aetherion-series-tri-laser-ust-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "三色雷射",
+      "超短焦",
+      "4K",
+      "低延遲",
+      "可變更新率"
+    ],
+    "mentioned_brands": [
+      "AWOL Vision"
+    ]
+  },
+  {
+    "id": 34,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Anker Nebula Cosmos 4K 便攜式投影機評測",
+    "summary_zh": "本文為 Anker 旗下 Nebula Cosmos 4K 便攜式投影機的綜合評測。文章深入探討該款 4K 投影機在市場上的性價比表現，並將其與同類型競爭對手進行橫向對比。評測重點關注其可攜性、畫質表現及價格優勢，旨在幫助消費者評估其是否值得購買，為尋求高品質行動投影解決方案的用戶提供參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/anker-nebula-cosmos-4k-portable-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Anker",
+      "Nebula Cosmos 4K",
+      "便攜式投影機",
+      "產品評測",
+      "性價比"
+    ],
+    "mentioned_brands": [
+      "Anker",
+      "Nebula"
+    ]
+  },
+  {
+    "id": 33,
+    "source_name": "ProjectorReviews",
+    "title_zh": "LG 推出三款針對商用市場的全新 ProBeam 投影機",
+    "summary_zh": "LG 針對教育、企業與政府部門需求，推出三款全新的 ProBeam 系列商用投影機。新機型涵蓋 4K UHD 高畫質規格至可攜式旅行機種，旨在提供更先進的功能與可靠的投影表現，滿足多元的專業商務與教學應用場景。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/3-new-lg-probeam-projectors-for-the-commercial-market/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "ProBeam",
+      "商用投影機",
+      "4K UHD",
+      "LG",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ]
+  },
+  {
+    "id": 32,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "AWOL LTV-3000 Pro 或同等價位超短焦投影機選擇諮詢",
+    "summary_zh": "一名書店老闆在 Reddit 尋求超短焦（UST）投影機選購建議。該店計劃於全黑活動室放映電影，因空間限制且需每次收納，預算上限為 1800 美元。目前正考慮購買 AWOL LTV-3000 Pro，雖知網友更推薦海信 PX3 但其價格高出近一倍，故發文詢問在此預算內是否有其他更佳的替代方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7rzy1/lvt3000_pro_or_similar_cost_options/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "LTV-3000 Pro",
+      "PX3",
+      "平價投影機"
+    ],
+    "mentioned_brands": [
+      "AWOL Vision",
+      "Hisense",
+      "Magcubic"
+    ]
+  },
+  {
+    "id": 30,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機移動後畫面突然變模糊的故障求助",
+    "summary_zh": "一名用戶在 Reddit 論壇求助，指出其購買的 ALINORE 便攜式智慧投影機在移動位置後，畫面變得極為模糊。無論如何調整距離，只有在距離牆面約 3 英尺時才能看清。該機型具備電子對焦與自動梯形校正功能，且無實體變焦轉輪。此案例反映出低階投影機在移動後可能遭遇的對焦機構或系統異常問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7pl4l/why_is_it_suddenly_blurry_after_moving_it/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "投影機對焦",
+      "畫面模糊",
+      "電子對焦",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "ALINORE"
+    ]
+  },
+  {
+    "id": 29,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Optoma PH31 投影機真實使用體驗分享",
+    "summary_zh": "本文為國外用戶對 Optoma PH31 投影機的真實評測。該機採用 3LED DLP 技術，具備 1080p 解析度與實測 1033 ANSI 流明，色彩表現優異。優點在於 299 美元的超值性價比；缺點則為 5W 單聲道喇叭音質極差、51ms 延遲不適合電競，以及較長的投射比。作者強烈建議搭配外接音響與投影布幕使用。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7oo7j/optoma_ph31_experience/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "PH31",
+      "3LED DLP",
+      "投影機評測",
+      "輸入延遲",
+      "投射比"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Samsung"
+    ]
+  },
+  {
+    "id": 31,
+    "source_name": "IT之家",
+    "title_zh": "索尼推廣黑膠唱機遭PS5玩家抗議，實體遊戲片停產政策引發雙標質疑",
+    "summary_zh": "索尼電子在社群平台推廣黑膠唱機，意外引發PlayStation玩家集體抗議。起因於索尼先前宣布將於2028年起停止發行PS5實體遊戲光碟，全面轉向數位版。玩家認為索尼一方面推廣黑膠等實體音樂媒介，另一方面卻剝奪遊戲玩家的實體收藏權益，此舉顯得相當諷刺與雙重標準，進而引發社群輿論風波。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.ithome.com/0/981/822.htm",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "索尼",
+      "PlayStation",
+      "黑膠唱機",
+      "實體光碟",
+      "數位化"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "Sony",
+      "PlayStation"
+    ]
+  },
+  {
+    "id": 28,
+    "source_name": "ProjectorCentral",
+    "title_zh": "當貝 Dangbei N3 Max 投影機發表：具備 1,000 ISO 流明與 180 度雲台彈性投影",
+    "summary_zh": "當貝（Dangbei）推出全新 N3 Max 投影機，主打靈活的居家投影體驗。該機型具備 1,000 ISO 流明亮度與原生 1080p 解析度，並內建 Netflix 授權。最大特色在於配備 180 度旋轉雲台，支援牆面至天花板的無縫投影，搭配自動畫面校正功能，讓用戶在不同空間皆能輕鬆享受高品質的影音娛樂。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/dangbei-n3-max-projector-wall-ceiling.htm",
+    "publish_date": "2026-07-16",
+    "keywords": [
+      "Dangbei N3 Max",
+      "當貝",
+      "雲台投影機",
+      "1000 ISO流明",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Dangbei"
+    ]
+  }
+]
