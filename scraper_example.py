@@ -67,10 +67,23 @@ def _is_projector_related(title: str) -> bool:
 
 
 def _normalize_date(raw: str) -> str:
-    """日期正規化，統一轉成 YYYY-MM-DD，方便月報依月份查詢。"""
+    """
+    日期正規化，統一轉成 YYYY-MM-DD（以台灣時間 UTC+8 為準），方便月報依月份查詢。
+
+    重要：原本的寫法是直接 parse 完就 strftime，但像 DigiTimes、TrendForce 這類
+    美國/其他時區的網站，RSS 的 pubDate 常常帶有原始時區（例如美東時間），如果不轉換
+    成台灣時間就直接取日期，深夜發布的文章換算成台灣時間後就會早一天顯示，
+    跟文章實際頁面上顯示的日期對不起來。
+    """
     from dateutil import parser as date_parser
+    from datetime import timezone, timedelta
+
+    TW_TZ = timezone(timedelta(hours=8))
     try:
-        return date_parser.parse(raw).strftime("%Y-%m-%d")
+        dt = date_parser.parse(raw)
+        if dt.tzinfo is not None:
+            dt = dt.astimezone(TW_TZ)
+        return dt.strftime("%Y-%m-%d")
     except Exception:
         return time.strftime("%Y-%m-%d")
 
@@ -276,7 +289,7 @@ def _fetch_article_meta(url: str, encoding: str) -> dict | None:
         or get_meta("og:updated_time")
     )
     publish_date = (
-        published_raw[:10] if published_raw else time.strftime("%Y-%m-%d")
+        _normalize_date(published_raw) if published_raw else time.strftime("%Y-%m-%d")
     )
 
     if not title or not summary:
