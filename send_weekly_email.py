@@ -1,7 +1,8 @@
 """
 send_weekly_email.py
-讀取 data/subscribers.json 的訂閱名單，把最新一份週報（或指定的週報檔案）
-轉成 email 內容，透過 SMTP（Gmail 或 Outlook）寄給所有訂閱者。
+讀取 data/subscribers.json 的訂閱名單，把最新一份週報轉成 email，
+**PDF 版本（含分類統計圖表）當附件**寄給所有訂閱者，信件本文只放簡短重點
+＋PDF 附件說明＋回網站的連結（完整內容看附件的 PDF，比較不死板）。
 
 用法：
     python send_weekly_email.py                      # 自動抓 reports/ 底下最新的週報
@@ -11,6 +12,7 @@ send_weekly_email.py
 1. .env 裡要設定好 SMTP 相關變數（見下方 SMTP_HOST 等）
 2. 先 git pull，確保 data/subscribers.json 是最新的訂閱名單
    （網站上的訂閱表單是透過 GitHub API 直接 commit 到這個檔案）
+3. 如果對應的 .pdf 還沒產生，這支腳本會自動呼叫 generate_weekly_pdf.py 產生
 
 .env 需要的變數：
     SMTP_HOST=smtp.gmail.com          # Gmail 用這個；Outlook/Office365 用 smtp.office365.com
@@ -23,20 +25,16 @@ send_weekly_email.py
 import glob
 import json
 import os
+import re
 import smtplib
 import sys
+from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 from dotenv import load_dotenv
 
 load_dotenv()
-
-try:
-    import markdown as md
-except ImportError:
-    print("缺少 markdown 套件，請先執行：pip install markdown")
-    sys.exit(1)
 
 REPORTS_DIR = "reports"
 SUBSCRIBERS_PATH = os.path.join("data", "subscribers.json")
@@ -55,18 +53,47 @@ def load_subscribers() -> list[str]:
     return [s["email"] for s in data]
 
 
-def build_email_html(report_md: str, website_url: str) -> str:
-    body_html = md.markdown(report_md, extensions=["extra"])
+def ensure_pdf(md_path: str) -> str:
+    """確保這份週報的 PDF 存在，不存在就呼叫 generate_weekly_pdf.py 產生。"""
+    pdf_path = os.path.splitext(md_path)[0] + ".pdf"
+    if not os.path.exists(pdf_path):
+        print("PDF 還沒產生，先執行 generate_weekly_pdf.py...")
+        import generate_weekly_pdf
+        generate_weekly_pdf.build_pdf(md_path, pdf_path)
+    return pdf_path
+
+
+def extract_summary(report_md: str) -> str:
+    """抓「本週重點」段落的文字，放進信件本文當摘要（信件本文精簡，完整內容看附件 PDF）。"""
+    lines = report_md.splitlines()
+    in_summary = False
+    collected = []
+    for line in lines:
+        if line.strip().startswith("## "):
+            if in_summary:
+                break
+            if "本週重點" in line or "半年摘要" in line or "年度摘要" in line:
+                in_summary = True
+            continue
+        if in_summary and line.strip():
+            collected.append(line.strip())
+    return " ".join(collected) if collected else "本週投影機產業動態，詳見附件 PDF。"
+
+
+def build_email_html(summary_text: str, website_url: str) -> str:
     return f"""\
 <html>
-<body style="font-family: -apple-system, Arial, sans-serif; max-width: 680px; margin: 0 auto; color: #1B1D22;">
+<body style="font-family: -apple-system, Arial, sans-serif; max-width: 600px; margin: 0 auto; color: #1B1D22;">
   <div style="padding: 24px;">
-    {body_html}
-    <hr style="margin: 32px 0; border: none; border-top: 1px solid #E0E0E0;">
-    <p style="font-size: 13px; color: #888;">
-      這封信由「投影機情報站」自動寄送。想看更多歷史報告、或使用 AI 問答，
-      歡迎前往 <a href="{website_url}">{website_url}</a>。
+    <h2 style="margin-bottom: 4px;">投影機情報站 · 週報</h2>
+    <p style="color: #6B7280; font-size: 13px; margin-top: 0;">完整內容請見附件 PDF（含本週文章分類統計圖）</p>
+    <p style="line-height: 1.7;">{summary_text}</p>
+    <p style="margin-top: 24px;">
+      <a href="{website_url}" style="background:#FFB454; color:#14161A; padding:10px 18px;
+         border-radius:7px; text-decoration:none; font-weight:600;">前往網站看更多</a>
     </p>
+    <hr style="margin: 32px 0; border: none; border-top: 1px solid #E0E0E0;">
+    <p style="font-size: 12px; color: #999;">這封信由「投影機情報站」自動寄送。</p>
   </div>
 </body>
 </html>
@@ -74,13 +101,24 @@ def build_email_html(report_md: str, website_url: str) -> str:
 
 
 def send_email(smtp_host, smtp_port, smtp_user, smtp_password, from_name,
-                to_emails: list[str], subject: str, html_body: str):
+                to_emails: list[str], subject: str, html_body: str, pdf_path: str):
+    pdf_filename = os.path.basename(pdf_path)
+    with open(pdf_path, "rb") as f:
+        pdf_bytes = f.read()
+
     for to_email in to_emails:
-        msg = MIMEMultipart("alternative")
+        msg = MIMEMultipart("mixed")
         msg["Subject"] = subject
         msg["From"] = f"{from_name} <{smtp_user}>"
         msg["To"] = to_email
-        msg.attach(MIMEText(html_body, "html", "utf-8"))
+
+        alt_part = MIMEMultipart("alternative")
+        alt_part.attach(MIMEText(html_body, "html", "utf-8"))
+        msg.attach(alt_part)
+
+        attachment = MIMEApplication(pdf_bytes, _subtype="pdf")
+        attachment.add_header("Content-Disposition", "attachment", filename=pdf_filename)
+        msg.attach(attachment)
 
         with smtplib.SMTP(smtp_host, smtp_port) as server:
             server.starttls()
@@ -106,6 +144,8 @@ def main():
         return
     print(f"訂閱者數量：{len(subscribers)}")
 
+    pdf_path = ensure_pdf(report_path)
+
     smtp_host = os.environ.get("SMTP_HOST")
     smtp_port = int(os.environ.get("SMTP_PORT", "587"))
     smtp_user = os.environ.get("SMTP_USER")
@@ -117,16 +157,16 @@ def main():
         print("請先在 .env 設定 SMTP_HOST / SMTP_USER / SMTP_PASSWORD")
         sys.exit(1)
 
-    # 從週報第一行「# 2026-07-21 ～ 2026-07-27 投影機產業週報」取標題當信件主旨
     first_line = report_md.splitlines()[0].lstrip("# ").strip()
     subject = f"【投影機情報站】{first_line}"
 
-    html_body = build_email_html(report_md, website_url)
+    summary_text = extract_summary(report_md)
+    html_body = build_email_html(summary_text, website_url)
 
     send_email(smtp_host, smtp_port, smtp_user, smtp_password, from_name,
-               subscribers, subject, html_body)
+               subscribers, subject, html_body, pdf_path)
 
-    print(f"\n完成，共寄出 {len(subscribers)} 封信。")
+    print(f"\n完成，共寄出 {len(subscribers)} 封信（含 PDF 附件）。")
 
 
 if __name__ == "__main__":

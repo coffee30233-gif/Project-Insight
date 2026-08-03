@@ -65,8 +65,8 @@ def export_articles():
 def export_reports_index_and_files():
     """
     複製 reports/ 底下的 .md（與同檔名的 .pptx，如果存在）到 data/reports/，
-    並產生 reports-index.json。每筆報告是 {"file": "2025-annual.md", "hasSlides": true}
-    這種物件，hasSlides 代表有沒有對應的 .pptx 簡報可以下載。
+    並產生 reports-index.json。每筆報告是 {"file": "2025-annual.md", "hasSlides": true,
+    "hasPdf": true} 這種物件，hasSlides／hasPdf 代表有沒有對應的 .pptx／.pdf 可以下載。
 
     依檔名判斷報告類型：
       - {年}-annual.md     → 年度報告
@@ -92,7 +92,13 @@ def export_reports_index_and_files():
             if has_slides:
                 shutil.copyfile(pptx_src, os.path.join(REPORTS_DST_DIR, pptx_filename))
 
-            entry = {"file": filename, "hasSlides": has_slides}
+            pdf_filename = filename[:-3] + ".pdf"
+            pdf_src = os.path.join(REPORTS_SRC_DIR, pdf_filename)
+            has_pdf = os.path.isfile(pdf_src)
+            if has_pdf:
+                shutil.copyfile(pdf_src, os.path.join(REPORTS_DST_DIR, pdf_filename))
+
+            entry = {"file": filename, "hasSlides": has_slides, "hasPdf": has_pdf}
             if filename.endswith("-annual.md"):
                 annual.append(entry)
             elif filename.endswith("-h1.md") or filename.endswith("-h2.md"):
@@ -116,9 +122,11 @@ def export_reports_index_and_files():
 
     all_entries = weekly + monthly + semiannual + annual
     slides_count = sum(1 for e in all_entries if e["hasSlides"])
+    pdf_count = sum(1 for e in all_entries if e["hasPdf"])
     print(
-        f"已寫入 {path}（月報 {len(monthly)} 份、半年報 {len(semiannual)} 份、"
-        f"年報 {len(annual)} 份，其中 {slides_count} 份有附簡報，檔案已複製到 {REPORTS_DST_DIR}）"
+        f"已寫入 {path}（週報 {len(weekly)} 份、月報 {len(monthly)} 份、半年報 {len(semiannual)} 份、"
+        f"年報 {len(annual)} 份，其中 {slides_count} 份有附簡報、{pdf_count} 份有附 PDF，"
+        f"檔案已複製到 {REPORTS_DST_DIR}）"
     )
 
 

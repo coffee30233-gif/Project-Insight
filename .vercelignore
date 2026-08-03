@@ -19,6 +19,7 @@ generate_monthly_report.py
 generate_semiannual_report.py
 generate_annual_report.py
 generate_weekly_report.py
+generate_weekly_pdf.py
 send_weekly_email.py
 *.bat
 install.sh

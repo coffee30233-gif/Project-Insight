@@ -1,74 +1,34 @@
 {
-  "weekly": [
-    {
-      "file": "2026-W31.md",
-      "hasSlides": false
-    }
-  ],
+  "weekly": [],
   "monthly": [
     {
       "file": "2026-07.md",
-      "hasSlides": true
-    },
-    {
-      "file": "2026-03.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2026-02.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2026-01.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-12.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-11.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-10.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-09.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-08.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-04.md",
-      "hasSlides": false
-    },
-    {
-      "file": "2025-01.md",
-      "hasSlides": false
+      "hasSlides": true,
+      "hasPdf": false
     }
   ],
   "semiannual": [
     {
       "file": "2026-h1.md",
-      "hasSlides": true
+      "hasSlides": true,
+      "hasPdf": false
     },
     {
       "file": "2025-h2.md",
-      "hasSlides": true
+      "hasSlides": true,
+      "hasPdf": false
     },
     {
       "file": "2025-h1.md",
-      "hasSlides": true
+      "hasSlides": true,
+      "hasPdf": false
     }
   ],
   "annual": [
     {
       "file": "2025-annual.md",
-      "hasSlides": true
+      "hasSlides": true,
+      "hasPdf": false
     }
   ]
 }

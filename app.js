@@ -138,10 +138,11 @@ function reportLabel(filename) {
 }
 
 function reportListItem(item) {
-    // 相容兩種格式：舊資料是純檔名字串，新資料是 {file, hasSlides} 物件
+    // 相容兩種格式：舊資料是純檔名字串，新資料是 {file, hasSlides, hasPdf} 物件
     const file = typeof item === "string" ? item : item.file;
     const hasSlides = typeof item === "string" ? false : !!item.hasSlides;
-    return `<li><button data-file="${file}" data-slides="${hasSlides}">${reportLabel(file)}</button></li>`;
+    const hasPdf = typeof item === "string" ? false : !!item.hasPdf;
+    return `<li><button data-file="${file}" data-slides="${hasSlides}" data-pdf="${hasPdf}">${reportLabel(file)}</button></li>`;
 }
 
 async function loadReportList() {
@@ -170,17 +171,20 @@ async function loadReportList() {
         : `<li style="color:var(--text-muted); font-size:0.82rem; padding:6px 10px;">尚無週報</li>`;
 
     document.querySelectorAll("#annual-report-list button, #semiannual-report-list button, #monthly-report-list button, #weekly-report-list button")
-        .forEach(btn => btn.addEventListener("click", () => openReport(btn.dataset.file, btn.dataset.slides === "true", btn)));
+        .forEach(btn => btn.addEventListener("click", () => openReport(btn.dataset.file, btn.dataset.slides === "true", btn.dataset.pdf === "true", btn)));
 }
 
-async function openReport(filename, hasSlides, btnEl) {
+async function openReport(filename, hasSlides, hasPdf, btnEl) {
     document.querySelectorAll(".report-list-col button").forEach(b => b.classList.remove("active"));
     if (btnEl) btnEl.classList.add("active");
 
     const viewer = document.getElementById("report-viewer");
     const toolbar = document.getElementById("report-toolbar");
     const downloadPptxBtn = document.getElementById("report-download-pptx-btn");
+    const downloadPdfBtn = document.getElementById("report-download-pdf-btn");
     toolbar.style.display = "none";
+    downloadPptxBtn.style.display = "none";
+    downloadPdfBtn.style.display = "none";
     viewer.innerHTML = `<div class="empty-state">載入中…</div>`;
 
     const res = await fetch(`data/reports/${filename}`);
@@ -191,10 +195,25 @@ async function openReport(filename, hasSlides, btnEl) {
     const markdownText = await res.text();
     viewer.innerHTML = marked.parse(markdownText);
 
+    let showToolbar = false;
+
     if (hasSlides) {
         const pptxFilename = filename.replace(/\.md$/, ".pptx");
         downloadPptxBtn.href = `data/reports/${pptxFilename}`;
         downloadPptxBtn.download = pptxFilename;
+        downloadPptxBtn.style.display = "inline-flex";
+        showToolbar = true;
+    }
+
+    if (hasPdf) {
+        const pdfFilename = filename.replace(/\.md$/, ".pdf");
+        downloadPdfBtn.href = `data/reports/${pdfFilename}`;
+        downloadPdfBtn.download = pdfFilename;
+        downloadPdfBtn.style.display = "inline-flex";
+        showToolbar = true;
+    }
+
+    if (showToolbar) {
         toolbar.style.display = "flex";
     }
 }
