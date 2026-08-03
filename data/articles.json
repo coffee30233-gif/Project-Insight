@@ -1,5 +1,68 @@
 [
   {
+    "id": 186,
+    "source_name": "IT之家",
+    "title_zh": "傳索尼擬於《GTA 6》上市前調漲 PS5 主機與配件售價以因應成本上漲",
+    "summary_zh": "據外媒報導，由於零組件生產成本增加、記憶體晶片價格持續上漲，以及缺乏與供應商的長期合約壓力，索尼正研擬在遊戲大作《GTA 6》發售前，調漲全球市場的 PS5 系列主機及配件售價。業界分析指出，索尼期望藉由該款大作的龐大市場影響力來提升硬體獲利，同時降低因漲價對消費需求造成的衝擊。",
+    "category": "供應鏈",
+    "importance": 3,
+    "url": "https://www.ithome.com/0/984/957.htm",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "索尼",
+      "PS5",
+      "GTA 6",
+      "價格調整",
+      "零組件成本"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
+    "id": 185,
+    "source_name": "IT之家",
+    "title_zh": "索尼堅持2028年停產PS實體光碟計劃，反對請願活動熱度減退",
+    "summary_zh": "針對索尼計劃於2028年1月起停止生產PlayStation新遊戲實體光碟，玩家發起的反對請願活動在迅速獲得25萬簽名後熱度急劇下滑。索尼在財報會上表示將謹慎推進該計劃，但並未改變立場。業界如育碧高層也認為數位化已成主流，此轉變對行業影響有限。儘管數位發行存在風險，但單憑請願難以扭轉實體光碟式微的趨勢。",
+    "category": "市場數據",
+    "importance": 3,
+    "url": "https://www.ithome.com/0/984/979.htm",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "PlayStation",
+      "實體光碟",
+      "數位化",
+      "索尼",
+      "遊戲產業"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Ubisoft"
+    ]
+  },
+  {
+    "id": 184,
+    "source_name": "投影時代",
+    "title_zh": "光影為筆，技術為基：巴可工程投影重構 ARTE MUSEUM 沉浸式數位藝術新體驗",
+    "summary_zh": "成都 ARTE MUSEUM 數位藝術館完成升級，導入近百台巴可 G 系列與 UDM 系列工程投影機。巴可發揮色彩精準還原、長效穩定性與全場景適配優勢，有效解決粉色調呈現及長期運作的亮度色差衰減痛點，為五千平方公尺的沉浸式空間打造高品質視覺底座，助力數位藝術場館實現長期經營。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/7/342031172634.shtml",
+    "publish_date": "2026-07-30",
+    "keywords": [
+      "巴可",
+      "工程投影機",
+      "沉浸式投影",
+      "ARTE MUSEUM",
+      "G系列",
+      "UDM系列"
+    ],
+    "mentioned_brands": [
+      "Barco",
+      "d'strict"
+    ]
+  },
+  {
     "id": 157,
     "source_name": "新浪科技",
     "title_zh": "2026年上半年中國智能投影銷量205.6萬台，年減26.0%",
