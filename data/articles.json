@@ -1,5 +1,515 @@
 [
   {
+    "id": 209,
+    "source_name": "IT之家",
+    "title_zh": "索尼2026財年一季報確認已提交收購騰龍提案，加碼E卡口鏡頭生態",
+    "summary_zh": "索尼發布2026財年第一季度財務報告，官方正式確認已提交收購騰龍的提案。在整體影像市場成長放緩的背景下，索尼藉由高階全片幅相機維持獲利，並透過收購長期合作的鏡頭大廠騰龍，旨在深化E卡口鏡頭生態、整合供應鏈並提升整體獲利能力，此舉未來可能對相機鏡頭市場格局產生深遠影響。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.ithome.com/0/984/862.htm",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "索尼",
+      "騰龍",
+      "收購提案",
+      "E卡口",
+      "影像感測器",
+      "財報"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "騰龍",
+      "富士",
+      "尼康",
+      "佳能"
+    ]
+  },
+  {
+    "id": 203,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Anker Nebula X1 無線音訊延遲問題與連接方案探討",
+    "summary_zh": "有用戶購買了 Anker Nebula X1 投影機，並尋求在不使用實體線材的情況下，將聲音無線傳輸至 Soundbar 的解決方案。由於內建藍牙僅支援標準編碼導致嚴重的影音不同步延遲，用戶正在探討其他低延遲的無線音訊傳輸技術與設備搭配可能性。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdlt5f/wireless_audio_from_nebula_x1_to_a_soundbar/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "Nebula X1",
+      "藍牙延遲",
+      "無線音訊",
+      "Soundbar"
+    ],
+    "mentioned_brands": [
+      "Anker",
+      "Nebula",
+      "Sonos",
+      "JBL"
+    ]
+  },
+  {
+    "id": 202,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC NZ700 投影機特惠活動期限與授權經銷商促銷討論",
+    "summary_zh": "有消費者在論壇詢問JVC NZ700高階投影機現行九千美元特價活動的持續時間，並探討向在地實體經銷商購買是否能獲得延長保固等額外贈品，同時考慮透過Crutchfield等通路進行採購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdoiev/how_long_will_the_jvc_nz700_discount_last/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "JVC",
+      "NZ700",
+      "特價",
+      "經銷商",
+      "零售通路"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "Crutchfield"
+    ]
+  },
+  {
+    "id": 201,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "最佳平價投影機推薦詢問",
+    "summary_zh": "有消費者在論壇上尋求目前市場上最佳平價投影機的推薦，主要用途為家庭劇院以及適合家人與小孩觀賞的娛樂使用。由於對投影機規格與性能缺乏深入了解，因此希望獲得專業的選購建議以做出明智的決定。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdq9i3/best_budget_projector/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "平價投影機",
+      "家庭劇院",
+      "選購指南",
+      "Reddit"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 200,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Popcaddie 模擬器使用的投影機型號為何？",
+    "summary_zh": "本篇討論來自 Reddit 論壇，有用戶在尋找高爾夫或其他模擬器品牌 Popcaddie 實際搭配的投影機設備型號。這類單一用戶對於特定商業模擬器硬體規格的詢問，反映出消費者對高擬真模擬環境中投影設備配置的關注，但實質產業影響較低。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdqgve/popcaddie_projector/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "Popcaddie",
+      "模擬器",
+      "投影機型號",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "Popcaddie"
+    ]
+  },
+  {
+    "id": 199,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生EB-2265U投影機畫面尺寸調整請益",
+    "summary_zh": "有用戶在網路論壇發文詢問關於愛普生EB-2265U投影機的安裝設定問題。該使用者目前將設備架設於距離銀幕3.9公尺處，在變焦已調至最大極限的情況下，希望能尋求不移動投影機位置卻能進一步放大投影畫面的可行方法與實際經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdqkeg/epson_2265u/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "Epson EB-2265U",
+      "投影距離",
+      "畫面尺寸",
+      "變焦"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 198,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "在印度阿加爾塔拉尋找實體店面購買抗光幕的可能性",
+    "summary_zh": "有用戶在網路論壇詢問，是否能在印度阿加爾塔拉當地的實體店面購買到投影機專用的抗光幕。這反映出部分地區消費者在尋求專業投影周邊配件時，可能面臨實體通路選擇有限、需轉往線上或遠距採購的地域性痛點。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdr38l/is_it_possible_to_get_an_alr_screen_offline_for/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "抗光幕",
+      "投影機配件",
+      "實體通路",
+      "消費需求"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 197,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Lumio Arc 7 投影機體驗詢問",
+    "summary_zh": "有消費者在網路論壇上發文，尋找位於清奈地區能實際體驗 Lumio Arc 7 投影機的展示點。這反映出消費者在購買該款新機型前，對於實機畫質與效能表現的高度關注，也突顯了實體通路體驗對投影機買家的重要性。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdstnx/lumio_arc_7_review/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "Lumio Arc 7",
+      "投影機體驗",
+      "展示會",
+      "消費者評論"
+    ],
+    "mentioned_brands": [
+      "Lumio"
+    ]
+  },
+  {
+    "id": 196,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算600美元以下的家用投影機推薦詢問",
+    "summary_zh": "有消費者在網路論壇上發文尋求預算在500至600美元之間的優質家用投影機推薦，主要用於約10乘12英尺的專用視聽室。這反映出入門級預算市場對於高性價比家庭劇院設備的持續需求，並提供消費者在選購平價投影機時的討論範例。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdt36l/good_budget_projector_under_600/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "預算投影機",
+      "家用劇院",
+      "入門款",
+      "論壇討論"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 194,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "小米 L1 Pro 白字鬼影與光暈問題探討：正常現象還是瑕疵？",
+    "summary_zh": "有用戶在 Reddit 社群發文詢問關於新款小米 L1 Pro 投影機在顯示白色文字時，周邊出現鬼影與光暈現象是否屬於正常狀況，引發關於產品品質與顯示表現的討論與關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdv9pj/ghosting_halo_around_white_text_on_new_xiaomi_l1/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "小米",
+      "L1 Pro",
+      "鬼影",
+      "光暈",
+      "投影機瑕疵"
+    ],
+    "mentioned_brands": [
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": 193,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "DIY自製RGB三雷射或六DLP投影機的可行性討論",
+    "summary_zh": "針對高階三雷射三DLP投影機價格高昂且僅限商業或頂級家庭劇院使用，社群平台出現討論，探討是否能透過拆解多台平價三雷射DLP投影機零件進行DIY組合，以較低成本實現高端投影效果，引發技術愛好者對自製顯示系統的關注與想像。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdpzul/diy_rgb_laser_3_dlp_or_even_6_dlp_projector/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "DIY投影機",
+      "三雷射",
+      "DLP",
+      "顯示技術"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 192,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求 1,000 至 2,000 美元預算區間的家庭劇院投影機建議",
+    "summary_zh": "一名網友規劃將家中空房間改造成家庭劇院，並已確定採用兩台 Sonos Era 喇叭與 Silver Ticket 投影幕。該網友於 Reddit 社群發文徵求預算介於 1,000 至 2,000 美元之間的高品質投影機推薦，屬單一用戶的家用設備採購諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdwiib/looking_for_projector_in_the_1k_2k_range/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "家庭劇院",
+      "預算選購",
+      "Sonos Era",
+      "Silver Ticket"
+    ],
+    "mentioned_brands": [
+      "Sonos",
+      "Silver Ticket"
+    ]
+  },
+  {
+    "id": 191,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "教堂投影機與螢幕設備選購諮詢",
+    "summary_zh": "有使用者在論壇尋求預算約二千至二千五百加幣的投影機與螢幕組合方案，主要應用於教堂環境。由於投影距離達二十呎且需應對部分較亮的使用場景，對於高流明亮度與大尺寸投影規格有一定需求，反映出非營利及宗教場所對高性價比投影設備的實際採購考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdxlmy/what_can_i_buy/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "教堂投影",
+      "投影機選購",
+      "預算方案",
+      "高流明"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 189,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson TW9400 投影機畫面異常問題求助",
+    "summary_zh": "一位 Reddit 用戶求助其使用四年的 Epson TW9400 投影機出現畫面異常。該設備每日使用，兩年前曾更換過燈泡，但近期開機時畫面突然出現類似「極光」的異常色彩與條紋。此案例反映出高階家庭劇院投影機在長期使用後，可能面臨光學引擎或面板老化等潛在硬體故障問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdyqq7/epson_tw9400_problem/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "Epson TW9400",
+      "畫面異常",
+      "投影機故障",
+      "光學引擎"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 188,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機幕布升級請益：尋找120吋固定框架灰幕",
+    "summary_zh": "一名菲律賓網友發文尋求投影機幕布的升級建議，他目前使用的是在Shopee購入的便宜灰色布幕，希望能找到品質更好的120吋固定框架灰幕，並向亞洲與當地使用者徵求購買管道與推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdzjrm/projector_screens/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "投影機幕布",
+      "120吋",
+      "固定框架幕",
+      "灰幕",
+      "Shopee"
+    ],
+    "mentioned_brands": [
+      "Shopee"
+    ]
+  },
+  {
+    "id": 187,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit 用戶諮詢極米 XGIMI VIBE ONE 與 Elfin Flip 投影機選購建議",
+    "summary_zh": "一名即將獨居的社會新鮮人於 Reddit 發文尋求投影機選購建議。其預算上限為 300 美元，預計用於小坪數公寓的臥室與客廳，主要用途為觀看影音及遊玩 Switch 遊戲。該用戶目前考慮購入 XGIMI VIBE ONE 或 Elfin Flip，並希望設備能耐用 5 年以上，同時詢問此預算下是否有更佳的長效選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1ve08i7/thoughts_on_xigmi_vibe_one/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "微型投影機",
+      "家用投影機",
+      "選購諮詢",
+      "XGIMI Elfin Flip",
+      "低預算"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Temu",
+      "Nintendo"
+    ]
+  },
+  {
+    "id": 186,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "復古投影機——尋求相關資訊",
+    "summary_zh": "一名網友在社群平台 Reddit 發文尋求協助，表示其母親於二手店 Goodwill 購得一台老舊投影機。該網友上傳照片並詢問社群成員，希望能得知該台投影機的預估製造年份、歷史背景，以及目前是否具有收藏或二手市場價值。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vds552/vintage_projector_looking_for_info/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "復古投影機",
+      "二手買賣",
+      "機型鑑定",
+      "Reddit"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 185,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用者實測分享：對TCL Playcube投影機表現印象深刻",
+    "summary_zh": "國外論壇用戶分享了TCL Playcube微型投影機的實際使用心得。即便在未完全黑暗的環境、投影於米色牆面且位置明顯偏心的情況下，該設備的色彩表現、亮度和畫面清晰度依然十分出色，展現出小型機型的高度實用性與優秀畫質。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdsr7a/really_impressed_with_the_tcl_playcube/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "TCL Playcube",
+      "微型投影機",
+      "用戶心得",
+      "畫質表現"
+    ],
+    "mentioned_brands": [
+      "TCL"
+    ]
+  },
+  {
+    "id": 184,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "在275吋超大畫面玩遊戲（Epson 5050 投影機玩家分享）",
+    "summary_zh": "一位投影機愛好者在 Reddit 分享其使用 Epson 5050 的體驗。他在新家寬達 22 英尺的白牆上，投射出約 275 吋（寬 20 英尺）的超大畫面來遊玩射擊遊戲。雖然他平時使用 120 吋的抗光幕，但對於該投影機在如此巨大的投影尺寸下，依然能呈現出令人驚艷的畫質與細節感到相當讚嘆。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1ve16gf/killing_grunts_on_a_275_inch_display_epson_5050/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "Epson 5050",
+      "超大畫面",
+      "遊戲投影",
+      "家用投影機",
+      "玩家體驗"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 207,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於投影機布幕是否能掛在窗簾軌道上的使用者討論",
+    "summary_zh": "有使用者在網路社群詢問，市面上是否有專為窗簾軌道設計的投影幕材質，並探討如何避免懸掛時產生的垂直摺痕。這類實務安裝與周邊應用的探討，主要反映出消費者在居家空間整合投影設備時，對於便利性與畫面平整度的實際需求與常見痛點。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdh101/dumb_question_is_there_any_projector_screen/",
+    "publish_date": "2026-08-02",
+    "keywords": [
+      "投影幕",
+      "窗簾軌道",
+      "居家安裝",
+      "布幕摺痕"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 206,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找合適投影機音響設置的求助貼文",
+    "summary_zh": "本文為來自Reddit投影機討論區的用戶求助貼文，主要探討與尋找適合投影機系統的音響配置方案。這類內容反映了終端消費者在搭建家用投影機劇院時，對於周邊音效設備搭配的需求與實際操作上面臨的問題，屬於個人用戶的使用心得與求助性質。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdd5gx/help_with_finding_right_sound_setup/",
+    "publish_date": "2026-08-02",
+    "keywords": [
+      "音響設置",
+      "家用投影機",
+      "音效配置",
+      "Reddit"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 205,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影幕布升級抉擇：應續用白色幕布還是改用灰色幕布？",
+    "summary_zh": "一名投影機使用者將舊機型升級為明基BenQ w4100i，並搭配120吋的增益1.1白色幕布。由於房間在日間使用時多半保持黑暗，他開始探討在這種觀影環境下，是否應將現有的白色幕布更換為灰色幕布，以進一步提升整體的畫質表現與對比度。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vd0p8e/stay_with_white_screen_or_go_gray/",
+    "publish_date": "2026-08-02",
+    "keywords": [
+      "投影幕布",
+      "白色幕布",
+      "灰色幕布",
+      "畫質提升"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Silver Ticket"
+    ]
+  },
+  {
+    "id": 204,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從Epson TW7000升級：2000歐元預算下亮客廳投影機選購討論",
+    "summary_zh": "本文為使用者在歐洲明亮客廳環境下，尋求將Epson TW7000升級的討論。預算約2000歐元，主要需求包含高亮度以對抗環境光、低輸入延遲與VRR以滿足遊戲需求。入選的潛在機型涵蓋極米Horizon 30 Max與RS30 Ultra、Valerion VisionMaster Pro 2，以及堅果N3與N5系列，引發社群關於亮度與對比度取捨的熱烈討論。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdlfw4/upgrading_from_a_tired_epson_tw7000_save_my/",
+    "publish_date": "2026-08-02",
+    "keywords": [
+      "升級",
+      "客廳投影機",
+      "遊戲延遲",
+      "高亮度",
+      "歐洲市場"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "XGIMI",
+      "Valerion",
+      "JMGO"
+    ]
+  },
+  {
+    "id": 195,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "堅果 N3 Ultimate 與基礎版 N3 的 1500 美元價差是否值得？",
+    "summary_zh": "Reddit 用戶在討論區發文探討，堅果投影機的 N3 Ultimate 旗艦機型，是否值得比基礎版 N3 多出約 1500 美元的溢價。文中並提及基礎版 N3 享有美商好市多通路保固，且額外附贈戶外投影布幕，吸引消費者比較性價比。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdkoon/is_the_jmgo_n3_ultimate_worth_a_1500_premium_over/",
+    "publish_date": "2026-08-02",
+    "keywords": [
+      "JMGO",
+      "N3 Ultimate",
+      "N3",
+      "投影機",
+      "性價比"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "Costco"
+    ]
+  },
+  {
+    "id": 190,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Elfin Flip 4K 投影機深度評測",
+    "summary_zh": "本文為極米XGIMI Elfin Flip 4K可攜式投影機的實測心得。該機定價約一千美元，具備出色的性價比、輕巧便攜性與Google TV智慧系統。畫質清晰且色彩表現良好，但使用者指出其亮度、暗部黑階表現與自動梯形校正功能仍有改善空間，內建哈曼卡頓喇叭表現足夠日常使用，整體獲得不俗評價。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1vdcu1t/another_xgimi_elfin_flip_review/",
+    "publish_date": "2026-08-02",
+    "keywords": [
+      "XGIMI",
+      "Elfin Flip 4K",
+      "可攜式投影機",
+      "Google TV",
+      "開箱評測"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Sony",
+      "LG"
+    ]
+  },
+  {
+    "id": 208,
+    "source_name": "投影時代",
+    "title_zh": "巴可工程投影重構ARTE MUSEUM沉浸式數字藝術新體驗",
+    "summary_zh": "成都ARTE MUSEUM國際數字藝術館全面升級，透過近百台巴可工程投影機組成的技術矩陣，完美演繹全新粉月主題與全球巡展作品。巴可憑藉精準色彩還原、長效穩定運行與全系列產品矩陣優勢，解決了沉浸式場館在長期營運中的光衰與色差痛點，為場館的本土化轉型與長期價值經營奠定堅實的硬體基底。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/7/342031172634.shtml",
+    "publish_date": "2026-07-30",
+    "keywords": [
+      "工程投影機",
+      "沉浸式藝術",
+      "ARTE MUSEUM",
+      "巴可",
+      "色彩還原"
+    ],
+    "mentioned_brands": [
+      "巴可",
+      "Barco"
+    ]
+  },
+  {
     "id": 157,
     "source_name": "新浪科技",
     "title_zh": "2026年上半年中國智能投影銷量205.6萬台，年減26.0%",
