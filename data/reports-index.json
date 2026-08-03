@@ -1,9 +1,70 @@
 {
-  "weekly": [],
+  "weekly": [
+    {
+      "file": "2026-W31.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2026-W30.md",
+      "hasSlides": false,
+      "hasPdf": true
+    }
+  ],
   "monthly": [
     {
       "file": "2026-07.md",
       "hasSlides": true,
+      "hasPdf": false
+    },
+    {
+      "file": "2026-03.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2026-02.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2026-01.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-12.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-11.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-10.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-09.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-08.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-04.md",
+      "hasSlides": false,
+      "hasPdf": false
+    },
+    {
+      "file": "2025-01.md",
+      "hasSlides": false,
       "hasPdf": false
     }
   ],
