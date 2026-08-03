@@ -2,8 +2,8 @@
   "weekly": [
     {
       "file": "2026-W31.md",
-      "hasSlides": false,
-      "hasPdf": false
+      "hasSlides": true,
+      "hasPdf": true
     },
     {
       "file": "2026-W30.md",
