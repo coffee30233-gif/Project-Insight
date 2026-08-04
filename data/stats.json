@@ -1,11 +1,10 @@
 {
-  "total_articles": 61,
-  "total_sources": 30,
+  "total_articles": 57,
+  "total_sources": 29,
   "by_source": {
     "ProjectorReviews": 16,
     "ProjectorCentral": 5,
     "Reddit r/projectors": 4,
-    "IT之家": 4,
     "知乎": 2,
     "流媒体网": 2,
     "新浪科技": 2,
@@ -23,21 +22,21 @@
     "Projector Reviews": 1,
     "OFweek激光网": 1,
     "OFweek显示网": 1,
+    "IT之家": 1,
     "HomeTheaterReview": 1,
     "Hisense USA": 1,
     "GSMGoTech": 1,
     "Epson US": 1,
     "Engadget": 1,
-    "DigiTimes": 1,
     "Commercial Integrator": 1,
     "Blooloop": 1,
     "AVS Forum": 1
   },
   "by_category": {
-    "供應鏈": 4,
-    "市場數據": 11,
+    "供應鏈": 2,
+    "市場數據": 10,
     "技術動態": 6,
-    "新品發布": 40
+    "新品發布": 39
   },
-  "latest_publish_date": "2026-08-03"
+  "latest_publish_date": "2026-07-30"
 }

@@ -1,46 +1,5 @@
 [
   {
-    "id": 186,
-    "source_name": "IT之家",
-    "title_zh": "傳索尼擬於《GTA 6》上市前調漲 PS5 主機與配件售價以因應成本上漲",
-    "summary_zh": "據外媒報導，由於零組件生產成本增加、記憶體晶片價格持續上漲，以及缺乏與供應商的長期合約壓力，索尼正研擬在遊戲大作《GTA 6》發售前，調漲全球市場的 PS5 系列主機及配件售價。業界分析指出，索尼期望藉由該款大作的龐大市場影響力來提升硬體獲利，同時降低因漲價對消費需求造成的衝擊。",
-    "category": "供應鏈",
-    "importance": 3,
-    "url": "https://www.ithome.com/0/984/957.htm",
-    "publish_date": "2026-08-03",
-    "keywords": [
-      "索尼",
-      "PS5",
-      "GTA 6",
-      "價格調整",
-      "零組件成本"
-    ],
-    "mentioned_brands": [
-      "Sony"
-    ]
-  },
-  {
-    "id": 185,
-    "source_name": "IT之家",
-    "title_zh": "索尼堅持2028年停產PS實體光碟計劃，反對請願活動熱度減退",
-    "summary_zh": "針對索尼計劃於2028年1月起停止生產PlayStation新遊戲實體光碟，玩家發起的反對請願活動在迅速獲得25萬簽名後熱度急劇下滑。索尼在財報會上表示將謹慎推進該計劃，但並未改變立場。業界如育碧高層也認為數位化已成主流，此轉變對行業影響有限。儘管數位發行存在風險，但單憑請願難以扭轉實體光碟式微的趨勢。",
-    "category": "市場數據",
-    "importance": 3,
-    "url": "https://www.ithome.com/0/984/979.htm",
-    "publish_date": "2026-08-03",
-    "keywords": [
-      "PlayStation",
-      "實體光碟",
-      "數位化",
-      "索尼",
-      "遊戲產業"
-    ],
-    "mentioned_brands": [
-      "Sony",
-      "Ubisoft"
-    ]
-  },
-  {
     "id": 184,
     "source_name": "投影時代",
     "title_zh": "光影為筆，技術為基：巴可工程投影重構 ARTE MUSEUM 沉浸式數位藝術新體驗",
@@ -85,28 +44,6 @@
       "堅果",
       "Vidda",
       "當貝"
-    ]
-  },
-  {
-    "id": 148,
-    "source_name": "DigiTimes",
-    "title_zh": "蔡司加速擴產以突破艾司摩爾（ASML）EUV 光學元件瓶頸，迎合 AI 晶片熱潮",
-    "summary_zh": "德國蔡司半導體製造技術部門正積極擴大其在當地的生產產能，旨在緩解艾司摩爾（ASML）極紫外光（EUV）微影設備關鍵光學元件的供應瓶頸。隨著人工智慧數據中心投資的爆發性成長，全球對於先進邏輯與記憶體晶片的需求急遽攀升，蔡司此舉將有助於穩定半導體上游關鍵設備的產出，滿足市場對高效能晶片的迫切需求。",
-    "category": "供應鏈",
-    "importance": 4,
-    "url": "https://www.digitimes.com/news/a20260727VL213/euv-asml-optics-germany-production-capacity.html",
-    "publish_date": "2026-07-27",
-    "keywords": [
-      "EUV",
-      "ASML",
-      "蔡司",
-      "半導體供應鏈",
-      "光學元件",
-      "AI晶片"
-    ],
-    "mentioned_brands": [
-      "Zeiss",
-      "ASML"
     ]
   },
   {
@@ -538,28 +475,6 @@
       "JMGO",
       "明基",
       "BenQ"
-    ]
-  },
-  {
-    "id": 31,
-    "source_name": "IT之家",
-    "title_zh": "索尼推廣黑膠唱機遭PS5玩家抗議，實體遊戲片停產政策引發雙標質疑",
-    "summary_zh": "索尼電子在社群平台推廣黑膠唱機，意外引發PlayStation玩家集體抗議。起因於索尼先前宣布將於2028年起停止發行PS5實體遊戲光碟，全面轉向數位版。玩家認為索尼一方面推廣黑膠等實體音樂媒介，另一方面卻剝奪遊戲玩家的實體收藏權益，此舉顯得相當諷刺與雙重標準，進而引發社群輿論風波。",
-    "category": "新品發布",
-    "importance": 2,
-    "url": "https://www.ithome.com/0/981/822.htm",
-    "publish_date": "2026-07-26",
-    "keywords": [
-      "索尼",
-      "PlayStation",
-      "黑膠唱機",
-      "實體光碟",
-      "數位化"
-    ],
-    "mentioned_brands": [
-      "索尼",
-      "Sony",
-      "PlayStation"
     ]
   },
   {
