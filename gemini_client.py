@@ -133,6 +133,23 @@ SYSTEM_PROMPT_A = """\
    5分=具產業指標意義的統計報告/重大技術突破；3分=一般新品發布/常規市場評論；
    1分=小型韌體更新/單一用戶心得。
 5. 若原文非中文，摘要仍需輸出繁體中文，並標註原文語言。
+
+6. 【重要】相關性分類（relevance）：文章常常是因為「標題或內文剛好出現投影機相關
+   關鍵字」而被爬蟲抓進來，但實際內容可能跟投影機產業毫無關係（例如某個也生產
+   投影機的品牌，發布了跟投影機無關的手機/遊戲機新聞）。請務必判斷這篇文章
+   「實際討論的主體」是不是投影機或其產業鏈，從以下四個等級中選一個：
+   - Direct（直接相關）：文章主體就是投影機本身——產品、市場數據、品牌動態、
+     技術規格，圍繞投影機展開。
+   - Indirect（間接相關）：文章不是直接講投影機，但主體是投影機會用到的關鍵
+     技術或零組件（例如光學元件、雷射光源、DLP/LCoS 晶片、顯示面板、色彩技術），
+     對投影機產業有參考價值。
+   - Maybe（可能相關）：跟投影機的關聯很薄弱、間接，難以判斷是否真的有參考價值，
+     需要人工複核（例如某投影機品牌的財報綜合新聞，投影機只是其中一小段）。
+   - Unrelated（無關）：文章主體跟投影機沒有任何實質關聯，只是剛好提到某個
+     「也生產投影機」的品牌名稱，但文章討論的是該品牌的其他產品線或完全不相干
+     的事（例如手機、遊戲機、電視、家電等其他業務新聞）。
+   請在 relevance_reason 用一句話（20-40字）具體說明判斷依據，例如「本文全篇討論
+   PS5主機售價調整，未提及任何投影機產品或技術」。
 """
 
 
@@ -144,6 +161,9 @@ class ArticleAnalysis(BaseModel):
     original_language: str = Field(description="例如 zh-CN, zh-TW, en")
     keywords: List[str]
     mentioned_brands: List[str]
+    relevance: Literal["Direct", "Indirect", "Maybe", "Unrelated"] = Field(
+        description="文章跟投影機產業的相關程度")
+    relevance_reason: str = Field(description="20-40字說明為什麼判斷成這個相關性等級")
 
 
 def process_article(source_name: str, original_title: str, url: str,

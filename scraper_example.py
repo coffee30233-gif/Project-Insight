@@ -137,6 +137,20 @@ def fetch_rss_source(source: dict):
         raw_content = entry.get("summary", title)
         publish_date = _normalize_date(entry.get("published", ""))
 
+        # 嘗試抓縮圖網址（不是每個 RSS 來源都有，抓不到就是 None，不強求）
+        image_url = None
+        media_thumbnail = entry.get("media_thumbnail")
+        media_content = entry.get("media_content")
+        if media_thumbnail:
+            image_url = media_thumbnail[0].get("url")
+        elif media_content:
+            image_url = media_content[0].get("url")
+        else:
+            for link in entry.get("links", []):
+                if link.get("type", "").startswith("image/"):
+                    image_url = link.get("href")
+                    break
+
         already_exists = db.article_exists(url)
         ingest_article(
             source_name=source["name"],
@@ -144,6 +158,7 @@ def fetch_rss_source(source: dict):
             url=url,
             publish_date=publish_date,
             raw_content=raw_content,
+            image_url=image_url,
         )
         if not already_exists:
             processed += 1
@@ -243,6 +258,7 @@ def fetch_html_list_source(source: dict):
             url=url,
             publish_date=detail["publish_date"],
             raw_content=detail["summary"],
+            image_url=detail.get("image_url"),
         )
         if not already_exists:
             processed += 1
@@ -283,6 +299,7 @@ def _fetch_article_meta(url: str, encoding: str) -> dict | None:
         soup.title.get_text(strip=True) if soup.title else ""
     )
     summary = get_meta("description")
+    image_url = get_meta("og:image")
 
     published_raw = (
         get_meta("article:published_time")
@@ -300,6 +317,7 @@ def _fetch_article_meta(url: str, encoding: str) -> dict | None:
         "title": title,
         "summary": summary,
         "publish_date": publish_date,
+        "image_url": image_url or None,
     }
 
 

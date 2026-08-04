@@ -1,8 +1,14 @@
 """
 generate_weekly_report.py
 產生過去 7 天（週一到週日）的投影機產業週報，讀取資料庫裡這段期間內、
-已完成 Gemini 處理的文章彙整而成，並額外畫一張「本週文章分類統計」長條圖
-（跟網站配色一致），供 PDF／簡報使用，讓週報不會只有純文字看起來死板。
+已完成 Gemini 處理的文章彙整而成。
+
+視覺元素的選擇邏輯（避免硬塞一張沒有意義的圖）：
+1. 如果本週文章數量夠多、分類也有變化（>=3 篇、>=2 種分類），才畫「本週文章分類統計」
+   長條圖——資料點太少的長條圖無法傳達任何洞察，直接跳過。
+2. 沒有畫圖表的情況下，改抓本週「重要度最高」且有原始配圖（image_url）的文章，
+   下載那張圖片當作視覺點綴。
+3. 兩者都沒有（資料太少、也沒有文章配圖）就完全不附圖，純文字呈現。
 
 用法：
     python generate_weekly_report.py              # 預設抓「上一個完整的週一到週日」
@@ -10,12 +16,15 @@ generate_weekly_report.py
 
 產出檔案：
     reports/{年}-W{週數}.md          週報內文
-    reports/{年}-W{週數}-chart.png   分類統計圖（文章數為 0 時不會產生）
+    reports/{年}-W{週數}-chart.png   分類統計圖（只有資料夠豐富時才會產生）
+    reports/{年}-W{週數}-image.*     文章原始配圖（只有沒畫圖表、且有配圖可用時才會產生）
 """
 import os
 import sys
 from collections import Counter
 from datetime import date, timedelta
+
+import requests
 
 import db
 import gemini_client
@@ -36,16 +45,24 @@ CATEGORY_COLORS = {
     "供應鏈": "#5FB89C",
 }
 
+# 圖表最少要有這麼多篇文章、且橫跨這麼多種分類，才算「有意義」，否則不畫
+MIN_ARTICLES_FOR_CHART = 3
+MIN_CATEGORIES_FOR_CHART = 2
+
 
 def _monday_of(d: date) -> date:
     return d - timedelta(days=d.weekday())
 
 
-def _draw_category_chart(articles: list[dict], out_path: str) -> bool:
-    """畫本週文章分類統計長條圖，回傳是否有成功產生（沒有文章就不畫）。"""
-    if not articles:
+def _is_chart_meaningful(articles: list[dict]) -> bool:
+    if len(articles) < MIN_ARTICLES_FOR_CHART:
         return False
+    categories = {a["category"] for a in articles if a.get("category")}
+    return len(categories) >= MIN_CATEGORIES_FOR_CHART
 
+
+def _draw_category_chart(articles: list[dict], out_path: str) -> bool:
+    """畫本週文章分類統計長條圖，回傳是否有成功產生。"""
     import matplotlib
     matplotlib.use("Agg")  # 不需要顯示視窗，純輸出檔案
     import matplotlib.pyplot as plt
@@ -86,6 +103,42 @@ def _draw_category_chart(articles: list[dict], out_path: str) -> bool:
     return True
 
 
+def _download_article_image(articles: list[dict], out_path_base: str) -> str | None:
+    """挑本週重要度最高、且有 image_url 的文章，下載它的圖片。成功回傳實際檔案路徑，失敗回傳 None。"""
+    candidates = [a for a in articles if a.get("image_url")]
+    if not candidates:
+        return None
+    candidates.sort(key=lambda a: a.get("importance") or 0, reverse=True)
+
+    for article in candidates:
+        image_url = article["image_url"]
+        try:
+            resp = requests.get(
+                image_url, timeout=10,
+                headers={"User-Agent": "Mozilla/5.0 (compatible; ProjectorMarketBot/1.0)"},
+            )
+            resp.raise_for_status()
+            content_type = resp.headers.get("Content-Type", "")
+            ext = ".jpg"
+            if "png" in content_type:
+                ext = ".png"
+            elif "webp" in content_type:
+                ext = ".webp"
+            elif "gif" in content_type:
+                ext = ".gif"
+
+            out_path = out_path_base + ext
+            with open(out_path, "wb") as f:
+                f.write(resp.content)
+            print(f"已下載文章配圖：{image_url} → {out_path}（來自：{article['title_zh']}）")
+            return out_path
+        except Exception as e:
+            print(f"下載圖片失敗（{image_url}）：{e}，改試下一篇候選文章")
+            continue
+
+    return None
+
+
 def main():
     if len(sys.argv) == 2:
         anchor = date.fromisoformat(sys.argv[1])
@@ -114,13 +167,25 @@ def main():
         f.write(report_md)
     print(f"週報已產出：{out_path}")
 
+    # 先清掉舊圖，避免這次沒產生新圖時，PDF 誤用到上次殘留的舊檔案
     chart_path = os.path.join(REPORTS_DIR, f"{base_name}-chart.png")
-    if _draw_category_chart(articles, chart_path):
-        print(f"分類統計圖已產出：{chart_path}")
+    image_path_base = os.path.join(REPORTS_DIR, f"{base_name}-image")
+    if os.path.exists(chart_path):
+        os.remove(chart_path)
+    for ext in (".jpg", ".png", ".webp", ".gif"):
+        p = image_path_base + ext
+        if os.path.exists(p):
+            os.remove(p)
+
+    if _is_chart_meaningful(articles):
+        _draw_category_chart(articles, chart_path)
+        print(f"分類統計圖已產出：{chart_path}（資料量足夠，適合畫統計圖）")
     else:
-        if os.path.exists(chart_path):
-            os.remove(chart_path)  # 這週沒資料，清掉舊圖避免混用到上週的圖
-        print("這週沒有文章資料，略過畫圖")
+        print(f"本週文章數量不多或分類太單一（未達 {MIN_ARTICLES_FOR_CHART} 篇/"
+              f"{MIN_CATEGORIES_FOR_CHART} 種分類），統計圖沒有意義，改找文章配圖")
+        image_path = _download_article_image(articles, image_path_base)
+        if not image_path:
+            print("這週沒有文章配圖可用，週報維持純文字，不附圖")
 
     return out_path
 

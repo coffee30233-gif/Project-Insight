@@ -38,7 +38,10 @@ CREATE TABLE IF NOT EXISTS articles (
     mentioned_brands TEXT,   -- 存成 JSON 字串陣列
 
     processed_at TEXT,
-    embedding TEXT           -- 存成 JSON 浮點數陣列，供 RAG 向量搜尋使用
+    embedding TEXT,          -- 存成 JSON 浮點數陣列，供 RAG 向量搜尋使用
+    image_url TEXT,          -- 文章代表圖片網址（例如 og:image），抓不到就是 NULL
+    relevance TEXT,          -- Direct / Indirect / Maybe / Unrelated
+    relevance_reason TEXT    -- Gemini 判斷相關性等級的理由
 );
 """
 
@@ -46,7 +49,15 @@ CREATE TABLE IF NOT EXISTS articles (
 # 用 ALTER TABLE 補欄位；欄位已存在時會拋錯，直接忽略即可。
 MIGRATIONS = [
     "ALTER TABLE articles ADD COLUMN embedding TEXT",
+    "ALTER TABLE articles ADD COLUMN image_url TEXT",
+    "ALTER TABLE articles ADD COLUMN relevance TEXT",
+    "ALTER TABLE articles ADD COLUMN relevance_reason TEXT",
 ]
+
+# 查詢文章時預設排除的相關性等級（「無關」文章不進報告、不進 AI 問答，
+# 但仍保留在資料庫裡當作已處理過的記錄，避免爬蟲每次重複處理同一篇浪費額度）。
+# 舊資料（還沒有 relevance 欄位、值是 NULL）視為沒問題，不會被這個過濾條件擋掉。
+EXCLUDED_RELEVANCE = ("Unrelated",)
 
 
 @contextmanager
@@ -77,6 +88,12 @@ def init_db():
                 pass  # 欄位已存在，忽略
 
 
+def _relevance_filter_sql() -> str:
+    """回傳排除「無關」文章的 SQL 條件片段。NULL（舊資料、還沒判斷過）視為沒問題，不會被排除。"""
+    placeholders = ", ".join("?" for _ in EXCLUDED_RELEVANCE)
+    return f"(relevance IS NULL OR relevance NOT IN ({placeholders}))"
+
+
 def article_exists(url: str) -> bool:
     with get_conn() as conn:
         row = conn.execute("SELECT 1 FROM articles WHERE url = ?", (url,)).fetchone()
@@ -84,14 +101,15 @@ def article_exists(url: str) -> bool:
 
 
 def insert_raw_article(source_name: str, original_title: str, url: str,
-                        publish_date: str, raw_content: str) -> int:
+                        publish_date: str, raw_content: str,
+                        image_url: str | None = None) -> int:
     """先寫入未處理的原始文章，回傳 row id。若 url 已存在則回傳既有 id。"""
     with get_conn() as conn:
         cur = conn.execute(
             """INSERT OR IGNORE INTO articles
-               (source_name, original_title, url, publish_date, raw_content)
-               VALUES (?, ?, ?, ?, ?)""",
-            (source_name, original_title, url, publish_date, raw_content),
+               (source_name, original_title, url, publish_date, raw_content, image_url)
+               VALUES (?, ?, ?, ?, ?, ?)""",
+            (source_name, original_title, url, publish_date, raw_content, image_url),
         )
         if cur.lastrowid:
             return cur.lastrowid
@@ -105,7 +123,7 @@ def update_processed_fields(article_id: int, analysis: dict, processed_at: str):
             """UPDATE articles SET
                  title_zh = ?, summary_zh = ?, category = ?, importance = ?,
                  original_language = ?, keywords = ?, mentioned_brands = ?,
-                 processed_at = ?
+                 processed_at = ?, relevance = ?, relevance_reason = ?
                WHERE id = ?""",
             (
                 analysis["title_zh"],
@@ -116,6 +134,8 @@ def update_processed_fields(article_id: int, analysis: dict, processed_at: str):
                 json.dumps(analysis["keywords"], ensure_ascii=False),
                 json.dumps(analysis["mentioned_brands"], ensure_ascii=False),
                 processed_at,
+                analysis.get("relevance"),
+                analysis.get("relevance_reason"),
                 article_id,
             ),
         )
@@ -126,11 +146,12 @@ def get_articles_by_month(year: int, month: int) -> list[dict]:
     prefix = f"{year:04d}-{month:02d}"
     with get_conn() as conn:
         rows = conn.execute(
-            """SELECT source_name, title_zh, summary_zh, category, importance,
-                      url, publish_date, keywords, mentioned_brands
+            f"""SELECT source_name, title_zh, summary_zh, category, importance,
+                      url, publish_date, keywords, mentioned_brands, image_url
                FROM articles
-               WHERE publish_date LIKE ? AND processed_at IS NOT NULL""",
-            (f"{prefix}%",),
+               WHERE publish_date LIKE ? AND processed_at IS NOT NULL
+                     AND {_relevance_filter_sql()}""",
+            (f"{prefix}%", *EXCLUDED_RELEVANCE),
         ).fetchall()
 
     articles = []
@@ -145,6 +166,7 @@ def get_articles_by_month(year: int, month: int) -> list[dict]:
             "publish_date": r["publish_date"],
             "keywords": json.loads(r["keywords"] or "[]"),
             "mentioned_brands": json.loads(r["mentioned_brands"] or "[]"),
+            "image_url": r["image_url"],
         })
     return articles
 
@@ -156,12 +178,13 @@ def get_articles_by_date_range(start_date: str, end_date: str) -> list[dict]:
     """
     with get_conn() as conn:
         rows = conn.execute(
-            """SELECT source_name, title_zh, summary_zh, category, importance,
-                      url, publish_date, keywords, mentioned_brands
+            f"""SELECT source_name, title_zh, summary_zh, category, importance,
+                      url, publish_date, keywords, mentioned_brands, image_url
                FROM articles
                WHERE publish_date >= ? AND publish_date <= ? AND processed_at IS NOT NULL
+                     AND {_relevance_filter_sql()}
                ORDER BY publish_date ASC""",
-            (start_date, end_date),
+            (start_date, end_date, *EXCLUDED_RELEVANCE),
         ).fetchall()
 
     articles = []
@@ -176,6 +199,7 @@ def get_articles_by_date_range(start_date: str, end_date: str) -> list[dict]:
             "publish_date": r["publish_date"],
             "keywords": json.loads(r["keywords"] or "[]"),
             "mentioned_brands": json.loads(r["mentioned_brands"] or "[]"),
+            "image_url": r["image_url"],
         })
     return articles
 
@@ -208,10 +232,11 @@ def get_all_embedded_articles() -> list[dict]:
     """取出所有已產生 embedding 的文章，供 RAG 檢索時載入記憶體做相似度計算。"""
     with get_conn() as conn:
         rows = conn.execute(
-            """SELECT id, source_name, title_zh, summary_zh, category,
+            f"""SELECT id, source_name, title_zh, summary_zh, category,
                       importance, url, publish_date, embedding
                FROM articles
-               WHERE embedding IS NOT NULL"""
+               WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}""",
+            EXCLUDED_RELEVANCE,
         ).fetchall()
 
     articles = []
@@ -235,8 +260,8 @@ def list_articles(source: str | None = None, category: str | None = None,
                    search: str | None = None, page: int = 1,
                    page_size: int = 20) -> dict:
     """給網站前端「最新文章」列表使用，支援來源/分類/年月/關鍵字過濾與分頁。"""
-    conditions = ["processed_at IS NOT NULL"]
-    params: list = []
+    conditions = ["processed_at IS NOT NULL", _relevance_filter_sql()]
+    params: list = list(EXCLUDED_RELEVANCE)
 
     if source:
         conditions.append("source_name = ?")
@@ -294,25 +319,30 @@ def get_dashboard_stats() -> dict:
     """給網站首頁 Hero 區塊用的統計數字。"""
     with get_conn() as conn:
         total = conn.execute(
-            "SELECT COUNT(*) AS c FROM articles WHERE processed_at IS NOT NULL"
+            f"SELECT COUNT(*) AS c FROM articles "
+            f"WHERE processed_at IS NOT NULL AND {_relevance_filter_sql()}",
+            EXCLUDED_RELEVANCE,
         ).fetchone()["c"]
 
         source_rows = conn.execute(
-            """SELECT source_name, COUNT(*) AS c FROM articles
-               WHERE processed_at IS NOT NULL
-               GROUP BY source_name ORDER BY c DESC"""
+            f"""SELECT source_name, COUNT(*) AS c FROM articles
+               WHERE processed_at IS NOT NULL AND {_relevance_filter_sql()}
+               GROUP BY source_name ORDER BY c DESC""",
+            EXCLUDED_RELEVANCE,
         ).fetchall()
 
         category_rows = conn.execute(
-            """SELECT category, COUNT(*) AS c FROM articles
-               WHERE processed_at IS NOT NULL
-               GROUP BY category"""
+            f"""SELECT category, COUNT(*) AS c FROM articles
+               WHERE processed_at IS NOT NULL AND {_relevance_filter_sql()}
+               GROUP BY category""",
+            EXCLUDED_RELEVANCE,
         ).fetchall()
 
         latest = conn.execute(
-            """SELECT publish_date FROM articles
-               WHERE processed_at IS NOT NULL
-               ORDER BY publish_date DESC LIMIT 1"""
+            f"""SELECT publish_date FROM articles
+               WHERE processed_at IS NOT NULL AND {_relevance_filter_sql()}
+               ORDER BY publish_date DESC LIMIT 1""",
+            EXCLUDED_RELEVANCE,
         ).fetchone()
 
     return {
