@@ -1,5 +1,114 @@
 [
   {
+    "id": 198,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "500美元以下最佳多合一投影機推薦？",
+    "summary_zh": "本文為 Reddit 社群上的用戶提問，尋求預算在 500 美元以下最佳的多合一投影機推薦。發文者指出 Epson EpiqVision Flex CO-FH02 雖然畫面表現優異，但內建喇叭音質不佳，因此希望網友能推薦其他在畫質與音效上表現更均衡的平價投影機選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vez9xl/best_500_or_less_all_in_one_projector/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "投影機推薦",
+      "Epson CO-FH02",
+      "平價投影機",
+      "多合一投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 196,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "「請益」家庭影院投影機升級抉擇：二手JVC與新型4K DLP之比較",
+    "summary_zh": "使用 Sony HW45ES 達七年的使用者因燈泡壽命將盡，希望升級至 4K HDR 投影機。在遮光良好的獨立視聽室中，其預算為二手兩千美元或新品三千美元內。目前正猶豫是否僅更換燈泡、購入二手 JVC NX5，抑或選擇 Nebula X1 或 Valerion Pro 2 等新型 DLP 投影機，並將暗部表現與劇院質感列為首要考量。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vevxui/need_help_selecting_my_next_projector/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "4K HDR",
+      "DLP",
+      "LCoS",
+      "JVC NX5",
+      "Nebula X1",
+      "Valerion Pro 2"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "JVC",
+      "Nebula",
+      "Valerion"
+    ]
+  },
+  {
+    "id": 190,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Elfin Flip 4K 隨身投影機數週深度評測",
+    "summary_zh": "本文為極米 XGIMI Elfin Flip 4K 便攜式投影機的深度評測。產品採用可平折設計，具高度便攜性，實測亮度約 1,000 ISO 流明，具備 4K 解析度、三色雷射光源與 1.3 倍光學變焦。內建音效優秀，並提供雙 HDMI 接口。雖然有雷射斑點與彩虹效應等 DLP 常見缺點，但整體影像與音效表現於便攜機型中極具競爭力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1vesab0/xgimi_elfin_flip_4k_several_weeks_in/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "XGIMI",
+      "Elfin Flip 4K",
+      "便攜式投影機",
+      "三色雷射",
+      "4K 投影機"
+    ],
+    "mentioned_brands": [
+      "XGimi",
+      "JVC",
+      "JMGO"
+    ]
+  },
+  {
+    "id": 189,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Elfin Flip 4K 與堅果 N1S 4K 投影機實測對比：色彩與細節表現",
+    "summary_zh": "本文為國外論壇用戶針對極米（XGIMI）Elfin Flip 4K 與堅果（JMGO）N1S 4K（1700 ISO版本）兩款投影機的實測對比。在相同光源與暗室環境下，極米在細節、銳利度與畫面質感上表現較佳，色彩偏暖且飽和度高，視覺效果更具衝擊力；而堅果則在色彩準確度與中性色調上佔優，黑位表現更乾淨，兩者各有優缺點。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1vexmuh/xgimi_elfin_flip_4k_vs_refreshed_jmgo_n1s_4k_1700/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "XGIMI",
+      "JMGO",
+      "Elfin Flip 4K",
+      "N1S 4K",
+      "投影機對比",
+      "畫質測試"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "JMGO"
+    ]
+  },
+  {
+    "id": 188,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 投影機家用劇院實機安裝與使用心得分享",
+    "summary_zh": "本文為國外論壇用戶分享其家庭劇院的升級心得。作者將原有的明基 BenQ HT4550 投影機，替換為全新的極米 Xgimi Titan Noir Max。他指出新投影機在亮度與對比度表現極佳，相較於舊款 DLP 機型的偏灰暗部，極米能呈現純淨的黑色與更鮮豔的色彩，並搭配 135 吋銀幕打造沉浸式影音空間。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1vejtb5/xgimi_titan_noir_max_updated_theater_room_setup/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "Xgimi",
+      "Titan Noir Max",
+      "BenQ HT4550",
+      "家庭劇院",
+      "投影機對比度"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "BenQ",
+      "EliteScreens"
+    ]
+  },
+  {
     "id": 184,
     "source_name": "投影時代",
     "title_zh": "光影為筆，技術為基：巴可工程投影重構 ARTE MUSEUM 沉浸式數位藝術新體驗",

@@ -1,10 +1,10 @@
 {
-  "total_articles": 57,
+  "total_articles": 62,
   "total_sources": 29,
   "by_source": {
     "ProjectorReviews": 16,
+    "Reddit r/projectors": 9,
     "ProjectorCentral": 5,
-    "Reddit r/projectors": 4,
     "知乎": 2,
     "流媒体网": 2,
     "新浪科技": 2,
@@ -35,8 +35,8 @@
   "by_category": {
     "供應鏈": 2,
     "市場數據": 10,
-    "技術動態": 6,
-    "新品發布": 39
+    "技術動態": 8,
+    "新品發布": 42
   },
-  "latest_publish_date": "2026-07-30"
+  "latest_publish_date": "2026-08-04"
 }
