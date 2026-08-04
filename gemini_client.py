@@ -547,3 +547,52 @@ def generate_weekly_report(start_date: str, end_date: str, articles: list[dict])
         ),
     )
     return response.text
+
+
+# ---------------------------------------------------------------------------
+# Prompt F：舊資料回溯相關性分類（backfill_relevance.py 用）
+# 只根據已經存在的標題/摘要判斷，不用重新讀原文，比 process_article 省額度。
+# ---------------------------------------------------------------------------
+
+SYSTEM_PROMPT_F = """\
+你是「投影機產業情報站」的資料品管員。文章常常是因為「標題或內文剛好出現投影機
+相關關鍵字」而被爬蟲抓進資料庫，但實際內容可能跟投影機產業毫無關係（例如某個
+也生產投影機的品牌，發布了跟投影機無關的手機/遊戲機新聞）。
+
+請根據輸入的標題與摘要，判斷這篇文章「實際討論的主體」是不是投影機或其產業鏈，
+從以下四個等級中選一個：
+- Direct（直接相關）：文章主體就是投影機本身——產品、市場數據、品牌動態、
+  技術規格，圍繞投影機展開。
+- Indirect（間接相關）：文章不是直接講投影機，但主體是投影機會用到的關鍵
+  技術或零組件（例如光學元件、雷射光源、DLP/LCoS 晶片、顯示面板、色彩技術），
+  對投影機產業有參考價值。
+- Maybe（可能相關）：跟投影機的關聯很薄弱、間接，難以判斷是否真的有參考價值，
+  需要人工複核。
+- Unrelated（無關）：文章主體跟投影機沒有任何實質關聯，只是剛好提到某個
+  「也生產投影機」的品牌名稱，但討論的是該品牌的其他產品線或完全不相干的事。
+
+請在 reason 用一句話（20-40字）具體說明判斷依據。
+"""
+
+
+class RelevanceClassification(BaseModel):
+    relevance: Literal["Direct", "Indirect", "Maybe", "Unrelated"]
+    reason: str = Field(description="20-40字說明判斷依據")
+
+
+def classify_relevance(title_zh: str, summary_zh: str) -> dict:
+    """只根據標題/摘要判斷相關性，供回溯分類舊資料用，比重新處理整篇文章省額度。"""
+    user_prompt = f"標題：{title_zh}\n摘要：{summary_zh}"
+
+    response = call_gemini(
+        model=FLASH_MODELS,
+        contents=user_prompt,
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT_F,
+            response_mime_type="application/json",
+            response_schema=RelevanceClassification,
+            temperature=0.2,
+        ),
+    )
+    result = RelevanceClassification.model_validate_json(response.text)
+    return result.model_dump()

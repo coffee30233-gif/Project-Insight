@@ -15,6 +15,7 @@ ingest.py
 backfill_last_year.py
 check_data_coverage.py
 import_research_articles.py
+backfill_relevance.py
 generate_monthly_report.py
 generate_semiannual_report.py
 generate_annual_report.py

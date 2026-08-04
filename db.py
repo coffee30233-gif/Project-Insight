@@ -216,6 +216,28 @@ def set_embedding(article_id: int, vector: list[float]):
         )
 
 
+def get_articles_pending_relevance() -> list[dict]:
+    """取出已完成摘要處理、但還沒有相關性分類（舊資料）的文章，供回溯分類使用。"""
+    with get_conn() as conn:
+        rows = conn.execute(
+            """SELECT id, title_zh, summary_zh FROM articles
+               WHERE processed_at IS NOT NULL AND relevance IS NULL"""
+        ).fetchall()
+    return [{"id": r["id"], "title_zh": r["title_zh"], "summary_zh": r["summary_zh"]}
+            for r in rows]
+
+
+def update_relevance(article_id: int, relevance: str, reason: str):
+    with get_conn() as conn:
+        conn.execute(
+            "UPDATE articles SET relevance = ?, relevance_reason = ? WHERE id = ?",
+            (relevance, reason, article_id),
+        )
+        if relevance == "Unrelated":
+            # 無關文章不需要留著 embedding（反正查詢時也會被過濾掉），順便清掉省空間
+            conn.execute("UPDATE articles SET embedding = NULL WHERE id = ?", (article_id,))
+
+
 def get_unembedded_articles(limit: int = 200) -> list[dict]:
     """取出已完成 Gemini 摘要處理、但尚未產生 embedding 的文章。"""
     with get_conn() as conn:
