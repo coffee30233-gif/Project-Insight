@@ -95,15 +95,31 @@ def _relevance_filter_sql() -> str:
 
 
 def article_exists(url: str) -> bool:
+    """
+    判斷這篇文章「是否已經處理成功過」（不是單純「有沒有這筆原始資料」）。
+
+    這點很重要：insert_raw_article() 會在呼叫 Gemini 之前就先把原始文章寫進資料庫，
+    如果 Gemini 處理當下失敗（例如額度不足、503 服務中斷），這筆原始資料還是會留著、
+    但 processed_at 是 NULL。如果這裡只檢查「網址存不存在」，這篇文章就會被永遠當成
+    「已存在」而跳過，變成再也不會被重試的殭屍資料。改成同時檢查 processed_at，
+    失敗的文章下次爬蟲跑到同一個網址時就會被當成「還沒處理過」，重新嘗試。
+    """
     with get_conn() as conn:
-        row = conn.execute("SELECT 1 FROM articles WHERE url = ?", (url,)).fetchone()
+        row = conn.execute(
+            "SELECT 1 FROM articles WHERE url = ? AND processed_at IS NOT NULL",
+            (url,),
+        ).fetchone()
         return row is not None
 
 
 def insert_raw_article(source_name: str, original_title: str, url: str,
                         publish_date: str, raw_content: str,
                         image_url: str | None = None) -> int:
-    """先寫入未處理的原始文章，回傳 row id。若 url 已存在則回傳既有 id。"""
+    """
+    先寫入未處理的原始文章，回傳 row id。若 url 已存在（不論之前有沒有處理成功），
+    一律回傳既有的那筆 row id，不會產生重複資料——這樣上次處理失敗的文章，
+    這次會拿到同一個 id 繼續補跑 Gemini 處理，不會變成兩筆重複記錄。
+    """
     with get_conn() as conn:
         cur = conn.execute(
             """INSERT OR IGNORE INTO articles
