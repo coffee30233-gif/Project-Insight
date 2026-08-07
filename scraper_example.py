@@ -39,9 +39,14 @@ import db
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
 
+# 重要：User-Agent 不要包含 "bot" 這類自報身分的字樣。實測發現 ZOL、洛圖科技（RUNTO）
+# 等網站，對含有 "Bot" 字樣的 User-Agent 會直接回傳空白/精簡版內容（不是報錯，
+# 是「看起來正常但列表是空的」），導致爬蟲「列表頁找到 0 篇文章連結」。改成一般
+# 瀏覽器會送出的 User-Agent 字串後，這幾個網站都能正常抓到內容。
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; ProjectorIntelBot/1.0; "
-                  "+mailto:you@example.com)"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
 # 綜合性來源（非投影機專屬）用這組關鍵字過濾標題，符合其一才送進 ingest，
