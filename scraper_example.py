@@ -17,6 +17,14 @@ scraper_example.py
      meta 標籤（description / og:title / article:published_time）取資料，
      比針對每個網站硬寫正文 CSS class 更耐用。
 
+     重要（2026-08 debug 記錄）：這一類來源原本用「正則表達式直接對整頁
+     HTML 文字找完整網址」的方式取得連結，實測發現多個網站（ZOL、ZNDS、
+     ProjectorCentral）的內部連結其實是用「相對路徑」或「省略協定」寫的
+     （例如 href="/article/123.html" 或 href="//projector.zol.com.cn/..."），
+     不是完整的 https://開頭網址，導致正則表達式完全比對不到、抓到 0 篇。
+     改成用 BeautifulSoup 解析出每個 <a> 標籤，再用 urljoin() 統一轉換成
+     完整網址後才比對規則，不管原始寫法是哪一種都能正確處理。
+
   尚未整合：
     - AVS Forum：對自動化請求直接回 402（疑似機器人偵測/反爬），
       需要換一套抓取策略（例如瀏覽器自動化），這裡先不列入。
@@ -32,6 +40,7 @@ import logging
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 from ingest import ingest_article
 import db
@@ -39,10 +48,7 @@ import db
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
 
-# 重要：User-Agent 不要包含 "bot" 這類自報身分的字樣。實測發現 ZOL、洛圖科技（RUNTO）
-# 等網站，對含有 "Bot" 字樣的 User-Agent 會直接回傳空白/精簡版內容（不是報錯，
-# 是「看起來正常但列表是空的」），導致爬蟲「列表頁找到 0 篇文章連結」。改成一般
-# 瀏覽器會送出的 User-Agent 字串後，這幾個網站都能正常抓到內容。
+# User-Agent 不要包含 "bot" 這類自報身分的字樣，避免被防爬蟲機制針對性擋下。
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -182,17 +188,19 @@ def fetch_rss_source(source: dict):
 HTML_LIST_SOURCES = [
     # ZOL 投影機頻道：列表頁 GBK 編碼，文章網址格式
     # https://projector.zol.com.cn/{目錄}/{文章ID}.html
+    # 注意：站內連結常寫成省略協定的 "//projector.zol.com.cn/..." 格式，
+    # 抓取時一律用 urljoin() 轉成完整網址後再比對規則。
     {
         "name": "ZOL投影機頻道",
         "list_url": "https://projector.zol.com.cn/list.html",
         "encoding": "gbk",
         "link_pattern": r"https://projector\.zol\.com\.cn/\d{3,4}/\d+\.html",
     },
-    # ZNDS資訊：確認有獨立「投影」頻道（news.znds.com，同站也鏡射在
-    # n.znds.com），首頁是綜合內容需要過濾。
+    # ZNDS資訊：原本設定的 list_url 是首頁（一般綜合內容，沒有投影機文章），
+    # 已修正為「投影儀推薦」專題標籤頁，才是真的有投影機相關文章的地方。
     {
         "name": "ZNDS投影頻道",
-        "list_url": "https://news.znds.com/",
+        "list_url": "https://news.znds.com/tag/23662/",
         "encoding": "utf-8",
         "link_pattern": r"https://news\.znds\.com/article(?:/news)?/\d+\.html",
         "filter": True,
@@ -200,28 +208,24 @@ HTML_LIST_SOURCES = [
     # 洛圖科技 (RUNTO)：官網是涵蓋電視、智能鎖、電子紙等多品類的「市場洞察」
     # 綜合入口，不只投影機，需要過濾。文章連結格式：
     # http://runtotech.com/MarketInsights/info_itemid_{id}_lcid_12.html
-    # 由於同一份報告常被 IT之家、ZNDS 等媒體轉載，也可以考慮改成監控搜尋結果
-    # 而不一定要直接爬官網。
     {
         "name": "洛圖科技RUNTO",
         "list_url": "http://runtotech.com/",
         "encoding": "utf-8",
-        "link_pattern": r"http://runtotech\.com/MarketInsights/info_itemid_\d+_lcid_\d+\.html",
+        "link_pattern": r"https?://runtotech\.com/MarketInsights/info_itemid_\d+_lcid_\d+\.html",
         "filter": True,
     },
-    # ProjectorCentral：首頁沒找到公開 RSS 連結，改用新聞列表頁。
+    # ProjectorCentral：首頁沒找到公開 RSS 連結，改用新聞列表頁。站內連結
+    # 常寫成根目錄相對路徑（例如 href="/xxx.htm"），一律用 urljoin() 處理。
     {
         "name": "ProjectorCentral",
         "list_url": "https://www.projectorcentral.com/news-and-articles.cfm",
         "encoding": "utf-8",
         "link_pattern": r"https://www\.projectorcentral\.com/[a-z0-9\-]+\.htm",
     },
-    # ProjectorReviews：確認有維護良好的「Industry News」列表頁，內容更新
-    # 到 2026-07。文章網址是根目錄下的長 slug（如
-    # /epson-enters-the-dvled-market-with-new-le-c1-series-all-in-one-displays/），
-    # 跟導覽列的分類連結（如 /best-4k-projectors/）很像，用「slug 至少 25 字元」
-    # 這個粗略規則過濾掉大部分導覽連結，仍可能偶爾漏進一兩個分類頁，
-    # 但不影響資料正確性，最多就是多一筆內容普通的項目。
+    # ProjectorReviews：確認有維護良好的「Industry News」列表頁。文章網址是
+    # 根目錄下的長 slug，跟導覽列的分類連結很像，用「slug 至少 25 字元」
+    # 這個粗略規則過濾掉大部分導覽連結。
     {
         "name": "ProjectorReviews",
         "list_url": "https://www.projectorreviews.com/industry-news/",
@@ -233,13 +237,39 @@ HTML_LIST_SOURCES = [
 
 def fetch_html_list_source(source: dict):
     logger.info("抓取 HTML 列表來源：%s", source["name"])
-    resp = requests.get(source["list_url"], headers=HEADERS, timeout=15)
-    resp.raise_for_status()
+
+    resp = None
+    last_error = None
+    for attempt in range(2):  # 遇到逾時等暫時性問題，重試一次
+        try:
+            resp = requests.get(source["list_url"], headers=HEADERS, timeout=20)
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            last_error = e
+            logger.warning("抓取列表頁失敗（第 %d 次）：%s", attempt + 1, e)
+            time.sleep(3)
+
+    if resp is None:
+        logger.error("列表頁抓取失敗，放棄這個來源：%s（%s）", source["name"], last_error)
+        return
+
     resp.encoding = source.get("encoding", resp.apparent_encoding)
 
-    # 大部分新聞站的列表頁沒有統一好抓的 class，直接用正則從全頁 HTML 撈
-    # 符合網址格式的連結，再去重，比硬寫 CSS selector 更不容易因版面調整而失效。
-    urls = sorted(set(re.findall(source["link_pattern"], resp.text)))
+    # 用 BeautifulSoup 解析出每個 <a> 標籤，再用 urljoin() 統一轉成完整網址，
+    # 不管原始 href 是完整網址、省略協定（//...）還是相對路徑都能正確處理。
+    # 比原本「直接對整頁 HTML 文字做正則比對」更穩健，不會因為網站用相對路徑
+    # 寫連結就抓不到。
+    soup = BeautifulSoup(resp.text, "html.parser")
+    pattern = re.compile(source["link_pattern"])
+
+    urls = set()
+    for a_tag in soup.find_all("a", href=True):
+        absolute_url = urljoin(source["list_url"], a_tag["href"])
+        if pattern.search(absolute_url):
+            urls.add(absolute_url)
+    urls = sorted(urls)
+
     logger.info("列表頁找到 %d 篇文章連結", len(urls))
 
     need_filter = source.get("filter", False)
