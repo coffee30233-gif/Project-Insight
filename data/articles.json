@@ -1,5 +1,151 @@
 [
   {
+    "id": 506,
+    "source_name": "ProjectorReviews",
+    "title_zh": "2026年最佳超短焦投影機推薦與評選",
+    "summary_zh": "本文針對2026年市場上的超短焦投影機進行綜合評比與推薦，依據價格、畫質表現以及消費者實際需求等核心維度，協助使用者挑選出最適合自身應用的最佳機型。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/best-ultra-short-throw-projectors/",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "超短焦投影機",
+      "2026年推薦",
+      "畫質表現",
+      "市場評比"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 505,
+    "source_name": "ProjectorReviews",
+    "title_zh": "2026年五百美元以下最佳投影機推薦指南",
+    "summary_zh": "本文針對預算有限的消費者，盤點並推薦多款價格在五百美元以下的熱門投影機產品。內容旨在協助用戶在不花大錢的情況下，挑選出畫質與性能表現皆具水準的高性價比機型，全面提昇家庭娛樂的觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/best-projectors-under-500/",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "平價投影機",
+      "500美元以下",
+      "高性價比",
+      "投影機推薦"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 504,
+    "source_name": "ProjectorReviews",
+    "title_zh": "2026年千元美金以下最佳投影機推薦指南",
+    "summary_zh": "本文針對預算有限的消費者，評選並推薦多款售價在1,000美元以下的優質投影機。內容涵蓋適合家庭劇院與商業辦公室等不同應用場景的機型，協助使用者在有限預算內挑選出具備高性價比的投影設備。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/best-projectors-under-1000/",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "投影機推薦",
+      "家用投影機",
+      "商用投影機",
+      "高性價比"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 503,
+    "source_name": "ProjectorReviews",
+    "title_zh": "2026年最佳家庭劇院投影機推薦與評選",
+    "summary_zh": "本文針對尋求頂級家庭劇院體驗的消費者，精選並推薦了2026年度市場上表現優異的家用投影機機種，提供投影機選購時的專業參考與趨勢指南。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/best-home-theater-projectors/",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "家庭劇院",
+      "投影機推薦",
+      "2026投影機"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 502,
+    "source_name": "ProjectorReviews",
+    "title_zh": "最佳電池供電戶外投影機推薦",
+    "summary_zh": "本文評選並推薦多款適合戶外使用的電池供電投影機，解決戶外露營或活動時的電源供應難題。文章針對具備內建電池的可攜式投影機進行比較，為消費者提供能長時間播放、滿足戶外娛樂需求的最佳投影機選購指南。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/best-battery-powered-outdoor-projectors/",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "戶外投影機",
+      "電池供電",
+      "可攜式投影機",
+      "選購指南"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 501,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "思影PH投影機吊架售價119元",
+    "summary_zh": "思影推出PH系列工程投影機吊架，支援一米至四米自由伸縮調節，相容於愛普生、明基、索尼與松下等主流品牌機型，結構穩固且承重力強，適用於家庭劇院與會議室等多元場景。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1228/12287758.html",
+    "publish_date": "2026-08-09",
+    "keywords": [
+      "投影機吊架",
+      "思影PH",
+      "安裝支架",
+      "投影機配件"
+    ],
+    "mentioned_brands": [
+      "思影",
+      "愛普生",
+      "明基",
+      "索尼",
+      "松下"
+    ]
+  },
+  {
+    "id": 500,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "思影 Z06 投影機支架限時優惠，活動價低至 424 元",
+    "summary_zh": "本文介紹思影 Z06 投影機支架的促銷活動。該款支架採用帶輪移動小推車設計，具備櫃式帶鎖功能，除放置投影機外，亦可作為儀器車或電腦印表機工作台。目前在天貓平台進行優惠活動，搭配 88VIP 滿減券後，價格可降至 424 元人民幣，適合有移動投影與收納需求的用戶。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1228/12287685.html",
+    "publish_date": "2026-08-09",
+    "keywords": [
+      "投影機支架",
+      "思影 Z06",
+      "移動推車",
+      "天貓優惠",
+      "投影機配件"
+    ],
+    "mentioned_brands": [
+      "思影"
+    ]
+  },
+  {
+    "id": 499,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "堅果投影儀X型雲台支架促銷，特價254元起",
+    "summary_zh": "堅果投影儀推出X型雲台吊頂支架，主打水平吊裝高度可調、隱藏式走線及穩固耐用等特色，適合客廳家用環境。近期該支架於電商平台推出優惠活動，配合消費券折扣後入手價格為254元，提供消費者更具性價比的投影機周邊安裝配件選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1228/12286359.html",
+    "publish_date": "2026-08-09",
+    "keywords": [
+      "堅果投影儀",
+      "雲台支架",
+      "吊頂支架",
+      "配件促銷"
+    ],
+    "mentioned_brands": [
+      "堅果"
+    ]
+  },
+  {
     "id": 484,
     "source_name": "ProjectorCentral",
     "title_zh": "2026年十大大型場地投影機推薦",
@@ -2258,6 +2404,1417 @@
     "mentioned_brands": []
   },
   {
+    "id": 145,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Yaber 於 CES 2025 展出 K300S、K3 與 K3 Pro 投影機",
+    "summary_zh": "知名投影機品牌 Yaber 在 CES 2025 大展中，首度公開展示旗下全新的 K300S、K3 以及 K3 Pro 三款重點投影機。這些新機型搭載了前瞻性的創新功能與規格，旨在為使用者帶來更為升級的家庭劇院觀影體驗，備受市場關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/yaber-at-ces-2025-a-look-at-the-k300s-and-k3-k3-pro-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Yaber",
+      "CES 2025",
+      "K300S",
+      "K3",
+      "K3 Pro",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "Yaber"
+    ]
+  },
+  {
+    "id": 144,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米科技發表 Titan Noir Max 4K 投影機",
+    "summary_zh": "極米科技於2026年CES展會中正式亮相全新的Titan Noir Max 4K投影機，該機種主打動態光圈對比技術、升級的光學鏡頭以及強化的雷射光源功率，旨在為家庭劇院用戶提供更為豐富且具沉浸感的頂級觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/xgimi-unveils-the-titan-noir-max-4k-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "極米科技",
+      "Titan Noir Max",
+      "4K投影機",
+      "雷射光源",
+      "動態光圈"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 143,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米將於CES 2023展示配備升級版智慧螢幕適應技術的新款MoGo 2 Pro投影機",
+    "summary_zh": "極米科技計畫在CES展會中，首度公開展示全新可攜式投影機MoGo 2 Pro。該機型最大亮點為搭載了品牌最新研發的升級版智慧螢幕適應技術2.0，旨在為便攜式投影設備帶來更為便捷與智慧化的自動校正與畫面調整體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/xgimi-to-show-new-mogo-2-pro-projector-at-ces2023-featuring-upgraded-intelligent-screen-adaptation-technology/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "極米",
+      "MoGo 2 Pro",
+      "CES 2023",
+      "智慧螢幕適應技術",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 142,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米科技智慧投影機備受科技媒體與Android社群關注",
+    "summary_zh": "近期極米科技推出的搭載Android系統之智慧投影機產品，在各大科技媒體與Android粉絲網站中獲得了相當高的關注度與討論聲量，顯示其智慧投影機在市場上的受歡迎程度持續攀升。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/xgimi-is-getting-a-lot-of-attention-from-android-fan-sites-and-technology-media-for-their-android-powered-smart-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "極米",
+      "智慧投影機",
+      "Android系統"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 141,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米推出 AURA 4K 超短焦雷射投影機",
+    "summary_zh": "知名投影機品牌極米推出全新 AURA 4K 超短焦雷射投影機，建議售價為 2499 美元。該產品主打以親民的價格提供優異的影像表現與高解析度畫質，鎖定追求高性價比的家庭劇院市場，為消費者帶來全新的大畫面視聽選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/xgimi-introduces-their-first-4k-ultra-short-throw-laser-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "極米",
+      "AURA",
+      "4K投影機",
+      "超短焦",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 140,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米科技於IFA 2024發表多款全新投影機陣容",
+    "summary_zh": "極米科技在IFA 2024展會中，正式公開其最新一代的投影機產品系列，包含主打可攜帶性的MoGo 3 Pro、設計創新的Elfin Flip、旗艦級的AURA 2，以及效能強悍的HORIZON S系列等機型。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/xgimi-introduces-new-projectors-mogo-3-pro-elfin-flip-aura-2-horizon-s-pro-and-horizon-s-max/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "極米科技",
+      "IFA 2024",
+      "MoGo 3 Pro",
+      "Elfin Flip",
+      "AURA 2",
+      "HORIZON S"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 139,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米科技推出 Aladdin 與 HORIZON Max 投影機",
+    "summary_zh": "極米科技發表了兩款備受矚目的創新投影機產品。其中 Aladdin 採用強調居家生活風格的獨特設計，而 HORIZON Max 更獲得了 IMAX Enhanced 認證，展現品牌在智慧投影機市場的技術實力與多元化佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/xgimi-introduces-aladdin-and-horizon-max-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "極米",
+      "Aladdin",
+      "HORIZON Max",
+      "智慧投影機",
+      "IMAX Enhanced"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 138,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Wemax Go Advanced：全球首款專為商務設計的超便攜1080P雷射投影機",
+    "summary_zh": "Wemax推出了全新的Go Advanced便攜式雷射投影機，主打超輕薄設計並結合多項先進顯示技術，能提供媲美電影院畫質的1080P高畫質影像，是專為商務人士打造的高效行動投影解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/wemax-go-advanced-the-worlds-first-ultra-portable-1080p-laser-projector-designed-for-business/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Wemax",
+      "Go Advanced",
+      "便攜投影機",
+      "雷射投影機",
+      "1080P"
+    ],
+    "mentioned_brands": [
+      "Wemax"
+    ]
+  },
+  {
+    "id": 137,
+    "source_name": "ProjectorReviews",
+    "title_zh": "優派推出全新 M1 Pro 投影機，具備 360 度投射與靈活智慧支架",
+    "summary_zh": "優派發表全新 M1 Pro 投影機，主打 720p HD 畫質與 360 度全方位投影能力。該產品配備靈活的智慧支架，能適應各種角度的擺放需求，並結合高品質的劇院級音效，提供便利且沉浸的行動觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/viewsonics-new-m1-pro-projects-in-360-degrees-with-a-flexible-smart-stand/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "ViewSonic",
+      "M1 Pro",
+      "LED投影機",
+      "智慧支架",
+      "720p"
+    ],
+    "mentioned_brands": [
+      "ViewSonic"
+    ]
+  },
+  {
+    "id": 136,
+    "source_name": "ProjectorReviews",
+    "title_zh": "ViewSonic推出兩款全新無燈泡安裝投影機",
+    "summary_zh": "ViewSonic優派發表了LS831WU超短焦雷射投影機以及LS600W LED投影機，這兩款無燈泡設計的新機型主要針對大型安裝市場與數位看板應用所開發，強調高耐用度與彈性部署能力，進一步擴展其商用投影產品線。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/viewsonic-launches-two-new-lamp-free-installation-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "ViewSonic",
+      "無燈泡投影機",
+      "雷射投影機",
+      "LED投影機",
+      "超短焦"
+    ],
+    "mentioned_brands": [
+      "ViewSonic"
+    ]
+  },
+  {
+    "id": 135,
+    "source_name": "ProjectorReviews",
+    "title_zh": "優派推出 X1 與 X2 LED 智慧家用劇院投影機",
+    "summary_zh": "優派（ViewSonic）正式發表全新 X1 與 X2 LED 智慧家用劇院投影機，主打高畫質與智慧功能。本文探討這兩款新機的規格配置，並將其價格與市面上同級競爭機種進行對比，提供消費者選購時的參考依據。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/viewsonic-launches-the-x1-and-x2-led-smart-home-theater-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "ViewSonic",
+      "LED投影機",
+      "智慧投影機",
+      "家用劇院",
+      "X1",
+      "X2"
+    ],
+    "mentioned_brands": [
+      "ViewSonic"
+    ]
+  },
+  {
+    "id": 134,
+    "source_name": "ProjectorReviews",
+    "title_zh": "優派推出採用第三代LED技術的新款會議與教育投影機",
+    "summary_zh": "優派（ViewSonic）近期發表全新LED投影機系列，主打採用第三代LED光源技術。這些新機型專為會議室與教育學習空間設計，不僅具備更高的亮度表現，同時在產品使用壽命與環保永續性方面也有顯著提升。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/viewsonic-introduces-new-led-projectors-with-3rd-generation-led-technology-for-meeting-and-learning-spaces/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "ViewSonic",
+      "LED投影機",
+      "第三代LED技術",
+      "教育投影機",
+      "會議室投影"
+    ],
+    "mentioned_brands": [
+      "ViewSonic"
+    ]
+  },
+  {
+    "id": 133,
+    "source_name": "ProjectorReviews",
+    "title_zh": "VAVA推出全新三雷射ALPD 4.0家庭劇院投影機",
+    "summary_zh": "知名投影機品牌VAVA正式發表全新升級的Chroma 4K超短焦家庭劇院投影機。該產品搭載先進的三雷射光源與ALPD 4.0技術，被定位為VAVA迄今性能最強大且最先進的超短焦旗艦投影機，預期將為家庭劇院市場帶來更卓越的色彩表現與觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/vava-introduces-new-triple-laser-alpd-4-0-home-theater-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "VAVA",
+      "超短焦投影機",
+      "三雷射",
+      "ALPD 4.0",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "VAVA"
+    ]
+  },
+  {
+    "id": 132,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Value Electronics 2022 投影機對決活動總結",
+    "summary_zh": "本文報導了 Value Electronics 舉辦的 2022 年度投影機正面對決評測活動總結。活動邀請多款主流投影機進行同場競技，透過專業評比與交叉測試，全面評選出各個項目中表現最佳的機型，為消費者與業界提供重要的選購參考依據。",
+    "category": "市場數據",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/value-electronics-2022-projector-shootout-event/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "投影機評測",
+      "Value Electronics",
+      "投影機對決",
+      "畫質比較"
+    ],
+    "mentioned_brands": [
+      "Value Electronics"
+    ]
+  },
+  {
+    "id": 131,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Value Electronics 2022 投影機大對決：活動概述與結果",
+    "summary_zh": "本文報導了 Value Electronics 舉辦的 2022 年度投影機實測評比活動，多款主流投影機在活動中進行正面交鋒與綜合表現評比，最終評選出各個項目的最佳機型，提供消費者專業且具參考價值的評測結果與活動總結。",
+    "category": "市場數據",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/value-electronics-2022-projector-shoot-out-event-overview-and-results/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "投影機評比",
+      "Value Electronics",
+      "投影機大對決",
+      "機型評測"
+    ],
+    "mentioned_brands": [
+      "Value Electronics"
+    ]
+  },
+  {
+    "id": 130,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Valerion 於 CES 2025 展示 VisionMaster 投影機系列",
+    "summary_zh": "Valerion 在 2025 年消費電子展（CES）中，正式亮相其全新 VisionMaster 投影機系列產品。此系列搭載前瞻性的投影技術，旨在為家庭娛樂市場帶來革命性的視覺體驗，吸引眾多產業目光與消費者期待。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/valerion-showcases-their-visionmaster-lineup-at-ces-2025/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Valerion",
+      "VisionMaster",
+      "CES 2025",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ]
+  },
+  {
+    "id": 129,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Valerion 發布 VisionMaster 系列投影機",
+    "summary_zh": "Valerion 近期正式宣布推出全新 VisionMaster 系列投影機，主打搭載尖端顯示技術與強大的影像處理能力，旨在為用戶帶來卓越清晰的視覺體驗，展現品牌在投影創新領域的最新佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/valerion-announces-the-visionmaster-series/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Valerion",
+      "VisionMaster",
+      "新品發布",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ]
+  },
+  {
+    "id": 128,
+    "source_name": "ProjectorReviews",
+    "title_zh": "NexiGo TriVision Ultra 投影機搭載 ALPD 5.0 與杜比視界",
+    "summary_zh": "NexiGo 於展會中推出全新 TriVision Ultra 智慧 4K DLP 雷射投影機，採用先進的 ALPD 5.0 混合式 LED 與雷射光源技術，並支援杜比視界及內建音響，旨在重新定義現代居家生活風格的投影設備。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/the-nexigo-trivision-ultra-features-an-alpd-5-0-hybrid-led-laser-light-source-and-dolby-vision/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "NexiGo",
+      "TriVision Ultra",
+      "4K投影機",
+      "DLP",
+      "雷射光源",
+      "ALPD 5.0"
+    ],
+    "mentioned_brands": [
+      "NexiGo"
+    ]
+  },
+  {
+    "id": 127,
+    "source_name": "ProjectorReviews",
+    "title_zh": "TCL發布PlayCube便攜式投影機",
+    "summary_zh": "知名品牌TCL正式推出全新的PlayCube便攜式投影機，主打輕巧機身與多元應用場景，旨在滿足行動娛樂市場的需求。本文為讀者初步整理該款新機的核心特色、功能亮點以及市場定價等相關資訊。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/tcl-announces-the-playcube-portable-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "TCL",
+      "PlayCube",
+      "便攜式投影機",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "TCL"
+    ]
+  },
+  {
+    "id": 126,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Sony 專業部門推出 VPL-GTZ380 雷射 10,000 流明 4K SXRD 投影機",
+    "summary_zh": "Sony 針對喜愛 VPL-GTZ 系列畫質與靈活性但追求更高亮度的市場需求，正式發表全新 VPL-GTZ380 旗艦投影機。該款新機搭載高達 10,000 流明的雷射光源，並結合 4K SXRD 顯示技術，提供卓越的效能與影像表現，滿足高階專業應用市場的嚴苛要求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/sony-professional-introduces-vpl-gtz380-4k-sxrd-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Sony",
+      "VPL-GTZ380",
+      "4K",
+      "SXRD",
+      "雷射投影機",
+      "10000流明"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
+    "id": 125,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Sony 推出 BRAVIA Projector 7 (VPL-XW5100ES) 家用投影機",
+    "summary_zh": "Sony 正式發表全新 BRAVIA Projector 7 (VPL-XW5100ES) 4K 家用投影機。該機款採用 SXRD 顯示技術，並搭載升級的亮度表現、先進的 XR 影像處理引擎，以及更出色的遊戲效能，提供高階家庭劇院更全面的視听與娛樂體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/sony-launches-the-bravia-projector-7-vpl-xw5100es/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Sony",
+      "BRAVIA Projector 7",
+      "VPL-XW5100ES",
+      "4K投影機",
+      "SXRD"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
+    "id": 124,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Sony 推出 VPL-FHZ80 與 VPL-FHZ85 工程安裝級投影機",
+    "summary_zh": "Sony 官方近日發表全新 VPL-FHZ80 與 VPL-FHZ85 兩款高階工程安裝級投影機。本文深入探討這兩款新機型在市場上的獨特定位、核心技術差異，並提供詳細的官方建議售價以及預計上市日期等重要資訊。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/sony-introduces-the-vpl-fhz80-and-vpl-fhz85-installation-class-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Sony",
+      "VPL-FHZ80",
+      "VPL-FHZ85",
+      "工程投影機",
+      "新品上市"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
+    "id": 123,
+    "source_name": "ProjectorReviews",
+    "title_zh": "三星The Premiere 8K投影機：首款獲8K協會認證的投影設備",
+    "summary_zh": "三星推出的The Premiere 8K成為全球首款獲得8K協會認證的投影機產品，象徵超高畫質投影技術的重要里程碑。該機型結合了尖端顯示技術，旨在為消費者帶來更具沉浸感的頂級家庭劇院視覺體驗。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/samsung-the-premiere-8k-the-first-8k-association-certified-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Samsung",
+      "The Premiere 8K",
+      "8K Association",
+      "投影機",
+      "認證"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": 122,
+    "source_name": "ProjectorReviews",
+    "title_zh": "三星推出第二代雷射投影機：The Premiere LPU9D 與 LPU7D",
+    "summary_zh": "三星正式發表第二代超短焦雷射投影機新品 Premiere 9 與 Premiere 7。這兩款新機主打可提供出色的 4K 畫質體驗，並結合先進的雷射光源技術與智慧功能，旨在為家庭用戶帶來更具沉浸感的視聽享受。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/samsung-introduces-2nd-generation-premiere-9-and-premiere-7-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "三星",
+      "雷射投影機",
+      "超短焦",
+      "4K",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": 121,
+    "source_name": "ProjectorReviews",
+    "title_zh": "三星 The Freestyle：可攜式投影機的瑞士刀",
+    "summary_zh": "本文介紹三星推出的 The Freestyle 獨特可攜式投影機，強調其多功能與便利性，並為有購買需求的消費者提供選購參考與實用建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/samsung-freestyle-the-swiss-army-knife-of-portable-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "可攜式投影機",
+      "三星",
+      "The Freestyle"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": 120,
+    "source_name": "ProjectorReviews",
+    "title_zh": "三星推出Freestyle+可攜式投影機，具備更高亮度與智慧自動化功能",
+    "summary_zh": "三星發表全新Freestyle+可攜式投影機，主打亮度提升至430 ISO流明，並搭載AI OptiScreen自動調整功能，提供更便利的設定流程與優異的觀影體驗，展現品牌在智慧微型投影市場的持續創新。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/samsung-freestyle-plus-offers-higher-brightness-and-smarter-automation-than-previous-models/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "三星",
+      "Freestyle+",
+      "可攜式投影機",
+      "AI OptiScreen",
+      "微型投影機"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": 119,
+    "source_name": "ProjectorReviews",
+    "title_zh": "三星開始出貨 LSP9T 與 LSP7T 超短焦 4K 雷射投影機",
+    "summary_zh": "三星正式宣布開始出貨其旗下的超短焦 4K 雷射投影機 LSP9T 與 LSP7T。這兩款高階機種屬於三星生活風格系列家庭娛樂產品的一部分，主打現代美學與頂級視聽體驗，為家用投影市場帶來全新的高畫質選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/samsung-announces-new-ultra-short-throw-4k-laser-projectors-lsp9t-and-lsp7t/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "三星",
+      "超短焦投影機",
+      "4K雷射投影機",
+      "LSP9T",
+      "LSP7T"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ]
+  },
+  {
+    "id": 118,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Panasonic 發表 2020 年全新教育與工程投影機系列",
+    "summary_zh": "Panasonic 近期推出四大全新投影機系列，其中兩款專為商務與教育課堂應用設計，另外兩款則鎖定大型展演等高亮度、高畫質與高可靠度需求的專業工程市場，全面滿足各領域的投影需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/panasonic-announces-new-2020-education-and-installation-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Panasonic",
+      "教育投影機",
+      "工程投影機",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "Panasonic"
+    ]
+  },
+  {
+    "id": 117,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼ZW350e投影機主打輕巧機身與高效能表現",
+    "summary_zh": "奧圖碼推出全新ZW350e投影機，專為會議室與公司董事會等商務空間設計。該機型結合了輕巧緊湊的機身外型，並具備高畫質與高效能表現，同時內建RS232連線功能，為企業用戶帶來極佳的安裝與操作便利性。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-zw350e-delivers-high-performance-from-a-lightweight-compact-package/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "ZW350e",
+      "商務投影機",
+      "會議室",
+      "輕巧設計"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 116,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼發表新一代超短焦投影機 CinemaX P2",
+    "summary_zh": "知名投影機品牌Optoma奧圖碼正式推出新一代超短焦投影機CinemaX P2。該款新機承接前一代獲獎無數的CinemaX P1，並針對市場客戶的實際使用回饋進行了全面升級與改良，展現出品牌在家庭劇院短焦投影市場的持續創新動態。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-unveils-its-next-generation-ultra-short-throw-projector-the-cinemax-p2/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "CinemaX P2",
+      "超短焦投影機",
+      "奧圖碼",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "奧圖碼"
+    ]
+  },
+  {
+    "id": 115,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出ZX300與ZW350平價企業與教育用雷射投影機",
+    "summary_zh": "奧圖碼針對中小學教室、企業辦公室及中小型場地，推出兩款全新輕巧的XGA與WXGA雷射投影機ZX300及ZW350，主打高性價比與商教應用市場。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-launches-zx300-and-zw350-affordable-corporate-and-education-laser-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "ZX300",
+      "ZW350",
+      "雷射投影機",
+      "商教投影"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 114,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出 4K UHD 短焦遊戲投影機 GT2160HDR",
+    "summary_zh": "知名投影機品牌奧圖碼發表全新 4K UHD 短焦遊戲投影機 GT2160HDR，主打高解析度與短焦投影優勢，專為遊戲玩家群體打造，能提供流暢的大畫面沈浸式遊戲體驗，滿足現代玩家對家庭娛樂畫質的高標準需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-launches-4k-uhd-short-throw-gaming-projector-gt2160hdr/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "GT2160HDR",
+      "4K UHD",
+      "短焦投影機",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 113,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出 ZU920T 與 ZU920TST 高亮度商用投影機",
+    "summary_zh": "奧圖碼近日發表全新高亮度商用投影機系列，包含 ZU920T 與 ZU920TST 兩款型號。官方表示，這兩款新機具備極高的亮度表現，能完美適用於各種尺寸的辦公室環境，滿足企業用戶在簡報與會議空間上的多元投影需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-introduces-the-zu920t-and-zu920tst-high-brightness-business-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "ZU920T",
+      "ZU920TST",
+      "商用投影機",
+      "高亮度"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 112,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出UHD55 4K UHD遊戲與家庭娛樂投影機",
+    "summary_zh": "奧圖碼最新推出的UHD55 4K UHD投影機專為遊戲與家庭娛樂打造，具備出色的色彩表現與畫面銳利度，能提供令人驚豔且充滿活力的視覺體驗，滿足家庭劇院與電玩玩家的高畫質需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-introduces-the-uhd55-4k-uhd-gaming-and-home-entertainment-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "UHD55",
+      "4K UHD",
+      "家庭娛樂",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 111,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出 HCPro-4400 4K 雙雷射高亮度投影機支援杜比視界",
+    "summary_zh": "奧圖碼發表全新 HCPro-4400 家用劇院投影機，具備 5000 流明高亮度與 4K 解析度，採用雙雷射光源技術，並支援 Dolby Vision、HDR10+、95% DCI-P3 廣色域及導演模式，專為頂級家庭劇院市場所設計。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-introduces-the-hcpro-4400-a-high-brightness-4k-uhd-dual-laser-projector-with-dolby-vision/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "HCPro-4400",
+      "4K投影機",
+      "雙雷射光源",
+      "Dolby Vision"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 110,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼擴大CinemaX產品線推出CinemaX D2系列超短焦雷射投影機",
+    "summary_zh": "奧圖碼近日宣布擴展其獲獎無數的CinemaX系列，正式推出全新CinemaX D2系列超短焦雷射投影機。此系列新機型主打4K高畫質與超短焦投影技術，為家庭劇院市場帶來更具彈性且高階的視聽選擇，滿足現代家庭對大螢幕沉浸式娛樂的需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-expands-cinemax-line-with-cinemax-d2-series-ust-laser-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "CinemaX D2",
+      "超短焦投影機",
+      "雷射投影機",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 109,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出 UHD35STx 短焦 4K 家用遊戲投影機",
+    "summary_zh": "奧圖碼正式發表全新的 UHD35STx 短焦 4K 家用投影機，主打專為遊戲娛樂市場所設計的功能，提供短焦投影優勢，滿足玩家在有限空間內享有大畫面與高畫質的需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-debuts-short-throw-4k-home-gaming-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "UHD35STx",
+      "短焦投影機",
+      "4K投影機",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 108,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼發布 ZW350ST 與 ZH350ST 輕巧商用雷射投影機",
+    "summary_zh": "奧圖碼正式推出全新 ZW350ST 與 ZH350ST 兩款輕巧型商用雷射投影機。該系列產品主打卓越的影像品質、靈活的安裝選項以及豐富的連線功能，非常適合應用於各式企業辦公與商務會議環境中。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/optoma-announces-the-zw350st-and-zh350st-compact-business-laser-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "奧圖碼",
+      "商用投影機",
+      "雷射投影機",
+      "ZW350ST",
+      "ZH350ST"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "奧圖碼"
+    ]
+  },
+  {
+    "id": 107,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信推出120吋L5F系列雷射電視",
+    "summary_zh": "海信正式宣布推出全新的120吋L5F系列雷射劇院投影機，旨在為用戶帶來創新的家庭劇院觀影體驗。這款新產品主打超大畫面與雷射光源技術，為消費者提供極具沉浸感的高畫質視覺享受。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/now-available-hisense-announces-120-l5f-series-laser-cinema/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "雷射電視",
+      "超短焦投影機",
+      "120吋"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 106,
+    "source_name": "ProjectorReviews",
+    "title_zh": "新一代 Epson EpiqVision Ultra LS800 4K 智慧雷射投影機評測",
+    "summary_zh": "Epson推出新一代EpiqVision Ultra LS800超短焦雷射投影機，主打4K高畫質與強大的智慧串流功能，旨在為使用者帶來震撼且身臨其境的頂級視覺體驗，延續其在家庭劇院市場的強勢布局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/next-gen-epson-epiqvision-ultra-ls800-4k-pro-uhd-ust-smart-streaming-laser-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "LS800",
+      "超短焦投影機",
+      "4K雷射投影機",
+      "智慧串流"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 105,
+    "source_name": "ProjectorReviews",
+    "title_zh": "NexiGo 於 CES 2025 發表多款全新投影機產品",
+    "summary_zh": "知名品牌 NexiGo 在 CES 2025 大展中正式亮相多款全新投影機陣容。這些新機型搭載了前瞻性的創新技術與頂尖規格，旨在全面革新家庭娛樂與專業投影領域的使用體驗，展現品牌在投影市場的積極佈局與技術實力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/nexigo-unveils-several-new-projectors-at-ces-2025/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "NexiGo",
+      "CES 2025",
+      "家用投影機",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "NexiGo"
+    ]
+  },
+  {
+    "id": 104,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC投影機推出全新劇院優化功能，進一步提升HDR影像表現",
+    "summary_zh": "JVC將全新的智慧型劇院優化功能，與其旗艦級的Frame Adapt HDR原生4K及8K e-shift家用投影機技術相結合，旨在進一步優化並提升高動態範圍影像的色彩與細節表現，為使用者帶來更為出色的家庭劇院觀影體驗。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/new-theater-optimizer-feature-further-improves-hdr-reproduction-of-jvc-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "Theater Optimizer",
+      "HDR",
+      "4K",
+      "8K e-shift",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 103,
+    "source_name": "ProjectorReviews",
+    "title_zh": "奧圖碼推出全新 UHZ50 4K 雷射 DLP 投影機具備 3000 流明與高速遊戲模式",
+    "summary_zh": "奧圖碼發表全新 UHZ50 4K 雷射 DLP 投影機，具備 3000 流明高亮度，並主打針對遊戲玩家設計的高速遊戲模式，預期將在投影機市場中引發熱烈討論，展現品牌在家庭娛樂與電競投影領域的最新佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/new-optoma-uhz50-4k-laser-dlp-projector-with-3000-lumens-and-high-speed-gaming-mode/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Optoma",
+      "UHZ50",
+      "4K投影機",
+      "雷射光源",
+      "DLP",
+      "遊戲模式"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 102,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Nebula推出搭載杜比視界的Cosmos 4K SE智慧便攜投影機",
+    "summary_zh": "Nebula正式發表全新Cosmos 4K SE智慧便攜投影機，主打支援杜比視界（Dolby Vision）技術，旨在為消費者提供高水準的影像視覺體驗與極佳的使用便利性，擴展其智慧投影機產品線陣容。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/nebula-launches-the-cosmos-4k-se-a-smart-portable-projector-equipped-with-dolby-vision/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Nebula",
+      "Cosmos 4K SE",
+      "智慧投影機",
+      "杜比視界",
+      "便攜投影機"
+    ],
+    "mentioned_brands": [
+      "Nebula"
+    ]
+  },
+  {
+    "id": 101,
+    "source_name": "ProjectorReviews",
+    "title_zh": "LG發表全新BU53PST ProBeam 4K UHD短焦投影機",
+    "summary_zh": "LG近期展示了全新的BU53PST ProBeam 4K UHD短焦投影機。該機型主打能在極短的投射距離內，呈現出高畫質的4K超高畫質影像，為商用與特定空間投影應用提供更靈活且高畫質的全新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/lg-shows-new-bu53pst-probeam-4k-uhd-short-throw-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "LG",
+      "BU53PST",
+      "ProBeam",
+      "4K UHD",
+      "短焦投影機"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ]
+  },
+  {
+    "id": 100,
+    "source_name": "ProjectorReviews",
+    "title_zh": "LG於CES 2025展出全新PF600U與CineBeam S投影機",
+    "summary_zh": "LG在CES 2025展覽中，正式亮相全新推出的PF600U與CineBeam S（PU615U）兩款投影機產品。這兩款新機採用創新設計理念，旨在為使用者帶來更卓越的家庭劇院觀影體驗，展現LG在投影技術上的最新發展與市場佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/lg-showcases-the-new-pf600u-and-cinebeam-s-pu615u-projectors-at-ces-2025/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "LG",
+      "CES 2025",
+      "PF600U",
+      "CineBeam S",
+      "PU615U"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ]
+  },
+  {
+    "id": 99,
+    "source_name": "ProjectorReviews",
+    "title_zh": "LG推出兩款2020年商用智慧雷射投影機",
+    "summary_zh": "LG專業解決方案部門發表了兩款針對商用市場所設計的4K智慧DLP投影機。這兩款新機皆採用高效能雷射光源技術，提供高達20,000小時的近乎免維護運作壽命，滿足現代商務與專業場域對耐用性與高畫質的需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/lg-professional-launches-two-smart-laser-business-projectors-for-2020/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "LG",
+      "智慧投影機",
+      "雷射光源",
+      "商用投影機",
+      "4K"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ]
+  },
+  {
+    "id": 98,
+    "source_name": "ProjectorReviews",
+    "title_zh": "LG推出CineBeam S (PU615U) 超發燒4K超短焦雷射投影機",
+    "summary_zh": "LG發表全新CineBeam S (PU615U)超發燒4K超短焦雷射投影機，主打超精巧體積、500 ANSI流明亮度、涵蓋154% DCI-P3廣色域，並內建杜比全景聲喇叭，提供高品質影音體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/lg-introduces-cinebeam-s-pu615u-ultra-compact-4k-ust-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "LG",
+      "CineBeam S",
+      "PU615U",
+      "4K投影機",
+      "超短焦",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ]
+  },
+  {
+    "id": 97,
+    "source_name": "ProjectorReviews",
+    "title_zh": "LG發表全新PF610P CineBeam隨身投影機",
+    "summary_zh": "LG正式宣布推出全新的PF610P LED DLP隨身投影機，主打隨身攜帶、娛樂與遊戲應用功能，為行動投影市場提供更多元的新選擇，滿足消費者在不同場景下的使用需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/lg-announces-the-new-pf610p-cinebeam-on-the-go-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "LG",
+      "CineBeam",
+      "PF610P",
+      "LED",
+      "DLP投影機",
+      "隨身投影機"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ]
+  },
+  {
+    "id": 96,
+    "source_name": "ProjectorReviews",
+    "title_zh": "徠卡推出 Cine Play 1 投影機：結合精巧設計與傳奇光學品質",
+    "summary_zh": "徠卡推出全新的 Cine Play 1 投影機，主打精巧的機身設計與頂級的家庭劇院影像表現。該產品完美展現了徠卡長久以來在光學領域的工藝水準，為追求高畫質與時尚外觀的居家娛樂消費者帶來全新的高階視聽選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/leica-cine-play-1-compact-cinema-experience-meets-legendary-leica-quality/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Leica",
+      "Cine Play 1",
+      "家用投影機",
+      "光學技術"
+    ],
+    "mentioned_brands": [
+      "Leica",
+      "徠卡"
+    ]
+  },
+  {
+    "id": 95,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Kaleidescape Strato M 入門級電影播放器展現卓越效能",
+    "summary_zh": "Kaleidescape推出全新入門級電影播放器Strato M，主打頂級的影片播放品質與出色的效能表現。該產品專為追求高畫質與高效能的家庭劇院愛好者設計，提供優異的視聽體驗，為高階播放設備市場帶來新的選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/kaleidescape-strato-m-entry-level-m-movie-player-delivers-excellent-performance/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Kaleidescape",
+      "Strato M",
+      "電影播放器",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape"
+    ]
+  },
+  {
+    "id": 94,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Kaleidescape與Keith Yates Design合作提供頂級聲學與設計",
+    "summary_zh": "高端影音品牌Kaleidescape宣佈與知名聲學設計公司Keith Yates Design達成全新合作關係，旨在為頂級視聽室提供卓越的聲學表現與空間設計方案，進一步提升家庭劇院的整體沉浸式體驗。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.projectorreviews.com/kaleidescape-partners-with-keith-yates-design-to-deliver-acoustical-excellence-and-design/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Kaleidescape",
+      "Keith Yates Design",
+      "聲學設計",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape",
+      "Keith Yates Design"
+    ]
+  },
+  {
+    "id": 93,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Kaleidescape 推出 Mini Terra Prime 電影伺服器",
+    "summary_zh": "Kaleidescape 發表全新的 Mini Terra Prime 伺服器，具備小巧機身與靜音設計，內建 8TB 容量，支援高速下載及高位元率的 4K 影片播放，專為家庭劇院系統提供極致的影音體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/kaleidescape-introduces-the-mini-terra-server/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Kaleidescape",
+      "Mini Terra Prime",
+      "電影伺服器",
+      "4K播放"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape"
+    ]
+  },
+  {
+    "id": 92,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Kaleidescape 發表兩款全新電影伺服器：Terra 72 與 Terra 12",
+    "summary_zh": "高階家庭劇院解決方案品牌 Kaleidescape 宣布推出兩款全新電影伺服器產品，分別為大容量的 Terra 72 伺服器以及主打精巧設計的 Terra 12，旨在為高畫質家庭劇院系統提供更為靈活且充裕的影音內容儲存與播放支援方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/kaleidescape-announces-two-new-movie-servers-the-terra-72-and-terra-12/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Kaleidescape",
+      "電影伺服器",
+      "Terra 72",
+      "Terra 12",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape"
+    ]
+  },
+  {
+    "id": 91,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC推出全新DLA-NZ700與DLA-NZ500，號稱全球最小原生4K投影機",
+    "summary_zh": "JVC正式發表全新家用劇院投影機DLA-NZ700與DLA-NZ500系列，主打成為全球體積最小的原生4K投影機。這兩款新機在維持高階影像規格的同時，透過創新的緊湊機身設計，大幅提升安裝與配置的靈活性，滿足現代家庭劇院對於空間利用與高畫質兼具的需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jvcs-new-dla-nz700-dla-rs2200-and-dla-nz500-dla-rs1200-projectors-worlds-smallest-native-4k-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "原生4K",
+      "家用劇院投影機",
+      "DLA-NZ700",
+      "DLA-NZ500"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 90,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC V3.5 韌體更新釋出，為 NX 與 RS 系列投影機新增 Theater Optimizer 功能",
+    "summary_zh": "JVC 針對旗下 NX 與 RS 系列投影機推出 V3.5 版本韌體更新，主要亮點為新增 Theater Optimizer 功能，旨在顯著提升家用投影機在播放 HDR 內容時的畫面表現與觀影體驗。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.projectorreviews.com/jvc-v35-firmware-update-now-available/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "韌體更新",
+      "HDR",
+      "Theater Optimizer"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 89,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC推出兩款全新8K D-ILA雷射投影機：DLA-NZ900與DLA-NZ800系列",
+    "summary_zh": "JVC發表兩款支援8K解析度的全新D-ILA雷射投影機，分別為高階的DLA-NZ900/DLA-RS4200與DLA-NZ800/DLA-RS3200。這些新機型主打畫質的顯著提升，並搭載多項創新技術，專為追求極致家庭劇院體驗的消費者打造。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jvc-introduces-two-new-8k-d-ila-laser-projectors-the-dla-nz900-dla-rs4200-and-dla-nz800-dla-rs3200/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "8K投影機",
+      "D-ILA",
+      "雷射投影機",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 88,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC推出全新高幀率、高亮度投影機",
+    "summary_zh": "知名品牌JVC發表了一款全新的投影機產品，主打高幀率與高亮度規格，預期將能吸引廣大家庭劇院愛好者的目光，為家用投影市場帶來更流暢且明亮的觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jvc-introduces-new-high-framerate-high-brightness-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "投影機",
+      "高幀率",
+      "高亮度",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 87,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC推出全新8K D-ILA雷射投影機系列產品",
+    "summary_zh": "JVC近日發表高階家庭劇院投影機全新陣容，全系列高階機種皆主打8K超高解析度、先進雷射光源技術，並配備48Gbps傳輸埠，旨在為家庭劇院愛好者帶來頂級的影像畫質表現與流暢的連接體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jvc-introduces-its-new-lineup-of-8k-dila-laser-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "8K",
+      "D-ILA",
+      "雷射投影機",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 86,
+    "source_name": "ProjectorReviews",
+    "title_zh": "JVC推出配備48Gbps HDMI之全新D-ILA投影機並主打突破性價格",
+    "summary_zh": "JVC發表了全新系列的高解析度投影機產品陣容，其中亮點包含導入48Gbps高頻寬HDMI介面，並以更具市場競爭力的價格切入高階家庭劇院市場，為消費者帶來更極致的影音視聽體驗與連接效能。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jvc-adds-new-d-ila-projectors-with-48gbps-hdmi-at-breakthrough-price/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JVC",
+      "D-ILA",
+      "HDMI 48Gbps",
+      "高解析度投影機"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
+    "id": 85,
+    "source_name": "ProjectorReviews",
+    "title_zh": "堅果推出 U2 三色 4K 雷射電視",
+    "summary_zh": "堅果（JMGO）近日發表全新 U2 三色 4K 雷射電視，主打多功能應用，不僅能作為一般高畫質電視使用，亦可連接電腦作為顯示器或滿足遊戲娛樂需求，展現新一代投影技術的多樣化魅力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jmgo-u2-tri-color-4k-laser-tv/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "雷射電視",
+      "4K投影機",
+      "三色雷射",
+      "堅果投影"
+    ],
+    "mentioned_brands": [
+      "JMGO"
+    ]
+  },
+  {
+    "id": 84,
+    "source_name": "ProjectorReviews",
+    "title_zh": "堅果投影機於CES 2025發表O2S Ultra與N3 Ultra Max",
+    "summary_zh": "堅果投影機（JMGO）在CES 2025展會中，正式亮相全新旗艦機型O2S Ultra與N3 Ultra Max。這兩款全新投影設備搭載了先進的尖端功能，旨在透過卓越的效能與規格，全面重新定義消費者的家庭娛樂體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/jmgo-debuts-the-o2s-ultra-and-n3-ultra-max-at-ces-2025/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "JMGO",
+      "CES 2025",
+      "O2S Ultra",
+      "N3 Ultra Max",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "JMGO"
+    ]
+  },
+  {
+    "id": 83,
+    "source_name": "ProjectorReviews",
+    "title_zh": "華碩推出全球首款 Calman 認證專業投影機 ProArt A1",
+    "summary_zh": "華碩正式發表全球首款獲得 Calman 認證的專業級投影機 ProArt A1。該產品主打精準的色彩表現與專業級的校色水準，專為影音創作者與專業應用市場所設計，具備獨特的功能與工藝技術，是值得投資的高階顯示設備。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/introducing-the-asus-proart-a1-the-worlds-first-calman-verified-professional-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "ASUS",
+      "ProArt A1",
+      "Calman認證",
+      "專業投影機",
+      "色彩校正"
+    ],
+    "mentioned_brands": [
+      "ASUS"
+    ]
+  },
+  {
+    "id": 82,
+    "source_name": "ProjectorReviews",
+    "title_zh": "InfoComm 2025 展會回顧：商用與教育投影機創新技術",
+    "summary_zh": "本文回顧 InfoComm 2025 展會中的投影機創新亮點，涵蓋針對商務與教育環境設計的雷射光源、超短焦技術、8K 解析度以及混合型機種，展現投影技術在專業應用領域的最新發展趨勢。",
+    "category": "技術動態",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/infocomm-2025-recap-projector-innovations-for-business-and-education/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "InfoComm 2025",
+      "雷射投影機",
+      "超短焦",
+      "8K投影",
+      "商用教育"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 81,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信於CES 2025發表L9Q與C2系列等多款全新投影機",
+    "summary_zh": "海信在CES 2025展會中，正式亮相多款備受矚目的全新投影機產品，包含L9Q以及C2 Max、C2 Pro與C2標準版。這些最新機種搭載了前瞻性的顯示與光學技術，旨在全面革新消費者的家庭娛樂體驗，展現其在智慧投影市場的強大企圖心。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-unveils-the-l9q-c2-max-c2-pro-and-c2-at-ces-2025/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "CES 2025",
+      "雷射電視",
+      "智慧投影機",
+      "家庭娛樂"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 80,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信發表 L9G 三色雷射電視",
+    "summary_zh": "本文為海信 L9G 三色雷射電視的初次評測與印象分享。該產品採用三色雷射技術，在家庭投影領域帶來顯著的技術進步，展現出色的色彩表現與投影畫質，為家用投影市場提供全新的高階選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-unveils-the-l9g-trichroma-laser-tv/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "雷射電視",
+      "三色雷射",
+      "家庭投影",
+      "L9G"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 79,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信在 2024 CES 展出突破性投影機產品",
+    "summary_zh": "海信於 2024 年美國消費電子展（CES 2024）中，展示了一系列主打更大畫面、更高亮度的突破性投影機新品，旨在為家庭劇院用戶提供更為極致且先進的影像觀賞體驗，引發市場高度關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-showcases-groundbreaking-projectors-at-ces-2024/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "CES 2024",
+      "家用投影機",
+      "家庭劇院",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 78,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信發表2023年雷射電視與雷射家庭劇院產品陣容",
+    "summary_zh": "海信持續致力於讓各種預算的使用者都能體驗頂級的家庭劇院投影技術，並於近期正式公開2023年的全新雷射電視與雷射家庭劇院產品陣容，為市場帶來更多樣化的選擇與升級的高畫質投影方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-reveals-the-2023-lineup-of-laser-tv-and-laser-cinema-products/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "雷射電視",
+      "家庭劇院",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 77,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信推出 PX1-PRO TriChroma 雷射電視與家庭劇院投影機",
+    "summary_zh": "海信正式發表全新 PX1-PRO TriChroma 雷射電視投影機。本文深入介紹該款新機的市場定價、核心功能與主要技術規格，為尋求大尺寸家庭劇院解決方案的消費者提供詳細的產品參考資訊。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-px1-pro-trichroma-laser-tv-cinema/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "雷射電視",
+      "PX1-PRO",
+      "三色雷射",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 76,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信推出PT1超短焦雷射家庭劇院投影機",
+    "summary_zh": "海信正式發表全新PT1超短焦三色雷射投影機，具備80至150吋的大畫面投射能力，並提供2500流明亮度。該機種支援杜比視界、IMAX Enhanced認證，並內建Google TV系統與沉浸式音效，鎖定高階家庭劇院市場。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-launches-the-pt1-ultra-short-throw-laser-cinema/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "PT1",
+      "超短焦投影機",
+      "雷射投影",
+      "三色雷射"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 75,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信推出PX1 TriChroma雷射超短焦投影機",
+    "summary_zh": "海信近期正式推出全新PX1 TriChroma雷射超短焦投影機，該產品主打三色雷射光源技術與超短焦投射優勢。本文針對這款新機型的核心功能、規格特色以及整體性能優勢進行開箱與評測介紹，為消費者提供全面的產品資訊。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/hisense-introduces-the-px1-trichroma-laser-cinema-ust-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "雷射投影機",
+      "超短焦",
+      "TriChroma"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "海信"
+    ]
+  },
+  {
     "id": 74,
     "source_name": "ProjectorReviews",
     "title_zh": "海信擴展三色雷射投影機產品線，推出 XR10 與 PX4-PRO",
@@ -2298,6 +3855,44 @@
     ]
   },
   {
+    "id": 72,
+    "source_name": "ProjectorReviews",
+    "title_zh": "海信發布8K雷射電視投影機並更新L9G機種",
+    "summary_zh": "海信正式宣布推出全新8K雷射電視投影機，詳細說明其運作原理與技術規格，並為L9G系列加入杜比視界（Dolby Vision）支援，同時對外分享未來在雷射電視市場的發展藍圖與產品規劃。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/hisense-announces-8k-laser-tv-projector-adds-dolby-vision-to-the-l9g-and-talks-future-laser-tv-plans/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "海信",
+      "雷射電視",
+      "8K投影機",
+      "杜比視界",
+      "L9G"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ]
+  },
+  {
+    "id": 71,
+    "source_name": "ProjectorReviews",
+    "title_zh": "HDMI 2.2：連接功能的新紀元 - 投影機評論",
+    "summary_zh": "本文探討全新HDMI 2.2介面如何透過提升解析度、音訊品質與內容保護技術，全面革新影音連接體驗，並深入分析這項最新傳輸標準對於家用劇院投影機建置帶來的實質影響與升級意義。",
+    "category": "技術動態",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/hdmi-2-2-a-new-era-in-connectivity/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "HDMI 2.2",
+      "連接埠",
+      "家用劇院",
+      "影像傳輸",
+      "音訊品質"
+    ],
+    "mentioned_brands": []
+  },
+  {
     "id": 70,
     "source_name": "ProjectorReviews",
     "title_zh": "Formovie 推出 Theater Premium 4K 雷射電視",
@@ -2315,6 +3910,177 @@
     ],
     "mentioned_brands": [
       "Formovie"
+    ]
+  },
+  {
+    "id": 69,
+    "source_name": "ProjectorReviews",
+    "title_zh": "峰米發布 Cinema Edge 雷射電視",
+    "summary_zh": "峰米推出全新 Cinema Edge 雷射電視，主打內建 Google TV 與原生 Netflix 支援，並大幅提升色彩與對比度表現，旨在以極具競爭力的價格為消費者帶來優質的高畫質家庭劇院觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/formovie-announces-the-cinema-edge-laser-tv/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Formovie",
+      "雷射電視",
+      "Google TV",
+      "Netflix",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Formovie"
+    ]
+  },
+  {
+    "id": 68,
+    "source_name": "ProjectorReviews",
+    "title_zh": "2021秋季投影高峰會活動預告",
+    "summary_zh": "本文介紹2021年秋季投影高峰會的重點內容，探討娛樂產業即將導入的各項先進投影技術，並協助相關從業者運用這些創新科技來維持市場競爭優勢，掌握產業發展最新脈動。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/fall-projection-summit-2021/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "投影高峰會",
+      "娛樂產業",
+      "投影技術",
+      "產業趨勢"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 67,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson 發表 Q 系列家用娛樂投影機",
+    "summary_zh": "Epson 近期正式推出全新 Q 系列家用娛樂投影機產品線，主打高亮度的 4K 畫質表現，旨在為各種室內空間在白天或夜間提供生動清晰的影像視覺，全面革新消費者的家庭劇院與娛樂體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epsons-announces-the-q-series-line-of-home-entertainment-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "Q系列",
+      "4K投影機",
+      "家用娛樂"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 66,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson舉辦洛斯阿拉米托斯全新先進總部剪綵儀式與導覽",
+    "summary_zh": "Epson近期邀請媒體參觀其位於洛斯阿拉米托斯的全新先進總部，並舉辦了盛大的剪綵儀式。此舉展現該品牌在北美市場的持續投資與發展動態，進一步鞏固其在投影機與相關影像產業的長期布局。",
+    "category": "供應鏈",
+    "importance": 2,
+    "url": "https://www.projectorreviews.com/epson-ribbon-cutting-ceremony-and-tour-of-their-new-state-of-the-art-los-alamitos-headquarters/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "總部",
+      "企業動態",
+      "洛斯阿拉米托斯"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 65,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生發表靈活且智慧的 EpiqVision Flex 投影機",
+    "summary_zh": "愛普生推出全新的 EpiqVision Flex 系列投影機，主打高度的靈活性與智慧功能，旨在滿足現代消費者隨時隨地的高畫質行動娛樂需求，提供多功能且便捷的投影使用體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-reveals-flexible-and-smart-epiqvision-flex-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "EpiqVision Flex",
+      "智慧投影機",
+      "行動娛樂"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 64,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson推出全新Home Cinema 2350 4K遊戲與娛樂投影機",
+    "summary_zh": "Epson近日正式發表全新Home Cinema 2350投影機，主打4K高畫質與高效能表現，精準切入家庭劇院愛好者與遊戲玩家市場，提供更為流暢且沉浸的巨幕影音與遊戲娛樂體驗，展現品牌在智慧家庭娛樂投影領域的最新佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-launches-the-new-home-cinema-2350-4k-gaming-and-entertainment-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "Home Cinema 2350",
+      "4K投影機",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 63,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson推出七款全新Pro系列雷射投影機",
+    "summary_zh": "Epson近日擴大產品陣容，發表七款全新的Pro系列精巧型雷射投影機。此系列主要針對大型場域應用所設計，包含高等教育機構、宗教場所以及觀光景點等，旨在提供高亮度與靈活安裝的大畫面顯示解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-launches-seven-new-pro-series-laser-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "雷射投影機",
+      "Pro系列",
+      "大型場域"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 62,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出新一代Pro系列高流明投影機",
+    "summary_zh": "愛普生（Epson）近日正式發表全新一代的Pro系列高流明投影機產品線。此系列機種主打輕量化與極致小巧的機身設計，在維持高亮度的同時，大幅提升了安裝與應用的靈活性，鎖定大型場域與專業投影市場的需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-launches-new-generation-of-pro-series-high-lumen-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "Pro系列",
+      "高流明投影機",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 61,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出三款全新 EpiqVision 智慧雷射投影機型號",
+    "summary_zh": "愛普生近日發表了三款全新的 EpiqVision 系列智慧雷射投影機。專業評測團隊針對這三款新機型進行了全面解析，詳細涵蓋其建議售價、核心功能與各項規格表現，提供消費者在選購時的重要參考依據與深度產品資訊。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-three-new-epiqvision-smart-laser-projector-models/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "EpiqVision",
+      "雷射投影機",
+      "智慧投影機",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "Epson"
     ]
   },
   {
@@ -2336,6 +4102,310 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ]
+  },
+  {
+    "id": 59,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson推出Pro Cinema 4K PRO-UHD LS12000投影機",
+    "summary_zh": "Epson近期發表全新的旗艦級Pro Cinema 4K PRO-UHD LS12000投影機，該款產品主要針對家庭劇院愛好者設計，提供高階的影像畫質與優異的觀影體驗，展現品牌在家庭劇院投影市場的最新佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-the-pro-cinema-4k-pro-uhd-ls12000/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "4K PRO-UHD",
+      "LS12000",
+      "家庭劇院",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 58,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出 EpiqVision Ultra LS650 超短焦雷射智慧投影機",
+    "summary_zh": "愛普生正式發表全新 EpiqVision Ultra LS650 超短焦雷射智慧投影機，旨在為一般居家生活空間帶來更具沉浸感的大螢幕視聽娛樂體驗，進一步強化其在智慧投影機市場的產品陣容與競爭力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-the-epiqvision-ultra-ls650-ultra-short-throw-laser-smart-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "EpiqVision Ultra LS650",
+      "超短焦投影機",
+      "雷射投影機",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 57,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出 EpiqVision Mini EF22 與 EF21 可攜式投影機",
+    "summary_zh": "Epson 推出全新的 EpiqVision Mini EF21 與 EF22 兩款輕巧型 Full HD 可攜式投影機。該系列具備 1000 流明亮度、內建 Dolby 音效以及 Google TV 智慧系統，滿足現代消費者對行動娛樂的高畫質與便利需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-the-epiqvision-mini-ef22-and-ef21-portable-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "可攜式投影機",
+      "Full HD",
+      "Google TV",
+      "EpiqVision Mini"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 56,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson推出全新880x混合型投影機，鎖定遠距與行動工作者",
+    "summary_zh": "Epson針對遠距辦公與行動工作者的需求，推出全新的880x混合型投影機產品。此款新機旨在透過提升顯示效能與便利性，協助遠端工作人員提高工作生產力與協同合作效率，展現品牌在商務可攜市場的最新布局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-new-880x-hybrid-projector-for-remote-and-mobile-workers/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "投影機",
+      "行動辦公",
+      "遠距工作",
+      "新品上市"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 55,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出 Lifestudio 系列投影機",
+    "summary_zh": "愛普生全新發表 Lifestudio 系列投影機，主打便攜與超短焦機型。該系列採用 3LCD 技術，並內建 Bose 音響系統、Google TV 智慧平台以及自動設定功能，專為居家休閒娛樂市場設計，提供消費者高品質且便利的視聽體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-lifestudio-projector-series/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "Lifestudio",
+      "3LCD",
+      "Google TV",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Bose",
+      "Google"
+    ]
+  },
+  {
+    "id": 54,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson 於 InfoComm 2026 推出全新 PowerLite 與 BrightLink 系列投影機",
+    "summary_zh": "Epson 在 InfoComm 2026 展會中發表了十款全新的 PowerLite 與 BrightLink 系列投影機，產品線涵蓋超短焦、標準投射及可攜式機型，主要鎖定教育與商業應用市場，提供更多元靈活的顯示解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-introduces-a-lineup-of-new-powerlite-and-brightlink-models/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "PowerLite",
+      "BrightLink",
+      "InfoComm 2026",
+      "商用投影機",
+      "教育投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 53,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生對VAVA提起訴訟 指控其誇大投影機亮度",
+    "summary_zh": "知名投影機品牌愛普生正式對VAVA提起法律訴訟，指控該公司在其4K超短焦雷射電視產品的亮度規格標示上誇大不實。此事件凸顯了投影機產業中長期存在的規格標示標準爭議，未來可能促使市場建立更嚴格的亮度規範。",
+    "category": "市場數據",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/epson-files-lawsuit-against-vava-for-overstating-projector-brightness/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "法律訴訟",
+      "亮度規格",
+      "雷射電視",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "VAVA"
+    ]
+  },
+  {
+    "id": 52,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出全新的LE-C1系列一體式顯示器，正式進軍dvLED市場",
+    "summary_zh": "愛普生推出全新的LE-C1系列一體式dvLED顯示器，正式跨足直接發光LED市場。此系列主要瞄準強環境光且投影機難以競爭的企業會議與教育場域，開拓全新的商用顯示版圖。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://www.projectorreviews.com/epson-enters-the-dvled-market-with-new-le-c1-series-all-in-one-displays/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "dvLED",
+      "LE-C1系列",
+      "一體式顯示器",
+      "商用市場"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 51,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出2023年全新12款專業投影機",
+    "summary_zh": "愛普生近日正式發表針對教育與商用市場的2023年全新專業投影機系列，一口氣推出12款新機型，旨在滿足不同商務與教學環境的高效投影需求，展現其在專業投影市場的持續布局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-debuts-12-new-professional-projectors-for-2023/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "商用投影機",
+      "教育投影機",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 50,
+    "source_name": "ProjectorReviews",
+    "title_zh": "Epson、AVI-SPL與Igloo Vision攜手於奧蘭多打造全新沉浸式體驗中心",
+    "summary_zh": "Epson攜手AVI-SPL與Igloo Vision等合作夥伴，在奧蘭多環球影城開設全新的沉浸式體驗中心。此中心展示了最新的投影與顯示技術，旨在透過創新應用轉變人們的日常生活與視覺娛樂體驗，凸顯投影技術在沉浸式空間的應用潛力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-avi-spl-and-igloo-vision-partner-on-new-immersive-experience-center-in-orlando/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "沉浸式體驗",
+      "Epson",
+      "AVI-SPL",
+      "Igloo Vision",
+      "投影技術"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "AVI-SPL",
+      "Igloo Vision",
+      "Universal Studios"
+    ]
+  },
+  {
+    "id": 49,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生推出全新 Home Cinema LS11000 4K PRO-UHD 雷射投影機",
+    "summary_zh": "愛普生正式發表針對家庭劇院與電競市場所設計的高階雷射投影機 Home Cinema LS11000，主打 4K PRO-UHD 高畫質與先進的投影技術，提供消費者更優質的家庭娛樂體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-announces-their-new-home-cinema-ls11000-4k-pro-uhd-laser-projector/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "LS11000",
+      "雷射投影機",
+      "4K PRO-UHD",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 48,
+    "source_name": "ProjectorReviews",
+    "title_zh": "愛普生為其熱門家庭劇院系列新增四款投影機",
+    "summary_zh": "愛普生近日宣佈在其熱門的家庭劇院產品線中擴充陣容，正式推出四款全新投影機機型。這篇報導主要探討這些新產品的規格特色，並將其與現有市場上的主流機型進行橫向對比，為消費者提供選購參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/epson-adds-four-models-to-their-popular-home-cinema-lineup/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "Epson",
+      "家庭劇院",
+      "新品發布",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 47,
+    "source_name": "ProjectorReviews",
+    "title_zh": "當貝發表 Freedo 與 MP1 Max 投影機新品",
+    "summary_zh": "知名投影機品牌當貝近日正式推出全新 Freedo 與 MP1 Max 兩款投影機，評測報導深入探討這兩款新機型的先進功能、實際投影效能以及在智慧投影市場帶來的創新技術，展現品牌在便攜與高效能產品線的最新佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/dangbei-unveils-freedo-and-mp1-max-projectors/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "當貝",
+      "Freedo",
+      "MP1 Max",
+      "智慧投影機",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ]
+  },
+  {
+    "id": 46,
+    "source_name": "ProjectorReviews",
+    "title_zh": "客製化整合 - 投影機評論",
+    "summary_zh": "本文提供關於商業顯示器與家庭劇院安裝的專業資訊，協助工程人員與消費者在規劃投影系統時，能夠精準挑選最合適的相關產品，以滿足各種場域的安裝需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.projectorreviews.com/custom-integration-home-page/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "家庭劇院",
+      "商業顯示",
+      "客製化整合",
+      "安裝指南"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 45,
+    "source_name": "ProjectorReviews",
+    "title_zh": "CinemaTech 於佛州開設全新旗艦展間，展示 Sony 投影機與頂級家庭劇院設計",
+    "summary_zh": "頂級家庭劇院設計商 CinemaTech 在美國佛羅里達州開設全新展示中心，現場結合了 Sony 投影機設備、Wisdom Audio 音響系統，以及品牌專屬的奢華訂製沙發，為高端消費者提供沉浸式的家庭劇院實際體驗空間。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.projectorreviews.com/cinematech-opens-a-new-florida-showroom-luxury-home-theater-design-featuring-sony-and-wisdom-audio/",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "家庭劇院",
+      "展示間",
+      "Sony",
+      "CinemaTech",
+      "訂製沙發"
+    ],
+    "mentioned_brands": [
+      "CinemaTech",
+      "Sony",
+      "Wisdom Audio"
     ]
   },
   {
@@ -4079,6 +6149,26 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ]
+  },
+  {
+    "id": 271,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BMZ62C投影機北京促銷價13700元",
+    "summary_zh": "根據市場行情資訊，松下（Panasonic）PT-BMZ62C商用投影機在北京通路展開特價促銷活動，優惠價格為人民幣13700元。該機型主打安裝簡易、靈活適配以及節能環保等產品亮點，吸引有需求的消費者前往實體店面選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1211/12112636.html",
+    "publish_date": "2026-07-06",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "投影機行情",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "Panasonic",
+      "松下"
     ]
   },
   {
