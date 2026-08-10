@@ -13,9 +13,13 @@ scraper_example.py
 
   B. 純 HTML 列表頁、無 RSS -> fetch_html_list_source()
      已實測確認可用：ZOL投影機頻道、ZNDS投影頻道、洛圖科技(RUNTO)、
-     ProjectorCentral、ProjectorReviews。文章詳情頁一律改用穩定的 SEO
-     meta 標籤（description / og:title / article:published_time）取資料，
-     比針對每個網站硬寫正文 CSS class 更耐用。
+     ProjectorCentral、ProjectorReviews、199IT-奧維雲網。文章詳情頁一律
+     改用穩定的 SEO meta 標籤（description / og:title / article:published_time）
+     取資料，比針對每個網站硬寫正文 CSS class 更耐用。
+
+     關於奧維雲網 (AVC)：官網 avc-mr.com 的 robots.txt 明確禁止自動化存取，
+     不直接爬官網，改監控 199IT（互聯網數據資訊網）這個會固定轉載 AVC 報告
+     全文摘要的媒體，間接取得 AVC 的數據內容。
 
      重要（2026-08 debug 記錄）：這一類來源原本用「正則表達式直接對整頁
      HTML 文字找完整網址」的方式取得連結，實測發現多個網站（ZOL、ZNDS、
@@ -231,6 +235,17 @@ HTML_LIST_SOURCES = [
         "list_url": "https://www.projectorreviews.com/industry-news/",
         "encoding": "utf-8",
         "link_pattern": r"https://www\.projectorreviews\.com/[a-z0-9\-]{25,}/",
+    },
+    # 199IT（互聯網數據資訊網）：奧維雲網（AVC）官網 avc-mr.com 的 robots.txt
+    # 明確禁止自動化存取，改監控 199IT 這個會固定轉載 AVC 報告全文摘要的媒體。
+    # 這個標籤頁涵蓋 AVC 全部品類報告（彩電、洗衣機、智能鎖等），不是投影機
+    # 專屬，需要 filter=True 用關鍵字篩出投影機相關的部分。
+    {
+        "name": "199IT-奥维云网",
+        "list_url": "https://www.199it.com/archives/tag/%E5%A5%A5%E7%BB%B4%E4%BA%91%E7%BD%91",
+        "encoding": "utf-8",
+        "link_pattern": r"https://www\.199it\.com/archives/\d+\.html",
+        "filter": True,
     },
 ]
 
