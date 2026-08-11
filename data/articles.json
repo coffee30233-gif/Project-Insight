@@ -1,5 +1,48 @@
 [
   {
+    "id": 611,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "REDMI投影機5正式發布：售價1299元起，搭載一體雲台與自動校正",
+    "summary_zh": "小米旗下品牌REDMI於2026年8月發表最新款投影機產品——REDMI投影機5，建議售價人民幣1299元起。該機型主打性價比與創新外觀設計，亮點包含一體式金屬雲台結構，支援360度旋轉及全自動畫面校正功能，並在各大主流電商平台同步開賣。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1230/12306080.html",
+    "publish_date": "2026-08-11",
+    "keywords": [
+      "REDMI",
+      "投影機",
+      "新品發布",
+      "一體雲台",
+      "自動校正"
+    ],
+    "mentioned_brands": [
+      "REDMI",
+      "小米",
+      "京东",
+      "天猫"
+    ]
+  },
+  {
+    "id": 610,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛克創LS022投影機支架限時特惠",
+    "summary_zh": "愛克創推出LS022可移動調節落地式三腳支架，專為投影機、筆記型電腦與平板電腦設計。該產品採用穩固的三腳結構，支援高度、角度及橫豎方向的靈活調整，能適配多種設備，輕鬆滿足家庭影院、辦公簡報及創意拍攝等多場景需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1230/12303153.html",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "投影機支架",
+      "愛克創",
+      "LS022",
+      "落地三腳架",
+      "周邊配件"
+    ],
+    "mentioned_brands": [
+      "愛克創"
+    ]
+  },
+  {
     "id": 506,
     "source_name": "ProjectorReviews",
     "title_zh": "2026年最佳超短焦投影機推薦與評選",
@@ -7191,6 +7234,26 @@
     ]
   },
   {
+    "id": 609,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-2155W 投影機北京商家特價促銷行情",
+    "summary_zh": "本文報導愛普生（Epson）旗下商用投影機型號 CB-2155W 於北京中關村商家「北京合眾聯鑫」展開特價促銷活動。該機型主打高亮度與商務會議應用，目前商家提供價格面議的優惠，並邀請有採購需求的客戶直接前往實體店面或透過電話進行詳細諮詢。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1177/11771586.html",
+    "publish_date": "2026-05-08",
+    "keywords": [
+      "Epson",
+      "愛普生",
+      "CB-2155W",
+      "投影機促銷",
+      "商用投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
     "id": 491,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CB-W55 投影機特價促銷 商家提供優惠諮詢",
@@ -7208,6 +7271,26 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ]
+  },
+  {
+    "id": 608,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-UX336C 高流明辦公投影機熱銷促銷",
+    "summary_zh": "通路訊息指出，松下PT-UX336C高流明辦公投影機目前正進行特價促銷活動，優惠售價為新台幣或人民幣3899元。該機款主打商務辦公應用，具備高亮度特點，吸引有採購需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1176/11765810.html",
+    "publish_date": "2026-05-06",
+    "keywords": [
+      "松下",
+      "PT-UX336C",
+      "辦公投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
     ]
   },
   {
@@ -7348,6 +7431,26 @@
     ],
     "mentioned_brands": [
       "JVC"
+    ]
+  },
+  {
+    "id": 606,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-M19+ 國貨品牌投影機特惠促銷",
+    "summary_zh": "本文報導中國品牌易仁科技（YR）旗下投影機型號 YR-M19+ 於北京商家進行特惠促銷。該機型主打搭載四核心智慧系統，支援便利的四角校正功能，並具備 3900 流明的高亮度規格，目前促銷價為 7599 元人民幣，適合尋求高亮度智慧投影解決方案的消費者。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1138/11386002.html",
+    "publish_date": "2026-02-25",
+    "keywords": [
+      "易仁科技",
+      "YR-M19+",
+      "智慧投影機",
+      "3900流明",
+      "產品促銷"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
     ]
   },
   {
