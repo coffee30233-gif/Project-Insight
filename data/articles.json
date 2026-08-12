@@ -1,5 +1,103 @@
 [
   {
+    "id": 650,
+    "source_name": "DigiTimes",
+    "title_zh": "蘋果需求主導，台積電正式拍板與索尼影像感測器合作案",
+    "summary_zh": "台積電董事會正式通過與索尼半導體解決方案公司的影像感測器合資計畫，將認購高達282億日圓的股份。此項合作背後反映出龐大的產能規劃與技術配置，深受雙方共同的大客戶蘋果之市場需求所主導與形塑。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.digitimes.com/news/a20260812PD206/tsmc-sony-capacity-apple-demand.html",
+    "publish_date": "2026-08-12",
+    "keywords": [
+      "台積電",
+      "索尼",
+      "影像感測器",
+      "蘋果",
+      "半導體合資"
+    ],
+    "mentioned_brands": [
+      "TSMC",
+      "Sony",
+      "Apple"
+    ]
+  },
+  {
+    "id": 649,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合小房間觀看電影的預算型投影機推薦",
+    "summary_zh": "有消費者在論壇上尋求預算內且具備一定畫質的投影機推薦，主要用於小型房間的電影之夜，投影尺寸預計在100吋以內，並計畫透過Shopee或Lazada等電商平台購買，這反映出一般消費市場對於平價家用投影機的實際需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vm1emw/looking_for_a_projector_in_budget_but_fine/",
+    "publish_date": "2026-08-12",
+    "keywords": [
+      "家用投影機",
+      "預算型",
+      "小型房間",
+      "電商平台"
+    ],
+    "mentioned_brands": [
+      "Shopee",
+      "Lazada"
+    ]
+  },
+  {
+    "id": 648,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機吊裝安裝建議諮詢",
+    "summary_zh": "此為 Reddit 社群上的用戶諮詢，該用戶詢問如何在特殊結構的斜頂天花板上，居中吊裝其 Valerion Max 投影機。用戶目前傾向自行製作一個由四個支架支撐的水平安裝平台，並固定於天花板的托梁上，藉此向社群尋求具體的安裝與改裝建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vlzbtb/projector_mounting_advice/",
+    "publish_date": "2026-08-12",
+    "keywords": [
+      "投影機吊裝",
+      "天花板安裝",
+      "Valerion Max",
+      "DIY安裝",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ]
+  },
+  {
+    "id": 647,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "臥室投影機升級諮詢：使用者尋求平價且畫質音效更佳的替代方案",
+    "summary_zh": "一名使用者在論壇發文尋求升級臥室投影機的建議。該使用者先前因空間限制使用白牌投影機觀看 YouTube、串流影音及遊玩 Wii 遊戲。目前希望能更換一台畫質與音質表現更好，同時價格合理且具CP值的投影機產品。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vm2edm/i_had_a_generic_projector_for_my_bedroom_to_play/",
+    "publish_date": "2026-08-12",
+    "keywords": [
+      "臥室投影機",
+      "投影機推薦",
+      "白牌投影機",
+      "家用顯示"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 646,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機布幕選擇與1080p遊戲升級請益",
+    "summary_zh": "一名使用者針對現有的 Optoma HD27 投影機提出請益。目前投射於白牆且多在暗室使用，希望尋求能提升黑階表現的抗光幕或合適布幕類型。同時因燈泡即將到期，考量維持原生 1080p 60吋遊戲的需求，請教升級或替換投影機的建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vm5ger/projector_screen_1080p_gaming/",
+    "publish_date": "2026-08-12",
+    "keywords": [
+      "Optoma HD27",
+      "投影布幕",
+      "1080p遊戲",
+      "黑階表現"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
     "id": 629,
     "source_name": "Reddit r/projectors",
     "title_zh": "戶外電影之夜預算型投影機：有Temu的推薦嗎？",
