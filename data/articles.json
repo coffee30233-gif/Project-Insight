@@ -1,5 +1,22 @@
 [
   {
+    "id": 661,
+    "source_name": "ProjectorCentral",
+    "title_zh": "學生宿舍投影機推薦：2026秋季九款五百美元以下高性價比機種選購指南",
+    "summary_zh": "本文針對預算有限的大學生族群，精選推薦九款售價在五百美元以內的平價投影機，協助學生輕鬆將宿舍改造為小型家庭劇院，享受大畫面娛樂而不需花費巨資。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/dorm-room-projectors-2026.htm",
+    "publish_date": "2026-08-12",
+    "keywords": [
+      "宿舍投影機",
+      "平價投影機",
+      "500美元以下",
+      "選購指南"
+    ],
+    "mentioned_brands": []
+  },
+  {
     "id": 650,
     "source_name": "DigiTimes",
     "title_zh": "蘋果需求主導，台積電正式拍板與索尼影像感測器合作案",
@@ -7776,6 +7793,26 @@
     ]
   },
   {
+    "id": 659,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2155W特價促銷 歡迎來電諮詢",
+    "summary_zh": "愛普生CB-2155W商用投影機目前在北京經銷商「北京合眾聯鑫」展開特價促銷活動。該機型提供高畫質投影表現，商家推出面議優惠價格，適合辦公與教育場合採購，有需求的客戶可至門市或電話洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1170/11701680.html",
+    "publish_date": "2026-04-24",
+    "keywords": [
+      "愛普生",
+      "CB-2155W",
+      "投影機促銷",
+      "商用投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ]
+  },
+  {
     "id": 221,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CB-L530U 投影機經銷商特價促銷",
@@ -7813,6 +7850,27 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
+    ]
+  },
+  {
+    "id": 658,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "打造震撼視覺敘事，科視Christie亮相InfoComm China 2026",
+    "summary_zh": "科視Christie於InfoComm China 2026展會上，展示了結合藝術與科技的投影映射技術。現場透過三款雕塑面具，利用精準細膩的投影光影變化，呈現多元視覺紋樣與趣味的變臉特效，生動演繹投影技術在視覺敘事與藝術氛圍營造上的強大實力。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1166/11663809.html",
+    "publish_date": "2026-04-17",
+    "keywords": [
+      "科視",
+      "Christie",
+      "InfoComm China 2026",
+      "投影映射",
+      "3D Mapping"
+    ],
+    "mentioned_brands": [
+      "Christie",
+      "科視"
     ]
   },
   {
