@@ -1,5 +1,287 @@
 [
   {
+    "id": 713,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aurzen eazze d1 投影機故障求助",
+    "summary_zh": "有用戶在網路論壇發文求助，指出其購買約半年的 Aurzen eazze d1 投影機發生故障，開機時僅顯示載入畫面隨即無畫面，但仍聽得到運行聲音。由於保固貼紙遭撕毀而無法享有保固服務，尋求維修與解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vq240t/aurzen_eazze_d1_fix/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "Aurzen",
+      "eazze d1",
+      "故障維修",
+      "使用者問題"
+    ],
+    "mentioned_brands": [
+      "Aurzen"
+    ]
+  },
+  {
+    "id": 712,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "詢問關於MoGo雷射投影機連接乙太網路的方法",
+    "summary_zh": "有大學生在論壇發文詢問，針對攜帶式微型投影機無法直接連接校園僅有的乙太網路環境，是否有可行的解決方案或轉接配件，以確保投影機能夠順利聯網使用。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vq4jrx/is_there_any_way_to_connect_an_ethernet_to_a_mogo/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "MoGo 4 laser",
+      "乙太網路",
+      "校園網路",
+      "連接埠"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ]
+  },
+  {
+    "id": 711,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "手機拍攝畫面中出現的光影動態是投影效果還是相機偽影？",
+    "summary_zh": "有用戶在手機拍攝的室內影片中發現不明的光影移動圖樣，發文詢問這究竟是投影機與投影對應效果，還是由相機快門、DLP更新率、自動曝光、影像穩定或光線反射等因素所造成的視覺現象，引發關於顯示與拍攝技術的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vq68mm/can_anyone_identify_whether_these_moving/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "DLP",
+      "投影效果",
+      "快門效應",
+      "相機拍攝",
+      "光影圖樣"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 710,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "自製投影幕完工心得分享",
+    "summary_zh": "本文為使用者分享自己動手安裝第一塊投影幕的實際經驗。作者表示整個安裝過程相當艱辛且極需耐心，最終僅達到九成滿意度，並建議其他消費者若要追求完美成果，最好交由專業人員處理，同時也向網友徵詢相關安裝經驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vq6ymn/diy_project_screen_done/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "DIY",
+      "投影幕",
+      "安裝心得",
+      "家庭劇院"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 709,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手求助：尋找性價比高的投影機布幕建議",
+    "summary_zh": "一名公寓用戶發文尋求投影機布幕推薦，考量家中養貓且客廳無法完全遮光，目前白牆投射效果不佳，希望尋找介於廉價白布與高價專業布幕之間的折衷選擇，以提升抗環境光能力與畫質表現。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vqcgm1/new_need_screen_suggestions/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "投影機布幕",
+      "抗光幕",
+      "家用投影"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 706,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明基 TH575 與 Wimius 投影機效能比較詢問",
+    "summary_zh": "本篇文章為網路論壇使用者的個人設備詢問，討論明基 TH575 投影機與現有 Wimius 投影機在特定使用環境下的畫質表現與升級差異，屬於一般消費者的使用心得與購買前的效能諮詢交流。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vq6gfg/is_the_benq_th575_better_than_my_wimius_projector/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "BenQ TH575",
+      "Wimius",
+      "投影機比較",
+      "消費者心得"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Wimius"
+    ]
+  },
+  {
+    "id": 705,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找Epson 2250的4K投影機升級替代方案",
+    "summary_zh": "本文為Reddit論壇用戶的消費端討論，尋求將服役五年的Epson 2250升級至4K投影機的建議。預算控制在1500美元以下，考量型號包含Epson 2350與3800等，反映出主流家用投影機用戶在預算與畫質升級之間的實際需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vq5mkd/what_is_a_goodreasonable_4k_projector_replacement/",
+    "publish_date": "2026-08-17",
+    "keywords": [
+      "Epson 2250",
+      "4K投影機",
+      "家用投影機",
+      "升級替代"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 726,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何妥善包裝與寄送帶有原廠外箱的舊款 3M 9050 投影機？",
+    "summary_zh": "本文為 Reddit 論壇使用者的實務求助貼文，探討如何安全寄送舊款 3M 9050 傳統投影片投影機。發文者雖擁有原廠保麗龍與外箱，但因設備易碎且擔心運輸損壞，因而向社群尋求雙重紙箱包裝與緩衝材料的使用建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vpc63c/how_best_to_ship_this_older_3m_9050_overhead/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "3M 9050",
+      "傳統投影機",
+      "設備寄送",
+      "包裝防護"
+    ],
+    "mentioned_brands": [
+      "3M"
+    ]
+  },
+  {
+    "id": 725,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適用於極米 Horizon 20 投影機的 USB-A 轉有線網路轉接器",
+    "summary_zh": "本文為使用者在 Reddit 論壇上發文求助，尋找能與極米 XGIMI Horizon 20 投影機相容的 USB-A 轉有線網路（LAN）轉接器。作者嘗試了綠聯與 TP-Link 等多款產品均宣告失敗，主要問題疑似與作業系統的驅動支援有關，因此向社群尋求成功案例與品牌推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vprxdm/finding_the_right_usba_to_ethernetlan_for_the/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20",
+      "網路轉接器",
+      "USB-A",
+      "乙太網路"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "UGREEN",
+      "TP-Link"
+    ]
+  },
+  {
+    "id": 723,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "重要安裝提示：切記撕除投影機鏡頭保護膜",
+    "summary_zh": "一名消費者購買投影機後對畫質極度失望，認為畫面偏藍且模糊。直到準備打包退貨時，才發現鏡頭上貼有安全保護膜未撕除。撕除保護膜後，畫質瞬間大幅提升，這則用戶經驗提醒大家安裝時務必檢查鏡頭。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vpnq8x/important_installation_tip/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "投影機安裝",
+      "鏡頭保護膜",
+      "畫質問題",
+      "用戶心得"
+    ],
+    "mentioned_brands": []
+  },
+  {
+    "id": 722,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "舊款Elite Screens電動布幕重力桿布料脫落維修求助",
+    "summary_zh": "有使用者在網路論壇求助，指出其擁有的舊款Elite Screens電動投影幕出現布料從單側重力桿脫落的問題。內文探討如何拆卸金屬外殼與張力機制，並詢問在不拆卸外殼的情況下是否有其他方式能重新固定與拉緊投影布幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vptvyd/older_elite_screens_electric_projector_screen/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "Elite Screens",
+      "投影幕",
+      "電動布幕",
+      "維修"
+    ],
+    "mentioned_brands": [
+      "Elite Screens"
+    ]
+  },
+  {
+    "id": 720,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於Neopix投影機的討論",
+    "summary_zh": "本篇原文來自Reddit論壇的投影機討論區，主要內容僅包含使用者分享的Neopix相關連結與討論串入口，並未提供具體的产品規格、市場數據、技術細節或供應鏈資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vpw49r/neopix/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "Neopix",
+      "Reddit",
+      "投影機討論"
+    ],
+    "mentioned_brands": [
+      "Neopix"
+    ]
+  },
+  {
+    "id": 717,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我的投影機走到盡頭了嗎？",
+    "summary_zh": "本文是一位投影機用戶在論壇求助，他的中古奧圖碼投影機開機畫面與測試圖中出現了水平條紋與類似像素卡住的問題。作者詢問是否有機會透過維修排線或重焊來修復，還是代表DLP晶片已經故障損壞。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vpwxy7/the_end_of_my_projector/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "Optoma",
+      "UHD60",
+      "DLP晶片",
+      "投影機故障",
+      "畫質問題"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
+    "id": 716,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TK700 是千美元預算內最佳 4K 120Hz 遊戲投影機嗎？",
+    "summary_zh": "本文為 Reddit 用戶針對千美元預算內選購 4K 遊戲投影機的討論，主要聚焦於 BenQ TK700 與 ViewSonic PX701-4K 的比較。用戶需求包含 110 吋畫面、主要用於遊戲及影音娛樂，並考量了房間光源與預算限制。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vppwe2/is_the_benq_tk700_the_best_4k120hz_hdr_gaming/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "BenQ TK700",
+      "ViewSonic PX701-4K",
+      "遊戲投影機",
+      "4K 120Hz"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "ViewSonic"
+    ]
+  },
+  {
+    "id": 704,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新空間尋求投影機推薦：150吋螢幕搭配預算1000美元選擇討論",
+    "summary_zh": "有用戶在論壇發文尋求投影機購買建議，其視聽空間已設置完成，擁有150吋螢幕且投影距離為15.5英尺，主要用途為觀看體育賽事。預算約為1000美元，並考慮購入開封過的Optoma UHZ66機型，引發社群關於規格匹配與性價比的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vpwg5a/beautiful_new_space_looking_for_some_projector/",
+    "publish_date": "2026-08-16",
+    "keywords": [
+      "投影機推薦",
+      "家用投影機",
+      "Optoma UHZ66",
+      "150吋螢幕"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ]
+  },
+  {
     "id": 695,
     "source_name": "投影時代",
     "title_zh": "索諾克（Sonnoc）光影賦能沉浸式航天科普新標杆",
@@ -8495,6 +8777,27 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ]
+  },
+  {
+    "id": 700,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 V10Plus 廣色域高清巨幕體驗與特價促銷",
+    "summary_zh": "大眼橙 V10Plus 智慧投影機近日在通路展開特價促銷活動，優惠價為 7599 元人民幣。該款輕薄旗艦機型搭載 0.47 吋顯示晶片，具備真實 1080P 解析度以及高達 5000 光源流明的亮度表現，主打高畫質與廣色域的大螢幕視聽體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1169/11692488.html",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "大眼橙",
+      "V10Plus",
+      "投影機",
+      "特價促銷",
+      "1080P"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "易仁科技"
     ]
   },
   {

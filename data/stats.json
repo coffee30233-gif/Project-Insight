@@ -1,10 +1,10 @@
 {
-  "total_articles": 469,
+  "total_articles": 485,
   "total_sources": 32,
   "by_source": {
-    "ZOL投影機頻道": 198,
+    "ZOL投影機頻道": 199,
     "ProjectorReviews": 118,
-    "Reddit r/projectors": 52,
+    "Reddit r/projectors": 67,
     "ProjectorCentral": 49,
     "ZNDS投影頻道": 17,
     "投影時代": 3,
@@ -38,8 +38,8 @@
   "by_category": {
     "供應鏈": 8,
     "市場數據": 68,
-    "技術動態": 33,
-    "新品發布": 360
+    "技術動態": 35,
+    "新品發布": 374
   },
-  "latest_publish_date": "2026-08-14"
+  "latest_publish_date": "2026-08-17"
 }
