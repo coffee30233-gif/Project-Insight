@@ -1,5 +1,208 @@
 [
   {
+    "id": 772,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-AC40LU 北京特價 12,530 元",
+    "summary_zh": "北京經銷商「偉業投影」針對索諾克 SNP-AC40LU 投影機推出特價促銷活動，優惠價格為 12,530 元人民幣。實體門市位於北京市海淀區中成大廈，提供消費者現場諮詢與相關產品優惠。此資訊屬於區域經銷商的單一產品零售報價，適合有特定型號採購需求的用戶參考。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12344103.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "索諾克",
+      "SNP-AC40LU",
+      "投影機行情",
+      "北京促銷"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "SNOK"
+    ]
+  },
+  {
+    "id": 771,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克SNP-AC55LU投影機北京經銷商特價促銷",
+    "summary_zh": "索諾克SNP-AC55LU投影機在北京經銷商「偉業投影」展開特價促銷活動，優惠售價為8,000元人民幣。該款產品主打高亮度輸出，並具備U盤直接讀取與便利的無線投屏功能，能滿足商業簡報與多媒體播放等多種應用場景需求。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1234/12344102.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "索諾克",
+      "SNP-AC55LU",
+      "投影機行情",
+      "特價促銷",
+      "無線投屏"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ]
+  },
+  {
+    "id": 770,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基EH6834投影機北京特價促銷6720元",
+    "summary_zh": "明基EH6834投影機近期於北京經銷商偉業投影推出特價促銷活動，優惠售價為6,720元人民幣。該款產品主打色彩豐富、畫面清晰與智能省電等優勢，為在地市場提供具競爭力的選購選項。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12344101.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "明基",
+      "EH6834",
+      "投影機",
+      "促銷價格",
+      "北京"
+    ],
+    "mentioned_brands": [
+      "明基"
+    ]
+  },
+  {
+    "id": 769,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基 E585 投影機北京促銷價 6,099 元",
+    "summary_zh": "明基 E585 投影機近日在北京經銷商「偉業投影」推出特價促銷活動，優惠價格為 6,099 元人民幣。此款投影機主打高清畫質顯示，並具備四向梯形校正功能與支援側投技術，提供彈性安裝能力，適合辦公會議與商務簡報等多種應用場景需求。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12344100.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "明基E585",
+      "投影機促銷",
+      "四向校正",
+      "側投"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "明基"
+    ]
+  },
+  {
+    "id": 768,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基E545商用投影機北京通路促銷 優惠價4199元",
+    "summary_zh": "明基在北京經銷商通路針對E545投影機展開特價促銷，優惠售價為4199元人民幣。該款投影機主打高實用性與便捷性，具備4000流明高亮度，並支援iPad無線投屏與隨身碟直讀功能，可滿足一般商務會議與教學場合的簡報顯示需求。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12344099.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "明基",
+      "E545",
+      "商用投影機",
+      "通路促銷",
+      "4000流明"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "明基"
+    ]
+  },
+  {
+    "id": 767,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "宏碁 Acer AX620 投影機北京特價促銷 3000 元",
+    "summary_zh": "根據中關村線上報導，宏碁（Acer）AX620 投影機近期在經銷商「偉業投影」展開特價促銷活動，優惠價格為 3000 元人民幣。有意購買的消費者可前往北京市海澱區實體門市進行洽詢。此為經銷商針對單一產品發布的常規通路價格優惠動態。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1234/12344097.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "Acer AX620",
+      "宏碁",
+      "投影機",
+      "價格促銷"
+    ],
+    "mentioned_brands": [
+      "Acer",
+      "宏碁"
+    ]
+  },
+  {
+    "id": 766,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CH-TW7400投影機北京促銷價15,000元",
+    "summary_zh": "愛普生CH-TW7400家用投影機在北京經銷商「偉業投影」進行特價促銷，優惠價格為15,000元人民幣。該機型具備高品質影像表現，適合追求大螢幕影音體驗的消費者，有興趣的用戶可至海淀區實體店面或進行線上諮詢瞭解詳細促銷細節。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12344095.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "愛普生",
+      "CH-TW7400",
+      "家用投影機",
+      "通路行情",
+      "促銷優惠"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ]
+  },
+  {
+    "id": 765,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-TW7000 投影機北京促銷價 8,499 人民幣",
+    "summary_zh": "愛普生家庭劇院投影機 CH-TW7000 於北京經銷商推出特價促銷，折合優惠價為 8,499 元人民幣。該機型主要主打家用影音市場，具備 4K 超高畫質解析度與 3,000 流明高亮度，並配備大範圍光學變焦鏡頭及 3D 顯示支援，提供具吸引力的家用大畫面方案。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12344093.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "愛普生",
+      "CH-TW7000",
+      "4K投影機",
+      "家用投影機",
+      "價格促銷"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "愛普生"
+    ]
+  },
+  {
+    "id": 764,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2265U北京促銷行情 售價10500元人民幣",
+    "summary_zh": "愛普生 CB-2265U 投影機近期在北京「偉業投影」經銷商展開特價促銷，優惠價格為 10,500 元人民幣。該機種適合商務與會議簡報等高亮度顯示需求，有採購需求的消費者可前往北京海淀區實體門市，或透過經銷商通路進行詳細規格諮詢與購買。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1234/12344092.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "愛普生",
+      "CB-2265U",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 763,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BMZ51SC 投影機北京經銷商特價促銷",
+    "summary_zh": "松下（Panasonic）PT-BMZ51SC 雷射商用投影機於北京經銷商「偉業投影」展開特價促銷活動，優惠售價為 39,760 元人民幣。該機型主要針對商用市場設計，採用雷射光源並配備雙 HDMI 接口，能提供穩定的高品質顯示效果，適合辦公與會議室環境。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1234/12344091.html",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "松下",
+      "PT-BMZ51SC",
+      "雷射投影機",
+      "商用投影機",
+      "經銷商報價"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ]
+  },
+  {
     "id": 746,
     "source_name": "Reddit r/projectors",
     "title_zh": "投影機如何從專屬觀影設備轉變為日常隨性使用的工具",
@@ -8936,6 +9139,46 @@
     ]
   },
   {
+    "id": 762,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-S67 鐳射 3D 短焦投影機 1080P 高清促銷行情",
+    "summary_zh": "北京經銷商針對光峰 AL-S67 鐳射短焦投影機推出特價促銷，優惠價格為 33,999 元人民幣。該款投影機定位為商務與教育用機型，主打高亮度顯示與大畫面投射能力，並支援 1080P 高清解析度與 3D 顯示，適合大螢幕商教演示使用。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1200/12004144.html",
+    "publish_date": "2026-06-17",
+    "keywords": [
+      "光峰",
+      "激光投影機",
+      "短焦投影機",
+      "1080P",
+      "商教投影機"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ]
+  },
+  {
+    "id": 761,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "NEC 投影機 NP-CA4400X 辦公教育家用促銷行情",
+    "summary_zh": "本文介紹中關村線上發布的投影機市場行情，商家「格林德益」針對 SHARP/NEC NP-CA4400X 投影機推出特價促銷活動，優惠售價為 8,819 元人民幣。該款投影機主打辦公、教育與家用市場，感興趣的消費者可前往北京實體門市洽詢與購買。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1200/12004133.html",
+    "publish_date": "2026-06-17",
+    "keywords": [
+      "SHARP/NEC",
+      "NP-CA4400X",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "SHARP",
+      "NEC"
+    ]
+  },
+  {
     "id": 701,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-P501XZ 商務辦公雷射投影機促銷中",
@@ -9417,6 +9660,26 @@
     ]
   },
   {
+    "id": 759,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D80UB 模組化雷射投影機特價促銷",
+    "summary_zh": "易仁科技推出 YR-D80UB 雷射投影機促銷活動，特價為 359,000 元人民幣。該機型主要特色包含搭載模組化雷射光源技術、具備 HSG 色彩微調功能，以及支援智慧控制開關機等便利功能，為高階專業顯示與工程應用領域提供優質選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1149/11494013.html",
+    "publish_date": "2026-03-16",
+    "keywords": [
+      "易仁科技",
+      "YR-D80UB",
+      "雷射投影機",
+      "模組化光源",
+      "HSG色彩微調"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
     "id": 754,
     "source_name": "ZOL投影機頻道",
     "title_zh": "易仁科技 YR-M19+ 投影機特價促銷資訊",
@@ -9453,6 +9716,27 @@
     ],
     "mentioned_brands": [
       "易仁科技"
+    ]
+  },
+  {
+    "id": 758,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "哈趣 Q1 Pro Max 發布：1299 元起售的 LCD 投影旗艦，搭載哈曼音響與 AI OS",
+    "summary_zh": "哈趣正式推出單片式 LCD 投影旗艦新品 Q1 Pro Max，首發優惠價為 1,299 元人民幣。該機型整合全球資源打造，主打高品質音畫表現，不僅配備哈曼音響系統，更結合 AI OS 智慧作業系統，致力於提升家用 LCD 投影機的使用體驗與技術標準。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1146/11464969.html",
+    "publish_date": "2026-03-11",
+    "keywords": [
+      "哈趣",
+      "Q1 Pro Max",
+      "LCD投影機",
+      "單片式LCD",
+      "哈曼音響"
+    ],
+    "mentioned_brands": [
+      "哈趣",
+      "哈曼"
     ]
   },
   {
