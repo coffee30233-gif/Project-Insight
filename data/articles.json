@@ -1,5 +1,128 @@
 [
   {
+    "id": 781,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "日立 TCP-D1070U 工程投影機特價清庫存 雙燈熱切換高亮工程利器",
+    "summary_zh": "本文報導日立高端工程投影機 TCP-D1070U 於經銷商進行特價清庫存促銷。該機型採用 DLP 顯示技術，配備雙燈泡系統並支援熱切換功能，具備高亮度與穩定的運作能力，主要針對大型工程與專業展演等高階應用市場。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12349812.html",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "日立",
+      "TCP-D1070U",
+      "工程投影機",
+      "DLP",
+      "雙燈熱切換"
+    ],
+    "mentioned_brands": [
+      "日立"
+    ]
+  },
+  {
+    "id": 780,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-CL7816 廠家直銷特惠 3LCD 雷射高亮賦能大型場館",
+    "summary_zh": "易仁科技推出 YR-CL7816 工程投影機促銷活動。該機款採用先進的雷射光源與 3LCD 投影技術，具備高亮度表現，專為大型場館與專業工程投影需求設計。目前該產品於通路進行特價推廣，為大型展演與會議空間提供具性價比的高階投影解決方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12349792.html",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "易仁科技",
+      "YR-CL7816",
+      "3LCD",
+      "雷射投影機",
+      "工程投影機"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 779,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-PPV60AW 暑期特惠：4K 雷射超短焦投影機打造巨幕家庭劇院",
+    "summary_zh": "易仁科技旗下 YR-PPV60AW 投影機於中關村在線平台推出暑期特惠活動。該機型主打 4K 超高畫質、雷射光源與超短焦投影技術，專為打造巨幕家庭劇院設計。本次促銷由核心合作夥伴提供優惠，吸引有家庭娛樂升級需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12349785.html",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "易仁科技",
+      "YR-PPV60AW",
+      "4K投影機",
+      "雷射投影機",
+      "超短焦"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 778,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-DK750S 4K 雷射工程投影機特惠促銷，助力七夕光影活動",
+    "summary_zh": "光峰科技（Appotronics）的 AL-DK750S 雷射工程投影機於經銷商管道推出特價促銷。該機型採用獨家 ALPD 雷射顯示技術，具備 4K 超高解析度，專為大型工程投影與戶外光影展演設計。此次促銷適逢七夕節慶，旨在為各類景區光影秀與商用投影專案提供兼具高畫質與性價比的硬體解決方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12349774.html",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "光峰科技",
+      "AL-DK750S",
+      "雷射投影機",
+      "工程投影機",
+      "ALPD"
+    ],
+    "mentioned_brands": [
+      "光峰科技",
+      "Appotronics"
+    ]
+  },
+  {
+    "id": 777,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼UHZ616雷射4K投影機 大變焦+高對比打造客廳私人影院",
+    "summary_zh": "奧圖碼（Optoma）推出專為家庭影院設計的UHZ616雷射4K投影機，目前於通路進行特價促銷。該機型搭載德州儀器的DMD晶片，具備大變焦與高對比度特性，旨在為用戶客廳打造高品質的私人影院體驗，提供優異的色彩表現與高解析度畫面。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1234/12349765.html",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "奧圖碼",
+      "UHZ616",
+      "雷射投影機",
+      "4K投影機",
+      "家庭影院"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Texas Instruments"
+    ]
+  },
+  {
+    "id": 776,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-X3282STC 短焦投影機特惠促銷，助力商務與教育高效演示",
+    "summary_zh": "本文報導松下（Panasonic）PT-X3282STC 短焦投影機在通路進行特價促銷活動。該機型專為短距離投影設計，主打商務與教育市場，能在有限空間內投射出大畫面，有效提升會議與教學的演示效率，為企業與學校提供高性價比的投影解決方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1234/12349753.html",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "松下",
+      "PT-X3282STC",
+      "短焦投影機",
+      "商務投影機",
+      "教育投影機"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ]
+  },
+  {
     "id": 772,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索諾克 SNP-AC40LU 北京特價 12,530 元",
@@ -9078,6 +9201,26 @@
     ]
   },
   {
+    "id": 775,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 V10 Ultra 頂配家用投影機通路特惠促銷",
+    "summary_zh": "本文報導了家用投影機大眼橙 V10 Ultra 在北京經銷商「易仁科技」的最新促銷行情。該款投影機主打超大記憶體、輕薄小巧的外觀設計以及高畫質表現，目前商家釋出特價 7,599 元人民幣的優惠方案，為有意購買高階家用投影設備的消費者提供具吸引力的通路價格選擇。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1204/12041518.html",
+    "publish_date": "2026-06-23",
+    "keywords": [
+      "大眼橙",
+      "V10 Ultra",
+      "家用投影機",
+      "通路促銷",
+      "價格行情"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ]
+  },
+  {
     "id": 756,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-FH54投影機北京特價促銷中",
@@ -9657,6 +9800,26 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
+    ]
+  },
+  {
+    "id": 774,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L530U 投影機北京商家特價促銷行情",
+    "summary_zh": "本報導指出，愛普生（Epson）CB-L530U 投影機近日在北京市實體商家「愛普生麗訊理光投影方案」展開特價促銷活動。該機型主打辦公會議、培訓及家用高清投影需求。目前商家提供面議優惠價，有興趣的消費者可前往北京市昌平區的實體店面進行詳細諮詢與體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1153/11532273.html",
+    "publish_date": "2026-03-23",
+    "keywords": [
+      "愛普生",
+      "CB-L530U",
+      "投影機",
+      "商家促銷",
+      "辦公會議"
+    ],
+    "mentioned_brands": [
+      "Epson"
     ]
   },
   {
