@@ -1,13 +1,14 @@
 {
-  "total_articles": 538,
+  "total_articles": 544,
   "total_sources": 32,
   "by_source": {
-    "ZOL投影機頻道": 233,
+    "ZOL投影機頻道": 237,
     "ProjectorReviews": 118,
     "Reddit r/projectors": 84,
     "ProjectorCentral": 49,
     "ZNDS投影頻道": 17,
     "投影時代": 3,
+    "IT之家": 3,
     "DigiTimes": 3,
     "知乎": 2,
     "流媒体网": 2,
@@ -25,7 +26,6 @@
     "Projector Reviews": 1,
     "OFweek激光网": 1,
     "OFweek显示网": 1,
-    "IT之家": 1,
     "HomeTheaterReview": 1,
     "Hisense USA": 1,
     "GSMGoTech": 1,
@@ -37,9 +37,9 @@
   },
   "by_category": {
     "供應鏈": 9,
-    "市場數據": 81,
+    "市場數據": 83,
     "技術動態": 41,
-    "新品發布": 407
+    "新品發布": 411
   },
-  "latest_publish_date": "2026-08-19"
+  "latest_publish_date": "2026-08-22"
 }
