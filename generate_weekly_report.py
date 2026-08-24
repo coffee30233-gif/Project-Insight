@@ -68,7 +68,7 @@ def _draw_category_chart(articles: list[dict], out_path: str) -> bool:
     import matplotlib.pyplot as plt
 
     # 盡量找一個裝置上有的中文字型，找不到就讓 matplotlib 用預設（英文/數字仍會正常顯示）
-    for font_name in ["Microsoft JhengHei", "Microsoft YaHei", "PingFang TC",
+    for font_name in ["WenQuanYi Zen Hei", "Microsoft JhengHei", "Microsoft YaHei", "PingFang TC",
                        "Noto Sans CJK TC", "SimHei", "Arial Unicode MS"]:
         if font_name in {f.name for f in matplotlib.font_manager.fontManager.ttflist}:
             plt.rcParams["font.sans-serif"] = [font_name]
