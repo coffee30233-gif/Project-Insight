@@ -32,12 +32,13 @@ from reportlab.pdfbase.ttfonts import TTFont
 
 REPORTS_DIR = "reports"
 
-# 跟網站一致的配色
-INK = HexColor("#1B1D22")
-MUTED = HexColor("#6B7280")
-LENS = HexColor("#4C7EFF")
-LAMP = HexColor("#B8760C")  # 印在白底 PDF 上，用比網站深一點的琥珀色維持可讀性
-BORDER = HexColor("#E3E5E9")
+# 跟網站一致的配色（同一組色票也用在 generate_weekly_report.py 的圖表上）
+ROOM = HexColor("#14161A")   # 頁面底色（深）
+SCREEN = HexColor("#F5F3EC")  # 主要文字（米白）
+MIST = HexColor("#9096A1")    # 次要／輔助文字（灰）
+LENS = HexColor("#4C7EFF")    # 強調色（藍，用於段落標題）
+LAMP = HexColor("#FFB454")    # 強調色（琥珀，用於項目符號、標題重點）
+DIVIDER = HexColor("#2A2E38")  # 分隔線（跟圖表座標軸同一色，深色底上剛好夠看又不搶戲）
 
 FONT_CANDIDATES = [
     # Windows：微軟正黑體（優先，繁體）／新細明體／標楷體
@@ -80,21 +81,29 @@ def _register_font():
     _font_registered = True
 
 
+def _paint_background(canvas, doc):
+    """每一頁在排版內容畫上去之前，先把整頁填成深色底，跟網站/圖表風格一致。"""
+    canvas.saveState()
+    canvas.setFillColor(ROOM)
+    canvas.rect(0, 0, doc.pagesize[0], doc.pagesize[1], stroke=0, fill=1)
+    canvas.restoreState()
+
+
 def _styles():
     return {
         "title": ParagraphStyle("title", fontName=FONT_NAME, fontSize=20, leading=27,
-                                 textColor=INK, spaceAfter=4),
+                                 textColor=SCREEN, spaceAfter=4),
         "subtitle": ParagraphStyle("subtitle", fontName=FONT_NAME, fontSize=10, leading=14,
-                                    textColor=MUTED, spaceAfter=18),
+                                    textColor=LAMP, spaceAfter=18),
         "h2": ParagraphStyle("h2", fontName=FONT_NAME, fontSize=14, leading=20,
                               textColor=LENS, spaceBefore=16, spaceAfter=8),
         "body": ParagraphStyle("body", fontName=FONT_NAME, fontSize=10.5, leading=17,
-                                textColor=INK, alignment=TA_LEFT),
+                                textColor=SCREEN, alignment=TA_LEFT),
         "bullet": ParagraphStyle("bullet", fontName=FONT_NAME, fontSize=10.5, leading=16,
-                                  textColor=INK, alignment=TA_LEFT,
+                                  textColor=SCREEN, alignment=TA_LEFT,
                                   leftIndent=14, bulletIndent=0, spaceAfter=6),
         "footer": ParagraphStyle("footer", fontName=FONT_NAME, fontSize=8, leading=12,
-                                  textColor=MUTED),
+                                  textColor=MIST),
     }
 
 
@@ -122,7 +131,11 @@ def build_pdf(md_path: str, out_path: str):
     def flush_bullets():
         if current_bullets:
             for b in current_bullets:
-                story.append(Paragraph(f"●&nbsp;&nbsp;{_inline_to_html(b)}", styles["bullet"]))
+                bullet_html = (
+                    '<font color="#FFB454">&#9679;</font>'
+                    f'&nbsp;&nbsp;{_inline_to_html(b)}'
+                )
+                story.append(Paragraph(bullet_html, styles["bullet"]))
             story.append(Spacer(1, 4))
             current_bullets.clear()
 
@@ -134,7 +147,7 @@ def build_pdf(md_path: str, out_path: str):
             title = line[2:].strip()
             story.append(Paragraph(title, styles["title"]))
             story.append(Paragraph("投影機情報站 · 週報", styles["subtitle"]))
-            story.append(HRFlowable(width="100%", thickness=0.6, color=BORDER, spaceAfter=6))
+            story.append(HRFlowable(width="100%", thickness=0.6, color=DIVIDER, spaceAfter=6))
             continue
         if line.startswith("## "):
             flush_bullets()
@@ -150,7 +163,7 @@ def build_pdf(md_path: str, out_path: str):
 
     flush_bullets()
 
-    # 內嵌分類統計圖（如果有的話）
+    # 內嵌分類統計圖（如果有的話）——圖表本身就是深色底，跟頁面背景無縫接軌
     chart_path = os.path.splitext(md_path)[0] + "-chart.png"
     if os.path.exists(chart_path):
         story.append(Spacer(1, 8))
@@ -158,7 +171,7 @@ def build_pdf(md_path: str, out_path: str):
         story.append(Spacer(1, 8))
 
     story.append(Spacer(1, 20))
-    story.append(HRFlowable(width="100%", thickness=0.6, color=BORDER, spaceAfter=6))
+    story.append(HRFlowable(width="100%", thickness=0.6, color=DIVIDER, spaceAfter=6))
     story.append(Paragraph(
         "本週報由投影機情報站自動彙整產生。完整歷史報告與 AI 問答，"
         "請至網站查看。", styles["footer"]))
@@ -168,7 +181,7 @@ def build_pdf(md_path: str, out_path: str):
         topMargin=2 * cm, bottomMargin=2 * cm, leftMargin=2 * cm, rightMargin=2 * cm,
         title=title or "投影機情報站週報",
     )
-    doc.build(story)
+    doc.build(story, onFirstPage=_paint_background, onLaterPages=_paint_background)
 
 
 def main():
