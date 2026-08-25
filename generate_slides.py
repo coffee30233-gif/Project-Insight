@@ -31,6 +31,10 @@ Markdown 裡 **粗體** 標出的關鍵詞（用琥珀色加粗顯示），項�
 
 仍然是全自動產生、不需要另外裝 Node.js；如果要更講究、含時間軸的版本，
 可以請 AI 助手用 pptxgenjs 客製化製作。
+
+【版面自動判斷】如果一個段落底下的項目符號，大多數是「**關鍵詞**：說明」這種
+格式、而且數量不太多（2-8 條），會自動改用卡片網格呈現（比較像簡報，不是條列）；
+不符合這個格式、或項目太多太長的段落，維持原本的條列式呈現，並沿用動態分頁機制。
 """
 import re
 import sys
@@ -48,11 +52,17 @@ from pptx.enum.chart import XL_CHART_TYPE, XL_LEGEND_POSITION, XL_TICK_LABEL_POS
 # 跟網站一致的配色（見 style.css / tailwind 設計 token）
 ROOM = RGBColor(0x14, 0x16, 0x1A)
 CARD = RGBColor(0x1C, 0x1F, 0x26)
+CARD2 = RGBColor(0x23, 0x26, 0x2F)
 SCREEN = RGBColor(0xF5, 0xF3, 0xEC)
 MIST = RGBColor(0x90, 0x96, 0xA1)
 LENS = RGBColor(0x4C, 0x7E, 0xFF)
 LAMP = RGBColor(0xFF, 0xB4, 0x54)
+PURPLE = RGBColor(0x8B, 0x7F, 0xD6)
+GREEN = RGBColor(0x6F, 0xCF, 0x97)
 BORDER = RGBColor(0x2A, 0x2E, 0x38)
+
+# 卡片邊框顏色輪替色盤（跟架構簡報那份的配色邏輯一致）
+CARD_PALETTE = [LENS, LAMP, PURPLE, GREEN]
 
 SLIDE_W = Inches(13.333)
 SLIDE_H = Inches(7.5)
@@ -62,6 +72,26 @@ LINE_HEIGHT_IN = 0.26        # 每行估計高度（含行距）
 BULLET_GAP_IN = 0.18         # 每條項目符號之間的間距
 CONTENT_TOP_IN = 1.75
 CONTENT_BOTTOM_IN = 6.85     # 底線留給頁碼/邊界
+
+# 卡片網格：每頁最多放幾張卡片（太多會太擠，改分頁）
+MAX_CARDS_PER_SLIDE = 6
+
+# 段落標題關鍵字 → 圖示，抓不到對應關鍵字就不顯示圖示（不會影響版面）
+SECTION_ICONS = [
+    (("市場數據", "市場回顧", "銷量", "出貨"), "📊"),
+    (("新品", "品牌", "發布"), "✨"),
+    (("技術", "供應鏈"), "🔧"),
+    (("關注", "展望", "趨勢"), "🔭"),
+    (("摘要", "重點"), "📝"),
+    (("時間軸", "Timeline", "轉折"), "🕐"),
+]
+
+
+def _section_icon(heading: str) -> str:
+    for keywords, icon in SECTION_ICONS:
+        if any(k in heading for k in keywords):
+            return icon
+    return ""
 
 
 def _runs_char_len(runs):
@@ -93,6 +123,38 @@ def paginate_bullets(bullets):
     if current:
         pages.append(current)
     return pages
+
+
+def _extract_card_term(runs, max_term_len=18):
+    """
+    判斷這條項目符號是不是「**關鍵詞**：說明」格式，是的話回傳 (term, description)，
+    不是的話回傳 None。關鍵詞長度設上限，避免整句話剛好被寫成粗體時被誤判成卡片標題。
+    """
+    if not runs or not runs[0][1]:  # 第一段不是粗體，不符合格式
+        return None
+    term = runs[0][0].strip()
+    term = re.sub(r"[：:]\s*$", "", term)  # 去掉可能包含在粗體裡的冒號
+    if not term or len(term) > max_term_len:
+        return None
+    description = "".join(text for text, _ in runs[1:]).strip()
+    description = re.sub(r"^[：:]\s*", "", description)  # 去掉開頭的冒號
+    if not description:
+        return None
+    return term, description
+
+
+def _is_card_friendly(bullets, min_ratio=0.7):
+    """段落裡大多數項目都符合「關鍵詞：說明」格式、且數量不太多，才適合改用卡片網格。"""
+    if not bullets or len(bullets) > 12:
+        return False
+    matched = sum(1 for b in bullets if _extract_card_term(b) is not None)
+    return (matched / len(bullets)) >= min_ratio
+
+
+def paginate_cards(bullets, per_page=MAX_CARDS_PER_SLIDE):
+    """把符合卡片格式的項目，依 per_page 切成好幾頁。"""
+    cards = [_extract_card_term(b) or (b[0][0][:18], "".join(t for t, _ in b[1:])) for b in bullets]
+    return [cards[i:i + per_page] for i in range(0, len(cards), per_page)] or [[]]
 
 
 # ---------------------------------------------------------------------------
@@ -265,6 +327,25 @@ def _add_page_number(slide, n):
                  str(n).zfill(2), 10, MIST, align=PP_ALIGN.RIGHT)
 
 
+def _add_card_rect(slide, x, y, w, h, line_color=BORDER, fill_color=CARD):
+    shape = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, x, y, w, h)
+    shape.adjustments[0] = 0.06
+    shape.fill.solid()
+    shape.fill.fore_color.rgb = fill_color
+    shape.line.color.rgb = line_color
+    shape.line.width = Pt(1)
+    shape.shadow.inherit = False
+    return shape
+
+
+def _add_eyebrow_heading(slide, section_no, heading):
+    """段落編號 + 圖示 + 標題，內容頁跟卡片頁共用同一套視覺。"""
+    icon = _section_icon(heading)
+    eyebrow_text = f"{str(section_no).zfill(2)} · SECTION" + (f"　{icon}" if icon else "")
+    _add_textbox(slide, Inches(0.6), Inches(0.42), Inches(8), Inches(0.35), eyebrow_text, 11, LAMP, bold=True)
+    _add_textbox(slide, Inches(0.6), Inches(0.78), Inches(12), Inches(0.75), heading, 26, SCREEN, bold=True)
+
+
 # ---------------------------------------------------------------------------
 # 投影片版面
 # ---------------------------------------------------------------------------
@@ -289,12 +370,7 @@ def build_title_slide(prs, title, subtitle):
 def build_content_slide(prs, section_no, heading, bullet_group, continued=False):
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     _set_background(slide, ROOM)
-
-    eyebrow = f"{str(section_no).zfill(2)} · SECTION"
-    _add_textbox(slide, Inches(0.6), Inches(0.42), Inches(8), Inches(0.35), eyebrow, 11, LAMP, bold=True)
-
-    heading_text = heading
-    _add_textbox(slide, Inches(0.6), Inches(0.78), Inches(12), Inches(0.75), heading_text, 26, SCREEN, bold=True)
+    _add_eyebrow_heading(slide, section_no, heading)
 
     if not bullet_group:
         _add_textbox(slide, Inches(0.6), Inches(1.9), Inches(11), Inches(0.5), "（本段無內容）", 14, MIST)
@@ -336,13 +412,69 @@ def build_content_slide(prs, section_no, heading, bullet_group, continued=False)
     return slide
 
 
+def build_card_grid_slide(prs, section_no, heading, cards):
+    """
+    卡片網格版面，取代單調的條列，用在「關鍵詞：說明」格式的內容上
+    （例如品牌動態、新品盤點這類一條一個主題的段落）。
+    """
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    _set_background(slide, ROOM)
+    _add_eyebrow_heading(slide, section_no, heading)
+
+    n = len(cards)
+    if n <= 2:
+        cols = max(n, 1)
+    elif n == 3:
+        cols = 3
+    elif n == 4:
+        cols = 4
+    else:
+        cols = 3
+    rows = -(-n // cols)  # 無條件進位
+
+    margin_x = 0.6
+    gap = 0.25
+    top = 1.75
+    bottom_margin = 0.55
+    grid_w = 13.333 - margin_x * 2
+    grid_h = 7.5 - top - bottom_margin
+
+    card_w = (grid_w - gap * (cols - 1)) / cols
+    card_h = (grid_h - gap * (rows - 1)) / rows
+
+    for idx, (term, desc) in enumerate(cards):
+        r, c = divmod(idx, cols)
+        x = Inches(margin_x + c * (card_w + gap))
+        y = Inches(top + r * (card_h + gap))
+        w = Inches(card_w)
+        h = Inches(card_h)
+
+        accent = CARD_PALETTE[idx % len(CARD_PALETTE)]
+        _add_card_rect(slide, x, y, w, h, line_color=accent, fill_color=CARD2)
+
+        pad = Inches(0.22)
+        _add_textbox(slide, x + pad, y + Inches(0.18), w - pad * 2, Inches(0.5),
+                     term, 14.5, accent, bold=True)
+
+        desc_box = slide.shapes.add_textbox(x + pad, y + Inches(0.72), w - pad * 2, h - Inches(0.9))
+        tf = desc_box.text_frame
+        tf.word_wrap = True
+        p = tf.paragraphs[0]
+        p.line_spacing = 1.2
+        run = p.add_run()
+        run.text = desc
+        run.font.size = Pt(11.5)
+        run.font.name = "Arial"
+        run.font.color.rgb = SCREEN
+
+    _add_page_number(slide, section_no)
+    return slide
+
+
 def build_chart_slide(prs, section_no, heading, chart):
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     _set_background(slide, ROOM)
-
-    eyebrow = f"{str(section_no).zfill(2)} · SECTION"
-    _add_textbox(slide, Inches(0.6), Inches(0.42), Inches(8), Inches(0.35), eyebrow, 11, LAMP, bold=True)
-    _add_textbox(slide, Inches(0.6), Inches(0.78), Inches(12), Inches(0.6), heading, 22, SCREEN, bold=True)
+    _add_eyebrow_heading(slide, section_no, heading)
 
     chart_data = CategoryChartData()
     chart_data.categories = [label for label, _ in chart["categories"]]
@@ -439,8 +571,13 @@ def generate(md_path: str):
             build_chart_slide(prs, page, section["heading"], chart)
             page += 1
 
-        if section["bullets"] or not has_chart:
-            groups = paginate_bullets(section["bullets"])
+        bullets = section["bullets"]
+        if bullets and _is_card_friendly(bullets):
+            for group in paginate_cards(bullets):
+                build_card_grid_slide(prs, page, section["heading"], group)
+                page += 1
+        elif bullets or not has_chart:
+            groups = paginate_bullets(bullets)
             for g_idx, group in enumerate(groups):
                 build_content_slide(prs, page, section["heading"], group, continued=(g_idx > 0))
                 page += 1
