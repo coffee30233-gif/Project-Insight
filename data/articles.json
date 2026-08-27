@@ -1,5 +1,47 @@
 [
   {
+    "id": 825,
+    "source_name": "投影時代",
+    "title_zh": "中光學2026上半年營收7.25億人民幣 淨虧損同比縮減39.95%",
+    "summary_zh": "中光學公布2026年上半年財報，營業收入達7.25億元人民幣，年增6.71%，淨虧損大幅縮減39.95%。業務方面，光學元組件營收3.39億元，成長19.28%；投影機整機及配件營收1.18億元，年減5.72%。公司除穩定投影整機業務外，正積極加速轉型車載HUD與AR/VR等微納光學領域。",
+    "category": "市場數據",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/8/363165661872.shtml",
+    "publish_date": "2026-08-27",
+    "keywords": [
+      "中光學",
+      "半年度財報",
+      "投影機整機",
+      "光學元組件",
+      "車載HUD"
+    ],
+    "mentioned_brands": [
+      "中光學"
+    ]
+  },
+  {
+    "id": 829,
+    "source_name": "ProjectorCentral",
+    "title_zh": "JVC 將於 CEDIA 2026 展示 8K 劇院與 4K/120p 電競旗艦投影機",
+    "summary_zh": "JVC 宣布將於 CEDIA 2026 展會期間現場展示其旗艦級投影機產品，包含 DLA-NZ900 與 DLA-NZ800。展出重點將聚焦於極致的 8K 影音家庭劇院體驗，以及原生 4K/120p 高刷新率的流暢電競遊戲實機展示，呈現頂級影音與電競娛樂的全新標竿。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/jvc-cedia-2026.htm",
+    "publish_date": "2026-08-25",
+    "keywords": [
+      "JVC",
+      "8K",
+      "DLA-NZ900",
+      "DLA-NZ800",
+      "CEDIA",
+      "4K/120p",
+      "電競投影機"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ]
+  },
+  {
     "id": 821,
     "source_name": "投影時代",
     "title_zh": "以數位光影守護居延文脈 愛普生點亮「永不消失的黑水城」",
@@ -9569,6 +9611,25 @@
     ]
   },
   {
+    "id": 828,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 V70 行情暴漲 家用商用全能影音投影機",
+    "summary_zh": "大眼橙 V70 投影機近日在經銷商易仁科技展開特價促銷，優惠價格為 12,999 元人民幣。該機種定位為家用與商用兼具的全能影音設備，產品主要亮點包含智慧互聯、自動校正功能與夢幻氛圍燈效，適合有大螢幕影音與簡報需求的消費者選購。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1196/11963749.html",
+    "publish_date": "2026-06-10",
+    "keywords": [
+      "大眼橙 V70",
+      "投影機促銷",
+      "自動校正",
+      "智慧互聯"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ]
+  },
+  {
     "id": 785,
     "source_name": "ZOL投影機頻道",
     "title_zh": "大眼橙 R3 Ultra 高亮版 618 促銷特價 2705 元",
@@ -9707,6 +9768,27 @@
     ]
   },
   {
+    "id": 827,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-C15KU 投影機北京促銷熱賣",
+    "summary_zh": "愛普生（Epson）工程投影機 CB-C15KU 於北京經銷商展開特價促銷活動。該機種具備 4K 增強技術、支援 360 度全方位靈活安裝，並配備 NFC 近場傳輸功能，適用於各類大型展演與工程投影需求，感興趣的買家可聯繫經銷商洽詢詳細價格。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1179/11796681.html",
+    "publish_date": "2026-05-11",
+    "keywords": [
+      "愛普生",
+      "CB-C15KU",
+      "工程投影機",
+      "4K增強",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "愛普生"
+    ]
+  },
+  {
     "id": 689,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-L690U北京促銷熱賣",
@@ -9724,6 +9806,27 @@
     "mentioned_brands": [
       "愛普生",
       "理光"
+    ]
+  },
+  {
+    "id": 826,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-2265U 投影機特價促銷資訊",
+    "summary_zh": "愛普生（Epson）CB-2265U 投影機近期在北京通路商「北京合眾聯鑫」展開特價促銷活動。該機種主打高畫質與商務投影需求，目前商家提供面議優惠價，感興趣的買家可直接至北京中關村門市洽詢選購相關優惠方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1177/11771484.html",
+    "publish_date": "2026-05-08",
+    "keywords": [
+      "愛普生",
+      "Epson",
+      "CB-2265U",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "愛普生"
     ]
   },
   {
