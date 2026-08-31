@@ -1,5 +1,49 @@
 [
   {
+    "id": 856,
+    "source_name": "DigiTimes",
+    "title_zh": "環鴻科技旗下公司推出ELSFP雷射模組，積極拓展AI資料中心光互連市場",
+    "summary_zh": "日月光投控旗下的環鴻科技持續擴展AI資料中心光互連業務。其控股的EugenLight Technologies正式推出超高功率外部雷射光源可插拔模組系列，主要鎖定次世代AI運算叢集、高效能運算及高密度資料中心的高速光互連需求，預計於2027年第一季正式投入量產。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.digitimes.com/news/a20260828PD226/usi-laser-data-data-center-production.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "光互連",
+      "雷射模組",
+      "AI資料中心",
+      "環鴻科技",
+      "ELSFP"
+    ],
+    "mentioned_brands": [
+      "USI",
+      "ASE Technology Holding",
+      "EugenLight Technologies"
+    ]
+  },
+  {
+    "id": 855,
+    "source_name": "投影時代",
+    "title_zh": "安克創新發布2026年半年報：營收166.05億元同比增29.05%，智能影音板塊穩健增長",
+    "summary_zh": "安克創新發布2026年半年度報告，期內總營收達166.05億元人民幣，同比增長29.05%；歸母淨利潤為17.02億元，同比增長45.86%。其中，包含投影機業務的「智能影音」板塊營收達34.85億元，同比增長24.53%。報告期內，旗下投影品牌Nebula推出SpaceFlow AI智能空間映射配件，進一步豐富智慧投影產品的家庭娛樂應用。",
+    "category": "市場數據",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/8/403321486712.shtml",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "安克創新",
+      "財報",
+      "智慧影音",
+      "Nebula",
+      "投影配件",
+      "營收"
+    ],
+    "mentioned_brands": [
+      "Anker",
+      "Nebula"
+    ]
+  },
+  {
     "id": 849,
     "source_name": "投影時代",
     "title_zh": "極米、創維等13家光顯供應鏈企業半年報：淨利最高增873%，車載與AI推動成長",
@@ -10053,6 +10097,27 @@
     ]
   },
   {
+    "id": 862,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2255U北京促銷價10899元",
+    "summary_zh": "愛普生CB-2255U投影機在北京授權核心代理商處展開特價促銷，優惠售價為新台幣合約10899元人民幣。該款投影機主打3LCD投影技術，具備WUXGA標準解析度以及雙畫面並列投影等功能亮點，提供消費者具吸引力的採購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1184/11849678.html",
+    "publish_date": "2026-05-22",
+    "keywords": [
+      "愛普生",
+      "CB-2255U",
+      "3LCD",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ]
+  },
+  {
     "id": 836,
     "source_name": "ZOL投影機頻道",
     "title_zh": "三星4K雷射投影機SP-LSP7TFAXXZ北京經銷商促銷價13999元",
@@ -10680,6 +10745,26 @@
     ]
   },
   {
+    "id": 860,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-F750HZ 投影機北京經銷商特價促銷",
+    "summary_zh": "北京經銷商「北京合眾聯鑫」近期針對索尼（Sony）VPL-F750HZ 雷射投影機推出特價促銷活動。該款投影機主打高畫質與穩定光源，適用於商務與教育等專業投影場景。目前商家採價格面議方式銷售，並提供實體店面諮詢與電話洽詢管道，吸引有工程投影需求的客戶關注。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1154/11545499.html",
+    "publish_date": "2026-03-27",
+    "keywords": [
+      "索尼",
+      "VPL-F750HZ",
+      "投影機促銷",
+      "工程投影機",
+      "雷射光源"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
     "id": 642,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-P530HZ 投影機特價促銷資訊",
@@ -10734,6 +10819,26 @@
       "促銷行情"
     ],
     "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 859,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-PU1007B工程投影機特價促銷展開",
+    "summary_zh": "近期通路針對愛普生旗下定位於教育與工程領域的CB-PU1007B投影機推出特價促銷活動。該款設備具備7000流明高亮度以及4K高畫質規格，目前由特定經銷商提供價格面議優惠，吸引有採購需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1153/11538487.html",
+    "publish_date": "2026-03-25",
+    "keywords": [
+      "愛普生",
+      "工程投影機",
+      "CB-PU1007B",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
       "Epson"
     ]
   },
@@ -10834,6 +10939,25 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ]
+  },
+  {
+    "id": 858,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-CL7816 投影機特價促銷資訊",
+    "summary_zh": "本文報導易仁科技推出的 YR-CL7816 投影機產品，目前正於北京特定經銷商處進行特價促銷活動，優惠售價為 89,999 元人民幣。文中提供詳細的商家地址與賞機資訊，供有採購需求的消費者參考與洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1149/11494014.html",
+    "publish_date": "2026-03-16",
+    "keywords": [
+      "易仁科技",
+      "YR-CL7816",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
     ]
   },
   {
