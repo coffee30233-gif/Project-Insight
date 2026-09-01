@@ -1,5 +1,511 @@
 [
   {
+    "id": 864,
+    "source_name": "投影時代",
+    "title_zh": "全球投影上半年出貨1044萬台、同比降5.3%：中國大陸深度回調，雷射光源逆勢增長14.9%",
+    "summary_zh": "根據DISCIE數據，2026上半年全球投影機出貨1044.3萬台，同比下降5.3%。中國大陸市場衰退16.8%拖累整體表現，海外則僅微降1.3%。技術路線上1LCD佔七成居首，DLP衰退最深。儘管總量收縮，雷射光源逆勢增長14.9%，滲透率達11.7%，顯示市場正呈現總量收縮但結構升級的趨勢。",
+    "category": "市場數據",
+    "importance": 5,
+    "url": "http://www.pjtime.com/2026/8/412537222963.shtml",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "全球投影機市場",
+      "出貨量",
+      "雷射光源",
+      "1LCD",
+      "DLP",
+      "DISCIE"
+    ],
+    "mentioned_brands": [
+      "DISCIE"
+    ]
+  },
+  {
+    "id": 863,
+    "source_name": "投影時代",
+    "title_zh": "愛普生推出清亮全彩護眼投影系列 打造居家網課大屏解決方案",
+    "summary_zh": "因應線上教育需求增長與學童近距離用眼隱患，愛普生推出「清亮全彩親子護眼」投影系列，涵蓋CH-TW5750、CH-TW6280T及CB-FH08等機型。該系列採用3LCD成像技術與LumiPure煦彩光源，主打高亮度、零散斑及無頻閃特點，並提供平板與電腦連線等完整解決方案，協助建立健康的居家大屏學習環境。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/8/412749635447.shtml",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "愛普生",
+      "3LCD",
+      "護眼投影機",
+      "居家網課",
+      "CH-TW5750",
+      "CH-TW6280T"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "TÜV 萊茵"
+    ]
+  },
+  {
+    "id": 895,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-S600W 投影機北京促銷行情：特惠價 79,000 元人民幣",
+    "summary_zh": "本文報導了 ROLY（樂麗）品牌旗下 RL-S600W 投影機在北京市場的最新促銷行情。該機型目前由核心合作夥伴「易仁科技」進行特價推廣，優惠價格為 79,000 元人民幣。此資訊主要面向北京地區有高端投影設備採購需求的企業或個人用戶，提供實時的通路價格參考。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413658.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "ROLY",
+      "RL-S600W",
+      "投影機價格",
+      "北京促銷",
+      "易仁科技"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ]
+  },
+  {
+    "id": 894,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RP-L6200X 北京促銷價 21,990 元",
+    "summary_zh": "本文報導了 ROLY（樂麗）旗下投影機型號 RP-L6200X 在北京零售市場的最新促銷行情。經銷商「易仁科技」針對該款投影機推出特價優惠，目前促銷價格為 21,990 元人民幣。該活動為當地的實體通路促銷，有興趣的消費者可前往北京市海淀區的實體店面進行詳細諮詢與選購。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413656.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "ROLY",
+      "RP-L6200X",
+      "投影機價格",
+      "北京零售",
+      "通路促銷"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ]
+  },
+  {
+    "id": 893,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "Boxlight 寶視來 BV6H 投影機北京特價促銷 售價 59,999 元",
+    "summary_zh": "本文報導投影機品牌寶視來（Boxlight）旗下型號 BV6H 的最新市場行情。該款投影機主打 4K 超高清解析度、高流明度與高對比度等優異規格。近日在北京經銷商「易仁科技」展開特價促銷活動，優惠價格為 59,999 元人民幣，適合追求高畫質表現的專業或商用投影用戶關注。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413644.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "寶視來",
+      "Boxlight",
+      "BV6H",
+      "4K投影機",
+      "投影機價格",
+      "市場行情"
+    ],
+    "mentioned_brands": [
+      "Boxlight",
+      "寶視來"
+    ]
+  },
+  {
+    "id": 892,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-X3282STC 投影機北京促銷 售價 8950 元起",
+    "summary_zh": "本文報導松下（Panasonic）PT-X3282STC 投影機在北京市場的最新促銷行情。經銷商「易仁科技」針對該款商用短焦投影機推出特價優惠，參考價格為 8950 元人民幣。該機型主打短焦投影與高畫質表現，適合商務會議與教育培訓等場景，有興趣的消費者可至北京海淀區實體店面洽詢。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413642.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "松下",
+      "PT-X3282STC",
+      "短焦投影機",
+      "價格促銷",
+      "北京行情"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ]
+  },
+  {
+    "id": 891,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-XZ401C 投影機北京零售促銷 售價 14,999 元人民幣",
+    "summary_zh": "本報導指出松下（Panasonic）PT-XZ401C 投影機在北京零售通路展開特價促銷活動。該款投影機以高亮度為主要產品亮點，目前由核心合作夥伴「易仁科技」提供優惠報價為 14,999 元人民幣。此活動主要針對北京當地的商用或家用投影需求消費者，提供具備價格競爭力的採購選擇。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413640.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "松下",
+      "PT-XZ401C",
+      "投影機促銷",
+      "北京零售",
+      "高亮度"
+    ],
+    "mentioned_brands": [
+      "Panasonic",
+      "松下"
+    ]
+  },
+  {
+    "id": 890,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 REV9178 投影機北京經銷商特價促銷 售價 19,999 元",
+    "summary_zh": "本文報導奧圖碼（Optoma）旗下投影機型號 REV9178 在北京實體經銷商「易仁科技」展開特價促銷活動。該款投影機目前優惠價格為 19,999 元人民幣，商家提供實體店面諮詢與購買管道。此資訊反映了該機型在中國零售市場的最新價格動態與通路促銷現況。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413267.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "奧圖碼",
+      "REV9178",
+      "投影機",
+      "價格促銷",
+      "北京"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "奧圖碼"
+    ]
+  },
+  {
+    "id": 889,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 EH412ST 投影機北京通路特惠 售價 5,999 人民幣",
+    "summary_zh": "本報導指出奧圖碼（Optoma）短焦投影機 EH412ST 近期在北京經銷商「易仁科技」展開特價促銷，優惠價格為 5,999 元人民幣。該機型主打超高亮度表現，支援白天直接投影，並具備便利的梯形校正功能，適合商務與家用等多種場景，為當地市場提供高性價比的選擇。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413264.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "奧圖碼",
+      "EH412ST",
+      "短焦投影機",
+      "通路促銷",
+      "北京"
+    ],
+    "mentioned_brands": [
+      "奧圖碼",
+      "Optoma"
+    ]
+  },
+  {
+    "id": 888,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 CUL80T 投影機北京促銷熱賣",
+    "summary_zh": "奧圖碼（Optoma）CUL80T 投影機近日在北京經銷商展開特價促銷活動。該機型主打相容 4K 高畫質解析度，並具備實用的牆面色彩補償功能與色彩設定選項，能因應不同投影環境進行畫面優化，提供消費者更彈性的安裝與觀影選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413262.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "奧圖碼",
+      "CUL80T",
+      "投影機促銷",
+      "4K相容",
+      "牆面色彩補償"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "奧圖碼"
+    ]
+  },
+  {
+    "id": 887,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麗訊 DU9055Z 北京特價 388,880 元，雙雷射工程投影機促銷",
+    "summary_zh": "本文報導麗訊（Vivitek）DU9055Z 工程雷射投影機在北京經銷商進行特價促銷，優惠價格為 388,880 元人民幣。該機型主打超高亮度與雙雷射光源技術，定位為專業工程級投影應用，適合大型場館與展演需求。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413260.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "麗訊",
+      "Vivitek",
+      "DU9055Z",
+      "工程投影機",
+      "雷射投影機",
+      "價格行情"
+    ],
+    "mentioned_brands": [
+      "Vivitek",
+      "麗訊"
+    ]
+  },
+  {
+    "id": 886,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麗訊 DU9900Z 北京特價促銷 售價 65 萬元",
+    "summary_zh": "麗訊（Vivitek）工程投影機 DU9900Z 近日在北京經銷商「易仁科技」進行特價促銷活動，優惠報價為人民幣 650,000 元。該產品主要面向高端工程與大場景投影需求，經銷商提供實體門市諮詢與銷售服務，為有高亮度工程投影需求的採購方提供價格參考。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413258.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "麗訊",
+      "DU9900Z",
+      "工程投影機",
+      "價格行情"
+    ],
+    "mentioned_brands": [
+      "麗訊",
+      "Vivitek"
+    ]
+  },
+  {
+    "id": 885,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 R3 Ultra 高亮版北京特價促銷 2705 元",
+    "summary_zh": "商家易仁科技於北京推出大眼橙 R3 Ultra 高亮版投影機特價促銷，優惠售價為 2705 元人民幣。該款產品主打高清畫質、高對比度及超大記憶體配置，旨在提供優質的家庭影音體驗，為近期有購機需求的消費者提供通路價格參考。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413255.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra",
+      "投影機促銷",
+      "通路價格"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ]
+  },
+  {
+    "id": 884,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 C3 Ultra 投影機北京促銷價 2199 元",
+    "summary_zh": "大眼橙 C3 Ultra 投影機目前在北京經銷商「易仁科技」推出特價促銷活動，優惠價格為 2,199 元人民幣。該機型主要針對觀影娛樂需求設計，主打高效散熱機制與極靜音運行表現，為消費者提供具備性價比與舒適觀賞體驗的家用顯示選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413253.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "大眼橙",
+      "C3 Ultra",
+      "投影機",
+      "價格促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ]
+  },
+  {
+    "id": 883,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-6000U 投影機北京促銷價 128,000 元",
+    "summary_zh": "本篇報導指出，投影機品牌 ROLY 旗下型號為 RL-6000U 的投影機，近日在北京當地的經銷商「易仁科技」進行特價促銷活動，優惠報價為 128,000 元人民幣。該款設備定位為高階工程或商用投影機，有採購需求的企業客戶可前往北京市海淀區的實體門市進行詳細諮詢與選購。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12413251.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "ROLY",
+      "RL-6000U",
+      "投影機價格",
+      "北京促銷",
+      "工程投影機"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ]
+  },
+  {
+    "id": 881,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D72UB 北京特價促銷 34.9 萬元",
+    "summary_zh": "易仁科技 YR-D72UB 高階雷射投影機近期於北京經銷商推出特價促銷，售價為 349,000 元人民幣。該款投影機主打特色包括搭載模組化雷射光源、支援 HSG 色彩微調功能，以及具備智慧控制開關機等便利機能，滿足專業與高階視聽需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1241/12412080.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-D72UB",
+      "雷射投影機",
+      "模組化光源",
+      "HSG色彩微調"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 880,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D86UB 投影機北京促銷價 389,000 元",
+    "summary_zh": "易仁科技旗下 YR-D86UB 投影機於北京經銷商開展促銷活動，優惠價為 389,000 元人民幣。該款產品主打模組化雷射光源，配備 HSG 色彩微調功能，並支援智慧控制開關機系統，針對高階專業顯示市場提供具競爭力的硬體配置與操作體驗。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412079.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-D86UB",
+      "模組化雷射光源",
+      "HSG色彩微調",
+      "投影機行情"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 879,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D100UB 投影機北京促銷 優惠價 468,000 元",
+    "summary_zh": "易仁科技旗下投影機產品 YR-D100UB 於北京經銷門市推出特價促銷活動，優惠價格為 468,000 元人民幣。該門市位於北京市海淀區知春路理想大廈，為官方核心合作夥伴。本次促銷主要針對高端專業顯示與工程投影需求，提供意向客戶實體門市現場諮詢與採購服務。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1241/12412077.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-D100UB",
+      "工程投影機",
+      "市場行情"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 878,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-NG4186 北京特價促銷 5999 元",
+    "summary_zh": "易仁科技於北京通路針對 YR-NG4186 投影機推出特價促銷，優惠價為 5,999 元人民幣。該機型具備四核心智慧系統、自動對焦功能，並支援藍芽語音遙控，提供便利的操作體驗，為近期市場上關注的智慧投影產品之一。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412076.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "投影機",
+      "易仁科技",
+      "自動對焦",
+      "藍芽語音遙控",
+      "價格促銷"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 876,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D45UB 北京特價促銷 售價 10999 元",
+    "summary_zh": "易仁科技旗下的 YR-D45UB 投影機近期在北京經銷商處展開特價促銷活動，優惠價格為 10,999 元人民幣。有購買需求的消費者可至位於北京市海淀區知春路理想大廈的實體門市進行諮詢與選購。此報導屬於地方通路行情資訊。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1241/12412074.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-D45UB",
+      "投影機促銷",
+      "北京行情"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 875,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-BJ5335 投影機北京促銷價 69,999 元",
+    "summary_zh": "易仁科技旗下的 YR-BJ5335 投影機產品於北京經銷商門市展開特價促銷活動，優惠售價為 69,999 元人民幣。消費者可直接前往北京市海淀區知春路門市進行實體諮詢與選購。本訊息屬於一般的經銷商管道促銷行情。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412072.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-BJ5335",
+      "投影機",
+      "促銷行情",
+      "北京"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 874,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-RL5817 投影機北京促銷價 79999 人民幣",
+    "summary_zh": "易仁科技於北京地區對旗下 YR-RL5817 投影機展開特價促銷活動，經銷商報價為 79,999 元人民幣。該訊息主要提供給有採購需求的實體門市消費者參考，展現出高階工程或商業投影機在特定通路的最新零售行情資訊。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412071.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-RL5817",
+      "投影機促銷",
+      "價格行情"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 873,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技高亮度工程投影機YR-D200UAW北京促銷價69萬元",
+    "summary_zh": "易仁科技針對高階工程市場推出YR-D200UAW投影機，近期於北京經銷商展開促銷，特價69萬元人民幣。該機種採用DLP雙色雷射光源技術，擁有高達22,000流明的高亮度表現，並配備電動鏡頭設計，適合大型展演及專業視訊工程應用。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1241/12412064.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "DLP",
+      "雙色雷射",
+      "22000流明",
+      "工程投影機",
+      "電動鏡頭"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 872,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 X9 4K超短焦投影機北京開出 36,999 元促銷價",
+    "summary_zh": "易仁科技旗下投影機 X9 於北京經銷門市推出特價促銷活動，優惠售價為 36,999 元人民幣。該款投影機具備 4K 超高解析度、多螢幕互動功能，並配備超短焦鏡頭設計，能為使用者提供近距離投射大螢幕的觀影體驗，為近期市場關注的超短焦旗艦機種之一。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412063.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "X9",
+      "4K投影機",
+      "超短焦",
+      "通路價格"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 870,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 CUL15K 投影機北京經銷商報價 180,000 人民幣",
+    "summary_zh": "奧圖碼 CUL15K 投影機於經銷商易仁科技推出特價促銷，優惠價為 180,000 元人民幣。該機種主要亮點包含搭載智慧影像管理平台，並可相容 4K 高解析度與支援 HDR 高動態範圍技術，適用於專業工程與大螢幕顯示需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1241/12412052.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "奧圖碼",
+      "CUL15K",
+      "工程投影機",
+      "4K",
+      "HDR"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
+    ]
+  },
+  {
     "id": 856,
     "source_name": "DigiTimes",
     "title_zh": "環鴻科技旗下公司推出ELSFP雷射模組，積極拓展AI資料中心光互連市場",
@@ -41,6 +547,32 @@
     "mentioned_brands": [
       "Anker",
       "Nebula"
+    ]
+  },
+  {
+    "id": 854,
+    "source_name": "投影時代",
+    "title_zh": "聯合光電發布2026年半年度報告：營收穩步增長並實現扭虧為盈",
+    "summary_zh": "聯合光電發布2026年半年度報告，總營收達10.49億元人民幣，淨利潤782.54萬元順利實現扭虧為盈。在智慧顯示領域，公司持續鞏固投影鏡頭與光機優勢，完成超短焦及短焦等新光機設計，並透過取得火樂科技約13.62%股權深化智能顯示產業佈局；車載鏡頭等智能駕駛業務亦實現顯著增長。",
+    "category": "供應鏈",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/8/403351124737.shtml",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "聯合光電",
+      "投影鏡頭",
+      "投影光機",
+      "火樂科技",
+      "半年度報告"
+    ],
+    "mentioned_brands": [
+      "聯合光電",
+      "火樂科技",
+      "逸文科技",
+      "大朋",
+      "谷東",
+      "光粒",
+      "邁測"
     ]
   },
   {
@@ -10159,6 +10691,26 @@
     ]
   },
   {
+    "id": 869,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "震撼畫質！奧圖碼 MEU702 工程投影機熱賣中",
+    "summary_zh": "經銷商易仁科技針對奧圖碼 MEU702 工程投影機推出特價促銷活動。該機型主要特色包含細緻畫面表現、超長使用壽命以及色彩微調功能，專為工程投影需求打造，感興趣的消費者可直接洽詢門市獲取優惠價格。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1180/11800811.html",
+    "publish_date": "2026-05-12",
+    "keywords": [
+      "奧圖碼",
+      "MEU702",
+      "工程投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "奧圖碼",
+      "Optoma"
+    ]
+  },
+  {
     "id": 492,
     "source_name": "ZOL投影機頻道",
     "title_zh": "高性價比之選：大眼橙 C3 Air 智慧投影機促銷特惠",
@@ -10560,6 +11112,26 @@
     ]
   },
   {
+    "id": 868,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "5000流明 ROLY RP-L5000U 大型會議首選",
+    "summary_zh": "ROLY RP-L5000U 投影機具備 5000 流明高亮度，專為大型會議室空間設計。北京經銷商「易仁科技」近期針對該機款推出促銷優惠活動，特價為 6,800 元人民幣。該產品適合有高亮度簡報需求與大型會議顯示應用的企業客戶選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1169/11692603.html",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "ROLY",
+      "RP-L5000U",
+      "5000流明",
+      "會議投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ]
+  },
+  {
     "id": 813,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CB-L790U 高端工程旗艦投影機 賦能專業視覺場景",
@@ -10936,6 +11508,25 @@
       "投影機",
       "商家促銷",
       "辦公會議"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ]
+  },
+  {
+    "id": 867,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L530U 投影機北京經銷商特價促銷 13929 元",
+    "summary_zh": "愛普生 CB-L530U 雷射工程投影機在北京經銷商處進行特價促銷活動，優惠價格為 13929 元人民幣。該機型主要針對商用與大型會議展示需求，感興趣的消費者可前往北京市海淀區經銷商實體門市或洽詢相關優惠細節。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1149/11498043.html",
+    "publish_date": "2026-03-17",
+    "keywords": [
+      "愛普生",
+      "CB-L530U",
+      "雷射投影機",
+      "行情促銷"
     ],
     "mentioned_brands": [
       "Epson"
