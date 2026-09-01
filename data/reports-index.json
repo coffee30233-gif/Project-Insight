@@ -33,6 +33,11 @@
   ],
   "monthly": [
     {
+      "file": "2026-08.md",
+      "hasSlides": true,
+      "hasPdf": false
+    },
+    {
       "file": "2026-07.md",
       "hasSlides": true,
       "hasPdf": false
