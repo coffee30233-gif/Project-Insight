@@ -1,5 +1,357 @@
 [
   {
+    "id": 924,
+    "source_name": "ZNDS投影頻道",
+    "title_zh": "海信發布JUOS系統 首款家庭智能伴侶級AIOS原生適配投影機等多終端",
+    "summary_zh": "海信正式發布全場景家庭智能伴侶級作業系統「海信JUOS」。該系統搭載海信自研的星海大模型與四大原生引擎，專為家庭智慧生活設計，原生適配投影機、電視及智慧家電等多種終端設備。JUOS旨在透過AI技術整合跨裝置體驗，提升智慧投影機與家電的互動能力與個人化服務。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://news.znds.com/article/news/69620.html",
+    "publish_date": "2026-09-03",
+    "keywords": [
+      "海信",
+      "JUOS",
+      "AIOS",
+      "星海大模型",
+      "智慧投影"
+    ],
+    "mentioned_brands": [
+      "海信"
+    ]
+  },
+  {
+    "id": 925,
+    "source_name": "ProjectorCentral",
+    "title_zh": "ProjectorCentral 公布 2026 年 CEDIA 最佳展品獎得主",
+    "summary_zh": "知名投影機評測網站 ProjectorCentral 公布了 2026 年 CEDIA 展會的「最佳展品獎」得主。該獎項旨在表彰在投影機及投影配件領域中展現傑出創新與技術突破的頂尖產品，為消費者與產業專家提供年度最具代表性的採購與技術參考指南。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://www.projectorcentral.com/projectorcentral-2026-cedia-awards.htm",
+    "publish_date": "2026-09-02",
+    "keywords": [
+      "CEDIA 2026",
+      "ProjectorCentral",
+      "最佳展品獎",
+      "投影機配件",
+      "創新產品"
+    ],
+    "mentioned_brands": [
+      "ProjectorCentral"
+    ]
+  },
+  {
+    "id": 898,
+    "source_name": "投影時代",
+    "title_zh": "大眼橙2026秋季新品發佈會啟幕 TCL華星深度站台共築1LCD投影技術新標桿",
+    "summary_zh": "大眼橙將於9月10日舉辦2026秋季新品發佈會，攜手面板大廠TCL華星推出全系搭載專屬客製化面板的1LCD投影機。旗艦機型首度將LTPS高刷新率技術應用於家用投影，支援原生120Hz刷新率與MEMC運動補償。此外，透光率提升超15%且暗場對比達20000:1，由湖南創科光電提供全封閉光機技術，推動1LCD產業邁向高畫質競爭。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "http://www.pjtime.com/2026/9/113046123474.shtml",
+    "publish_date": "2026-09-02",
+    "keywords": [
+      "大眼橙",
+      "TCL華星",
+      "1LCD",
+      "LTPS",
+      "高刷新率",
+      "投影機新品"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "TCL華星",
+      "湖南創科光電"
+    ]
+  },
+  {
+    "id": 897,
+    "source_name": "投影時代",
+    "title_zh": "索諾克雷射工程投影機進駐汾陽博物館 打造沉浸式數位光影展廳",
+    "summary_zh": "山西汾陽博物館引進 22 台索諾克領航系列高亮雷射工程投影機，應用於環幕、暗場星空、古城沙盤及壁畫體驗等十餘種展陳場景。該系列具備高解析度、高對比度及六通道 HSG 色彩調校系統，搭配全封閉防塵與雙渦輪散熱設計，能滿足博物館長時間穩定運行的需求，提供數位文化展覽解決方案。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/9/122048431465.shtml",
+    "publish_date": "2026-09-02",
+    "keywords": [
+      "索諾克",
+      "Sonnoc",
+      "雷射工程投影機",
+      "汾陽博物館",
+      "沉浸式投影"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ]
+  },
+  {
+    "id": 896,
+    "source_name": "投影時代",
+    "title_zh": "山西汾陽博物館引進22台索諾克雷射工程投影機打造沉浸式光影展廳",
+    "summary_zh": "山西汾陽博物館採用22台索諾克（Sonnoc）領航系列雷射工程投影機，全面覆蓋器物環幕、東龍觀宋金壁畫墓、古城沙盤及詩詞長廊等複雜展區。該系列具備高解析度、高對比度與HSG色彩管理技術，配合多機融合校正與長效防塵結構，成功將傳統文物典藏轉化為靈動的數位沉浸式展覽體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/9/122052295676.shtml",
+    "publish_date": "2026-09-02",
+    "keywords": [
+      "索諾克",
+      "Sonnoc",
+      "雷射投影機",
+      "工程投影機",
+      "沉浸式展廳",
+      "汾陽博物館"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ]
+  },
+  {
+    "id": 923,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-MK625 投影機：4K 雷射會議辦公投影機北京特惠促銷",
+    "summary_zh": "光峰（Appotronics）AL-MK625 雷射投影機近日在北京經銷商展開特價促銷，優惠價為 48,999 元人民幣。該機型主打商務會議與辦公應用，具備 4K 超高畫質解析度，並搭載 Android 系統、支援 3D 播放與八點畫面校正技術，為高階商用投影市場提供優質的雷射大畫面解決方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12415527.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "光峰",
+      "AL-MK625",
+      "雷射投影機",
+      "4K",
+      "會議投影",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ]
+  },
+  {
+    "id": 922,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "SHARP/NEC NP-CA4400X 投影機北京零售促銷 售價 8,819 元",
+    "summary_zh": "本文報導了 SHARP/NEC 旗下投影機型號 NP-CA4400X 在北京實體商家「格林德益」進行特價促銷活動。該款投影機具備 4700 流明亮度與 XGA 解析度，目前促銷優惠價為 8,819 元人民幣。報導提供商家位於北京市海淀區中關村的具體地址，為有採購需求的消費者提供即時的零售通路價格與購買資訊。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12415526.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "SHARP",
+      "NEC",
+      "NP-CA4400X",
+      "投影機",
+      "零售促銷",
+      "4700流明"
+    ],
+    "mentioned_brands": [
+      "SHARP",
+      "NEC"
+    ]
+  },
+  {
+    "id": 921,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "SHARP/NEC PE523X+ 商用投影機促銷 具備5200流明與無縫切換機能",
+    "summary_zh": "SHARP/NEC 針對辦公會議與教育市場推出 NP-PE523X+ 商用工程投影機，目前於經銷商進行特價促銷。該機型具備 5200 流明高亮度，並配備無縫切換功能與內建揚聲器，能滿足中大型會議室與教室的清晰投影需求，為商務與教育用戶提供高效能的顯示解決方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12415525.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "SHARP/NEC",
+      "NP-PE523X logic",
+      "商用投影機",
+      "5200流明",
+      "工程投影機"
+    ],
+    "mentioned_brands": [
+      "SHARP",
+      "NEC"
+    ]
+  },
+  {
+    "id": 920,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-MU530 雷射投影機北京經銷商特價促銷",
+    "summary_zh": "本報導指出光峰（Appotronics）AL-MU530 雷射投影機目前在北京經銷商「格林德益」進行特價促銷。該機型主打雷射光源技術、豐富的色彩表現以及 4K 超高清解析度，定位為高品質的會議與辦公投影設備，適合商務辦公環境使用。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12415367.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "光峰",
+      "AL-MU530",
+      "雷射投影機",
+      "4K投影機",
+      "辦公投影機"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "Appotronics"
+    ]
+  },
+  {
+    "id": 919,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-MU630 高畫質雷射會議投影機促銷行情",
+    "summary_zh": "本文報導光峰（Appotronics）旗下 AL-MU630 雷射會議投影機在中國北京實體商家的特價促銷動態。該機型主打雷射光源技術，具備豐富的色彩表現與 4K 超高畫質解析度，定位於商務會議應用。目前商家提供面議特惠價，吸引有商用投影需求之用戶關注。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12415366.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "光峰",
+      "AL-MU630",
+      "雷射投影機",
+      "會議投影機",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ]
+  },
+  {
+    "id": 917,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-W360 雷射投影機特價促銷 具備 3800 流明與智慧系統",
+    "summary_zh": "北京經銷商針對光峰（Appotronics）AL-W360 雷射投影機推出特價促銷，優惠價格為 5,699 元人民幣。該機型主打輕薄可攜設計，採用先進的雷射光源，具備 3,800 流明的高亮度表現，並內建智慧系統，適合商務與家用等多種投影場景。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12415125.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "光峰",
+      "AL-W360",
+      "雷射投影機",
+      "價格促銷",
+      "3800流明"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "Appotronics"
+    ]
+  },
+  {
+    "id": 916,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-P630HZ 投影機促銷 具備7000流明中心亮度與WUXGA解析度",
+    "summary_zh": "經銷商格林德益推出索尼 VPL-P630HZ 投影機優惠促銷，售價為 24599 元人民幣。該款工程投影機具備 WUXGA 高畫質解析度與 7000 流明中心亮度，並支援大範圍鏡頭位移功能，能滿足各種專業商用與工程安裝場所的投影需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12414720.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "索尼",
+      "VPL-P630HZ",
+      "7000流明",
+      "WUXGA",
+      "鏡頭位移"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ]
+  },
+  {
+    "id": 915,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼VPL-P530HZ高清雷射投影機促銷訊息",
+    "summary_zh": "經銷商格林德益針對索尼VPL-P530HZ雷射投影機推出優惠促銷，特價為19,499元人民幣。該款投影機主打WUXGA高解析度畫質與5,800流明的中心亮度，並配備自動訊號識別等便利功能，能滿足商業簡報與高規格簡報場合的高亮度大畫面投射需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12414712.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "索尼",
+      "VPL-P530HZ",
+      "雷射投影機",
+      "WUXGA",
+      "5800流明"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
+    "id": 914,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-P501XZ 投影機特惠促銷：5000 流明雷射投影機售價 10,999 元",
+    "summary_zh": "本文報導了索尼（Sony）VPL-P501XZ 雷射投影機在中國北京實體商家的最新促銷行情。該款投影機具備 5000 流明的高亮度表現，目前商家給出人民幣 10,999 元的特惠價格。此資訊主要針對有商務或工程投影需求、並尋求實體通路優惠的採購人員參考。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1241/12414702.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "索尼",
+      "Sony",
+      "VPL-P501XZ",
+      "雷射投影機",
+      "價格促銷"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
+    "id": 913,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-EX575 投影機 4200流明 1024*768 特價促銷",
+    "summary_zh": "索尼推出 VPL-EX575 投影機促銷活動，優惠價為 5,799 元人民幣。該機型採用 3LCD 顯示技術，配備超高壓汞燈光源，具備 4,200 流明高亮度與 1024x768 解析度，支援手動變焦功能。此產品主要滿足商務簡報與教育簡報等傳統投影市場的需求，提供穩定的畫面輸出。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12414686.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "索尼",
+      "VPL-EX575",
+      "3LCD",
+      "汞燈投影機",
+      "通路行情"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ]
+  },
+  {
+    "id": 912,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-EW575 投影機 4200 流明燈泡寬螢幕促銷行情",
+    "summary_zh": "索尼 VPL-EW575 燈泡式寬螢幕投影機近期在零售通路展開特價促銷活動，特惠價格為 7,399 元人民幣。該機型擁有 4,200 流明高亮度，主要針對商務與教育會議等簡報需求。北京實體商家格林德益提供相關銷售與現場諮詢服務。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12414684.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "索尼",
+      "VPL-EW575",
+      "燈泡投影機",
+      "4200流明",
+      "通路行情"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ]
+  },
+  {
+    "id": 911,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-C500XZ 投影機具備 5000 流明雷射光源特惠促銷",
+    "summary_zh": "索尼 VPL-C500XZ 雷射投影機配備 5000 流明高亮度光源，能提供清晰優質的投影畫面。經銷商格林德益近期針對此機種推出特價促銷活動，優惠價為 9,899 元人民幣。有採購需求者可至北京市海淀區中關村實體門市進行詳細諮詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12414675.html",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "索尼",
+      "VPL-C500XZ",
+      "雷射投影機",
+      "5000流明",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ]
+  },
+  {
     "id": 864,
     "source_name": "投影時代",
     "title_zh": "全球投影上半年出貨1044萬台、同比降5.3%：中國大陸深度回調，雷射光源逆勢增長14.9%",
@@ -309,6 +661,26 @@
     ]
   },
   {
+    "id": 882,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D80UB 投影機北京促銷價 359,000 元",
+    "summary_zh": "易仁科技核心合作夥伴於北京針對 YR-D80UB 投影機推出促銷活動，優惠售價為 359,000 元人民幣。該款投影機主打模組化雷射光源技術，並配備 HSG 色彩微調功能與智慧控制開關機機制，為高階工程或商業顯示市場提供專業的設備選擇與價格資訊。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412081.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-D80UB",
+      "雷射光源",
+      "HSG色彩微調",
+      "投影機行情"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
     "id": 881,
     "source_name": "ZOL投影機頻道",
     "title_zh": "易仁科技 YR-D72UB 北京特價促銷 34.9 萬元",
@@ -382,6 +754,25 @@
       "自動對焦",
       "藍芽語音遙控",
       "價格促銷"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 877,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-JFH48UBST 北京促銷價 31,900 元",
+    "summary_zh": "易仁科技經銷商於北京推出超短焦雷射投影機 YR-JFH48UBST 的特價促銷活動，優惠售價為 31,900 元人民幣。該款投影機採用 0.65 吋 DMD 晶片與雷射光源技術，主打超短焦投影優勢，專為需要大畫面與高畫質顯示需求的用戶提供優良的觀影與簡報選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1241/12412075.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "超短焦",
+      "雷射投影機",
+      "0.65 DMD"
     ],
     "mentioned_brands": [
       "易仁科技"
@@ -480,6 +871,26 @@
       "4K投影機",
       "超短焦",
       "通路價格"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ]
+  },
+  {
+    "id": 871,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-BJ5832 投影機北京促銷價 43,999 元",
+    "summary_zh": "易仁科技旗下 YR-BJ5832 投影機在北京商家展開特價促銷，優惠價格為 43,999 元人民幣。該產品具備 360 度全方位投影能力，採用多雷射模組設計，並配備 0.44 直投超短焦鏡頭，主打高階工程或特殊安裝需求的顯示市場。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1241/12412058.html",
+    "publish_date": "2026-08-31",
+    "keywords": [
+      "易仁科技",
+      "YR-BJ5832",
+      "短焦鏡頭",
+      "雷射投影機",
+      "360度投影"
     ],
     "mentioned_brands": [
       "易仁科技"
@@ -10269,6 +10680,26 @@
     ]
   },
   {
+    "id": 907,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-TW7000 投影機經銷商特價促銷",
+    "summary_zh": "愛普生 CH-TW7000 4K 超高清家用投影機近期於北京經銷商展開特價促銷活動。該機型具備 3000 流明高亮度、大變焦鏡頭並支援 3D 影像播放，專為家庭影院市場設計。感興趣的消費者可直接洽詢商家獲取最新優惠報價與詳細規格。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1204/12043535.html",
+    "publish_date": "2026-06-24",
+    "keywords": [
+      "愛普生",
+      "CH-TW7000",
+      "4K投影機",
+      "家用投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ]
+  },
+  {
     "id": 691,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CH-TW6250T 投影機特價促銷行情資訊",
@@ -10691,6 +11122,45 @@
     ]
   },
   {
+    "id": 906,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-UW391C 商務辦公投影機特價促銷",
+    "summary_zh": "松下 PT-UW391C 商務辦公投影機於經銷商易仁科技推出特價促銷，優惠價格為 8,288 元人民幣。該機型主打商務辦公市場，商家部位於北京市海淀區理想大廈，提供現場諮詢與銷售服務，為有簡報與辦公投影需求的用戶提供購買參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1183/11837660.html",
+    "publish_date": "2026-05-18",
+    "keywords": [
+      "松下",
+      "PT-UW391C",
+      "商務投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ]
+  },
+  {
+    "id": 905,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "高亮雷射王！麗訊 DU5053Z 工程投影機特價行情",
+    "summary_zh": "麗訊推出高亮度商用雷射工程投影機 DU5053Z，主打高亮度輸出與易於安裝等特性。目前北京經銷商易仁科技針對該機型推出特價促銷，優惠價格為 33,680 元人民幣，適合大型會議及商業工程展示等多種場景需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1180/11800772.html",
+    "publish_date": "2026-05-12",
+    "keywords": [
+      "麗訊",
+      "DU5053Z",
+      "工程投影機",
+      "雷射投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "麗訊"
+    ]
+  },
+  {
     "id": 869,
     "source_name": "ZOL投影機頻道",
     "title_zh": "震撼畫質！奧圖碼 MEU702 工程投影機熱賣中",
@@ -11069,6 +11539,25 @@
     ],
     "mentioned_brands": [
       "易仁科技"
+    ]
+  },
+  {
+    "id": 904,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L790U 雷射投影機特價促銷",
+    "summary_zh": "愛普生雷射投影機 CB-L790U 於北京經銷商推出特價促銷活動。該機型採用雷射光源技術，主打穩定恆定的亮度輸出與快速開機功能，適合商業與教育等場景使用，價格採面議方式提供諮詢。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1169/11695165.html",
+    "publish_date": "2026-04-22",
+    "keywords": [
+      "愛普生",
+      "CB-L790U",
+      "雷射投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
     ]
   },
   {
