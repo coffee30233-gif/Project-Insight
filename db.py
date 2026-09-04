@@ -41,7 +41,12 @@ CREATE TABLE IF NOT EXISTS articles (
     embedding TEXT,          -- 存成 JSON 浮點數陣列，供 RAG 向量搜尋使用
     image_url TEXT,          -- 文章代表圖片網址（例如 og:image），抓不到就是 NULL
     relevance TEXT,          -- Direct / Indirect / Maybe / Unrelated
-    relevance_reason TEXT    -- Gemini 判斷相關性等級的理由
+    relevance_reason TEXT,   -- Gemini 判斷相關性等級的理由
+
+    -- 以下欄位由 check_links.py 定期（每季）填入，用來標記「查看原文」連結是否還活著
+    link_status TEXT,        -- ok / dead / blocked / error / NULL(還沒檢查過)
+    link_checked_at TEXT,    -- 最後一次檢查的時間（ISO 字串）
+    link_final_url TEXT      -- 跟隨轉址後的最終網址（和 url 不同時代表來源網站換了連結）
 );
 """
 
@@ -52,6 +57,9 @@ MIGRATIONS = [
     "ALTER TABLE articles ADD COLUMN image_url TEXT",
     "ALTER TABLE articles ADD COLUMN relevance TEXT",
     "ALTER TABLE articles ADD COLUMN relevance_reason TEXT",
+    "ALTER TABLE articles ADD COLUMN link_status TEXT",
+    "ALTER TABLE articles ADD COLUMN link_checked_at TEXT",
+    "ALTER TABLE articles ADD COLUMN link_final_url TEXT",
 ]
 
 # 查詢文章時預設排除的相關性等級（「無關」文章不進報告、不進 AI 問答，
@@ -271,7 +279,7 @@ def get_all_embedded_articles() -> list[dict]:
     with get_conn() as conn:
         rows = conn.execute(
             f"""SELECT id, source_name, title_zh, summary_zh, category,
-                      importance, url, publish_date, embedding
+                      importance, url, publish_date, embedding, link_status
                FROM articles
                WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}""",
             EXCLUDED_RELEVANCE,
@@ -289,6 +297,7 @@ def get_all_embedded_articles() -> list[dict]:
             "url": r["url"],
             "publish_date": r["publish_date"],
             "embedding": json.loads(r["embedding"]),
+            "link_status": r["link_status"],
         })
     return articles
 
@@ -327,7 +336,8 @@ def list_articles(source: str | None = None, category: str | None = None,
 
         rows = conn.execute(
             f"""SELECT id, source_name, title_zh, summary_zh, category,
-                       importance, url, publish_date, keywords, mentioned_brands
+                       importance, url, publish_date, keywords, mentioned_brands,
+                       link_status
                 FROM articles
                 WHERE {where_clause}
                 ORDER BY publish_date DESC, id DESC
@@ -348,6 +358,9 @@ def list_articles(source: str | None = None, category: str | None = None,
             "publish_date": r["publish_date"],
             "keywords": json.loads(r["keywords"] or "[]"),
             "mentioned_brands": json.loads(r["mentioned_brands"] or "[]"),
+            # 只有被檢查判定為 dead 時前端才會顯示「連結可能已失效」提示；
+            # ok / blocked / error / None 一律當成正常連結（不干擾使用者）。
+            "link_status": r["link_status"],
         })
 
     return {"items": items, "total": total, "page": page, "page_size": page_size}
@@ -390,3 +403,85 @@ def get_dashboard_stats() -> dict:
         "by_category": {r["category"]: r["c"] for r in category_rows},
         "latest_publish_date": latest["publish_date"] if latest else None,
     }
+
+
+# ---------------------------------------------------------------------------
+# 原文連結健檢（見 check_links.py）
+# ---------------------------------------------------------------------------
+
+def get_articles_for_link_check(stale_days: int | None = None,
+                                 limit: int | None = None) -> list[dict]:
+    """
+    取出需要做「原文連結還活著嗎」檢查的文章（只挑已完成 Gemini 處理的）。
+
+    stale_days：只回傳「從沒檢查過」或「上次檢查超過 N 天前」的文章。傳 None 代表
+    全部重檢（每季那次就是這樣跑）。上次結果是 dead / error 的一律重檢，因為來源
+    網站可能又把文章補回去、或只是當時暫時性錯誤。
+    limit：最多回傳幾筆，方便分批跑。
+    """
+    conditions = ["processed_at IS NOT NULL"]
+    params: list = []
+    if stale_days is not None:
+        conditions.append(
+            "(link_checked_at IS NULL "
+            " OR link_status IN ('dead', 'error') "
+            " OR julianday('now') - julianday(link_checked_at) >= ?)"
+        )
+        params.append(stale_days)
+
+    sql = (f"SELECT id, url, link_status, link_checked_at FROM articles "
+           f"WHERE {' AND '.join(conditions)} ORDER BY id ASC")
+    if limit is not None:
+        sql += " LIMIT ?"
+        params.append(limit)
+
+    with get_conn() as conn:
+        rows = conn.execute(sql, params).fetchall()
+    return [dict(r) for r in rows]
+
+
+def update_link_status(article_id: int, status: str, checked_at: str,
+                        final_url: str | None = None):
+    with get_conn() as conn:
+        conn.execute(
+            """UPDATE articles
+               SET link_status = ?, link_checked_at = ?, link_final_url = ?
+               WHERE id = ?""",
+            (status, checked_at, final_url, article_id),
+        )
+
+
+def get_link_check_summary() -> dict:
+    """回傳各連結狀態的文章數，供 check_links.py 印摘要、export 寫進 stats.json。"""
+    with get_conn() as conn:
+        rows = conn.execute(
+            """SELECT COALESCE(link_status, 'unchecked') AS s, COUNT(*) AS c
+               FROM articles WHERE processed_at IS NOT NULL
+               GROUP BY COALESCE(link_status, 'unchecked')"""
+        ).fetchall()
+        last = conn.execute(
+            "SELECT MAX(link_checked_at) AS m FROM articles"
+        ).fetchone()
+    return {
+        "by_status": {r["s"]: r["c"] for r in rows},
+        "last_checked_at": last["m"] if last else None,
+    }
+
+
+def get_dead_articles_for_archive() -> list[dict]:
+    """
+    取出「原文連結已失效（dead）」且有存到原文內容（raw_content）的文章，
+    供 export_static_data.py 在 ENABLE_ORIGINAL_CACHE 開啟時匯出成本站存檔。
+    """
+    with get_conn() as conn:
+        rows = conn.execute(
+            f"""SELECT id, source_name, original_title, title_zh, url, publish_date,
+                       link_final_url, raw_content
+               FROM articles
+               WHERE processed_at IS NOT NULL
+                     AND link_status = 'dead'
+                     AND raw_content IS NOT NULL AND TRIM(raw_content) <> ''
+                     AND {_relevance_filter_sql()}""",
+            EXCLUDED_RELEVANCE,
+        ).fetchall()
+    return [dict(r) for r in rows]

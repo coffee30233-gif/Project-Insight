@@ -27,19 +27,69 @@ import os
 import re
 import shutil
 
+import config
 import db
 
 STATIC_DATA_DIR = "data"
 REPORTS_SRC_DIR = "reports"
 REPORTS_DST_DIR = os.path.join(STATIC_DATA_DIR, "reports")
+ARCHIVE_DST_DIR = os.path.join(STATIC_DATA_DIR, "archive")
 
 
 def export_stats():
     stats = db.get_dashboard_stats()
+    # 原文連結健檢的統計（見 check_links.py），順便讓前端/自己能看到失效連結有幾條
+    stats["link_check"] = db.get_link_check_summary()
     path = os.path.join(STATIC_DATA_DIR, "stats.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
     print(f"已寫入 {path}（共 {stats['total_articles']} 篇文章、{stats['total_sources']} 個來源）")
+
+
+def export_archive():
+    """
+    「原文快取 fallback」：只有 config.ENABLE_ORIGINAL_CACHE = True 時才會產出。
+    把連結已失效（link_status = 'dead'）的文章原文內容寫成 data/archive/{id}.json，
+    另外寫一份 data/archive/index.json 列出有存檔的文章 id，前端據此決定要不要顯示
+    「查看本站存檔內容」按鈕。關閉時會把整個 data/archive/ 清掉，確保不會外流。
+    """
+    if not config.ENABLE_ORIGINAL_CACHE:
+        if os.path.isdir(ARCHIVE_DST_DIR):
+            shutil.rmtree(ARCHIVE_DST_DIR)
+            print("原文快取未啟用（config.ENABLE_ORIGINAL_CACHE = False）—— 已清除 data/archive/")
+        else:
+            print("原文快取未啟用（config.ENABLE_ORIGINAL_CACHE = False）—— 略過")
+        return
+
+    os.makedirs(ARCHIVE_DST_DIR, exist_ok=True)
+    dead = db.get_dead_articles_for_archive()
+    kept_ids = set()
+    for art in dead:
+        kept_ids.add(art["id"])
+        payload = {
+            "id": art["id"],
+            "source_name": art["source_name"],
+            "original_title": art["original_title"],
+            "title_zh": art["title_zh"],
+            "url": art["url"],
+            "link_final_url": art["link_final_url"],
+            "publish_date": art["publish_date"],
+            "raw_content": art["raw_content"],
+        }
+        with open(os.path.join(ARCHIVE_DST_DIR, f"{art['id']}.json"), "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+
+    # 清掉已經不再是 dead（來源網站又把文章補回去了）的舊存檔檔案
+    for name in os.listdir(ARCHIVE_DST_DIR):
+        if name == "index.json":
+            continue
+        stem = name[:-5] if name.endswith(".json") else None
+        if stem and stem.isdigit() and int(stem) not in kept_ids:
+            os.remove(os.path.join(ARCHIVE_DST_DIR, name))
+
+    with open(os.path.join(ARCHIVE_DST_DIR, "index.json"), "w", encoding="utf-8") as f:
+        json.dump(sorted(kept_ids), f)
+    print(f"已寫入 {ARCHIVE_DST_DIR}/（{len(kept_ids)} 篇失效連結的原文存檔）")
 
 
 def export_articles():
@@ -136,6 +186,7 @@ def main():
     export_stats()
     export_articles()
     export_reports_index_and_files()
+    export_archive()
     print("\n完成。接下來：git add data && git commit && git push，再重新部署 Vercel。")
 
 

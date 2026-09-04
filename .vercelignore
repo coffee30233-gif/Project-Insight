@@ -12,6 +12,7 @@ api.py
 
 scraper_example*.py
 ingest.py
+check_links.py
 backfill_last_year.py
 check_data_coverage.py
 import_research_articles.py

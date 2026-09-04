@@ -94,6 +94,8 @@ def answer_question(question: str, top_k: int = 8) -> dict:
             "url": a["url"],
             "publish_date": a["publish_date"],
             "similarity": round(a["similarity"], 3),
+            # 由 check_links.py 季度健檢填入；前端只在值為 "dead" 時顯示失效提示
+            "link_status": a.get("link_status"),
         }
         for a in retrieved
     ]

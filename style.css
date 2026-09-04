@@ -281,6 +281,108 @@ main {
     font-size: 0.82rem;
 }
 
+/* 原文連結被季度健檢（check_links.py）判定失效時 */
+.article-card .source-link.dead {
+    color: var(--text-muted);
+    text-decoration: line-through;
+}
+.article-card .source-link-row {
+    margin-top: 8px;
+}
+.article-card .source-dead-note {
+    margin-top: 6px;
+    padding: 8px 10px;
+    border: 1px solid var(--accent-danger);
+    border-radius: 8px;
+    background: rgba(232, 97, 95, 0.08);
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    line-height: 1.5;
+}
+.article-card .archive-btn {
+    display: inline-block;
+    margin-top: 4px;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.78rem;
+}
+.article-card .archive-btn:hover { background: var(--bg-panel-hover); }
+
+/* -------------------- 原文存檔彈窗 -------------------- */
+
+.archive-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 40px 16px;
+    background: rgba(10, 11, 13, 0.7);
+    backdrop-filter: blur(3px);
+    overflow-y: auto;
+}
+.archive-modal {
+    position: relative;
+    width: 100%;
+    max-width: 760px;
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 22px 24px 24px;
+}
+.archive-close {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1rem;
+}
+.archive-close:hover { color: var(--text); }
+.archive-banner {
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent-lamp);
+    border-radius: 6px;
+    background: var(--bg);
+    color: var(--text-muted);
+    font-size: 0.82rem;
+    line-height: 1.6;
+}
+.archive-meta {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+.archive-modal h3 {
+    margin: 16px 0 4px;
+    font-size: 1.05rem;
+}
+.archive-sub {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    color: var(--text-muted);
+}
+.archive-body {
+    margin-top: 14px;
+    max-height: 60vh;
+    overflow-y: auto;
+    padding: 14px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
 .load-more {
     display: block;
     margin: 20px auto 0;
@@ -418,6 +520,19 @@ main {
     color: var(--text-muted);
     border-left: 2px solid var(--accent-lamp);
     padding-left: 8px;
+}
+
+/* 原文連結被季度健檢判定失效的來源 */
+.source-chip.dead {
+    border-left-color: var(--accent-danger);
+}
+.source-chip.dead a {
+    color: var(--text-muted);
+    text-decoration: line-through;
+}
+.source-chip .chip-dead-flag {
+    color: var(--accent-danger);
+    white-space: nowrap;
 }
 
 .ask-empty {

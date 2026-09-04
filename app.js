@@ -26,6 +26,11 @@ document.querySelectorAll(".tab-btn").forEach(btn => {
 let currentPage = 1;
 const PAGE_SIZE = 20;
 let allArticles = [];   // static/data/articles.json 整份載進記憶體
+let archiveIds = new Set();  // data/archive/index.json：有「本站存檔」可退而求其次顯示的文章 id
+
+// 原文連結由來源網站提供，我們無法保證它永遠有效。這句提示會在滑鼠移到連結上時出現，
+// 連結被季度健檢（check_links.py）判定失效時則會直接顯示在卡片上。
+const SOURCE_LINK_HINT = "原文連結由來源網站提供，若已失效請參考本站摘要";
 
 async function loadStats() {
     const res = await fetch("data/stats.json");
@@ -63,6 +68,29 @@ function filterArticles() {
     });
 }
 
+function renderSourceLink(article) {
+    const href = escapeAttr(article.url);
+    const isDead = article.link_status === "dead";
+    const hint = escapeAttr(SOURCE_LINK_HINT);
+
+    const link = `<a class="source-link${isDead ? " dead" : ""}" href="${href}"`
+        + ` target="_blank" rel="noopener" title="${hint}">查看原文來源 ↗</a>`;
+
+    if (!isDead) return link;
+
+    // 連結已被健檢判定失效：顯示提示，若本站有存檔則提供退而求其次的入口
+    const hasArchive = archiveIds.has(article.id);
+    const archiveBtn = hasArchive
+        ? ` <button class="archive-btn" data-archive-id="${article.id}">查看本站存檔內容</button>`
+        : "";
+    return `
+        <div class="source-link-row">${link}</div>
+        <div class="source-dead-note">
+            ⚠ 這則原文連結可能已失效（來源網站已移除或更改網址）。${escapeHtml(SOURCE_LINK_HINT)}。${archiveBtn}
+        </div>
+    `;
+}
+
 function renderArticleCard(article) {
     const brands = (article.mentioned_brands || []).slice(0, 3)
         .map(b => `<span class="tag">${escapeHtml(b)}</span>`).join("");
@@ -76,15 +104,75 @@ function renderArticleCard(article) {
             </div>
             <h3>${escapeHtml(article.title_zh || article.original_title || "")}</h3>
             <p>${escapeHtml(article.summary_zh || "")}</p>
-            <a class="source-link" href="${escapeAttr(article.url)}" target="_blank" rel="noopener">查看原文來源 ↗</a>
+            ${renderSourceLink(article)}
         </div>
     `;
 }
 
+async function loadArchiveIndex() {
+    // 只有在 config.ENABLE_ORIGINAL_CACHE 開啟時 export_static_data.py 才會產生這個檔案，
+    // 關閉時這裡會 404 / 解析失敗，靜默當作「沒有任何存檔」即可。
+    try {
+        const res = await fetch("data/archive/index.json");
+        if (!res.ok) return;
+        archiveIds = new Set(await res.json());
+    } catch (_) {
+        /* 沒有存檔，維持空集合 */
+    }
+}
+
 async function loadArticlesData() {
+    await loadArchiveIndex();
     const res = await fetch("data/articles.json");
     allArticles = await res.json();
     renderArticles(1, false);
+}
+
+// 「查看本站存檔內容」：點下去才去抓 data/archive/{id}.json（失效連結通常沒幾則，
+// 不值得在首頁一次載入全部存檔內容）
+document.getElementById("article-list").addEventListener("click", (e) => {
+    const btn = e.target.closest(".archive-btn");
+    if (!btn) return;
+    openArchive(btn.dataset.archiveId);
+});
+
+async function openArchive(id) {
+    let data;
+    try {
+        const res = await fetch(`data/archive/${id}.json`);
+        if (!res.ok) throw new Error(String(res.status));
+        data = await res.json();
+    } catch (_) {
+        alert("存檔內容載入失敗，請稍後再試。");
+        return;
+    }
+
+    const overlay = document.createElement("div");
+    overlay.className = "archive-overlay";
+    const finalUrl = data.link_final_url && data.link_final_url !== data.url
+        ? `<div class="archive-meta">來源網站目前的網址：<a href="${escapeAttr(data.link_final_url)}" target="_blank" rel="noopener">${escapeHtml(data.link_final_url)}</a></div>`
+        : "";
+    overlay.innerHTML = `
+        <div class="archive-modal" role="dialog" aria-modal="true">
+            <button class="archive-close" aria-label="關閉">✕</button>
+            <div class="archive-banner">
+                以下是<strong>本站當初為了產生摘要而保存的原文內容</strong>，並非來源網站的即時頁面，
+                可能不完整、也可能與最新版本有出入。原始連結：
+                <a href="${escapeAttr(data.url)}" target="_blank" rel="noopener">${escapeHtml(data.url)}</a>
+            </div>
+            ${finalUrl}
+            <h3>${escapeHtml(data.title_zh || data.original_title || "")}</h3>
+            <div class="archive-sub">${escapeHtml(data.source_name || "")}｜${escapeHtml(data.publish_date || "")}</div>
+            <pre class="archive-body">${escapeHtml(data.raw_content || "（沒有存檔內容）")}</pre>
+        </div>
+    `;
+    const close = () => overlay.remove();
+    overlay.addEventListener("click", (e) => { if (e.target === overlay) close(); });
+    overlay.querySelector(".archive-close").addEventListener("click", close);
+    document.addEventListener("keydown", function esc(e) {
+        if (e.key === "Escape") { close(); document.removeEventListener("keydown", esc); }
+    });
+    document.body.appendChild(overlay);
 }
 
 function renderArticles(page = 1, append = false) {
@@ -248,12 +336,15 @@ function appendTypingIndicator() {
 
 function renderAssistantMessage(typingId, answer, sources) {
     const sourcesHtml = sources.length
-        ? `<div class="sources">${sources.map(s => `
-            <div class="source-chip">
+        ? `<div class="sources">${sources.map(s => {
+            const isDead = s.link_status === "dead";
+            return `
+            <div class="source-chip${isDead ? " dead" : ""}">
                 ${escapeHtml(s.source_name)}｜${escapeHtml(s.publish_date || "")}｜
-                <a href="${escapeAttr(s.url)}" target="_blank" rel="noopener">${escapeHtml(s.title_zh)}</a>
+                <a href="${escapeAttr(s.url)}" target="_blank" rel="noopener" title="${escapeAttr(SOURCE_LINK_HINT)}">${escapeHtml(s.title_zh)}</a>${isDead ? ` <span class="chip-dead-flag">⚠ 原文連結可能已失效</span>` : ""}
             </div>
-          `).join("")}</div>`
+          `;
+          }).join("")}</div>`
         : "";
 
     document.getElementById(typingId).innerHTML = `

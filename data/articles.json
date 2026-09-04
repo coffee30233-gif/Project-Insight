@@ -17,7 +17,8 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 938,
@@ -38,7 +39,8 @@
     "mentioned_brands": [
       "索諾克",
       "Sonnoc"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 937,
@@ -57,7 +59,8 @@
     ],
     "mentioned_brands": [
       "索諾克"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 936,
@@ -77,7 +80,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 935,
@@ -96,7 +100,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 934,
@@ -117,7 +122,8 @@
     "mentioned_brands": [
       "Acer",
       "宏碁"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 926,
@@ -142,7 +148,8 @@
       "LG",
       "小明",
       "京東"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 924,
@@ -162,7 +169,8 @@
     ],
     "mentioned_brands": [
       "海信"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 925,
@@ -182,7 +190,8 @@
     ],
     "mentioned_brands": [
       "ProjectorCentral"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 898,
@@ -205,7 +214,8 @@
       "大眼橙",
       "TCL華星",
       "湖南創科光電"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 897,
@@ -226,7 +236,8 @@
     "mentioned_brands": [
       "索諾克",
       "Sonnoc"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 896,
@@ -248,7 +259,8 @@
     "mentioned_brands": [
       "索諾克",
       "Sonnoc"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 923,
@@ -269,7 +281,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 922,
@@ -291,7 +304,8 @@
     "mentioned_brands": [
       "SHARP",
       "NEC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 921,
@@ -312,7 +326,8 @@
     "mentioned_brands": [
       "SHARP",
       "NEC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 920,
@@ -333,7 +348,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 919,
@@ -353,7 +369,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 917,
@@ -374,7 +391,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 916,
@@ -394,7 +412,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 915,
@@ -414,7 +433,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 914,
@@ -434,7 +454,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 913,
@@ -454,7 +475,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 912,
@@ -474,7 +496,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 911,
@@ -494,7 +517,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 864,
@@ -515,7 +539,8 @@
     ],
     "mentioned_brands": [
       "DISCIE"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 863,
@@ -537,7 +562,8 @@
     "mentioned_brands": [
       "愛普生",
       "TÜV 萊茵"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 895,
@@ -557,7 +583,8 @@
     ],
     "mentioned_brands": [
       "ROLY"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 894,
@@ -577,7 +604,8 @@
     ],
     "mentioned_brands": [
       "ROLY"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 893,
@@ -599,7 +627,8 @@
     "mentioned_brands": [
       "Boxlight",
       "寶視來"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 892,
@@ -619,7 +648,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 891,
@@ -640,7 +670,8 @@
     "mentioned_brands": [
       "Panasonic",
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 890,
@@ -661,7 +692,8 @@
     "mentioned_brands": [
       "Optoma",
       "奧圖碼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 889,
@@ -682,7 +714,8 @@
     "mentioned_brands": [
       "奧圖碼",
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 888,
@@ -703,7 +736,8 @@
     "mentioned_brands": [
       "Optoma",
       "奧圖碼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 887,
@@ -725,7 +759,8 @@
     "mentioned_brands": [
       "Vivitek",
       "麗訊"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 886,
@@ -745,7 +780,8 @@
     "mentioned_brands": [
       "麗訊",
       "Vivitek"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 885,
@@ -764,7 +800,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 884,
@@ -783,7 +820,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 883,
@@ -803,7 +841,8 @@
     ],
     "mentioned_brands": [
       "ROLY"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 882,
@@ -823,7 +862,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 881,
@@ -843,7 +883,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 880,
@@ -863,7 +904,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 879,
@@ -882,7 +924,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 878,
@@ -902,7 +945,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 877,
@@ -921,7 +965,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 876,
@@ -940,7 +985,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 875,
@@ -960,7 +1006,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 874,
@@ -979,7 +1026,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 873,
@@ -999,7 +1047,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 872,
@@ -1019,7 +1068,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 871,
@@ -1039,7 +1089,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 870,
@@ -1059,7 +1110,8 @@
     ],
     "mentioned_brands": [
       "奧圖碼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 856,
@@ -1081,7 +1133,8 @@
       "USI",
       "ASE Technology Holding",
       "EugenLight Technologies"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 855,
@@ -1103,7 +1156,8 @@
     "mentioned_brands": [
       "Anker",
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 854,
@@ -1129,7 +1183,8 @@
       "谷東",
       "光粒",
       "邁測"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 849,
@@ -1163,7 +1218,8 @@
       "豪威集團",
       "國科微",
       "晶合集成"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 830,
@@ -1185,7 +1241,8 @@
     "mentioned_brands": [
       "海信",
       "哈曼卡頓"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 848,
@@ -1209,7 +1266,8 @@
       "XGIMI",
       "AWALL",
       "XWALL"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 847,
@@ -1229,7 +1287,8 @@
     ],
     "mentioned_brands": [
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 846,
@@ -1249,7 +1308,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 845,
@@ -1268,7 +1328,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 844,
@@ -1288,7 +1349,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 843,
@@ -1308,7 +1370,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 842,
@@ -1328,7 +1391,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 841,
@@ -1349,7 +1413,8 @@
     "mentioned_brands": [
       "索諾克",
       "Sonnoc"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 840,
@@ -1370,7 +1435,8 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 839,
@@ -1390,7 +1456,8 @@
     ],
     "mentioned_brands": [
       "Acer"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 838,
@@ -1411,7 +1478,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 831,
@@ -1434,7 +1502,8 @@
       "當貝",
       "堅果",
       "光峰科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 825,
@@ -1454,7 +1523,8 @@
     ],
     "mentioned_brands": [
       "中光學"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 829,
@@ -1476,7 +1546,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 821,
@@ -1497,7 +1568,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 820,
@@ -1517,7 +1589,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 819,
@@ -1537,7 +1610,8 @@
     ],
     "mentioned_brands": [
       "寶視來"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 818,
@@ -1558,7 +1632,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 808,
@@ -1579,7 +1654,8 @@
     "mentioned_brands": [
       "羿飛教育",
       "翰墨派"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 799,
@@ -1601,7 +1677,8 @@
     "mentioned_brands": [
       "明基",
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 798,
@@ -1621,7 +1698,8 @@
     ],
     "mentioned_brands": [
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 781,
@@ -1641,7 +1719,8 @@
     ],
     "mentioned_brands": [
       "日立"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 780,
@@ -1661,7 +1740,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 779,
@@ -1681,7 +1761,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 778,
@@ -1702,7 +1783,8 @@
     "mentioned_brands": [
       "光峰科技",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 777,
@@ -1723,7 +1805,8 @@
     "mentioned_brands": [
       "Optoma",
       "Texas Instruments"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 776,
@@ -1744,7 +1827,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 772,
@@ -1764,7 +1848,8 @@
     "mentioned_brands": [
       "索諾克",
       "SNOK"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 771,
@@ -1785,7 +1870,8 @@
     "mentioned_brands": [
       "索諾克",
       "Sonnoc"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 770,
@@ -1805,7 +1891,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 769,
@@ -1825,7 +1912,8 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 768,
@@ -1846,7 +1934,8 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 767,
@@ -1866,7 +1955,8 @@
     "mentioned_brands": [
       "Acer",
       "宏碁"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 766,
@@ -1887,7 +1977,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 765,
@@ -1908,7 +1999,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 764,
@@ -1927,7 +2019,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 763,
@@ -1947,7 +2040,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 746,
@@ -1964,7 +2058,8 @@
       "日常使用",
       "用戶體驗"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 745,
@@ -1981,7 +2076,8 @@
       "戶外投影",
       "投影對應"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 742,
@@ -2001,7 +2097,8 @@
     "mentioned_brands": [
       "JVC",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 736,
@@ -2021,7 +2118,8 @@
     "mentioned_brands": [
       "小米",
       "Wanbo"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 734,
@@ -2040,7 +2138,8 @@
     ],
     "mentioned_brands": [
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 733,
@@ -2060,7 +2159,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 731,
@@ -2079,7 +2179,8 @@
     ],
     "mentioned_brands": [
       "LUMA"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 730,
@@ -2098,7 +2199,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 729,
@@ -2118,7 +2220,8 @@
     ],
     "mentioned_brands": [
       "Sherwin-Williams"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 757,
@@ -2137,7 +2240,8 @@
     ],
     "mentioned_brands": [
       "奧圖碼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 751,
@@ -2158,7 +2262,8 @@
     "mentioned_brands": [
       "Vertilite",
       "唯捷光電"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 750,
@@ -2178,7 +2283,8 @@
     ],
     "mentioned_brands": [
       "Lightmatter"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 748,
@@ -2198,7 +2304,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 747,
@@ -2219,7 +2326,8 @@
     "mentioned_brands": [
       "BenQ",
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 743,
@@ -2240,7 +2348,8 @@
     "mentioned_brands": [
       "Hisense",
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 741,
@@ -2261,7 +2370,8 @@
       "Hisense",
       "BenQ",
       "Amazon"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 740,
@@ -2281,7 +2391,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 738,
@@ -2303,7 +2414,8 @@
       "Optoma",
       "Acer",
       "Grandview"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 735,
@@ -2324,7 +2436,8 @@
     "mentioned_brands": [
       "XGIMI",
       "Yaber"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 728,
@@ -2341,7 +2454,8 @@
       "投影視聽室",
       "Reddit"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 713,
@@ -2360,7 +2474,8 @@
     ],
     "mentioned_brands": [
       "Aurzen"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 712,
@@ -2379,7 +2494,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 711,
@@ -2397,7 +2513,8 @@
       "相機拍攝",
       "光影圖樣"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 710,
@@ -2414,7 +2531,8 @@
       "安裝心得",
       "家庭劇院"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 709,
@@ -2430,7 +2548,8 @@
       "抗光幕",
       "家用投影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 706,
@@ -2450,7 +2569,8 @@
     "mentioned_brands": [
       "BenQ",
       "Wimius"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 705,
@@ -2469,7 +2589,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 726,
@@ -2488,7 +2609,8 @@
     ],
     "mentioned_brands": [
       "3M"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 725,
@@ -2510,7 +2632,8 @@
       "XGIMI",
       "UGREEN",
       "TP-Link"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 723,
@@ -2527,7 +2650,8 @@
       "畫質問題",
       "用戶心得"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 722,
@@ -2546,7 +2670,8 @@
     ],
     "mentioned_brands": [
       "Elite Screens"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 720,
@@ -2564,7 +2689,8 @@
     ],
     "mentioned_brands": [
       "Neopix"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 717,
@@ -2584,7 +2710,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 716,
@@ -2604,7 +2731,8 @@
     "mentioned_brands": [
       "BenQ",
       "ViewSonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 704,
@@ -2623,7 +2751,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 695,
@@ -2645,7 +2774,8 @@
     "mentioned_brands": [
       "Sonnoc",
       "索諾克"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 694,
@@ -2669,7 +2799,8 @@
       "巴可",
       "Barco",
       "佳聯"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 667,
@@ -2689,7 +2820,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 666,
@@ -2710,7 +2842,8 @@
     "mentioned_brands": [
       "Wimius",
       "Prop Vue"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 665,
@@ -2731,7 +2864,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 664,
@@ -2749,7 +2883,8 @@
       "活動投影",
       "Reddit討論"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 662,
@@ -2767,7 +2902,8 @@
       "手機投影",
       "選購請益"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 693,
@@ -2786,7 +2922,8 @@
     ],
     "mentioned_brands": [
       "愛克創"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 692,
@@ -2807,7 +2944,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 684,
@@ -2823,7 +2961,8 @@
       "底片投影",
       "投影機技術"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 682,
@@ -2842,7 +2981,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 680,
@@ -2862,7 +3002,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 679,
@@ -2882,7 +3023,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 678,
@@ -2903,7 +3045,8 @@
       "ViewSonic",
       "Optoma",
       "Xgimi"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 677,
@@ -2923,7 +3066,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 676,
@@ -2944,7 +3088,8 @@
     "mentioned_brands": [
       "Samsung",
       "Apple"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 675,
@@ -2964,7 +3109,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 674,
@@ -2982,7 +3128,8 @@
       "投影機連接",
       "故障排除"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 673,
@@ -3006,7 +3153,8 @@
       "Apple",
       "Sony",
       "Nintendo"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 672,
@@ -3029,7 +3177,8 @@
       "Samsung",
       "Denon",
       "Nvidia"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 671,
@@ -3050,7 +3199,8 @@
     "mentioned_brands": [
       "BenQ",
       "WZATCO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 670,
@@ -3071,7 +3221,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 669,
@@ -3089,7 +3240,8 @@
       "DIY",
       "雷射投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 668,
@@ -3107,7 +3259,8 @@
       "投影效果",
       "Reddit"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 663,
@@ -3129,7 +3282,8 @@
     "mentioned_brands": [
       "JMGO",
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 683,
@@ -3150,7 +3304,8 @@
     "mentioned_brands": [
       "BenQ",
       "Xgimi"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 681,
@@ -3169,7 +3324,8 @@
       "反射光",
       "直射光"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 661,
@@ -3186,7 +3342,8 @@
       "500美元以下",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 650,
@@ -3208,7 +3365,8 @@
       "TSMC",
       "Sony",
       "Apple"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 649,
@@ -3228,7 +3386,8 @@
     "mentioned_brands": [
       "Shopee",
       "Lazada"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 648,
@@ -3248,7 +3407,8 @@
     ],
     "mentioned_brands": [
       "Valerion"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 647,
@@ -3265,7 +3425,8 @@
       "白牌投影機",
       "家用顯示"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 646,
@@ -3284,7 +3445,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 629,
@@ -3303,7 +3465,8 @@
     ],
     "mentioned_brands": [
       "Temu"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 623,
@@ -3322,7 +3485,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 621,
@@ -3338,7 +3502,8 @@
       "韌體更新",
       "投影機系統"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 620,
@@ -3357,7 +3522,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 618,
@@ -3376,7 +3542,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 617,
@@ -3399,7 +3566,8 @@
       "Frootle",
       "Epson",
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 616,
@@ -3422,7 +3590,8 @@
       "Xgimi",
       "Optoma",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 615,
@@ -3440,7 +3609,8 @@
       "ALR",
       "地升幕"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 614,
@@ -3457,7 +3627,8 @@
       "電視櫃",
       "安裝規劃"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 613,
@@ -3479,7 +3650,8 @@
       "XGIMI",
       "BenQ",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 634,
@@ -3501,7 +3673,8 @@
       "Valerion",
       "Anker",
       "JMGO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 633,
@@ -3521,7 +3694,8 @@
     ],
     "mentioned_brands": [
       "Xgimi"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 627,
@@ -3540,7 +3714,8 @@
     "mentioned_brands": [
       "Xgimi",
       "極米"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 625,
@@ -3561,7 +3736,8 @@
     "mentioned_brands": [
       "Anker",
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 619,
@@ -3579,7 +3755,8 @@
       "家用投影機",
       "HDR"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 611,
@@ -3602,7 +3779,8 @@
       "小米",
       "京东",
       "天猫"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 610,
@@ -3622,7 +3800,8 @@
     ],
     "mentioned_brands": [
       "愛克創"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 506,
@@ -3639,7 +3818,8 @@
       "畫質表現",
       "市場評比"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 505,
@@ -3656,7 +3836,8 @@
       "高性價比",
       "投影機推薦"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 504,
@@ -3673,7 +3854,8 @@
       "商用投影機",
       "高性價比"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 503,
@@ -3689,7 +3871,8 @@
       "投影機推薦",
       "2026投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 502,
@@ -3706,7 +3889,8 @@
       "可攜式投影機",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 501,
@@ -3729,7 +3913,8 @@
       "明基",
       "索尼",
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 500,
@@ -3749,7 +3934,8 @@
     ],
     "mentioned_brands": [
       "思影"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 499,
@@ -3768,7 +3954,8 @@
     ],
     "mentioned_brands": [
       "堅果"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 484,
@@ -3785,7 +3972,8 @@
       "戶外活動投影",
       "專業投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 483,
@@ -3802,7 +3990,8 @@
       "家庭劇院",
       "年度推薦"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 481,
@@ -3820,7 +4009,8 @@
     ],
     "mentioned_brands": [
       "ProjectorCentral"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 479,
@@ -3838,7 +4028,8 @@
       "家庭劇院",
       "商業投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 478,
@@ -3855,7 +4046,8 @@
       "家庭劇院",
       "規格篩選"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 477,
@@ -3872,7 +4064,8 @@
       "規格篩選",
       "家用投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 476,
@@ -3889,7 +4082,8 @@
       "規格篩選",
       "投影機搜尋"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 475,
@@ -3906,7 +4100,8 @@
       "規格篩選",
       "家庭劇院"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 474,
@@ -3923,7 +4118,8 @@
       "4K解析度",
       "投影機篩選"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 473,
@@ -3940,7 +4136,8 @@
       "產品規格",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 472,
@@ -3957,7 +4154,8 @@
       "投影機資料庫",
       "規格篩選"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 471,
@@ -3975,7 +4173,8 @@
     ],
     "mentioned_brands": [
       "ProjectorCentral"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 470,
@@ -3994,7 +4193,8 @@
     ],
     "mentioned_brands": [
       "ProjectorCentral"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 469,
@@ -4012,7 +4212,8 @@
     ],
     "mentioned_brands": [
       "ProjectorCentral"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 468,
@@ -4031,7 +4232,8 @@
     ],
     "mentioned_brands": [
       "ProjectorCentral"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 467,
@@ -4048,7 +4250,8 @@
       "便攜投影",
       "2026投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 465,
@@ -4065,7 +4268,8 @@
       "家庭劇院",
       "商用投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 464,
@@ -4082,7 +4286,8 @@
       "智慧商務",
       "教育投影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 463,
@@ -4099,7 +4304,8 @@
       "三千美元以下",
       "市場數據"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 455,
@@ -4116,7 +4322,8 @@
       "4K雷射投影機",
       "家用投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 454,
@@ -4133,7 +4340,8 @@
       "五千美元以下",
       "大尺寸畫面"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 452,
@@ -4150,7 +4358,8 @@
       "生活風格投影機",
       "露營投影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 450,
@@ -4167,7 +4376,8 @@
       "高階投影機",
       "產品推薦"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 449,
@@ -4184,7 +4394,8 @@
       "短焦投影",
       "居家娛樂"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 448,
@@ -4201,7 +4412,8 @@
       "低延遲",
       "高更新率"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 447,
@@ -4218,7 +4430,8 @@
       "產品推薦",
       "2026投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 446,
@@ -4235,7 +4448,8 @@
       "高亮度投影機",
       "大型投影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 445,
@@ -4252,7 +4466,8 @@
       "熱銷排行",
       "入門款"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 444,
@@ -4269,7 +4484,8 @@
       "2026投影機評比",
       "工程投影機"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 438,
@@ -4289,7 +4505,8 @@
     ],
     "mentioned_brands": [
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 437,
@@ -4309,7 +4526,8 @@
     ],
     "mentioned_brands": [
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 436,
@@ -4329,7 +4547,8 @@
     ],
     "mentioned_brands": [
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 435,
@@ -4349,7 +4568,8 @@
     ],
     "mentioned_brands": [
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 434,
@@ -4367,7 +4587,8 @@
       "選購指南",
       "家庭娛樂"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 433,
@@ -4384,7 +4605,8 @@
       "測評排行榜",
       "家庭娛樂"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 432,
@@ -4402,7 +4624,8 @@
       "居家娛樂",
       "年輕族群"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 431,
@@ -4419,7 +4642,8 @@
       "客廳投影機",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 430,
@@ -4436,7 +4660,8 @@
       "排行榜",
       "高性價比"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 429,
@@ -4453,7 +4678,8 @@
       "4000元投影儀",
       "智慧投影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 428,
@@ -4470,7 +4696,8 @@
       "高亮度",
       "五千元價位"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 427,
@@ -4488,7 +4715,8 @@
       "智能投影",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 426,
@@ -4505,7 +4733,8 @@
       "二手市場",
       "市場排名"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 425,
@@ -4522,7 +4751,8 @@
       "智慧投影",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 424,
@@ -4543,7 +4773,8 @@
     "mentioned_brands": [
       "騰訊",
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 423,
@@ -4564,7 +4795,8 @@
     "mentioned_brands": [
       "中國移動",
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 422,
@@ -4584,7 +4816,8 @@
     ],
     "mentioned_brands": [
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 482,
@@ -4603,7 +4836,8 @@
     ],
     "mentioned_brands": [
       "Screen Innovations"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 412,
@@ -4625,7 +4859,8 @@
       "SHARP/NEC",
       "NEC",
       "SHARP"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 411,
@@ -4644,7 +4879,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 410,
@@ -4664,7 +4900,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 409,
@@ -4685,7 +4922,8 @@
     "mentioned_brands": [
       "索尼",
       "格林德益"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 408,
@@ -4706,7 +4944,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 407,
@@ -4727,7 +4966,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 406,
@@ -4747,7 +4987,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 405,
@@ -4768,7 +5009,8 @@
     "mentioned_brands": [
       "索尼",
       "格林德益"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 404,
@@ -4789,7 +5031,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 403,
@@ -4809,7 +5052,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 402,
@@ -4828,7 +5072,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 401,
@@ -4847,7 +5092,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 400,
@@ -4867,7 +5113,8 @@
     ],
     "mentioned_brands": [
       "Redmi"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 198,
@@ -4886,7 +5133,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 196,
@@ -4910,7 +5158,8 @@
       "JVC",
       "Nebula",
       "Valerion"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 190,
@@ -4932,7 +5181,8 @@
       "XGimi",
       "JVC",
       "JMGO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 189,
@@ -4954,7 +5204,8 @@
     "mentioned_brands": [
       "XGIMI",
       "JMGO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 188,
@@ -4976,7 +5227,8 @@
       "Xgimi",
       "BenQ",
       "EliteScreens"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 399,
@@ -4996,7 +5248,8 @@
     ],
     "mentioned_brands": [
       "索諾克"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 398,
@@ -5015,7 +5268,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 397,
@@ -5035,7 +5289,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 396,
@@ -5055,7 +5310,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 395,
@@ -5075,7 +5331,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 394,
@@ -5094,7 +5351,8 @@
     ],
     "mentioned_brands": [
       "ROLY"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 393,
@@ -5114,7 +5372,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 392,
@@ -5134,7 +5393,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 391,
@@ -5153,7 +5413,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 390,
@@ -5173,7 +5434,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 389,
@@ -5193,7 +5455,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 388,
@@ -5213,7 +5476,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 387,
@@ -5233,7 +5497,8 @@
     "mentioned_brands": [
       "索尼",
       "北京合众联鑫"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 386,
@@ -5254,7 +5519,8 @@
     "mentioned_brands": [
       "索尼",
       "中關村在線"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 385,
@@ -5273,7 +5539,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 384,
@@ -5293,7 +5560,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 383,
@@ -5312,7 +5580,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 382,
@@ -5332,7 +5601,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 381,
@@ -5351,7 +5621,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 380,
@@ -5372,7 +5643,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 184,
@@ -5394,7 +5666,8 @@
     "mentioned_brands": [
       "Barco",
       "d'strict"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 458,
@@ -5413,7 +5686,8 @@
     ],
     "mentioned_brands": [
       "Da-Lite"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 379,
@@ -5432,7 +5706,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 378,
@@ -5453,7 +5728,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 377,
@@ -5474,7 +5750,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 376,
@@ -5495,7 +5772,8 @@
     "mentioned_brands": [
       "松下",
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 375,
@@ -5515,7 +5793,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 374,
@@ -5534,7 +5813,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 373,
@@ -5555,7 +5835,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 372,
@@ -5576,7 +5857,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 371,
@@ -5596,7 +5878,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 370,
@@ -5617,7 +5900,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 369,
@@ -5637,7 +5921,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 368,
@@ -5657,7 +5942,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 367,
@@ -5677,7 +5963,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 366,
@@ -5697,7 +5984,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 365,
@@ -5718,7 +6006,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 364,
@@ -5739,7 +6028,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 363,
@@ -5760,7 +6050,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 362,
@@ -5780,7 +6071,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 361,
@@ -5800,7 +6092,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 360,
@@ -5821,7 +6114,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 359,
@@ -5842,7 +6136,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 358,
@@ -5861,7 +6156,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 357,
@@ -5882,7 +6178,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 356,
@@ -5901,7 +6198,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 355,
@@ -5922,7 +6220,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 354,
@@ -5942,7 +6241,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 353,
@@ -5963,7 +6263,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 352,
@@ -5984,7 +6285,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 157,
@@ -6009,7 +6311,8 @@
       "堅果",
       "Vidda",
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 147,
@@ -6026,7 +6329,8 @@
       "Reddit",
       "消費需求"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 145,
@@ -6047,7 +6351,8 @@
     ],
     "mentioned_brands": [
       "Yaber"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 144,
@@ -6067,7 +6372,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 143,
@@ -6087,7 +6393,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 142,
@@ -6105,7 +6412,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 141,
@@ -6125,7 +6433,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 140,
@@ -6146,7 +6455,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 139,
@@ -6166,7 +6476,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 138,
@@ -6186,7 +6497,8 @@
     ],
     "mentioned_brands": [
       "Wemax"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 137,
@@ -6206,7 +6518,8 @@
     ],
     "mentioned_brands": [
       "ViewSonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 136,
@@ -6226,7 +6539,8 @@
     ],
     "mentioned_brands": [
       "ViewSonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 135,
@@ -6247,7 +6561,8 @@
     ],
     "mentioned_brands": [
       "ViewSonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 134,
@@ -6267,7 +6582,8 @@
     ],
     "mentioned_brands": [
       "ViewSonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 133,
@@ -6287,7 +6603,8 @@
     ],
     "mentioned_brands": [
       "VAVA"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 132,
@@ -6306,7 +6623,8 @@
     ],
     "mentioned_brands": [
       "Value Electronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 131,
@@ -6325,7 +6643,8 @@
     ],
     "mentioned_brands": [
       "Value Electronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 130,
@@ -6344,7 +6663,8 @@
     ],
     "mentioned_brands": [
       "Valerion"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 129,
@@ -6363,7 +6683,8 @@
     ],
     "mentioned_brands": [
       "Valerion"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 128,
@@ -6384,7 +6705,8 @@
     ],
     "mentioned_brands": [
       "NexiGo"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 127,
@@ -6403,7 +6725,8 @@
     ],
     "mentioned_brands": [
       "TCL"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 126,
@@ -6424,7 +6747,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 125,
@@ -6444,7 +6768,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 124,
@@ -6464,7 +6789,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 123,
@@ -6484,7 +6810,8 @@
     ],
     "mentioned_brands": [
       "Samsung"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 122,
@@ -6504,7 +6831,8 @@
     ],
     "mentioned_brands": [
       "Samsung"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 121,
@@ -6522,7 +6850,8 @@
     ],
     "mentioned_brands": [
       "Samsung"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 120,
@@ -6542,7 +6871,8 @@
     ],
     "mentioned_brands": [
       "Samsung"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 119,
@@ -6562,7 +6892,8 @@
     ],
     "mentioned_brands": [
       "Samsung"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 118,
@@ -6581,7 +6912,8 @@
     ],
     "mentioned_brands": [
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 117,
@@ -6601,7 +6933,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 116,
@@ -6622,7 +6955,8 @@
     "mentioned_brands": [
       "Optoma",
       "奧圖碼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 115,
@@ -6642,7 +6976,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 114,
@@ -6662,7 +6997,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 113,
@@ -6682,7 +7018,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 112,
@@ -6702,7 +7039,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 111,
@@ -6722,7 +7060,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 110,
@@ -6742,7 +7081,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 109,
@@ -6762,7 +7102,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 108,
@@ -6783,7 +7124,8 @@
     "mentioned_brands": [
       "Optoma",
       "奧圖碼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 107,
@@ -6802,7 +7144,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 106,
@@ -6822,7 +7165,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 105,
@@ -6841,7 +7185,8 @@
     ],
     "mentioned_brands": [
       "NexiGo"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 104,
@@ -6862,7 +7207,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 103,
@@ -6883,7 +7229,8 @@
     ],
     "mentioned_brands": [
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 102,
@@ -6903,7 +7250,8 @@
     ],
     "mentioned_brands": [
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 101,
@@ -6923,7 +7271,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 100,
@@ -6943,7 +7292,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 99,
@@ -6963,7 +7313,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 98,
@@ -6984,7 +7335,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 97,
@@ -7005,7 +7357,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 96,
@@ -7025,7 +7378,8 @@
     "mentioned_brands": [
       "Leica",
       "徠卡"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 95,
@@ -7044,7 +7398,8 @@
     ],
     "mentioned_brands": [
       "Kaleidescape"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 94,
@@ -7064,7 +7419,8 @@
     "mentioned_brands": [
       "Kaleidescape",
       "Keith Yates Design"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 93,
@@ -7083,7 +7439,8 @@
     ],
     "mentioned_brands": [
       "Kaleidescape"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 92,
@@ -7103,7 +7460,8 @@
     ],
     "mentioned_brands": [
       "Kaleidescape"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 91,
@@ -7123,7 +7481,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 90,
@@ -7142,7 +7501,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 89,
@@ -7162,7 +7522,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 88,
@@ -7182,7 +7543,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 87,
@@ -7202,7 +7564,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 86,
@@ -7221,7 +7584,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 85,
@@ -7240,7 +7604,8 @@
     ],
     "mentioned_brands": [
       "JMGO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 84,
@@ -7260,7 +7625,8 @@
     ],
     "mentioned_brands": [
       "JMGO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 83,
@@ -7280,7 +7646,8 @@
     ],
     "mentioned_brands": [
       "ASUS"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 82,
@@ -7298,7 +7665,8 @@
       "8K投影",
       "商用教育"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 81,
@@ -7318,7 +7686,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 80,
@@ -7338,7 +7707,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 79,
@@ -7358,7 +7728,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 78,
@@ -7377,7 +7748,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 77,
@@ -7397,7 +7769,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 76,
@@ -7417,7 +7790,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 75,
@@ -7437,7 +7811,8 @@
     "mentioned_brands": [
       "Hisense",
       "海信"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 74,
@@ -7457,7 +7832,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 73,
@@ -7477,7 +7853,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 72,
@@ -7497,7 +7874,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 71,
@@ -7515,7 +7893,8 @@
       "影像傳輸",
       "音訊品質"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 70,
@@ -7535,7 +7914,8 @@
     ],
     "mentioned_brands": [
       "Formovie"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 69,
@@ -7555,7 +7935,8 @@
     ],
     "mentioned_brands": [
       "Formovie"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 68,
@@ -7572,7 +7953,8 @@
       "投影技術",
       "產業趨勢"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 67,
@@ -7591,7 +7973,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 66,
@@ -7610,7 +7993,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 65,
@@ -7629,7 +8013,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 64,
@@ -7648,7 +8033,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 63,
@@ -7667,7 +8053,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 62,
@@ -7686,7 +8073,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 61,
@@ -7706,7 +8094,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 60,
@@ -7727,7 +8116,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 59,
@@ -7747,7 +8137,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 58,
@@ -7767,7 +8158,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 57,
@@ -7787,7 +8179,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 56,
@@ -7807,7 +8200,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 55,
@@ -7829,7 +8223,8 @@
       "Epson",
       "Bose",
       "Google"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 54,
@@ -7850,7 +8245,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 53,
@@ -7870,7 +8266,8 @@
     "mentioned_brands": [
       "Epson",
       "VAVA"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 52,
@@ -7890,7 +8287,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 51,
@@ -7909,7 +8307,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 50,
@@ -7932,7 +8331,8 @@
       "AVI-SPL",
       "Igloo Vision",
       "Universal Studios"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 49,
@@ -7952,7 +8352,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 48,
@@ -7971,7 +8372,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 47,
@@ -7992,7 +8394,8 @@
     "mentioned_brands": [
       "Dangbei",
       "當貝"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 46,
@@ -8009,7 +8412,8 @@
       "客製化整合",
       "安裝指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 45,
@@ -8031,7 +8435,8 @@
       "CinemaTech",
       "Sony",
       "Wisdom Audio"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 44,
@@ -8056,7 +8461,8 @@
       "Kaleidescape",
       "Meyer Sound",
       "Screen Innovations"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 43,
@@ -8078,7 +8484,8 @@
       "Draper",
       "Straight Wire",
       "AIM Electronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 42,
@@ -8100,7 +8507,8 @@
       "AVPro Edge",
       "EPV Projection Screens",
       "Elite Screens"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 41,
@@ -8118,7 +8526,8 @@
       "便攜投影機",
       "選購指南"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 40,
@@ -8135,7 +8544,8 @@
       "戶外家庭劇院",
       "露營投影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 39,
@@ -8155,7 +8565,8 @@
     ],
     "mentioned_brands": [
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 38,
@@ -8175,7 +8586,8 @@
     ],
     "mentioned_brands": [
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 37,
@@ -8196,7 +8608,8 @@
     ],
     "mentioned_brands": [
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 36,
@@ -8216,7 +8629,8 @@
     ],
     "mentioned_brands": [
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 35,
@@ -8236,7 +8650,8 @@
     ],
     "mentioned_brands": [
       "AWOL Vision"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 34,
@@ -8257,7 +8672,8 @@
     "mentioned_brands": [
       "Anker",
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 33,
@@ -8277,7 +8693,8 @@
     ],
     "mentioned_brands": [
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 32,
@@ -8299,7 +8716,8 @@
       "AWOL Vision",
       "Hisense",
       "Magcubic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 30,
@@ -8318,7 +8736,8 @@
     ],
     "mentioned_brands": [
       "ALINORE"
-    ]
+    ],
+    "link_status": "blocked"
   },
   {
     "id": 29,
@@ -8340,7 +8759,8 @@
     "mentioned_brands": [
       "Optoma",
       "Samsung"
-    ]
+    ],
+    "link_status": "blocked"
   },
   {
     "id": 174,
@@ -8364,7 +8784,8 @@
       "JMGO",
       "明基",
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 159,
@@ -8382,7 +8803,8 @@
     ],
     "mentioned_brands": [
       "極米"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 158,
@@ -8399,7 +8821,8 @@
       "Q2",
       "入門機型"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 350,
@@ -8419,7 +8842,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 349,
@@ -8440,7 +8864,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 348,
@@ -8461,7 +8886,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 347,
@@ -8481,7 +8907,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 346,
@@ -8502,7 +8929,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 345,
@@ -8522,7 +8950,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 344,
@@ -8542,7 +8971,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 343,
@@ -8563,7 +8993,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 342,
@@ -8583,7 +9014,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 453,
@@ -8600,7 +9032,8 @@
       "規格匹配",
       "後院觀影"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 341,
@@ -8620,7 +9053,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 340,
@@ -8640,7 +9074,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 339,
@@ -8661,7 +9096,8 @@
     "mentioned_brands": [
       "愛普生",
       "EPSON"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 338,
@@ -8681,7 +9117,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 337,
@@ -8701,7 +9138,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 336,
@@ -8721,7 +9159,8 @@
     "mentioned_brands": [
       "愛普生",
       "北京合眾聯鑫"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 335,
@@ -8742,7 +9181,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 334,
@@ -8762,7 +9202,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 333,
@@ -8781,7 +9222,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 332,
@@ -8801,7 +9243,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 331,
@@ -8821,7 +9264,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 330,
@@ -8841,7 +9285,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 329,
@@ -8861,7 +9306,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 328,
@@ -8881,7 +9327,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 327,
@@ -8900,7 +9347,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 326,
@@ -8921,7 +9369,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 462,
@@ -8941,7 +9390,8 @@
     ],
     "mentioned_brands": [
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 314,
@@ -8961,7 +9411,8 @@
     "mentioned_brands": [
       "極米",
       "京東"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 313,
@@ -8981,7 +9432,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 312,
@@ -9000,7 +9452,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 311,
@@ -9020,7 +9473,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 310,
@@ -9039,7 +9493,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 309,
@@ -9059,7 +9514,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 308,
@@ -9079,7 +9535,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 307,
@@ -9098,7 +9555,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 306,
@@ -9118,7 +9576,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 305,
@@ -9139,7 +9598,8 @@
     "mentioned_brands": [
       "大眼橙",
       "中關村在線"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 304,
@@ -9158,7 +9618,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 303,
@@ -9177,7 +9638,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 302,
@@ -9196,7 +9658,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 150,
@@ -9213,7 +9676,8 @@
       "雷射投影",
       "年減4.8%"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 486,
@@ -9232,7 +9696,8 @@
     ],
     "mentioned_brands": [
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 480,
@@ -9249,7 +9714,8 @@
       "預算方案",
       "觀影體驗"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 466,
@@ -9270,7 +9736,8 @@
     "mentioned_brands": [
       "Panasonic",
       "Illumibot"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 297,
@@ -9290,7 +9757,8 @@
     "mentioned_brands": [
       "索諾克",
       "SNP"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 296,
@@ -9309,7 +9777,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 295,
@@ -9330,7 +9799,8 @@
     "mentioned_brands": [
       "Acer",
       "宏碁"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 294,
@@ -9351,7 +9821,8 @@
     "mentioned_brands": [
       "愛普生",
       "EPSON"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 293,
@@ -9371,7 +9842,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 292,
@@ -9391,7 +9863,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 291,
@@ -9410,7 +9883,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 290,
@@ -9431,7 +9905,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 28,
@@ -9451,7 +9926,8 @@
     ],
     "mentioned_brands": [
       "Dangbei"
-    ]
+    ],
+    "link_status": "ok"
   },
   {
     "id": 1,
@@ -9479,7 +9955,8 @@
       "TMY",
       "ONOAYO",
       "Vizony"
-    ]
+    ],
+    "link_status": "blocked"
   },
   {
     "id": 485,
@@ -9499,7 +9976,8 @@
     ],
     "mentioned_brands": [
       "Vivitek"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 460,
@@ -9519,7 +9997,8 @@
     ],
     "mentioned_brands": [
       "EIKI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 457,
@@ -9539,7 +10018,8 @@
     ],
     "mentioned_brands": [
       "Christie"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 443,
@@ -9559,7 +10039,8 @@
     ],
     "mentioned_brands": [
       "Barco"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 442,
@@ -9580,7 +10061,8 @@
     "mentioned_brands": [
       "Appotronics",
       "光峰科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 461,
@@ -9600,7 +10082,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 459,
@@ -9619,7 +10102,8 @@
     ],
     "mentioned_brands": [
       "Draper"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 280,
@@ -9639,7 +10123,8 @@
     ],
     "mentioned_brands": [
       "寶視來"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 279,
@@ -9660,7 +10145,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 278,
@@ -9681,7 +10167,8 @@
     "mentioned_brands": [
       "明基",
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 277,
@@ -9702,7 +10189,8 @@
     "mentioned_brands": [
       "奧圖碼",
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 276,
@@ -9721,7 +10209,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 275,
@@ -9741,7 +10230,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 274,
@@ -9761,7 +10251,8 @@
     "mentioned_brands": [
       "明基",
       "BenQ"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 273,
@@ -9782,7 +10273,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 272,
@@ -9802,7 +10294,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 271,
@@ -9822,7 +10315,8 @@
     "mentioned_brands": [
       "Panasonic",
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 270,
@@ -9842,7 +10336,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 269,
@@ -9862,7 +10357,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 268,
@@ -9881,7 +10377,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 267,
@@ -9901,7 +10398,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 266,
@@ -9922,7 +10420,8 @@
     "mentioned_brands": [
       "SHARP",
       "NEC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 265,
@@ -9941,7 +10440,8 @@
     ],
     "mentioned_brands": [
       "SHARP/NEC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 264,
@@ -9963,7 +10463,8 @@
       "愛普生",
       "麗訊",
       "理光"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 263,
@@ -9984,7 +10485,8 @@
       "愛普生",
       "麗訊",
       "理光"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 262,
@@ -10004,7 +10506,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 261,
@@ -10023,7 +10526,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 260,
@@ -10043,7 +10547,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 259,
@@ -10064,7 +10569,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 258,
@@ -10084,7 +10590,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 257,
@@ -10104,7 +10611,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 256,
@@ -10125,7 +10633,8 @@
     "mentioned_brands": [
       "美視",
       "米家"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 255,
@@ -10146,7 +10655,8 @@
     "mentioned_brands": [
       "Vidda",
       "海信"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 254,
@@ -10167,7 +10677,8 @@
     "mentioned_brands": [
       "Vidda",
       "海信"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 253,
@@ -10188,7 +10699,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 252,
@@ -10209,7 +10721,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 251,
@@ -10230,7 +10743,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 250,
@@ -10251,7 +10765,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 249,
@@ -10272,7 +10787,8 @@
     "mentioned_brands": [
       "SHARP",
       "NEC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 248,
@@ -10293,7 +10809,8 @@
     "mentioned_brands": [
       "Maxell",
       "麥克賽爾"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 247,
@@ -10315,7 +10832,8 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 246,
@@ -10336,7 +10854,8 @@
     "mentioned_brands": [
       "Boxlight",
       "寶視來"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 245,
@@ -10356,7 +10875,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 244,
@@ -10376,7 +10896,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 243,
@@ -10395,7 +10916,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 242,
@@ -10414,7 +10936,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 241,
@@ -10434,7 +10957,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 240,
@@ -10455,7 +10979,8 @@
     "mentioned_brands": [
       "奧圖碼",
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 239,
@@ -10477,7 +11002,8 @@
     "mentioned_brands": [
       "Sony",
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 238,
@@ -10498,7 +11024,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 237,
@@ -10517,7 +11044,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 236,
@@ -10538,7 +11066,8 @@
     "mentioned_brands": [
       "Sony",
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 235,
@@ -10559,7 +11088,8 @@
     "mentioned_brands": [
       "Sony",
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 234,
@@ -10579,7 +11109,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 232,
@@ -10599,7 +11130,8 @@
     ],
     "mentioned_brands": [
       "得眾信"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 231,
@@ -10619,7 +11151,8 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 230,
@@ -10639,7 +11172,8 @@
     "mentioned_brands": [
       "Sonnoc",
       "索諾克"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 229,
@@ -10659,7 +11193,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 228,
@@ -10679,7 +11214,8 @@
     ],
     "mentioned_brands": [
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 227,
@@ -10700,7 +11236,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 226,
@@ -10720,7 +11257,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 824,
@@ -10740,7 +11278,8 @@
     "mentioned_brands": [
       "Sony",
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 225,
@@ -10761,7 +11300,8 @@
     "mentioned_brands": [
       "大眼橙",
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 224,
@@ -10780,7 +11320,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 223,
@@ -10801,7 +11342,8 @@
     "mentioned_brands": [
       "奧圖碼",
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 786,
@@ -10822,7 +11364,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 907,
@@ -10842,7 +11385,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 691,
@@ -10862,7 +11406,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 645,
@@ -10883,7 +11428,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 823,
@@ -10903,7 +11449,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 775,
@@ -10923,7 +11470,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 756,
@@ -10943,7 +11491,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 644,
@@ -10964,7 +11513,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 702,
@@ -10984,7 +11534,8 @@
     ],
     "mentioned_brands": [
       "光峰科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 803,
@@ -11004,7 +11555,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 762,
@@ -11024,7 +11576,8 @@
     ],
     "mentioned_brands": [
       "光峰"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 761,
@@ -11044,7 +11597,8 @@
     "mentioned_brands": [
       "SHARP",
       "NEC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 701,
@@ -11065,7 +11619,8 @@
     "mentioned_brands": [
       "Sony",
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 828,
@@ -11084,7 +11639,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 785,
@@ -11104,7 +11660,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 690,
@@ -11123,7 +11680,8 @@
     ],
     "mentioned_brands": [
       "Vidda"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 493,
@@ -11143,7 +11701,8 @@
     ],
     "mentioned_brands": [
       "飛利浦"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 784,
@@ -11162,7 +11721,8 @@
     ],
     "mentioned_brands": [
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 660,
@@ -11182,7 +11742,8 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 817,
@@ -11202,7 +11763,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 862,
@@ -11223,7 +11785,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 836,
@@ -11243,7 +11806,8 @@
     ],
     "mentioned_brands": [
       "三星"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 222,
@@ -11264,7 +11828,8 @@
     "mentioned_brands": [
       "Maxell",
       "麥克賽爾"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 906,
@@ -11283,7 +11848,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 905,
@@ -11303,7 +11869,8 @@
     ],
     "mentioned_brands": [
       "麗訊"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 869,
@@ -11323,7 +11890,8 @@
     "mentioned_brands": [
       "奧圖碼",
       "Optoma"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 492,
@@ -11342,7 +11910,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 827,
@@ -11363,7 +11932,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 689,
@@ -11383,7 +11953,8 @@
     "mentioned_brands": [
       "愛普生",
       "理光"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 826,
@@ -11404,7 +11975,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 802,
@@ -11424,7 +11996,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 609,
@@ -11444,7 +12017,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 491,
@@ -11464,7 +12038,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 807,
@@ -11485,7 +12060,8 @@
     "mentioned_brands": [
       "Panasonic",
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 608,
@@ -11505,7 +12081,8 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 688,
@@ -11525,7 +12102,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 490,
@@ -11544,7 +12122,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 795,
@@ -11563,7 +12142,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 794,
@@ -11583,7 +12163,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 815,
@@ -11604,7 +12185,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 806,
@@ -11624,7 +12206,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 801,
@@ -11644,7 +12227,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 659,
@@ -11664,7 +12248,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 852,
@@ -11684,7 +12269,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 904,
@@ -11703,7 +12289,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 814,
@@ -11724,7 +12311,8 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 221,
@@ -11743,7 +12331,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 928,
@@ -11762,7 +12351,8 @@
     ],
     "mentioned_brands": [
       "大眼橙"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 868,
@@ -11782,7 +12372,8 @@
     ],
     "mentioned_brands": [
       "ROLY"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 813,
@@ -11801,7 +12392,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 783,
@@ -11822,7 +12414,8 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 700,
@@ -11843,7 +12436,8 @@
     "mentioned_brands": [
       "大眼橙",
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 699,
@@ -11863,7 +12457,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 220,
@@ -11884,7 +12479,8 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 658,
@@ -11905,7 +12501,8 @@
     "mentioned_brands": [
       "Christie",
       "科視"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 755,
@@ -11926,7 +12523,8 @@
     "mentioned_brands": [
       "愛普生",
       "理光"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 687,
@@ -11946,7 +12544,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 643,
@@ -11967,7 +12566,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 860,
@@ -11987,7 +12587,8 @@
     ],
     "mentioned_brands": [
       "Sony"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 642,
@@ -12007,7 +12608,8 @@
     "mentioned_brands": [
       "索尼",
       "北京合众联鑫"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 835,
@@ -12026,7 +12628,8 @@
     ],
     "mentioned_brands": [
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 219,
@@ -12045,7 +12648,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 859,
@@ -12065,7 +12669,8 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 698,
@@ -12084,7 +12689,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 800,
@@ -12104,7 +12710,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 175,
@@ -12124,7 +12731,8 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 782,
@@ -12144,7 +12752,8 @@
     ],
     "mentioned_brands": [
       "愛普生"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 774,
@@ -12164,7 +12773,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 867,
@@ -12183,7 +12793,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 858,
@@ -12202,7 +12813,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 851,
@@ -12223,7 +12835,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 759,
@@ -12243,7 +12856,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 754,
@@ -12263,7 +12877,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 686,
@@ -12282,7 +12897,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 850,
@@ -12303,7 +12919,8 @@
     "mentioned_brands": [
       "Vidda",
       "光峰科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 758,
@@ -12324,7 +12941,8 @@
     "mentioned_brands": [
       "哈趣",
       "哈曼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 178,
@@ -12347,7 +12965,8 @@
       "Panasonic",
       "XGIMI",
       "極米"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 753,
@@ -12368,7 +12987,8 @@
     "mentioned_brands": [
       "宏碁",
       "Acer"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 180,
@@ -12387,7 +13007,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 606,
@@ -12407,7 +13028,8 @@
     ],
     "mentioned_brands": [
       "易仁科技"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 183,
@@ -12428,7 +13050,8 @@
       "Barco",
       "巴可",
       "Digital Projection"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 182,
@@ -12448,7 +13071,8 @@
     "mentioned_brands": [
       "Panasonic",
       "松下"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 152,
@@ -12470,7 +13094,8 @@
       "堅果",
       "當貝",
       "Vidda"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 151,
@@ -12494,7 +13119,8 @@
       "大眼橙",
       "小明",
       "飛利浦"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 173,
@@ -12514,7 +13140,8 @@
       "極米",
       "XGIMI",
       "AWOL Vision"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 171,
@@ -12533,7 +13160,8 @@
     "mentioned_brands": [
       "Formovie",
       "Xming"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 172,
@@ -12551,7 +13179,8 @@
     ],
     "mentioned_brands": [
       "Epson"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 170,
@@ -12570,7 +13199,8 @@
     "mentioned_brands": [
       "海信",
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 154,
@@ -12593,7 +13223,8 @@
       "小米",
       "康佳",
       "哈趣"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 169,
@@ -12612,7 +13243,8 @@
     "mentioned_brands": [
       "海信",
       "Hisense"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 160,
@@ -12629,7 +13261,8 @@
       "DDR5",
       "供應鏈成本"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 176,
@@ -12649,7 +13282,8 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 181,
@@ -12670,7 +13304,8 @@
       "JVC",
       "Sony",
       "索尼"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 153,
@@ -12693,7 +13328,8 @@
       "堅果",
       "當貝",
       "Vidda"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 166,
@@ -12712,7 +13348,8 @@
     "mentioned_brands": [
       "Anker",
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 177,
@@ -12732,7 +13369,8 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 149,
@@ -12750,7 +13388,8 @@
       "中國市場",
       "上半年"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 167,
@@ -12770,7 +13409,8 @@
     "mentioned_brands": [
       "極米",
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 165,
@@ -12789,7 +13429,8 @@
     "mentioned_brands": [
       "Anker",
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 168,
@@ -12807,7 +13448,8 @@
     ],
     "mentioned_brands": [
       "Aurzen"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 155,
@@ -12825,7 +13467,8 @@
       "雷射光源",
       "4K"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 179,
@@ -12844,7 +13487,8 @@
     ],
     "mentioned_brands": [
       "JVC"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 164,
@@ -12863,7 +13507,8 @@
     "mentioned_brands": [
       "Anker",
       "Nebula"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 156,
@@ -12880,7 +13525,8 @@
       "國補政策",
       "618大促"
     ],
-    "mentioned_brands": []
+    "mentioned_brands": [],
+    "link_status": null
   },
   {
     "id": 161,
@@ -12901,7 +13547,8 @@
       "Yaber",
       "Samsung",
       "LG"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 163,
@@ -12920,7 +13567,8 @@
     "mentioned_brands": [
       "堅果",
       "JMGO"
-    ]
+    ],
+    "link_status": null
   },
   {
     "id": 162,
@@ -12939,6 +13587,7 @@
     "mentioned_brands": [
       "極米",
       "XGIMI"
-    ]
+    ],
+    "link_status": null
   }
 ]
