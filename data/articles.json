@@ -11852,6 +11852,27 @@
     "link_status": null
   },
   {
+    "id": 958,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-LS11000W 投影機特價促銷訊息",
+    "summary_zh": "愛普生（Epson）主打高端家用市場的 4K 雷射家庭劇院投影機 CH-LS11000W，近期在中國北京銷售通路展開特價促銷。該機型結合高畫質 4K 解析度與雷射光源優勢，提供優質的家庭影音娛樂體驗，經銷商提供專案諮詢與優惠報價服務。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1187/11875778.html",
+    "publish_date": "2026-05-26",
+    "keywords": [
+      "愛普生",
+      "Epson",
+      "CH-LS11000W",
+      "4K投影機",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 817,
     "source_name": "ZOL投影機頻道",
     "title_zh": "爆款機型 YR-D200UAW 工程投影優選實力 - 易仁科技 YR-D200UAW 行情",
@@ -12375,6 +12396,26 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 957,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-A6U 投影機北京經銷商特價 32,200 元",
+    "summary_zh": "北京經銷商「偉業投影」針對樂麗 ROLY RL-A6U 投影機推出特價促銷活動，優惠價格為 32,200 元人民幣。該機型主打簡約造型、輕巧外觀設計以及還原真實色彩等特色。感興趣的消費者可前往海淀區中成大廈實體門市進行洽詢與購買。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1169/11699942.html",
+    "publish_date": "2026-04-23",
+    "keywords": [
+      "ROLY",
+      "RL-A6U",
+      "投影機",
+      "經銷商行情"
+    ],
+    "mentioned_brands": [
+      "ROLY"
     ],
     "link_status": null
   },
