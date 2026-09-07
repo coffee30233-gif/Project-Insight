@@ -26,7 +26,10 @@ push_with_retry() {
     echo "===== $(date '+%Y-%m-%d %H:%M:%S') daily update started ====="
     git pull origin main
     echo "[git pull exit code: $?]"
-    python scraper_example.py
+    # 用 timeout 包住爬蟲：即使某個來源「接受連線但不回應」，最多也只拖 15 分鐘就被
+    # 中止（--kill-after 再多給 60 秒收尾），不會像 2026-08 那次卡死好幾天擋住整條流程。
+    # exit code 124 = 逾時被中止。
+    timeout --kill-after=60 900 python scraper_example.py
     echo "[scraper exit code: $?]"
 
     # 每季（1/4/7/10 月的 1 號）跑一次原文連結健檢，把失效的「查看原文」連結標記到

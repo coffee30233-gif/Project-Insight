@@ -40,6 +40,7 @@ scraper_example.py
 
 import re
 import time
+import socket
 import logging
 import feedparser
 import requests
@@ -51,6 +52,11 @@ import db
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
+
+# 全域 socket 逾時：feedparser.parse(url) 內部用 urllib 抓取，本身沒有 timeout 參數，
+# 來源伺服器一旦「接受連線但不回應」就會無限等待（2026-08 曾因此卡死好幾天）。
+# 設一個保底逾時，任何走 socket 的下載都不會再無限阻塞。
+socket.setdefaulttimeout(30)
 
 # User-Agent 不要包含 "bot" 這類自報身分的字樣，避免被防爬蟲機制針對性擋下。
 HEADERS = {
@@ -123,21 +129,44 @@ RSS_SOURCES = [
 
 def fetch_rss_source(source: dict):
     logger.info("抓取 RSS 來源：%s", source["name"])
-    for retry in range(3):
+
+    # 先用 requests 抓（有明確的 timeout、看得到 HTTP 錯誤碼），成功就 break——
+    # 舊寫法在成功時沒有 break，等於每個來源每天都 parse 了 3 次。
+    feed = None
+    for attempt in range(3):
+        try:
+            resp = requests.get(source["url"], headers=HEADERS, timeout=30)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+            break
+        except Exception as e:
+            logger.warning("RSS 以 requests 下載失敗（第 %d 次）：%s（%s）",
+                           attempt + 1, source["name"], e)
+            if attempt < 2:
+                time.sleep(5)
+
+    if feed is None:
+        # 有些平台（例如 Reddit）對非瀏覽器請求較嚴，requests 可能被擋；
+        # 退回 feedparser 自己抓，靠上面的 socket.setdefaulttimeout() 保證不會無限等待。
+        logger.warning("改用 feedparser 直接抓：%s", source["name"])
         try:
             feed = feedparser.parse(source["url"])
         except Exception:
-            if retry == 2:
-                logging.exception(f"{source['name']} RSS 下載失敗")
-                return
+            logger.exception("RSS 下載徹底失敗，放棄這個來源：%s", source["name"])
+            return
 
-            logger.warning("Retry...")
-            time.sleep(5)
+    # feedparser 遇到格式問題不會丟例外，只把 bozo 設成 1、entries 給空清單。
+    # 明確記一筆，避免「共 0 篇」到底是真的沒新文、還是抓取壞掉分不出來。
+    if getattr(feed, "bozo", 0) and not feed.entries:
+        logger.warning("RSS 解析異常（bozo）：%s（%s）",
+                       source["name"], getattr(feed, "bozo_exception", ""))
+        return
 
     need_filter = source.get("filter", False)
 
     total_entries = len(feed.entries)
     filtered_out = 0
+    skipped_existing = 0
     processed = 0
 
     for entry in feed.entries:
@@ -147,6 +176,11 @@ def fetch_rss_source(source: dict):
             continue
 
         url = entry.get("link")
+        # 已經成功處理過的就直接跳過，省掉後面的 image/date 解析與 sleep。
+        if not url or db.article_exists(url):
+            skipped_existing += 1
+            continue
+
         # RSS 摘要通常不完整，若需要完整內文，建議另外對 entry.link 發請求
         # 抓詳細頁再解析；投影時代這類提供全文的來源則不需要。
         raw_content = entry.get("summary", title)
@@ -166,7 +200,6 @@ def fetch_rss_source(source: dict):
                     image_url = link.get("href")
                     break
 
-        already_exists = db.article_exists(url)
         ingest_article(
             source_name=source["name"],
             original_title=title,
@@ -175,13 +208,12 @@ def fetch_rss_source(source: dict):
             raw_content=raw_content,
             image_url=image_url,
         )
-        if not already_exists:
-            processed += 1
+        processed += 1
         time.sleep(1)  # 避免對來源網站造成負擔
 
     logger.info(
-        "【%s】RSS 共 %d 篇 → 關鍵字濾掉 %d 篇 → 新寫入 %d 篇（其餘為已存在，已跳過）",
-        source["name"], total_entries, filtered_out, processed,
+        "【%s】RSS 共 %d 篇 → 關鍵字濾掉 %d 篇 → 已存在略過 %d 篇 → 新寫入 %d 篇",
+        source["name"], total_entries, filtered_out, skipped_existing, processed,
     )
 
 
@@ -288,11 +320,19 @@ def fetch_html_list_source(source: dict):
     logger.info("列表頁找到 %d 篇文章連結", len(urls))
 
     need_filter = source.get("filter", False)
+    skipped_existing = 0
     meta_failed = 0
     filtered_out = 0
     processed = 0
 
     for url in urls:
+        # 先查重、再抓詳情頁：列表頁大多是早就收錄過的舊文，
+        # 沒必要每天重新 GET 一次它們的詳情頁（也對來源網站更友善）。
+        # 這是把整趟爬蟲從 ~20 分鐘縮到幾分鐘的關鍵。
+        if db.article_exists(url):
+            skipped_existing += 1
+            continue
+
         detail = _fetch_article_meta(url, source.get("encoding", "utf-8"))
         if not detail:
             meta_failed += 1
@@ -301,7 +341,6 @@ def fetch_html_list_source(source: dict):
             filtered_out += 1
             continue
 
-        already_exists = db.article_exists(url)
         ingest_article(
             source_name=source["name"],
             original_title=detail["title"],
@@ -310,14 +349,13 @@ def fetch_html_list_source(source: dict):
             raw_content=detail["summary"],
             image_url=detail.get("image_url"),
         )
-        if not already_exists:
-            processed += 1
+        processed += 1
         time.sleep(2)  # 中文站點對爬蟲頻率較敏感，間隔可拉長
 
     logger.info(
-        "【%s】列表頁連結 %d 篇 → meta 抓取失敗 %d 篇 → 關鍵字濾掉 %d 篇 → "
-        "新寫入 %d 篇（其餘為已存在，已跳過）",
-        source["name"], len(urls), meta_failed, filtered_out, processed,
+        "【%s】列表頁連結 %d 篇 → 已存在略過 %d 篇 → meta 抓取失敗 %d 篇 → "
+        "關鍵字濾掉 %d 篇 → 新寫入 %d 篇",
+        source["name"], len(urls), skipped_existing, meta_failed, filtered_out, processed,
     )
 
 
