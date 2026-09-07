@@ -9,8 +9,8 @@ gemini_client.py
 需先設定環境變數 GEMINI_API_KEY（於 https://aistudio.google.com 取得）。
 
 模型選擇：
-  - 單篇處理量大、要求較低 -> 用 gemini-2.5-flash-lite
-  - 月報/年報需要跨篇比對與寫作品質 -> 用 gemini-2.5-flash
+  - 單篇摘要／分類／AI 問答（量大、每次要求較低）-> FLASH_MODELS（純 Flash 系列）
+  - 月報／半年報／年報（需跨篇比對與寫作品質）-> PRO_MODELS（Pro 優先，撞額度再退回 Flash）
   依實際可用模型與費用調整，Gemini 模型版本更新頻率高，建議在
   https://ai.google.dev/gemini-api/docs/models 確認目前可用的模型 ID。
 """
@@ -29,25 +29,30 @@ from google import genai
 from google.genai import types
 from pydantic import BaseModel, Field
 
-# 依帳號目前可用的模型，由快、額度寬鬆到重、額度緊排序，逐一嘗試直到成功：
-# Flash 系列額度通常比 Pro 寬鬆、回應也快，優先嘗試；Pro 預覽版放中間；
-# gemini-2.0-flash 是最後保底，即使前面全部撞額度，也還有機會成功。
-MODEL_PRIORITY = [
+# 每份清單都是「由快／額度寬鬆到重／額度緊」的後援順序，逐一嘗試直到成功。
+
+# FLASH_MODELS：單篇摘要、分類、AI 問答用。純 Flash / Flash-Lite，絕不會打到
+# Pro（preview）——避免單篇文章在 Flash 全被限流時，默默用貴很多的 Pro 額度。
+FLASH_MODELS = [
     "gemini-3.6-flash",       # 最新 Flash（帳號可用時優先）
     "gemini-3.5-flash",       # 次優先 Flash
     "gemini-3.5-flash-lite",  # 成本更低
     "gemini-3.1-flash-lite",  # 備援
+    "gemini-2.5-flash-lite",  # 2.5 Lite
+    "gemini-2.0-flash",       # 最後保底
+]
+
+# PRO_MODELS：月報／半年報／年報用（跨篇比對、寫作品質要求高）。Pro 優先，
+# 全部撞額度時退回 Flash，讓報告至少能產出、不會整份失敗。
+PRO_MODELS = [
     "gemini-3-pro-preview",   # 最新 Pro 預覽版
     "gemini-3.1-pro-preview", # Pro 備援
     "gemini-pro-latest",      # 舊版 Pro 相容
-    "gemini-2.5-flash-lite",  # 2.5 Lite
-    "gemini-2.0-flash",       # 最後備援
+    "gemini-3.6-flash",       # Pro 全掛時退回最新 Flash
+    "gemini-3.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.0-flash",       # 最後保底
 ]
-
-# FLASH_MODELS／PRO_MODELS 這兩個名稱其他檔案（rag.py、generate_*_report.py）
-# 都還在引用，保留名稱、但兩者都指向同一份完整的後援清單，不用同時改好幾個檔案。
-FLASH_MODELS = MODEL_PRIORITY
-PRO_MODELS = MODEL_PRIORITY
 
 # 本機批次工作（月報／半年報／年報）用的預設重試設定：縮短成 1 次、等 5 秒，
 # 額度不足時能更快跳到下一個模型，不用像以前一樣每個模型乾等 20 秒。

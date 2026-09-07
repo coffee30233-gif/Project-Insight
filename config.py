@@ -1,10 +1,6 @@
-SUMMARY_MODEL = "gemini-2.5-flash-lite"
-REPORT_MODEL = "gemini-2.5-flash"
-
-BATCH_SIZE = 10
-
-MAX_RETRY = 5
-RETRY_WAIT = 60
+# 注意：模型選擇與重試設定都在 gemini_client.py（FLASH_MODELS / PRO_MODELS /
+# MAX_RETRY / RETRY_WAIT）。這裡以前有一組 SUMMARY_MODEL / REPORT_MODEL / BATCH_SIZE /
+# MAX_RETRY / RETRY_WAIT，但全專案沒有任何檔案 import 它們、值也早就過時，已移除以免誤導。
 
 # 「原文快取 fallback」：當 check_links.py 把某篇文章的原文連結標記為 dead（來源網站
 # 已移除或改網址）時，export_static_data.py 會把資料庫裡存的 raw_content 匯出成
