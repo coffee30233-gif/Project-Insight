@@ -87,8 +87,14 @@ def backfill_embeddings(batch_size: int = 200):
     print(f"完成，共補產生 {total} 篇文章的 embedding。")
 
 
-def cosine_similarity_search(query_vector: list[float], top_k: int = 8) -> list[dict]:
-    """在所有已 embed 的文章中，找出跟 query_vector 最相似的 top_k 篇。"""
+def cosine_similarity_search(query_vector: list[float], top_k: int = 8,
+                              min_similarity: float = 0.0) -> list[dict]:
+    """
+    在所有已 embed 的文章中，找出跟 query_vector 最相似的 top_k 篇。
+
+    min_similarity：cosine 相似度低於這個值的結果直接丟掉。用來讓「資料庫裡其實
+    沒有相關內容」的問題回傳空清單，而不是硬塞幾篇「最不相關的」給模型當根據。
+    """
     articles = db.get_all_embedded_articles()
     if not articles:
         return []
@@ -105,8 +111,11 @@ def cosine_similarity_search(query_vector: list[float], top_k: int = 8) -> list[
 
     results = []
     for idx in top_indices:
+        score = float(scores[idx])
+        if score < min_similarity:
+            continue
         article = dict(articles[int(idx)])
-        article["similarity"] = float(scores[idx])
+        article["similarity"] = score
         del article["embedding"]  # 不需要回傳給呼叫端
         results.append(article)
     return results

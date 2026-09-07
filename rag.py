@@ -32,6 +32,12 @@ SYSTEM_PROMPT = """\
 """
 
 
+# 低於這個 cosine 相似度就當作「檢索不到相關內容」。gemini-embedding-2 的檢索向量
+# 對真正相關的文章通常落在 0.5 以上，0.3 以下多半是沾不上邊——寧可回「資料不足」，
+# 也不要拿幾篇不相關的文章硬湊答案。門檻可視實際問答品質再微調。
+MIN_SIMILARITY = 0.30
+
+
 def answer_question(question: str, top_k: int = 8) -> dict:
     """
     回傳格式：
@@ -45,12 +51,14 @@ def answer_question(question: str, top_k: int = 8) -> dict:
     }
     """
     query_vector = embeddings.embed_query(question)
-    retrieved = embeddings.cosine_similarity_search(query_vector, top_k=top_k)
+    retrieved = embeddings.cosine_similarity_search(
+        query_vector, top_k=top_k, min_similarity=MIN_SIMILARITY
+    )
 
     if not retrieved:
         return {
-            "answer": "資料庫目前還沒有可供檢索的文章（可能是還沒執行過爬蟲，"
-                      "或還沒有文章完成 embedding 處理），暫時無法回答這個問題。",
+            "answer": "目前資料庫中找不到與這個問題足夠相關的文章，暫時無法回答。"
+                      "可以換個問法、或把範圍縮小到具體的品牌／技術／時間再試試。",
             "sources": [],
         }
 
