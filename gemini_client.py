@@ -31,27 +31,34 @@ from google import genai
 from google.genai import types
 from pydantic import BaseModel, Field
 
-# 每份清單都是「由快／額度寬鬆到重／額度緊」的後援順序，逐一嘗試直到成功。
+# 清單順序 = 後援嘗試順序。排法依「這個帳號免費額度的實際 RPM（每分鐘請求數）」：
+#   一般 Flash（3.5 / 3.6 / 3.7 / 3.8）：免費版只有 5 RPM —— 很緊，只當備援。
+#   Flash-Lite（3.5 / 3.1）：15 RPM ；2.5 Flash-Lite：10 RPM —— 頭排放這幾個。
+#   Embedding 2：100 RPM，完全不是瓶頸（所以 embed 不節流，見 embeddings.py）。
+#   TPM（每分鐘 token）全都 250K，很寬鬆，不是限制。
+# 若日後帳號額度改變，回這裡重排即可。
 
-# FLASH_MODELS：單篇摘要、分類、AI 問答用。純 Flash / Flash-Lite，絕不會打到
-# Pro（preview）——避免單篇文章在 Flash 全被限流時，默默用貴很多的 Pro 額度。
+# FLASH_MODELS：單篇摘要、分類、AI 問答用。專案原本的設計就是「摘要用 Flash-Lite」，
+# 現在的免費額度也印證這個方向（Lite 的 RPM 是一般 Flash 的 2–3 倍）。
 FLASH_MODELS = [
-    "gemini-3.6-flash",       # 最新 Flash（帳號可用時優先）
-    "gemini-3.5-flash",       # 次優先 Flash
-    "gemini-3.5-flash-lite",  # 成本更低
-    "gemini-3.1-flash-lite",  # 備援
-    "gemini-2.5-flash-lite",  # 2.5 Lite
+    "gemini-3.5-flash-lite",  # 15 RPM
+    "gemini-2.5-flash-lite",  # 10 RPM（目前完全沒在用，拿來分攤負載）
+    "gemini-3.1-flash-lite",  # 15 RPM
+    "gemini-3.6-flash",       # 5 RPM ——以下都是備援
+    "gemini-3.5-flash",       # 5 RPM
+    "gemini-3.7-flash",       # 5 RPM
+    "gemini-3.8-flash",       # 5 RPM
     "gemini-2.0-flash",       # 最後保底
 ]
 
-# PRO_MODELS：月報／半年報／年報用（跨篇比對、寫作品質要求高）。Pro 優先，
-# 全部撞額度時退回 Flash，讓報告至少能產出、不會整份失敗。
+# PRO_MODELS：月報／半年報／年報用（跨篇比對、寫作品質要求高）。這個帳號免費額度
+# 目前不含 Pro，所以改用「品質最好的 Flash」寫報告、Lite 當退路。報告一週才跑一次、
+# 呼叫數少，5 RPM 對它不成問題。若日後開通 Pro，把 pro 系列加回最前面即可。
 PRO_MODELS = [
-    "gemini-3-pro-preview",   # 最新 Pro 預覽版
-    "gemini-3.1-pro-preview", # Pro 備援
-    "gemini-pro-latest",      # 舊版 Pro 相容
-    "gemini-3.6-flash",       # Pro 全掛時退回最新 Flash
+    "gemini-3.6-flash",       # 5 RPM，報告寫作品質優先用全 Flash
     "gemini-3.5-flash",
+    "gemini-3.7-flash",
+    "gemini-3.5-flash-lite",  # 全 Flash 都撞額度時退回 Lite
     "gemini-2.5-flash-lite",
     "gemini-2.0-flash",       # 最後保底
 ]
@@ -62,9 +69,10 @@ PRO_MODELS = [
 MAX_RETRY = 2
 RETRY_WAIT = 5  # 單一 model 內的短等待（目前 429 直接換下一個 model，較少用到）
 
-# 免費額度每分鐘請求數有限（Flash 大約 10–15 RPM），一口氣冒出很多新文章時
-# summary + embedding 兩種呼叫會瞬間爆量觸發 429。用一個全域節流閥，強制任兩次
-# 呼叫（含 embedding）至少間隔這麼多秒。只給批次工作用，AI 問答不節流。
+# 免費額度：頭排的 Flash-Lite 是 15 RPM。一口氣冒出很多新文章時 generate_content
+# 呼叫會瞬間爆量觸發 429。用一個全域節流閥，強制任兩次呼叫至少間隔這麼多秒
+# （預設 5 秒 = 12/分，留餘裕）。只給批次工作（爬蟲、報告）用；AI 問答不節流；
+# embedding 是 100 RPM 也不節流。可用環境變數 GEMINI_MIN_CALL_INTERVAL 調整。
 MIN_CALL_INTERVAL = float(os.environ.get("GEMINI_MIN_CALL_INTERVAL", "5"))
 _pace_lock = threading.Lock()
 _last_call_ts = 0.0
