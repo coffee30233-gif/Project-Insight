@@ -45,7 +45,7 @@ import logging
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
 
 from ingest import ingest_article
 import db
@@ -80,6 +80,37 @@ PROJECTOR_KEYWORDS = [
     "Panasonic", "松下", "ViewSonic", "优派", "NEC", "Barco", "科视",
     "Christie", "科视", "JVC",
 ]
+
+
+# 這些 query 參數只是追蹤用途，不影響指向的文章，正規化時一律去掉——
+# 否則同一篇文章帶不同 utm 就會被當成新文，產生重複列、重複花 Gemini 額度。
+_TRACKING_PARAMS = {
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+    "utm_id", "fbclid", "gclid", "msclkid", "mc_cid", "mc_eid", "yclid",
+    "_ga", "ref_src", "ref_url",
+}
+
+
+def normalize_url(url: str | None) -> str | None:
+    """
+    文章網址正規化，供去重使用：scheme/host 轉小寫、去掉 fragment(#...)、
+    移除追蹤用 query 參數、其餘參數排序。**不動路徑本身**（尾斜線、大小寫都保留），
+    因為不同網站對路徑的處理方式不同，亂改反而會指到錯的頁面。
+    """
+    if not url:
+        return url
+    try:
+        parts = urlsplit(url.strip())
+    except ValueError:
+        return url
+    scheme = parts.scheme.lower()
+    netloc = parts.netloc.lower()
+    query_pairs = [
+        (k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+        if k.lower() not in _TRACKING_PARAMS
+    ]
+    query = urlencode(sorted(query_pairs))
+    return urlunsplit((scheme, netloc, parts.path, query, ""))
 
 
 def _is_projector_related(title: str) -> bool:
@@ -175,7 +206,7 @@ def fetch_rss_source(source: dict):
             filtered_out += 1
             continue
 
-        url = entry.get("link")
+        url = normalize_url(entry.get("link"))
         # 已經成功處理過的就直接跳過，省掉後面的 image/date 解析與 sleep。
         if not url or db.article_exists(url):
             skipped_existing += 1
@@ -312,8 +343,8 @@ def fetch_html_list_source(source: dict):
 
     urls = set()
     for a_tag in soup.find_all("a", href=True):
-        absolute_url = urljoin(source["list_url"], a_tag["href"])
-        if pattern.search(absolute_url):
+        absolute_url = normalize_url(urljoin(source["list_url"], a_tag["href"]))
+        if absolute_url and pattern.search(absolute_url):
             urls.add(absolute_url)
     urls = sorted(urls)
 
