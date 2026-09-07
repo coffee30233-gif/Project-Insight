@@ -46,6 +46,25 @@ def export_stats():
     print(f"已寫入 {path}（共 {stats['total_articles']} 篇文章、{stats['total_sources']} 個來源）")
 
 
+def export_rag():
+    """
+    把 AI 問答檢索需要的資料（含 embedding）匯出成 data/rag.jsonl，一篇一行、依 id 排序。
+    Vercel 上的 api/ask.py 讀這個檔做 RAG，就不需要把整顆 projector_intel.db 塞進
+    git / 部署包（SQLite 檔 delta 壓縮差，每天全量 commit 會讓 .git 一直腫）。
+    JSONL 逐行、順序穩定，git 幾乎只會看到「新增幾行」，歷史成長貼近實際新增量。
+    """
+    rows = sorted(db.get_all_embedded_articles(), key=lambda r: r["id"])
+    path = os.path.join(STATIC_DATA_DIR, "rag.jsonl")
+    with open(path, "w", encoding="utf-8") as f:
+        for r in rows:
+            r = dict(r)
+            # 6 位小數對 cosine 相似度綽綽有餘，體積比原始 float 省約三成
+            r["embedding"] = [round(x, 6) for x in r["embedding"]]
+            f.write(json.dumps(r, ensure_ascii=False, separators=(",", ":")) + "\n")
+    size_mb = os.path.getsize(path) / 1024 / 1024
+    print(f"已寫入 {path}（{len(rows)} 篇、{size_mb:.1f} MB，供 AI 問答檢索用）")
+
+
 def export_archive():
     """
     「原文快取 fallback」：只有 config.ENABLE_ORIGINAL_CACHE = True 時才會產出。
@@ -185,6 +204,7 @@ def main():
     db.init_db()
     export_stats()
     export_articles()
+    export_rag()
     export_reports_index_and_files()
     export_archive()
     print("\n完成。接下來：git add data && git commit && git push，再重新部署 Vercel。")

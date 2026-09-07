@@ -11,7 +11,12 @@ from contextlib import contextmanager
 
 # 用絕對路徑（相對於這個檔案的位置），避免在 Vercel Serverless Function 裡
 # 因為執行時的工作目錄（cwd）不是專案根目錄，導致找不到資料庫檔案。
-DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "projector_intel.db")
+_HERE = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(_HERE, "projector_intel.db")
+
+# AI 問答檢索資料（由 export_static_data.export_rag() 產生）。Vercel 上不帶 DB，
+# get_all_embedded_articles() 改讀這個檔。
+RAG_JSONL_PATH = os.path.join(_HERE, "data", "rag.jsonl")
 
 # Vercel Serverless Function 的檔案系統是唯讀的（只有 /tmp 可寫，而且不會保留），
 # 所以部署在 Vercel 上時，一律用「唯讀」模式打開資料庫，就算程式邏輯不小心呼叫到
@@ -287,15 +292,33 @@ def get_unembedded_articles(limit: int = 200) -> list[dict]:
     return [dict(r) for r in rows]
 
 
+def _load_rag_jsonl() -> list[dict]:
+    """讀 data/rag.jsonl（Vercel 上沒有 DB 時的 RAG 資料來源）。"""
+    if not os.path.exists(RAG_JSONL_PATH):
+        return []
+    out = []
+    with open(RAG_JSONL_PATH, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                out.append(json.loads(line))
+    return out
+
+
 def get_all_embedded_articles() -> list[dict]:
     """取出所有已產生 embedding 的文章，供 RAG 檢索時載入記憶體做相似度計算。"""
+    if IS_VERCEL:
+        # Vercel 部署不帶 projector_intel.db，改讀 export 出來的 data/rag.jsonl
+        return _load_rag_jsonl()
+
     with get_conn() as conn:
         rows = conn.execute(
             f"""SELECT id, source_name, title_zh, summary_zh, category,
                       importance, url, publish_date, embedding, link_status
                FROM articles
                WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}
-                     AND {_report_source_filter_sql()}""",
+                     AND {_report_source_filter_sql()}
+               ORDER BY id""",
             (*EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
         ).fetchall()
 

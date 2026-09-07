@@ -51,7 +51,7 @@ push_with_retry() {
     echo "[export exit code: $exp_rc]"
     [ "$exp_rc" -ne 0 ] && { echo "[!! export_static_data 失敗 rc=$exp_rc]"; FAILED=1; }
 
-    git add data projector_intel.db
+    git add data
     if git diff --cached --quiet; then
         echo "[今天沒有任何新變更，略過 commit / push]"
     else

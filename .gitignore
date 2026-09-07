@@ -13,7 +13,7 @@ venv/
 # Logs
 logs/
 
-# 資料庫：projector_intel.db 需要提交（Vercel 部署後 /api/ask 要唯讀讀取它做 RAG 檢索），
-# 其他 .db 檔案（例如本機測試用的暫存檔）仍然排除
+# 資料庫只在本機／伺服器工作時用。Vercel 上的 /api/ask 改讀 data/rag.jsonl
+#（由 export_static_data.export_rag() 產生），不再把整顆 DB 塞進 git——
+# SQLite 檔 delta 壓縮差，每天全量 commit 會讓 .git 一直腫。
 *.db
-!projector_intel.db
