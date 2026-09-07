@@ -1,5 +1,345 @@
 [
   {
+    "id": 978,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機家庭使用易用性與安裝疑慮",
+    "summary_zh": "一名網友在論壇發文詢問超短焦投影機（UST）搭配地升式電動布幕替換客廳電視的可行性。發問者指出家中育有幼童，擔心擺放在地面的設備安全，同時顧慮若設備移位後調整極為複雜，對於非科技專長的使用者或獨自照顧小孩的配偶而言，操作與設置門檻過高，故向社群尋求相關體驗與建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w932ga/projector_ease_of_use/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "超短焦投影機",
+      "電動布幕",
+      "家庭使用",
+      "易用性",
+      "設備設置"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 976,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Xming V1 Ultra 投影機畫面出現微弱橫條紋求助",
+    "summary_zh": "一位使用者在 Reddit 社群發文求助，指出其擁有的 Xming V1 Ultra 投影機在播放時畫面上會出現微弱的橫條紋，希望了解這種故障現象的原因。此內容屬於單一用戶針對特定機型的畫面顯示異常進行諮詢。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w93byf/o_que_seria_isso_no_meu_projetor/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "Xming V1 Ultra",
+      "橫條紋",
+      "顯示故障",
+      "面板問題"
+    ],
+    "mentioned_brands": [
+      "Xming"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 975,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "開發免費投影機鏡頭計算工具",
+    "summary_zh": "社群用戶開發了一款免費的投影機鏡頭計算工具，主要用於幫助使用者線上計算投影距離、畫面尺寸以及鏡頭投射比等關鍵參數。該工具能有效簡化使用者在規劃家用劇院或專業影音場景裝設投影設備時的算術流程，提供極具實用價值的安裝參考。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w95qpe/built_a_free_lens_calculator/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "投影鏡頭",
+      "鏡頭計算器",
+      "投射比",
+      "投影距離"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 973,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機選購建議詢問：尋求LG HU810PW出現壞點後的替換方案",
+    "summary_zh": "一位網友反映其使用不到兩千小時的LG HU810PW投影機出現三個壞點，因過保維修DMD晶片費用過高且原廠拒絕協助，決定將機台送人並尋求新機建議。考慮到過往愛普生LCD機種故障經驗，該玩家極度重視產品耐用度，目前正考慮Sony或JVC，並在未做遮光處理的客廳搭配120吋幕布使用。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w989dl/advice/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "LG HU810PW",
+      "DMD晶片",
+      "壞點",
+      "投影機選購",
+      "JVC"
+    ],
+    "mentioned_brands": [
+      "LG",
+      "Sony",
+      "JVC",
+      "Epson",
+      "Elite Screens"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 972,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求 Bell and Howell 545 投影機規格資訊",
+    "summary_zh": "本篇內容為社群平台 Reddit 用戶發布的詢問貼文，該使用者正在尋找老舊型號 Bell and Howell 545 投影機的詳細規格與技術資料，並上傳了機身照片供社群協助辨識。這類貼文反映出舊款或二手投影機設備使用者對於歷史機型規格資料的需求。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w95rt6/projector_specs_wanted_bell_and_howell_545/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "Bell and Howell",
+      "545",
+      "投影機規格",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "Bell and Howell"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 971,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vankyo 投影機音訊異常加速與播放跳段問題求助",
+    "summary_zh": "一位使用者發文求助表示，其使用的 Vankyo Leisure 470 投影機透過 HDMI 連接 Mac 電腦時，出現聲音與影片播放異常加速、快速跳段的問題。雖然曾嘗試將設備恢復原廠設定，且因 DRM 版權限制無法採用螢幕鏡像，問題仍無法解決，因此向廣大網友尋求排除障礙的建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9bwv1/vankyo_projector_speeding_up_audio_skipping_30/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "Vankyo",
+      "Leisure 470",
+      "音訊異常",
+      "HDMI",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Vankyo",
+      "Apple",
+      "Netflix"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 969,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求1000美元以下家用替換投影機推薦",
+    "summary_zh": "一名使用 Yaber Y21 投影機達六年的使用者，因舊機出現故障且環境有抗光與耐用需求，發文尋求 1000 美元以下的替換機種推薦。使用者預設投射距離為 13 英呎、100 吋牆面，並偏好高流明及壽命較長的 LED 光源，用於搭配現有的 Apple TV 進行日常影音播放。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9f7kh/1000_replacement_projector_for_basic_viewing/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "投影機選購",
+      "預算1000美元",
+      "Yaber",
+      "LED光源",
+      "家用影音"
+    ],
+    "mentioned_brands": [
+      "Yaber",
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 967,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "首購族投影機選購請益：700美元預算與臥室短焦需求",
+    "summary_zh": "一位首次購買投影機的用戶在論壇發文徵求建議，預算約700美元，預計於臥室使用。需求包含1080p解析度、支援角度微調或壁掛架，並需在6英呎內投射120吋畫面，將外接Apple TV使用。發文者同時提及市場上投影機機型更新週期似乎較長。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9fote/projector_recommendations_for_first_time_owner/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "1080p",
+      "短焦投影",
+      "臥室投影",
+      "投影機推薦",
+      "Apple TV"
+    ],
+    "mentioned_brands": [
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 966,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人透過 Amazon 和 Adorama 購買過 Epson 整新投影機嗎？",
+    "summary_zh": "一位網友在論壇發文詢問，透過 Amazon 上的賣家 Adorama 購買 Epson 整新投影機的可靠性與使用經驗。該網友指出，這類整新機通常僅提供自購買日起 90 天的基礎保固，但消費者可另外花費約 140 美元加購三年延長保固服務，希望有經驗的消費者能分享購買評價。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9fuw9/anyone_have_experience_with_epson_refurbs_via/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "Epson",
+      "整新機",
+      "投影機",
+      "Adorama",
+      "保固"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Amazon",
+      "Adorama"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 965,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生投影機於省電模式下亮度異常閃爍之問題討論",
+    "summary_zh": "一位使用者購買二手愛普生 EH-TW5600 投影機後，發現在 ECO 省電模式下畫面會出現隨機亮度變化與電弧閃爍現象。切換至高功率模式雖可改善但風扇聲音過大，且嘗試長時間在高功率模式下運作亦無法徹底解決閃爍狀況，因此於論壇尋求其他使用者的排除經驗。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9bhi5/epson_projector_changing_brightness_randomly_in/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "Epson",
+      "EH-TW5600",
+      "省電模式",
+      "燈泡閃爍",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 963,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何將圖像投影到牆面上作為室內裝飾？",
+    "summary_zh": "一位國外 Reddit 社群用戶發文請教，希望能在距離牆面約 11 英呎（約 3.35 公尺）的位置，透過投影機將特定圖像投影至牆面作為室內裝飾。該名網友表示經多次搜尋仍未獲得解答，因此尋求適合此類裝飾用途的投影機類型與選購建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w94vdg/how_do_i_project_an_image_onto_a_wall_like_this/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "牆面投影",
+      "室內裝飾",
+      "投影距離",
+      "投影機選購"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 985,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "長焦投影機與超短焦（UST）投影機的選擇與「足夠好」的折衷方案討論",
+    "summary_zh": "本文為 Reddit 用戶針對新家裝潢提出的投影機選購諮詢。作者因挑高屋頂限制無法吊裝，正於長焦投影機（如 Epson LS12000）與超短焦投影機（如 Hisense PX4 Pro）之間抉擇。作者詢問在客廳遮光有限、觀看距離 3 公尺且追求 120 至 136 吋大畫面的情況下，超短焦投影機的畫質是否能與傳統長焦媲美，還是僅為空間限制下的妥協選擇。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w8bvbk/long_throw_vs_ust_and_good_enough/",
+    "publish_date": "2026-09-06",
+    "keywords": [
+      "長焦投影機",
+      "超短焦投影機",
+      "UST",
+      "投影機安裝",
+      "Epson LS12000",
+      "Hisense PX4 Pro"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Epson",
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 984,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "網友詢問：如何使用二手 Vivitek Qumi Q5 投影機與 PS4 播放 3D 電影？",
+    "summary_zh": "一位家長在 Reddit 論壇上發文尋求建議，表示孩子在迪士尼體驗 3D 電影後，希望能在家庭實現 3D 觀影。由於預算有限，該用戶在二手市場以 50 美元購入了一台全新的 Vivitek Qumi Q5 投影機，並計劃搭配 PS4 主機播放 3D 電影。他詢問此配置是否可行、是否需要特殊投影幕，以及該款投影機的 3D 效果表現如何。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w8k0t9/my_kids_want_to_watch_3d_movies/",
+    "publish_date": "2026-09-06",
+    "keywords": [
+      "3D投影",
+      "Vivitek Qumi Q5",
+      "家用投影機",
+      "PS4",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "Vivitek",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 983,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 HD33 投影機畫面閃爍問題求助",
+    "summary_zh": "本文為 Reddit 社群用戶的求助貼文。該用戶在閒置兩年後重新啟用奧圖碼（Optoma）HD33 投影機，卻發現畫面出現閃爍現象，因此上網詢問此故障是由色輪損壞、燈泡老化還是其他硬體因素所引起。此案例反映了舊款投影機長期未使用後可能面臨的硬體老化與維護問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w8az7e/whats_failing_here/",
+    "publish_date": "2026-09-06",
+    "keywords": [
+      "Optoma HD33",
+      "畫面閃爍",
+      "色輪",
+      "投影機燈泡",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 981,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir 投影機使用心得分享",
+    "summary_zh": "本篇為 Reddit 社群用戶針對極米（Xgimi）旗下投影機產品「Titan Noir」所發表的使用心得與主觀評價分享。雖然原文僅提供連結，但該討論串旨在提供消費者真實的使用反饋，包含畫面表現、操作體驗等實際應用層面的個人評測，可作為評估該機型市場口碑的參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w8qkkz/xgimi_titan_noir_mon_avis/",
+    "publish_date": "2026-09-06",
+    "keywords": [
+      "Xgimi",
+      "Titan Noir",
+      "投影機評價",
+      "用戶心得",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 986,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 2026 全球發表會：Aura 3 Max 超短焦投影機登場",
+    "summary_zh": "本文分享了極米（XGIMI）2026年全球新品發表會的 YouTube 連結，重點發表全新超短焦雷射電視投影機 Aura 3 Max。該產品作為極米旗艦級超短焦系列的新作，預期將在畫質、亮度和智慧功能上帶來顯著升級，引起投影機社群玩家的高度關注與討論。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1w7x62a/xgimi_global_launch_2026_aura_3_max_ust_youtube/",
+    "publish_date": "2026-09-05",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "Aura 3 Max",
+      "超短焦投影機",
+      "雷射電視",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 939,
     "source_name": "ZOL投影機頻道",
     "title_zh": "樂麗 ROLY RL-A6U 投影機北京促銷行情 32,200 元",

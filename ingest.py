@@ -49,6 +49,12 @@ def ingest_article(source_name: str, original_title: str, url: str,
         logger.info("判定為無關文章，不產生 embedding、不會出現在報告或 AI 問答：%s", url)
         return
 
+    if source_name in db.EXCLUDED_FROM_REPORTS:
+        # 這類來源（例如 Reddit）只在「最新情報」列表顯示，不進報告也不進 AI 問答，
+        # 因此不需要花 Gemini 額度產生 embedding。
+        logger.info("來源 %s 不進報告/問答，略過 embedding：%s", source_name, url)
+        return
+
     try:
         vector = embeddings.embed_article(analysis["title_zh"], analysis["summary_zh"])
         db.set_embedding(article_id, vector)

@@ -67,6 +67,11 @@ MIGRATIONS = [
 # 舊資料（還沒有 relevance 欄位、值是 NULL）視為沒問題，不會被這個過濾條件擋掉。
 EXCLUDED_RELEVANCE = ("Unrelated",)
 
+# 這些來源的文章只在網站「最新情報」列表顯示，不納入週報／月報／年報，也不進 AI 問答。
+# 目前用於 Reddit r/projectors：內容多為使用者求助／討論帖，不算產業市場情報，
+# 但仍是一線使用者訊號，保留在列表中供瀏覽。
+EXCLUDED_FROM_REPORTS = ("Reddit r/projectors",)
+
 
 @contextmanager
 def get_conn():
@@ -100,6 +105,12 @@ def _relevance_filter_sql() -> str:
     """回傳排除「無關」文章的 SQL 條件片段。NULL（舊資料、還沒判斷過）視為沒問題，不會被排除。"""
     placeholders = ", ".join("?" for _ in EXCLUDED_RELEVANCE)
     return f"(relevance IS NULL OR relevance NOT IN ({placeholders}))"
+
+
+def _report_source_filter_sql() -> str:
+    """回傳排除「只在列表顯示、不進報告/問答」來源的 SQL 條件片段（見 EXCLUDED_FROM_REPORTS）。"""
+    placeholders = ", ".join("?" for _ in EXCLUDED_FROM_REPORTS)
+    return f"source_name NOT IN ({placeholders})"
 
 
 def article_exists(url: str) -> bool:
@@ -174,8 +185,9 @@ def get_articles_by_month(year: int, month: int) -> list[dict]:
                       url, publish_date, keywords, mentioned_brands, image_url
                FROM articles
                WHERE publish_date LIKE ? AND processed_at IS NOT NULL
-                     AND {_relevance_filter_sql()}""",
-            (f"{prefix}%", *EXCLUDED_RELEVANCE),
+                     AND {_relevance_filter_sql()}
+                     AND {_report_source_filter_sql()}""",
+            (f"{prefix}%", *EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
         ).fetchall()
 
     articles = []
@@ -207,8 +219,9 @@ def get_articles_by_date_range(start_date: str, end_date: str) -> list[dict]:
                FROM articles
                WHERE publish_date >= ? AND publish_date <= ? AND processed_at IS NOT NULL
                      AND {_relevance_filter_sql()}
+                     AND {_report_source_filter_sql()}
                ORDER BY publish_date ASC""",
-            (start_date, end_date, *EXCLUDED_RELEVANCE),
+            (start_date, end_date, *EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
         ).fetchall()
 
     articles = []
@@ -281,8 +294,9 @@ def get_all_embedded_articles() -> list[dict]:
             f"""SELECT id, source_name, title_zh, summary_zh, category,
                       importance, url, publish_date, embedding, link_status
                FROM articles
-               WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}""",
-            EXCLUDED_RELEVANCE,
+               WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}
+                     AND {_report_source_filter_sql()}""",
+            (*EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
         ).fetchall()
 
     articles = []
