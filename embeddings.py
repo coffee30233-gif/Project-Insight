@@ -21,6 +21,7 @@ from google import genai
 from google.genai import types
 
 import db
+import gemini_client  # 借用批次節流閥 pace()
 
 EMBED_MODEL = "gemini-embedding-2"
 EMBED_DIMENSIONS = 768  # 用 MRL 截斷到 768 維，兼顧品質與儲存/計算成本
@@ -59,7 +60,9 @@ def embed_text(text: str, task_type: str) -> list[float]:
 
 
 def embed_article(title_zh: str, summary_zh: str) -> list[float]:
-    """文章用標題+摘要一起 embed，比只用摘要更能捕捉關鍵詞（品牌、型號等）。"""
+    """文章用標題+摘要一起 embed，比只用摘要更能捕捉關鍵詞（品牌、型號等）。
+    批次路徑（ingest / backfill）—— 先過節流閥，跟 summary 呼叫共用同一個間隔預算。"""
+    gemini_client.pace()
     text = f"{title_zh}\n{summary_zh}"
     return embed_text(text, task_type="RETRIEVAL_DOCUMENT")
 

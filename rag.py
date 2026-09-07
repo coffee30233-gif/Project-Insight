@@ -82,8 +82,8 @@ def answer_question(question: str, top_k: int = 8) -> dict:
 
     # AI 問答是使用者即時在等的請求，Vercel function 有 30 秒逾時限制，所以這裡：
     # 1. 改用 FLASH_MODELS（額度較寬鬆、回應較快），不跟月報/年報共用重量級的 PRO_MODELS
-    # 2. 大幅縮短重試等待秒數（每個模型最多等 3 秒重試一次），寧可快速換下一個模型，
-    #    也不要每個模型都乾等 10 秒、疊加起來超過平台的逾時上限
+    # 2. max_retry=1（只跑一輪 model 清單），429 就快速換下一個 model
+    # 3. pace_calls=False：不套用批次節流閥（那是給爬蟲/報告用的，會讓每次問答硬等數秒）
     response = gemini_client.call_gemini(
         model=gemini_client.FLASH_MODELS,
         contents=prompt,
@@ -93,6 +93,7 @@ def answer_question(question: str, top_k: int = 8) -> dict:
         ),
         max_retry=1,
         retry_wait=3,
+        pace_calls=False,
     )
 
     sources = [

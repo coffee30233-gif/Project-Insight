@@ -16,8 +16,10 @@ gemini_client.py
 """
 
 import os
+import re
 import json
 import time
+import threading
 from datetime import datetime, timezone
 from typing import List, Literal
 
@@ -54,11 +56,39 @@ PRO_MODELS = [
     "gemini-2.0-flash",       # 最後保底
 ]
 
-# 本機批次工作（月報／半年報／年報）用的預設重試設定：縮短成 1 次、等 5 秒，
-# 額度不足時能更快跳到下一個模型，不用像以前一樣每個模型乾等 20 秒。
-# AI 問答（rag.py）因為是使用者即時在等，另外用更短的 max_retry=1、retry_wait=3。
-MAX_RETRY = 1
-RETRY_WAIT = 5
+# 批次工作（爬蟲、月報／半年報／年報）的預設：整份 model 清單全撞 429 時，
+# 最多再重試 MAX_RETRY 輪，每輪之間等久一點（優先看錯誤裡的 retryDelay）。
+# AI 問答（rag.py）是使用者即時在等，另外用 max_retry=1（只跑一輪）。
+MAX_RETRY = 2
+RETRY_WAIT = 5  # 單一 model 內的短等待（目前 429 直接換下一個 model，較少用到）
+
+# 免費額度每分鐘請求數有限（Flash 大約 10–15 RPM），一口氣冒出很多新文章時
+# summary + embedding 兩種呼叫會瞬間爆量觸發 429。用一個全域節流閥，強制任兩次
+# 呼叫（含 embedding）至少間隔這麼多秒。只給批次工作用，AI 問答不節流。
+MIN_CALL_INTERVAL = float(os.environ.get("GEMINI_MIN_CALL_INTERVAL", "5"))
+_pace_lock = threading.Lock()
+_last_call_ts = 0.0
+
+
+def pace():
+    """讓兩次送往 Gemini 的呼叫至少間隔 MIN_CALL_INTERVAL 秒（批次工作用）。"""
+    global _last_call_ts
+    if MIN_CALL_INTERVAL <= 0:
+        return
+    with _pace_lock:
+        wait = MIN_CALL_INTERVAL - (time.monotonic() - _last_call_ts)
+        if wait > 0:
+            time.sleep(wait)
+        _last_call_ts = time.monotonic()
+
+
+def _retry_delay_from_error(err, default: int) -> int:
+    """從 Gemini 的 429 錯誤訊息裡挖出建議等待秒數（retryDelay: "40s"），挖不到就用 default。"""
+    m = re.search(r'retry[_-]?delay["\':\s]+(\d+)\s*s', str(err), re.IGNORECASE)
+    if m:
+        return min(int(m.group(1)) + 1, 120)  # 加一秒緩衝，最多等 2 分鐘
+    return default
+
 
 _client = None
 
@@ -73,48 +103,53 @@ def get_client() -> genai.Client:
     return _client
 
 
-def call_gemini(model, contents, config, max_retry=None, retry_wait=None):
+def call_gemini(model, contents, config, max_retry=None, retry_wait=None, pace_calls=True):
     """
-    max_retry / retry_wait 可以針對個別呼叫覆寫預設值：
-    - 月報／年報這類離線批次工作，願意多等一下換取成功率，用預設值（MAX_RETRY/RETRY_WAIT）即可
-    - AI 問答這種使用者在等的即時呼叫，Vercel function 有 30 秒逾時限制，
-      應該傳入較小的 max_retry/retry_wait，避免整個請求還沒重試完就先被平台判定逾時
+    model 可以是單一字串或一份後援清單。行為：
+      - 逐一嘗試清單裡的 model；某個 model 回 429（額度滿）就直接換下一個
+        （不同 model 是不同的額度桶），回 404（不存在）也換下一個。
+      - 整份清單都失敗算「一輪」；若還是 429 造成的，最多再重試 max_retry-1 輪，
+        每輪之間依錯誤裡的 retryDelay 等待（挖不到就等 30 秒）。
+      - 其他錯誤直接往外丟。
+    pace_calls：批次工作維持 True（每次呼叫前先過節流閥）；AI 問答傳 False。
     """
     max_retry = MAX_RETRY if max_retry is None else max_retry
     retry_wait = RETRY_WAIT if retry_wait is None else retry_wait
 
     client = get_client()
-
     models = model if isinstance(model, (list, tuple)) else [model]
     last_error = None
 
-    for candidate in models:
-        print(f"Trying Gemini model: {candidate}")
-
-        for retry in range(max_retry):
+    for round_i in range(max(1, max_retry)):
+        for candidate in models:
+            if pace_calls:
+                pace()
+            print(f"Trying Gemini model: {candidate}")
             try:
                 return client.models.generate_content(
                     model=candidate,
                     contents=contents,
                     config=config,
                 )
-
             except Exception as e:
                 msg = str(e).lower()
+                last_error = e
 
                 if "404" in msg or "not_found" in msg or "no longer available" in msg:
                     print(f"Model {candidate} unavailable, trying next model...")
-                    last_error = e
-                    break
-
+                    continue
                 if "429" in msg or "resource_exhausted" in msg:
-                    print(f"Quota reached, waiting {retry_wait} seconds... ({retry+1}/{max_retry})")
-                    time.sleep(retry_wait)
-                    last_error = e
+                    print(f"429 on {candidate}, trying next model...")
                     continue
 
-                last_error = e
-                raise
+                raise  # 非額度/不存在類錯誤，不要吞
+
+        # 這一輪所有 model 都失敗
+        if round_i < max_retry - 1:
+            wait = _retry_delay_from_error(last_error, default=30)
+            print(f"All models failed (round {round_i+1}/{max_retry}), "
+                  f"waiting {wait}s before next round...")
+            time.sleep(wait)
 
     raise RuntimeError("No available Gemini model.") from last_error
 
@@ -171,9 +206,16 @@ class ArticleAnalysis(BaseModel):
     relevance_reason: str = Field(description="20-40字說明為什麼判斷成這個相關性等級")
 
 
+# 送進 Gemini 的原文長度上限。有些來源給的是整篇全文，前段就夠寫摘要 +
+# 判斷相關性了；截短能少送 token，比較慢撞到「每分鐘 token 上限」。
+MAX_RAW_CONTENT_CHARS = 4000
+
+
 def process_article(source_name: str, original_title: str, url: str,
                      publish_date: str, raw_content: str) -> dict:
     """呼叫 Gemini 處理單篇文章，回傳符合 ArticleAnalysis 結構的 dict。"""
+
+    raw_content = (raw_content or "")[:MAX_RAW_CONTENT_CHARS]
 
     user_prompt = f"""\
 來源網站：{source_name}
