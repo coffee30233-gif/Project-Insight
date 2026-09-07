@@ -28,6 +28,10 @@ export_static_data.py
 *.bat
 install.sh
 *.service
+daily_update.sh
+weekly_report.sh
+monthly_report.sh
+catch_up.sh
 
 # 測試與開發用檔案
 tests/

@@ -2,10 +2,19 @@
 set -uo pipefail
 PROJECT_DIR="/opt/projector-insight"
 cd "$PROJECT_DIR" || exit 1
-source venv/bin/activate
 mkdir -p logs
 LOGFILE="logs/daily_$(date +%Y%m%d).log"
 FAILED=0
+
+# 同一時間只允許一個每日更新在跑（catch_up.sh 會搶同一把鎖）。
+# 搶不到就代表已經有一個在跑，直接結束、不做事。
+exec 9>/tmp/projector-insight-daily.lock
+if ! flock -n 9; then
+    echo "$(date '+%Y-%m-%d %H:%M:%S') 另一個每日更新正在執行，本次略過" >> "$LOGFILE"
+    exit 0
+fi
+
+source venv/bin/activate
 
 push_with_retry() {
     local max_attempts=3
