@@ -23,9 +23,16 @@ generate_annual_report.py
 generate_weekly_report.py
 generate_weekly_pdf.py
 send_weekly_email.py
+notify.py
+export_static_data.py
 *.bat
 install.sh
 *.service
+
+# 測試與開發用檔案
+tests/
+pytest.ini
+requirements-dev.txt
 
 # reports/ 的原始檔案已經由 export_static_data.py 複製一份到 data/reports/，
 # 網站實際讀取的是 data/reports/，原始的根目錄 reports/ 不需要一起部署。
