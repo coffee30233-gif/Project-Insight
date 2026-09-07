@@ -1,25 +1,21 @@
 """
 scraper_example.py
-兩種爬蟲類型，涵蓋 12 個來源的兩種型態：
+兩種爬蟲類型，目前追蹤 8 個來源：
 
-  A. RSS 來源 -> fetch_rss_source()
-     已實測確認可用：投影時代、DigiTimes、TrendForce（Display / Consumer
-     Electronics）、IT之家。其中投影時代的 RSS 直接提供完整全文，其餘幾個
-     是「綜合性」feed，需搭配 PROJECTOR_KEYWORDS 過濾。
-     Reddit r/projectors 的 .rss 是 Reddit 平台標準功能（對任何 subreddit
-     加上 /.rss 都適用），機制上是可信的，但因為我的搜尋工具目前抓不到
-     reddit.com 的網址本身、沒辦法直接 fetch 測試，尚未做到「有測過」的
-     確認等級，正式使用前建議自己手動跑一次確認沒問題。
+  A. RSS 來源 -> fetch_rss_source()（4 個）
+     Reddit r/projectors、投影時代（提供完整全文）、DigiTimes、IT之家。
+     後兩者是「綜合性」feed，需搭配 PROJECTOR_KEYWORDS 過濾標題。
 
-  B. 純 HTML 列表頁、無 RSS -> fetch_html_list_source()
-     已實測確認可用：ZOL投影機頻道、ZNDS投影頻道、洛圖科技(RUNTO)、
-     ProjectorCentral、ProjectorReviews、199IT-奧維雲網。文章詳情頁一律
-     改用穩定的 SEO meta 標籤（description / og:title / article:published_time）
-     取資料，比針對每個網站硬寫正文 CSS class 更耐用。
+  B. 純 HTML 列表頁、無 RSS -> fetch_html_list_source()（4 個）
+     ZOL投影機頻道、ZNDS投影頻道、ProjectorCentral、ProjectorReviews。
+     文章詳情頁一律改用穩定的 SEO meta 標籤（description / og:title /
+     article:published_time）取資料，比針對每個網站硬寫正文 CSS class 更耐用。
 
-     關於奧維雲網 (AVC)：官網 avc-mr.com 的 robots.txt 明確禁止自動化存取，
-     不直接爬官網，改監控 199IT（互聯網數據資訊網）這個會固定轉載 AVC 報告
-     全文摘要的媒體，間接取得 AVC 的數據內容。
+  已移除（2026-09，開站至今產出 ~0 篇，見各 SOURCES 清單旁註解）：
+     TrendForce-Display / TrendForce-ConsumerElec（內容以面板/記憶體為主，
+     全被關鍵字濾掉）、洛圖科技RUNTO、199IT-奧維雲網（AVC 轉載代理，未曾進稿、
+     列表頁常逾時）。之後要補「市場數據」來源，改接 Futuresource / Omdia /
+     廠商新聞室會更對題。
 
      重要（2026-08 debug 記錄）：這一類來源原本用「正則表達式直接對整頁
      HTML 文字找完整網址」的方式取得連結，實測發現多個網站（ZOL、ZNDS、
@@ -78,7 +74,7 @@ PROJECTOR_KEYWORDS = [
     # 國際品牌
     "BenQ", "明基", "Optoma", "奥图码", "Epson", "爱普生", "Sony", "索尼",
     "Panasonic", "松下", "ViewSonic", "优派", "NEC", "Barco", "科视",
-    "Christie", "科视", "JVC",
+    "Christie", "JVC",
 ]
 
 
@@ -148,13 +144,12 @@ RSS_SOURCES = [
     {"name": "Reddit r/projectors", "url": "https://www.reddit.com/r/projectors/.rss"},
     # 投影時代（PJTime）：description 欄位直接是完整文章全文，最省力的來源。
     {"name": "投影時代", "url": "http://rss.pjtime.com/Projector.xml"},
-    # 以下四個是「綜合性」RSS，已實測確認 feed 本身可正常訂閱，
-    # 但務必搭配 filter=True 過濾標題，否則會混入大量不相關新聞。
+    # 綜合性 RSS，務必搭配 filter=True 過濾標題，否則會混入大量不相關新聞。
     {"name": "DigiTimes", "url": "https://www.digitimes.com/rss/daily.xml", "filter": True},
-    {"name": "TrendForce-Display", "url": "https://www.trendforce.com/feed/Display.html", "filter": True},
-    {"name": "TrendForce-ConsumerElec",
-     "url": "https://www.trendforce.com/feed/Consumer_electronics.html", "filter": True},
     {"name": "IT之家", "url": "https://www.ithome.com/rss/", "filter": True},
+    # 2026-09 移除 TrendForce-Display / TrendForce-ConsumerElec：feed 本身正常，
+    # 但內容以面板／記憶體為主，開站至今產出 0 篇投影機相關文章，全被關鍵字濾掉。
+    # 若之後要補「市場數據」來源，改接 Futuresource / Omdia / 洛圖其他管道會更對題。
 ]
 
 
@@ -272,16 +267,8 @@ HTML_LIST_SOURCES = [
         "link_pattern": r"https://news\.znds\.com/article(?:/news)?/\d+\.html",
         "filter": True,
     },
-    # 洛圖科技 (RUNTO)：官網是涵蓋電視、智能鎖、電子紙等多品類的「市場洞察」
-    # 綜合入口，不只投影機，需要過濾。文章連結格式：
-    # http://runtotech.com/MarketInsights/info_itemid_{id}_lcid_12.html
-    {
-        "name": "洛圖科技RUNTO",
-        "list_url": "http://runtotech.com/",
-        "encoding": "utf-8",
-        "link_pattern": r"https?://runtotech\.com/MarketInsights/info_itemid_\d+_lcid_\d+\.html",
-        "filter": True,
-    },
+    # 2026-09 移除「洛圖科技RUNTO」：官網列表頁一年只進 1 篇，實際上不出東西。
+    # 補「市場數據」來源時，改接洛圖的其他管道 / Futuresource / Omdia 會更對題。
     # ProjectorCentral：首頁沒找到公開 RSS 連結，改用新聞列表頁。站內連結
     # 常寫成根目錄相對路徑（例如 href="/xxx.htm"），一律用 urljoin() 處理。
     {
@@ -299,17 +286,9 @@ HTML_LIST_SOURCES = [
         "encoding": "utf-8",
         "link_pattern": r"https://www\.projectorreviews\.com/[a-z0-9\-]{25,}/",
     },
-    # 199IT（互聯網數據資訊網）：奧維雲網（AVC）官網 avc-mr.com 的 robots.txt
-    # 明確禁止自動化存取，改監控 199IT 這個會固定轉載 AVC 報告全文摘要的媒體。
-    # 這個標籤頁涵蓋 AVC 全部品類報告（彩電、洗衣機、智能鎖等），不是投影機
-    # 專屬，需要 filter=True 用關鍵字篩出投影機相關的部分。
-    {
-        "name": "199IT-奥维云网",
-        "list_url": "https://www.199it.com/archives/tag/%E5%A5%A5%E7%BB%B4%E4%BA%91%E7%BD%91",
-        "encoding": "utf-8",
-        "link_pattern": r"https://www\.199it\.com/archives/\d+\.html",
-        "filter": True,
-    },
+    # 2026-09 移除「199IT-奥维云网」：這是奧維雲網（AVC）的轉載代理，開站至今
+    # 一篇都沒進，且它的標籤頁常慢到逾時（觸發 daily_update.sh 的 timeout 保底）。
+    # 之後要補 AVC 的數據，改找它的公開報告頁 / 微信轉載其他管道。
 ]
 
 
