@@ -421,6 +421,9 @@ def _fetch_article_meta(url: str, encoding: str) -> dict | None:
 
 if __name__ == "__main__":
 
+    import os
+    import ingest
+
     db.init_db()
 
     for src in RSS_SOURCES:
@@ -434,3 +437,10 @@ if __name__ == "__main__":
             fetch_html_list_source(src)
         except Exception:
             logging.exception(f"抓取失敗：{src['name']}")
+
+    # 補處理積壓的未完成文章（Gemini 那步失敗過、又從來源 feed 捲掉、不會自動重試的）。
+    # 每輪上限守住免費額度；連續失敗會提早收手。可用環境變數調整/關閉（設 0）。
+    try:
+        ingest.retry_unprocessed(limit=int(os.environ.get("RETRY_UNPROCESSED_LIMIT", "20")))
+    except Exception:
+        logging.exception("補處理未完成文章時發生錯誤")

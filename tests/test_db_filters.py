@@ -80,3 +80,33 @@ def test_load_rag_jsonl(tmp_path, monkeypatch):
 def test_load_rag_jsonl_missing_file(tmp_path, monkeypatch):
     monkeypatch.setattr(db, "RAG_JSONL_PATH", str(tmp_path / "nope.jsonl"))
     assert db._load_rag_jsonl() == []
+
+
+# ---------------------------------------------------------------------------
+# 未完成文章的補處理佇列
+# ---------------------------------------------------------------------------
+
+def test_unprocessed_queue(tmp_path, monkeypatch):
+    p = tmp_path / "u.db"
+    monkeypatch.setattr(db, "DB_PATH", str(p))
+    monkeypatch.setattr(db, "IS_VERCEL", False)
+    db.init_db()
+    with db.get_conn() as conn:
+        rows = [
+            # (url, raw_content, processed_at) —— processed_at NULL 且有內容 = 待補
+            ("a", "有內容的原文",  None),
+            ("b", "另一篇原文",    None),
+            ("c", "",             None),                     # 沒內容，不算（補不了）
+            ("d", "已處理過的",    "2026-09-08T00:00:00Z"),   # 已處理，不算
+        ]
+        for url, raw, pat in rows:
+            conn.execute(
+                """INSERT INTO articles
+                   (source_name, original_title, url, publish_date, raw_content, processed_at)
+                   VALUES (?,?,?,?,?,?)""",
+                ("測試來源", f"T-{url}", url, "2026-09-08", raw, pat),
+            )
+    assert db.count_unprocessed() == 3          # a, b, c（c 也是 NULL，只是沒內容）
+    got = db.get_unprocessed_articles(limit=10)
+    assert {r["url"] for r in got} == {"a", "b"}  # c 因為沒 raw_content 被排除
+    assert db.get_unprocessed_articles(limit=1) and len(db.get_unprocessed_articles(limit=1)) == 1

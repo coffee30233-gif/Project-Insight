@@ -258,6 +258,32 @@ def set_embedding(article_id: int, vector: list[float]):
         )
 
 
+def count_unprocessed() -> int:
+    """資料庫裡「原始記錄已寫入、但 Gemini 那步還沒成功」的文章數（processed_at 為 NULL）。"""
+    with get_conn() as conn:
+        return conn.execute(
+            "SELECT COUNT(*) AS c FROM articles WHERE processed_at IS NULL"
+        ).fetchone()["c"]
+
+
+def get_unprocessed_articles(limit: int = 20) -> list[dict]:
+    """
+    取出待補處理的文章：processed_at 為 NULL、且有 raw_content（沒內容補不了）。
+    依 id 由新到舊（新的失敗通常還有時效性），供 ingest.retry_unprocessed() 使用。
+    """
+    with get_conn() as conn:
+        rows = conn.execute(
+            """SELECT id, source_name, original_title, url, publish_date, raw_content
+               FROM articles
+               WHERE processed_at IS NULL
+                     AND raw_content IS NOT NULL AND TRIM(raw_content) <> ''
+               ORDER BY id DESC
+               LIMIT ?""",
+            (limit,),
+        ).fetchall()
+    return [dict(r) for r in rows]
+
+
 def get_articles_pending_relevance() -> list[dict]:
     """取出已完成摘要處理、但還沒有相關性分類（舊資料）的文章，供回溯分類使用。"""
     with get_conn() as conn:
