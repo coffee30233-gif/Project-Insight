@@ -211,6 +211,24 @@
     "link_status": null
   },
   {
+    "id": 979,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求印度七千盧比以下的平價投影機推薦",
+    "summary_zh": "本文為Reddit論壇使用者的求助貼文，詢問在印度市場上有哪些價格在七千盧比以下的合適投影機可供選擇。此類討論反映了入門級與低預算消費市場的需求，但缺乏具體產業趨勢或深度技術內容。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w92emo/suggest_decent_projectors_under_7_thousand_india/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "平價投影機",
+      "印度市場",
+      "入門機型",
+      "消費者求助"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 978,
     "source_name": "Reddit r/projectors",
     "title_zh": "超短焦投影機家庭使用易用性與安裝疑慮",
@@ -333,6 +351,24 @@
       "Apple",
       "Netflix"
     ],
+    "link_status": null
+  },
+  {
+    "id": 970,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "光學鏡頭位移的重要性與投影機推薦討論",
+    "summary_zh": "本文為Reddit論壇用戶針對預算三百至一千美元的臥室投影機選購請益。討論焦點在於光學鏡頭位移與數位梯形校正的差異與重要性，並考量空間限制、七十二吋四比三布幕等實際條件下的機型推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9cj4l/importance_of_optical_lens_shift_and/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "光學鏡頭位移",
+      "梯形校正",
+      "投影機推薦",
+      "臥室投影"
+    ],
+    "mentioned_brands": [],
     "link_status": null
   },
   {
@@ -525,6 +561,28 @@
     ],
     "mentioned_brands": [
       "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 977,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ W2720i、W4100i 與 Valerion VisionMaster Pro 2 針對130吋投影幕的比較與選購諮詢",
+    "summary_zh": "本文為使用者在 Reddit 論壇上發起針對 130 吋投影幕與 4 公尺投射距離的機型比較，探討 BenQ 4LED 機種與 Valerion 三色雷射機種的畫質與對比度差異，並同時徵詢暗室白色幕與抗光幕的搭配建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w8oimk/title_benq_w2720i_vs_benq_w4100i_vs_valerion/",
+    "publish_date": "2026-09-06",
+    "keywords": [
+      "BenQ",
+      "Valerion",
+      "4LED",
+      "RGB三色雷射",
+      "投影幕選購"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Valerion"
     ],
     "link_status": null
   },
@@ -2778,6 +2836,24 @@
     "link_status": null
   },
   {
+    "id": 732,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用投影機取代日光室50吋電視的預算與規格建議",
+    "summary_zh": "有使用者計畫在裝有空調的美國新英格蘭日光室中，以預算750美元以下的投影機與布幕組合，取代原本的50吋壁掛電視。由於空間環境較亮且有吊扇干擾，需考量投影距離與高亮度規格，引發社群針對預算內適合機型與投影布幕的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vr5rsv/thinking_of_replacing_a_wall_mounted_50_tv_with_a/",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "投影機預算",
+      "家用投影機",
+      "日光室",
+      "投影布幕"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 731,
     "source_name": "Reddit r/projectors",
     "title_zh": "撿到便宜！網友以20美元二手價格購入LUMA投影幕",
@@ -4419,6 +4495,28 @@
     "link_status": null
   },
   {
+    "id": 604,
+    "source_name": "DigiTimes",
+    "title_zh": "索尼與台積電計畫投資63億美元在日本成立影像感測器合資企業",
+    "summary_zh": "索尼集團與台積電計畫斥資約1兆日圓在日本熊本成立合資企業，大規模生產次世代影像感測器，預計最快於2029年投入商業量產。該合資公司將由索尼持股約六成，台積電持股約四成，此合作將深化雙方在半導體與感測元件領域的長期戰略夥伴關係。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.digitimes.com/news/a20260810VL211/sony-tsmc-sensor-nikkei-production.html",
+    "publish_date": "2026-08-10",
+    "keywords": [
+      "Sony",
+      "TSMC",
+      "影像感測器",
+      "半導體",
+      "日本"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "TSMC"
+    ],
+    "link_status": null
+  },
+  {
     "id": 506,
     "source_name": "ProjectorReviews",
     "title_zh": "2026年最佳超短焦投影機推薦與評選",
@@ -5732,6 +5830,148 @@
     "link_status": null
   },
   {
+    "id": 211,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合家庭電影之夜與輕度遊戲的投影機推薦",
+    "summary_zh": "本文為一般消費者在Reddit論壇上的發文，旨在詢問適合地下室娛樂室、兼顧電影觀賞與輕度遊戲需求的投影機機種推薦。由於網路上的評測眾說紛紜，原作者希望透過社群使用者的實際經驗分享，來挑選出最符合個人娛樂用途的顯示設備。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vepuvu/best_projector_for_movie_nights_and_occasional/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "家用投影機",
+      "家庭劇院",
+      "遊戲投影機",
+      "Reddit討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 210,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC RS600U 與 Valerion StreamMaster Plus 2 投影機規格比較",
+    "summary_zh": "本文為 Reddit 用戶針對兩款定價相近的二手投影機 JVC RS600U 與 Valerion StreamMaster Plus 2 進行的挑選詢問。討論點包含燈泡使用時數的差異，以及新舊機種在日常觀看運動賽事與藍光電影時的實際表現對比。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vepy2d/jvc_rs600u_vs_valerion_streammaster_plus_2/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "JVC",
+      "Valerion",
+      "StreamMaster Plus 2",
+      "RS600U",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 208,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon Ultra 鏡頭保護蓋滑動異常問題討論",
+    "summary_zh": "有使用者在論壇發文指出，極米 Horizon Ultra 投影機在開關機時，鏡頭保護滑蓋出現未能完全閉合或動作異常的情況。這屬於消費者的個人產品使用心得與故障求助，對於整體投影機產業的影響較為有限。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vetj1n/xgimi_horizon_ultra_cover_slide/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "極米",
+      "Horizon Ultra",
+      "鏡頭保護蓋",
+      "使用者問題"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 204,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：KiiP T8 Pro投影機刷機失敗變磚，尋找原廠韌體與恢復方法",
+    "summary_zh": "一名用戶發文尋求協助，其KiiP T8 Pro平價投影機因刷入錯誤的映像檔導致系統變磚，卡在開機畫面。經拆機確認主機板型號為HD300LP-V1.0，搭載瑞芯微RK3326-S處理器，雖然PC端可透過Loader模式識別，但網路上缺乏公開的官方韌體，因此公開徵求備份映象檔或救援建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1veppc0/bricked_kiip_t8_pro_hd300lpv10_board_rk3326s/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "KiiP T8 Pro",
+      "投影機維修",
+      "韌體刷機",
+      "RK3326-S",
+      "主機板"
+    ],
+    "mentioned_brands": [
+      "KiiP",
+      "Rockchip"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 202,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Awol ltv 2500 UST 投影機",
+    "summary_zh": "本文為一般用戶在 Reddit 論壇上發文求助，詢問關於 Awol LTV 2500 超短焦投影機的 3D 功能設定無法開啟的問題。這屬於單一消費者的使用障礙排除與心得交流，並未涉及產業趨勢、新品發表或深度技術討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vevztz/awol_ltv_2500_ust_projector/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "Awol",
+      "LTV 2500",
+      "超短焦投影機",
+      "3D設定"
+    ],
+    "mentioned_brands": [
+      "Awol"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 200,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "DLP投影機彩虹效應敏感度之選購困境",
+    "summary_zh": "本文探討消費者在購買DLP投影機時，是否需要事先觀看實機以確認自身對彩虹效應（RBE）是否敏感。作者指出過去多使用3LCD投影機，因實體展示點難尋，購買雷射或DLP機種時常面臨無法先試看而需承擔不適風險的困境。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1venk45/sensitivity_to_rbe/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "DLP投影機",
+      "彩虹效應",
+      "RBE",
+      "顯示技術"
+    ],
+    "mentioned_brands": [
+      "Best Buy"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 199,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找高亮度超短焦投影機推薦",
+    "summary_zh": "有使用者在論壇尋求高亮度超短焦投影機推薦，目標規格約為6000 ANSI流明、投射比0.4:1以下，主要用於劇場表演投影，預算在四至五萬美元之間，希望能升級現有的多機疊加方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1veu6qz/bright_ultrashortthrow/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "超短焦",
+      "高亮度",
+      "ANSI流明",
+      "投影機推薦",
+      "劇場投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 198,
     "source_name": "Reddit r/projectors",
     "title_zh": "500美元以下最佳多合一投影機推薦？",
@@ -5748,6 +5988,26 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 197,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "城市露台投影機與銀幕選購建議",
+    "summary_zh": "本文為Reddit用戶詢問關於城市小露台搭建戶外電影院的配置建議。使用者計畫在夜間使用約84吋的小型手動布幕，並搭配平價的可攜式投影機進行戶外觀影，同時考量到都會區的光害與投影機亮度問題，尋求社群的推薦與評估。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vezo9v/advice_for_a_projector_and_screen_for_an_urban/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "戶外投影機",
+      "投影幕",
+      "城市露台",
+      "Mars 3 Air"
+    ],
+    "mentioned_brands": [
+      "Mars"
     ],
     "link_status": null
   },
@@ -5773,6 +6033,49 @@
       "JVC",
       "Nebula",
       "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 195,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "專業調色師發起極米Elfin Flip 4K投影機評測提問募集",
+    "summary_zh": "一名具備專業調色師與攝影師背景的Reddit網友，正著手進行極米Elfin Flip 4K投影機的實機評測。由於目前仍在測試各種環境與內容表現，他特別在論壇發文向大眾募集尚未被解答的專業問題，希望從色彩、對比度與亮度等核心畫質維度切入，提供更具深度的評測觀點。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1vew81l/what_are_your_xgimi_elfin_flip_4k_review/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "極米",
+      "Elfin Flip 4K",
+      "投影機評測",
+      "專業調色",
+      "畫質表現"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 193,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找最佳二手或整新投影機型號與購買管道的社群討論",
+    "summary_zh": "Reddit論壇用戶發起討論，尋求預算在三百到五百美元之間的優質中古1080p投影機型號，並探討適合購買二手顯示設備的可靠通路，避免購買來路不明的廉價網購雜牌投影機。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vet15k/best_refurbished_used_models_to_buy_and_where_to/",
+    "publish_date": "2026-08-04",
+    "keywords": [
+      "二手投影機",
+      "整新機",
+      "家用投影機",
+      "1080p",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "Amazon"
     ],
     "link_status": null
   },
@@ -5966,6 +6269,69 @@
     ],
     "mentioned_brands": [
       "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 207,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機縮減畫面尺寸之疑慮與討論",
+    "summary_zh": "本文為論壇用戶針對超短焦投影機與抗光幕搭配的實際使用疑問。主要探討在搭配一六零吋抗光幕的情況下，若為了日常休閒觀看而將畫面縮小至八零至一百吋，除了邊框溢出與對比度受影響外，是否還會有其他潛在的負面問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1vegb9r/ust_question/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "超短焦投影機",
+      "抗光幕",
+      "畫面尺寸",
+      "家用投影"
+    ],
+    "mentioned_brands": [
+      "Aetherion Pro"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 201,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 Pro 與 Ultra 規格價格與抗光幕搭配抉擇",
+    "summary_zh": "本文為使用者在選購投影機時的實務討論，探討極米 Horizon 20 Pro 與 Horizon Ultra 兩款機型在預算分配上的取捨。內容主要涉及消費者對於中度環境光空間下，究竟該選擇高階裸機搭配白幕，或是次階機型搭配抗光幕的購買心得與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1veeeb9/xgimi_horizon_20_pro_vs_ultra/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "極米",
+      "Horizon 20 Pro",
+      "Horizon Ultra",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 192,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 Pro 與 Elfin 4K 投影機畫質比較與用戶諮詢",
+    "summary_zh": "本文為 Reddit 用戶針對極米旗下兩款投影機進行的畫質比較請益。現有用戶反映 Elfin 4K 雖然亮度尚可，但色彩表現與整體視覺體驗略顯不足，正考慮在退貨期限內升級至更高階的 Horizon 20 Pro，並詢問兩者在亮度以外的畫質差異。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1veh9e6/xgimi_horizon_20_pro_vs_elfin_flip_4k/",
+    "publish_date": "2026-08-03",
+    "keywords": [
+      "極米",
+      "Horizon 20 Pro",
+      "Elfin 4K",
+      "投影機畫質",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
     ],
     "link_status": null
   },
@@ -9378,6 +9744,28 @@
     "link_status": "blocked"
   },
   {
+    "id": 26,
+    "source_name": "投影時代",
+    "title_zh": "索諾克激光工程投影機點亮揚州玉器博物館的文明長卷",
+    "summary_zh": "索諾克激光工程投影機近日進駐中國揚州玉器博物館，透過高亮度、高對比度的光影技術，在館內多個沉浸式展區中重現國寶級玉雕與歷史文物。這項應用打破傳統博物館的靜態陳列，結合裸眼3D與數位互動，完美展現玉石的細膩紋理與工藝之美，彰顯現代科技在文化傳承中的重要價值。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/7/372044628354.shtml",
+    "publish_date": "2026-07-27",
+    "keywords": [
+      "索諾克",
+      "激光工程投影機",
+      "揚州玉器博物館",
+      "文旅應用",
+      "雷射投影"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ],
+    "link_status": null
+  },
+  {
     "id": 174,
     "source_name": "IT之家",
     "title_zh": "2026上半年投影機新品：ViewSonic三色雷射、堅果N5S、明基i800",
@@ -9399,6 +9787,257 @@
       "JMGO",
       "明基",
       "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 21,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "AOC HA109迷你投影機HDMI連線中斷問題求助",
+    "summary_zh": "有消費者購買AOC HA109便攜式迷你投影機進行戶外觀影，但在使用HDMI連接手機或平板時，遭遇每隔十分鐘左右畫面隨機變黑中斷的問題。內建串流功能也無法正常播放影片。使用者上網尋求解決方案，以改善觀影中斷的困擾。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v6z77j/dropping_out_of_hdmi_link/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "AOC HA109",
+      "迷你投影機",
+      "HDMI連線問題",
+      "便攜投影機"
+    ],
+    "mentioned_brands": [
+      "AOC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 18,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Mira 投影機使用心得與黑位表現詢問",
+    "summary_zh": "本文為 Reddit 用戶發文詢問關於新款極米 XGIMI Mira 投影機的實際使用評價，特別針對黑位表現以及雷射調光功能的表現效果向社群徵求意見與使用心得。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v72mdr/xgimi_mira/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "XGIMI",
+      "Mira",
+      "雷射調光",
+      "黑位表現"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 17,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米Elfin Flip 4K自動對焦與梯形校正異常討論",
+    "summary_zh": "有用戶反映極米XGIMI Elfin Flip 4K投影機在啟用自動或手動梯形校正時，會出現畫面無法準確對焦的問題，且當投影角度超過三十度時情況更為明顯。不過若將設定重置為無梯形校正的原生解析度狀態，則能維持完美的對焦表現，這引起了社群對其光學校正機制的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v6yptz/weird_xgimi_elfin_flip_4k_issue/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "極米",
+      "Elfin Flip 4K",
+      "自動對焦",
+      "梯形校正",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 15,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米投影機相關問題與選購推薦討論",
+    "summary_zh": "國外論壇用戶尋求投影機升級建議，因原本的Epson吊掛式投影機損壞，計畫更換為4K機種。文章主要詢問極米Horizon系列是否適合吊掛安裝、光源壽命，以及在預算1500至2000美元內、暗室環境搭配105吋布幕的最佳串流觀影推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v77n05/xgimi_questions_and_recommendations_welcome/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "4K投影機",
+      "吊掛安裝",
+      "光源壽命",
+      "選購推薦"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Epson",
+      "Elite Screens"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 14,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "最佳便攜智慧投影機選購討論",
+    "summary_zh": "本文為Reddit論壇使用者的投影機選購請益文，主要探討Xgimi MoGo 4與Lumio Arc 7兩款便攜智慧投影機。使用者提及Xgimi的梯形校正邊緣漏光問題，並尋求社群對於這兩款產品的購買建議與實際使用評價。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v77q11/best_portable_smart_projector/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "便攜投影機",
+      "智慧投影機",
+      "自動梯形校正",
+      "Xgimi MoGo 4",
+      "Lumio Arc 7"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Lumio"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 13,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生超短焦投影機 Epson LS970 與 EH-QS100 規格比較討論",
+    "summary_zh": "有消費者在論壇詢問愛普生兩款超短焦投影機LS970與EH-QS100的規格差異與性價比。LS970具備4K PRO-UHD像素位移技術但價格較高，QS100則提供更高的亮度，且兩者皆採用不產生彩虹效應的技術，作為搭建120吋抗光幕家庭劇院的參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v78ovj/epson_lifestudio_ggrand_plus_ls970_vs_epson/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "Epson",
+      "超短焦投影機",
+      "UST",
+      "4K PRO-UHD",
+      "像素位移"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 7,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "家用預算型投影機選購請益：Optoma、BenQ與Epson型號推薦",
+    "summary_zh": "有消費者在社群平台發文尋求家用投影機推薦，主要用於全暗環境下觀賞90吋電影，預算有限僅需1080p畫質，不追求4K與HDR，主要訴求為色彩表現與穩定度。文中列出Optoma eh401、BenQ th575、Optoma hd28e及Epson eb-fh08等候選機型徵求網友建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7a3uc/which_projector/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "家用投影機",
+      "1080p",
+      "預算型",
+      "選購指南"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "BenQ",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 6,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 C3 投影機畫面頂端亮度衰減與邊緣模糊問題討論",
+    "summary_zh": "一名用戶在論壇發文詢問新購入的海信 C3 投影機是否正常。其反映投影畫面頂端出現亮度衰減、邊緣不夠清晰的問題，並指出熱機後情況未改善。這屬於用戶對單一產品故障或光學品質的實際使用心得與求助。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7hf7p/hisense_c3_top_of_screen_faded/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "海信",
+      "Hisense C3",
+      "DLP",
+      "投影機故障",
+      "畫面亮度"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 5,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：Vivitek DH278投影機開機出現黑線問題",
+    "summary_zh": "一名用戶發文求助，其免費取得的Vivitek DH278投影機在搬家後開機出現垂直黑線，且畫面移動時計有消失。經交叉測試排除連接線問題，確認故障源自投影機本體，正在尋求居家維修建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7jw4l/projector_help/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "Vivitek",
+      "DH278",
+      "投影機故障",
+      "維修求助"
+    ],
+    "mentioned_brands": [
+      "Vivitek"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 4,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何提升投影機畫面的黑色表現與對比度",
+    "summary_zh": "有用戶在討論區發文詢問，在無法將房間牆壁漆成深色且環境光會反射的情況下，如何改善投影機畫面的黑色深度與對比度，並探討是否需要更換抗光幕或升級投影機設備來解決此問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v79rj6/whats_the_best_way_to_get_a_blacker_picture/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "黑色水平",
+      "對比度",
+      "抗光幕",
+      "環境光反射"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 3,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "升級120吋抗光幕的使用心得分享",
+    "summary_zh": "本篇文章為Reddit論壇用戶分享個人家庭劇院升級經驗，將投影幕更換為120吋的NothingProjector抗光幕（ALR screen），並表示升級後的畫面表現極為驚豔，屬於終端消費者的單一使用心得與產品體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v6wbwx/just_upgraded_my_screen/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "抗光幕",
+      "ALR幕",
+      "投影幕",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "NothingProjector"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Elfin Flip 4K 實測體驗（第一部分）：挑戰極端臥室與戶外環境",
+    "summary_zh": "本文為極米新款便攜投影機 Elfin Flip 4K 的實際使用心得分享。作者挑戰在極度不友善的臥室環境中進行安裝，歷經多階段的布幕調整與改良，測試其便攜性與設置彈性，並記錄了實際使用上的優缺點與心得回饋。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1v7fj5f/living_with_the_xgimi_elfin_flip_4k_pt_1/",
+    "publish_date": "2026-07-26",
+    "keywords": [
+      "Elfin Flip 4K",
+      "極米",
+      "便攜投影機",
+      "開箱評測",
+      "投影機安裝"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Formovie",
+      "Best Buy"
     ],
     "link_status": null
   },
@@ -9437,6 +10076,69 @@
       "入門機型"
     ],
     "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 24,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "給猶豫是否購買二手投影機者的建議心得",
+    "summary_zh": "本文為資深玩家分享購買二手投影機的實際體驗，指出只要做好功課並保持耐心，二手優質機種的表現遠勝過市面上的廉價網購白牌投影機。提醒消費者在入手前務必審慎評估並進行實機測試，以保障自身權益。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v5z407/for_anybody_on_the_fence_about_buying_secondhand/",
+    "publish_date": "2026-07-25",
+    "keywords": [
+      "二手投影機",
+      "消費者心得",
+      "選購指南",
+      "網購投影機"
+    ],
+    "mentioned_brands": [
+      "Amazon",
+      "Wimius"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 22,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手初入投影機領域：NEC P502WL-2 使用心得與設定請益",
+    "summary_zh": "一名剛接觸投影機的新手分享了從工作免費獲得的NEC P502WL-2投影機使用心得。該機型具備高亮度但解析度僅1280x800，主要作為家用觀影使用。使用者在觀看時面臨亮場過亮、暗部表現不佳及光害問題，並發文尋求改善投影設定與是否需要更換抗光幕的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1v6mr4w/new_to_the_projector_game/",
+    "publish_date": "2026-07-25",
+    "keywords": [
+      "NEC P502WL-2",
+      "投影機新手",
+      "投影幕",
+      "家用投影",
+      "設定優化"
+    ],
+    "mentioned_brands": [
+      "NEC",
+      "InFocus"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 19,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從放映師視角看 70mm IMAX 電影的樣貌",
+    "summary_zh": "本文分享了從專業放映師的視角出發，實際觀看與操作 70mm IMAX 底片電影放映的獨特畫面與幕後運作。雖然作者坦言這與一般家用投影機主題稍有偏離，但對於大銀幕傳統底片放映技術仍具備高度的觀賞與產業參考價值。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1v6bi90/how_70mm_imax_movies_look_from_the_projectionist/",
+    "publish_date": "2026-07-25",
+    "keywords": [
+      "70mm IMAX",
+      "電影放映",
+      "放映師",
+      "膠卷放映"
+    ],
+    "mentioned_brands": [
+      "IMAX"
+    ],
     "link_status": null
   },
   {
@@ -9984,6 +10686,28 @@
     "mentioned_brands": [
       "愛普生",
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 27,
+    "source_name": "投影時代",
+    "title_zh": "松下系統工程投影機新品發布會廣州站圓滿收官",
+    "summary_zh": "松下影像顯示與安恒集團聯合舉辦的系統工程投影機新品巡展廣州站圓滿落幕。會中展示了三款具有里程碑意義的全新機種，包含四萬流明級旗艦PT-SRQ450KC、RGB三色激光PT-HTQ200C及4K液晶工程投影機PT-BAQ855C，全面滿足多樣化工程應用場景。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/7/323019425135.shtml",
+    "publish_date": "2026-07-22",
+    "keywords": [
+      "松下",
+      "安恒集團",
+      "工程投影機",
+      "新品發布",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "安恒"
     ],
     "link_status": null
   },
@@ -12067,6 +12791,27 @@
     "link_status": null
   },
   {
+    "id": 929,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L690U投影機特價促銷中",
+    "summary_zh": "愛普生CB-L690U商用投影機於北京通路展開特價促銷活動，該機型主打恆定輸出、迅速開機與清晰的影像畫質，目前價格採面議方式，吸引有採購需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1203/12039550.html",
+    "publish_date": "2026-06-23",
+    "keywords": [
+      "愛普生",
+      "CB-L690U",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 823,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CB-2265U 投影機特價促銷資訊",
@@ -13371,6 +14116,28 @@
     "link_status": null
   },
   {
+    "id": 861,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下3200流明全能投影，商務家用爆款！松下 PT-UX336C 投影機行情",
+    "summary_zh": "松下推出PT-UX336C商務家用投影機，具備3200流明亮度與全能表現，近日通路商祭出優惠促銷價3899元。此機型主打性價比與多功能應用，吸引尋求辦公與家庭娛樂投影設備的消費者關注，為市場帶來高性價比的選購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1156/11568580.html",
+    "publish_date": "2026-03-30",
+    "keywords": [
+      "松下",
+      "PT-UX336C",
+      "商務投影機",
+      "家用投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
     "id": 860,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-F750HZ 投影機北京經銷商特價促銷",
@@ -13409,6 +14176,27 @@
     "mentioned_brands": [
       "索尼",
       "北京合众联鑫"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 954,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BHZ611C投影機特價促銷訊息",
+    "summary_zh": "通路商針對松下PT-BHZ611C雷射商務投影機推出特價促銷活動，該機型主打高亮度與雷射光源特色，目前價格採取面議方式，吸引有採購需求的商務用戶洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1154/11540237.html",
+    "publish_date": "2026-03-26",
+    "keywords": [
+      "松下",
+      "PT-BHZ611C",
+      "雷射投影機",
+      "商務投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下"
     ],
     "link_status": null
   },
@@ -13465,6 +14253,27 @@
       "愛普生",
       "工程投影機",
       "CB-PU1007B",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 793,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-PU2010B 投影機特價促銷資訊",
+    "summary_zh": "本篇為通路商針對愛普生 CB-PU2010B 工程投影機所發布的特價促銷訊息。該機型具備一萬流明亮度與4K高畫質表現，主要鎖定會議培訓及大型商用市場，目前由北京經銷商提供價格面議優惠，提供採購需求者參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1153/11538480.html",
+    "publish_date": "2026-03-25",
+    "keywords": [
+      "愛普生",
+      "CB-PU2010B",
+      "工程投影機",
       "特價促銷"
     ],
     "mentioned_brands": [
