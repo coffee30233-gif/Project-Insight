@@ -1,5 +1,22 @@
 [
   {
+    "id": 1013,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Xwall投影相關產品討論",
+    "summary_zh": "有Reddit用戶在論壇發文詢問關於Xwall產品的資訊，並附上一段YouTube影片連結，探討是否有人在CEDIA展覽中實際見過這款投影相關產品，但內文並未提供進一步的技術細節或規格數據。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wa99ya/xwall/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Xwall",
+      "CEDIA",
+      "投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 996,
     "source_name": "Reddit r/projectors",
     "title_zh": "Lumio Arc 5投影機與Sony音響連接問題之使用者討論",
