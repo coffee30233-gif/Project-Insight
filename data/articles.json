@@ -105,6 +105,29 @@
     "link_status": null
   },
   {
+    "id": 1014,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技於IFA 2026展出AURA 3與TITAN Noir系列等全新投影機陣容",
+    "summary_zh": "極米科技在IFA 2026柏林消費電子展中展出多款創新投影解決方案，焦點包含首次亮相的AURA 3系列4K三色雷射超短焦投影機，以及主打高亮度與劇院級畫質的TITAN Noir系列。展覽全面涵蓋智慧家庭劇院、遊戲娛樂與可攜式投影應用，展現大畫面技術的多元發展與智慧影像處理技術。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-ifa-2026-projector-highlights-recap",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "IFA 2026",
+      "極米科技",
+      "AURA 3 Series",
+      "TITAN Noir Series",
+      "超短焦投影機",
+      "4K雷射投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1008,
     "source_name": "投影時代",
     "title_zh": "真4K 120Hz投影商用元年：極米、AWOL超短焦與堅果長焦在IFA 2026同台首發新品",
@@ -825,6 +848,47 @@
     "link_status": null
   },
   {
+    "id": 1112,
+    "source_name": "AV Network",
+    "title_zh": "愛普生推出首款一體式dvLED顯示器",
+    "summary_zh": "愛普生正式發表品牌首款一體式dvLED顯示器產品，此舉拓展了該公司在大型顯示技術與商用顯示市場的產品線布局，為企業用戶與系統整合商提供更多元的顯示解決方案選擇，象徵其在傳統投影技術之外的市場延伸。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://www.avnetwork.com/products/epsons-unveils-first-all-in-one-dvled-display",
+    "publish_date": "2026-09-02",
+    "keywords": [
+      "Epson",
+      "dvLED",
+      "一體式顯示器",
+      "大型顯示"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1043,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "投影機灰塵問題？為什麼密封式光機設計如此重要",
+    "summary_zh": "本文探討家用投影機常見的灰塵累積問題及其對投影畫面的影響。空氣中的微粒若侵入內部光學系統，容易導致畫面出現黑斑或亮度不均。文章以當貝N3 Max投影機為例，說明採用密封式光機設計如何有效阻絕灰塵，提升日常使用的穩定性與壽命。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/projector-dust-problems-why-a-sealed-optical-engine-matters",
+    "publish_date": "2026-09-02",
+    "keywords": [
+      "密封光機",
+      "投影機灰塵",
+      "光學元件",
+      "畫質影響",
+      "Dangbei"
+    ],
+    "mentioned_brands": [
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
     "id": 925,
     "source_name": "ProjectorCentral",
     "title_zh": "ProjectorCentral 公布 2026 年 CEDIA 最佳展品獎得主",
@@ -911,6 +975,29 @@
     "mentioned_brands": [
       "索諾克",
       "Sonnoc"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1015,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技於IFA 2026發表AURA 3系列4K雷射超短焦投影機",
+    "summary_zh": "極米科技（XGIMI）在IFA 2026展會上推出全新的AURA 3系列4K雷射超短焦投影機，包含AURA 3 Max與AURA 3 Pro兩款型號。該系列搭載RGB三色雷射技術、4K解析度與120Hz更新率，並支援IMAX Enhanced與杜比視界，提供卓越的家庭劇院視聽體驗。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/meet-xgimi-aura-3-series-at-ifa-2026",
+    "publish_date": "2026-09-01",
+    "keywords": [
+      "XGIMI",
+      "AURA 3 Series",
+      "雷射投影機",
+      "超短焦",
+      "4K 120Hz",
+      "RGB三色雷射",
+      "IFA 2026"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
     ],
     "link_status": null
   },
@@ -1964,6 +2051,27 @@
     "link_status": null
   },
   {
+    "id": 1044,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "如何在床上使用投影機將電影投射到天花板",
+    "summary_zh": "本文介紹如何在床上躺著觀看電影時，利用具備靈活投射角度的投影機將畫面投射到天花板上。文中列舉所需設備，並詳細說明尋找擺放位置、調整向上角度以及校正對焦與畫面形狀的操作步驟，讓使用者無需額外支架即可輕鬆打造臥室天花板劇院。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/how-to-project-movies-on-the-ceiling-from-bed",
+    "publish_date": "2026-08-27",
+    "keywords": [
+      "天花板投影",
+      "臥室劇院",
+      "投影角度",
+      "Dangbei N3 Max"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 846,
     "source_name": "ZOL投影機頻道",
     "title_zh": "易仁科技 YR-PPV60AW 投影機北京促銷價 51,999 元",
@@ -2371,6 +2479,27 @@
     ],
     "mentioned_brands": [
       "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1080,
+    "source_name": "Epson官方",
+    "title_zh": "Epson將於2026年CEDIA展會展示高亮度家用投影技術",
+    "summary_zh": "Epson宣佈將在CEDIA Expo 2026展會中，展示其最新的高亮度家用投影技術。此次展出聚焦於亮度提升、HDR高動態範圍效能以及安裝靈活性等創新突破，旨在為消費者提供更具沉浸感的大螢幕家庭娛樂體驗，展現其在投影市場的技術實力與企圖心。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/cedia-expo-high-brightness-home-projection-2026",
+    "publish_date": "2026-08-21",
+    "keywords": [
+      "Epson",
+      "CEDIA Expo",
+      "家用投影機",
+      "高亮度",
+      "HDR"
+    ],
+    "mentioned_brands": [
+      "Epson"
     ],
     "link_status": null
   },
@@ -5529,6 +5658,26 @@
     ],
     "mentioned_brands": [
       "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1082,
+    "source_name": "Epson官方",
+    "title_zh": "愛普生創新獲肯定，全新投影機與dvLED產品榮獲16項影音與教育產業大獎",
+    "summary_zh": "愛普生於InfoComm 2026與ISTELive 26等多個重要展會與教育專業媒體中，憑藉其最新推出的投影機及dvLED顯示方案，總計拿下16項產業大獎，充分展現其在商用與教育顯示領域的技術創新實力備受各界肯定。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/projector-dvled-awards-2026",
+    "publish_date": "2026-08-05",
+    "keywords": [
+      "投影機",
+      "dvLED",
+      "產業獎項",
+      "InfoComm"
+    ],
+    "mentioned_brands": [
+      "Epson"
     ],
     "link_status": null
   },
@@ -11057,6 +11206,30 @@
     "link_status": null
   },
   {
+    "id": 1016,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技發表旗艦級 Elfin Flip 4K 與 Elfin Flip 雷射投影機系列新品",
+    "summary_zh": "極米科技（XGIMI）宣布擴展 Elfin Flip 系列產品線，推出全新旗艦機型 Elfin Flip 4K 以及 Elfin Flip 雷射投影機。該系列結合三色雷射光源、Harman Kardon 音效與輕薄便攜設計，並搭載智慧螢幕適應技術及 Google TV 系統，為家庭娛樂與大螢幕遊戲帶來全新的高效能體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/order-new-xgimi-laser-projectors",
+    "publish_date": "2026-07-16",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "Elfin Flip 4K",
+      "雷射投影機",
+      "三色雷射",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Harman Kardon",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
     "id": 466,
     "source_name": "ProjectorCentral",
     "title_zh": "Panasonic與Illumibot推出AI投影Cybertruck車隊",
@@ -11954,6 +12127,28 @@
     "link_status": null
   },
   {
+    "id": 1045,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "當貝發表 N3 Max 智慧投影機：具備 1000 ISO 流明與 AI 影像設定",
+    "summary_zh": "當貝推出全新 Dangbei N3 Max 投影機，主打 1000 ISO 流明亮度與原生 1080P 解析度，支援 HDR10 畫面優化。搭載 MT9660 晶片與 8GB 儲存空間，並內建 InstanPro AI 影像設定功能，提供消費者清晰且操作便利的家庭娛樂體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/dangbei-n3-max-1000-iso-lumens-projector-with-ai-image-setup",
+    "publish_date": "2026-07-04",
+    "keywords": [
+      "Dangbei N3 Max",
+      "智慧投影機",
+      "1000 ISO流明",
+      "MT9660",
+      "HDR10"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 256,
     "source_name": "ZOL投影機頻道",
     "title_zh": "美視晶影電動投影幕布天貓限時降價210元",
@@ -12104,6 +12299,32 @@
     "mentioned_brands": [
       "光峰",
       "Appotronics"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1046,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "當貝發表 N3 Max 智慧投影機：整合 VIDAA 系統、杜比音效與豐富串流應用",
+    "summary_zh": "當貝推出全新 N3 Max 智慧投影機，搭載 VIDAA 系統並內建 Netflix、YouTube 等主流串流平台。配備雙 6W 喇叭與杜比音效，支援 Apple AirPlay 無線投影，並提供針對兒童設計的 Kidoodle TV 與護眼模式，主打全方位的家庭娛樂中心定位。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/dangbei-n3-max-smart-projector-with-netflix-dolby-audio-amp-gaming-features",
+    "publish_date": "2026-07-02",
+    "keywords": [
+      "Dangbei",
+      "N3 Max",
+      "智慧投影機",
+      "VIDAA OS",
+      "杜比音效",
+      "串流媒體"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝",
+      "Netflix",
+      "Apple",
+      "Kidoodle TV"
     ],
     "link_status": null
   },
@@ -12296,6 +12517,29 @@
     ],
     "mentioned_brands": [
       "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1017,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米舉辦2026歐洲足球觀賽派對：結合MoGo 4與TITAN投影機打造沉浸式體驗",
+    "summary_zh": "極米（XGIMI）在馬德里、布拉格與阿姆斯特丹三地舉辦2026年歐洲足球觀賽派對，透過MoGo 4可攜式投影機與TITAN 4K雷射投影機，提供球迷大銀幕觀賽與遊戲互動體驗，展現品牌投影設備的多元應用與市場行銷動態。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/2026-xgimi-football-watch-party-recap",
+    "publish_date": "2026-07-01",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "MoGo 4",
+      "TITAN",
+      "智慧投影機",
+      "足球觀賽派對"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },
@@ -12727,6 +12971,111 @@
     "link_status": null
   },
   {
+    "id": 1049,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "戶外運動觀賽最佳可攜式投影機指南與當貝動態",
+    "summary_zh": "本文探討戶外運動觀賽對可攜式投影機的需求，強調內建電池、智慧串流系統如Google TV以及自動校正功能的重要性。當貝Freedo投影機憑藉其真無線、免除延長線絆倒風險與即時校正等優勢，成為戶外派對與露營觀賽的理想選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-portable-projectors-for-outdoor-sports-viewing",
+    "publish_date": "2026-06-26",
+    "keywords": [
+      "可攜式投影機",
+      "戶外觀賽",
+      "內建電池",
+      "Google TV",
+      "自動校正"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1048,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "什麼是 MEMC 技術？為什麼體育迷在投影機上特別需要它",
+    "summary_zh": "本文深入探討 MEMC（運動估計與運動補償）技術在大型投影螢幕上的重要性。當觀看高速移動的體育賽事時，傳統顯示常伴隨動態模糊與畫面抖動。透過內建的演算法即時生成並插入中間補償幀，MEMC 能有效提升大畫面流暢度，成為打造沉浸式家庭劇院與球賽觀賞體驗的關鍵規格。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/what-is-memc-and-why-sports-fans-need-it",
+    "publish_date": "2026-06-26",
+    "keywords": [
+      "MEMC",
+      "運動補償",
+      "動態模糊",
+      "投影機技術",
+      "更新率"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1047,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "運動迷該選擇投影機還是電視？深度性能比較與選購指南",
+    "summary_zh": "本文探討運動迷在觀看賽事時，選擇家庭劇院投影機與傳統電視的優劣勢。投影機具備超大螢幕沉浸感、逼真尺寸與反射光源護眼等特點；電視則在峰值亮度、抗環境光與對比度表現上佔優。文章旨在協助消費者根據實際應用場景挑選最適合的觀賽設備。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/should-sports-fans-choose-a-projector-or-a-tv",
+    "publish_date": "2026-06-26",
+    "keywords": [
+      "投影機",
+      "電視",
+      "運動賽事",
+      "家用娛樂",
+      "大螢幕"
+    ],
+    "mentioned_brands": [
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1093,
+    "source_name": "Epson官方",
+    "title_zh": "Epson推出Lifestudio系列投影機夏季優惠與賓果挑戰活動",
+    "summary_zh": "Epson針對旗下Lifestudio系列投影機推出夏季促銷優惠，旨在鼓勵家庭與朋友在夏日聚會中享受美好的戶外或室內電影之夜。同時，官方也舉辦了夏季電影之夜賓果挑戰活動，增添互動樂趣與產品吸引力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/epson-inspires-memorable-summer-movie-nights-with-lifestudioTM-projector-savings-and-summer-movie-night-bingo-challenge",
+    "publish_date": "2026-06-25",
+    "keywords": [
+      "Epson",
+      "Lifestudio",
+      "投影機",
+      "夏季促銷"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1094,
+    "source_name": "Epson官方",
+    "title_zh": "愛普生於ISTELive 26展示最新教育顯示與列印創新技術",
+    "summary_zh": "愛普生（Epson）宣布將於ISTELive 26展會中亮相最新教育顯示解決方案與列印創新技術，旨在因應現代學校從傳統講授轉為互動式學習環境的趨勢，強調大畫面、高亮度與提升學生互動參與度。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/education-printers-displays-iste-2026",
+    "publish_date": "2026-06-24",
+    "keywords": [
+      "Epson",
+      "ISTELive 26",
+      "教育顯示",
+      "互動式學習"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 907,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CH-TW7000 投影機經銷商特價促銷",
@@ -12897,6 +13246,51 @@
     "link_status": null
   },
   {
+    "id": 1050,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "如何將筆記型電腦連接到投影機：完整操作指南",
+    "summary_zh": "本文詳細介紹了三種將筆記型電腦連接至投影機的實用方法，包含最穩定的HDMI實體線材連接、便利的無線投影軟體，以及基於Wi-Fi Direct標準的Miracast無線顯示技術。內容涵蓋步驟說明與解析度調整，協助用戶在簡報與娛樂時順利完成設備配對。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/how-to-connect-projector-to-laptop",
+    "publish_date": "2026-06-21",
+    "keywords": [
+      "投影機連接",
+      "HDMI",
+      "無線投影",
+      "Miracast",
+      "筆電投影"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1051,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "在家觀賞全球足球賽事的最佳投影機推薦指南",
+    "summary_zh": "當貝官方發布針對全球足球賽事的家用投影機選購指南，探討投影機能提供大畫面與反射式光源的護眼優勢，並點出高亮度、MEMC動態補償及先進雷射光源等觀看球賽不可或缺的關鍵工程指標，幫助球迷打造極致的賽事觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-projectors-for-watching-the-global-soccer-tournament-at-home",
+    "publish_date": "2026-06-18",
+    "keywords": [
+      "家用投影機",
+      "運動賽事",
+      "足球賽",
+      "MEMC",
+      "雷射光源",
+      "高亮度"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 702,
     "source_name": "ZOL投影機頻道",
     "title_zh": "光峰科技榮獲阿拉丁神燈獎雙項殊榮 彰顯舞台演藝與文旅景觀實力",
@@ -12914,6 +13308,27 @@
     ],
     "mentioned_brands": [
       "光峰科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1096,
+    "source_name": "Epson官方",
+    "title_zh": "愛普生推出全新三萬流明4K高亮度工程投影機 專為沈浸式大型環境打造",
+    "summary_zh": "愛普生於InfoComm展會中發表全新高亮度4K工程投影機，具備高達三萬流明的輸出能力，專為高等教育禮堂、大型體育館及沈浸式主題娛樂等應用場景所設計，展現品牌在大型顯示市場的技術創新與佈局。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://news.epson.com/news/eb-xq2030b-high-brightness-projection-2026",
+    "publish_date": "2026-06-17",
+    "keywords": [
+      "Epson",
+      "4K投影機",
+      "高亮度",
+      "工程投影機",
+      "沈浸式體驗"
+    ],
+    "mentioned_brands": [
+      "Epson"
     ],
     "link_status": null
   },
@@ -13003,6 +13418,28 @@
     "link_status": null
   },
   {
+    "id": 1099,
+    "source_name": "Epson官方",
+    "title_zh": "愛普生達成投影機亮度訴訟和解：Vizony將修正RD830型號的不實流明標示",
+    "summary_zh": "愛普生宣布與Vizony就投影機亮度誇大廣告之訴訟達成和解。根據和解協議，Vizony必須將旗下RD830型號投影機原本標示高達15,000或800流明的白光亮度規格，大幅下修至實際的370流明，以遏止市場上的虛假宣傳亂象。",
+    "category": "市場數據",
+    "importance": 4,
+    "url": "https://news.epson.com/news/vizony-projector-brightness-lawsuit",
+    "publish_date": "2026-06-15",
+    "keywords": [
+      "Epson",
+      "Vizony",
+      "亮度規格",
+      "虛假廣告",
+      "法律訴訟"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Vizony"
+    ],
+    "link_status": null
+  },
+  {
     "id": 943,
     "source_name": "ZOL投影機頻道",
     "title_zh": "明基 MH560 投影機北京促銷價 5200 元",
@@ -13021,6 +13458,30 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1018,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技發表2026年投影機陣容：包含Elfin Flip 4K、雷射版及MIRA超短焦機型",
+    "summary_zh": "極米科技（XGIMI）正式公開2026年全新投影機產品線，包含便攜式雷射投影機Elfin Flip 4K、Elfin Flip雷射版，以及超短焦4K投影機MIRA。此次新品主打親民價格與高階技術普及，預計透過早鳥預購與七月正式上市的行銷活動，搶攻臥室娛樂與家庭劇院市場。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-unveils-its-2026-projector-lineup-in-june",
+    "publish_date": "2026-06-11",
+    "keywords": [
+      "極米科技",
+      "XGIMI",
+      "Elfin Flip 4K",
+      "Elfin Flip Laser",
+      "MIRA",
+      "雷射投影機",
+      "超短焦"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },
@@ -13066,6 +13527,27 @@
     "link_status": null
   },
   {
+    "id": 1101,
+    "source_name": "Epson官方",
+    "title_zh": "愛普生於InfoComm展出歷來規模最大且最具雄心的顯示器陣容",
+    "summary_zh": "愛普生在 InfoComm 2026 展會中，針對日益成長的連網與彈性顯示需求，推出了其歷來最具雄心且最為龐大的投影機與顯示器產品陣容，全面滿足現代專業影音市場的最新應用發展。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://news.epson.com/news/innovation-on-display-epson-presents-its-most-ambitious-display-lineup-yet-at-infocomm",
+    "publish_date": "2026-06-09",
+    "keywords": [
+      "Epson",
+      "InfoComm",
+      "投影機",
+      "專業影音",
+      "顯示器陣容"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1012,
     "source_name": "ZOL投影機頻道",
     "title_zh": "2026護眼顯示推薦產品：堅果N5S Ultra Max",
@@ -13102,6 +13584,27 @@
     ],
     "mentioned_brands": [
       "Vidda"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1102,
+    "source_name": "Epson官方",
+    "title_zh": "Epson 推出首款採用 COB 技術的一體式 dvLED 顯示器系列",
+    "summary_zh": "Epson 宣布進軍美國與拉丁美洲的大尺寸商業顯示市場，推出首款採用 COB 技術的一體式 dvLED 顯示器系列。此舉旨在滿足各行業對高亮度、大畫面視覺體驗日益增長的需求，豐富其原有的顯示設備產品線，提供商業用戶更多元的高階應用選擇。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://news.epson.com/news/le-c1-series-dvled",
+    "publish_date": "2026-06-03",
+    "keywords": [
+      "Epson",
+      "dvLED",
+      "COB技術",
+      "商業顯示",
+      "大尺寸顯示"
+    ],
+    "mentioned_brands": [
+      "Epson"
     ],
     "link_status": null
   },
@@ -13210,6 +13713,51 @@
     "link_status": null
   },
   {
+    "id": 1020,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技推出 EA SPORTS FC™ 26 特別版投影機組合",
+    "summary_zh": "極米科技宣布正式推出與 EA SPORTS FC™ 26 合作的特別版投影機組合，涵蓋 HORIZON 20 系列、MoGo 4 與 Vibe One 等多款產品線，並隨附遊戲兌換碼及專屬周邊配件，旨在為全球玩家打造更具沉浸感與社交氛圍的大螢幕足球遊戲體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/ea-sports-fc-26-xgimi-projectors-ea-special-editions-now-available",
+    "publish_date": "2026-05-23",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "EA SPORTS FC 26",
+      "特別版",
+      "投影機組合"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Electronic Arts"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1021,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技聯手EA SPORTS FC 26推出特別版智慧投影機系列",
+    "summary_zh": "極米科技宣布推出EA SPORTS FC 26特別版智慧投影機系列，全球同步上市。針對北美市場推出MoGo 4賽事之夜限定版組合，結合1080p攜帶型投影機、戶外螢幕與遊戲兌換碼等周邊配件，旨在為足球遊戲玩家提供沉浸式大螢幕體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-launches-limited-ea-sports-fc-26-projector-collection",
+    "publish_date": "2026-05-22",
+    "keywords": [
+      "極米",
+      "MoGo 4",
+      "EA SPORTS FC 26",
+      "攜帶型投影機",
+      "特別版"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "EA SPORTS",
+      "Electronic Arts"
+    ],
+    "link_status": null
+  },
+  {
     "id": 862,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-2255U北京促銷價10899元",
@@ -13275,6 +13823,49 @@
     "link_status": null
   },
   {
+    "id": 1052,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "LCD與DLP投影機比較：哪一種最適合您的家庭？",
+    "summary_zh": "本文深入解析家用投影機兩大主流技術LCD與DLP的運作原理與差異。LCD採用三片式液晶面板透過過濾光線成像，色彩表現較佳；DLP則利用DMD微鏡片晶片與色輪反射光線，具備高對比與緊湊體積。文章透過結構、色彩、亮度和維護等面向的對比，協助消費者依據使用環境挑選合適的投影設備。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/lcd-vs-dlp-projector-which-one-is-right-for-your-home",
+    "publish_date": "2026-05-21",
+    "keywords": [
+      "LCD投影機",
+      "DLP投影機",
+      "3LCD",
+      "DMD晶片",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1105,
+    "source_name": "Epson官方",
+    "title_zh": "Epson推出全新雷射投影機系列，主打高衝擊力、簡便操作與空間彈性",
+    "summary_zh": "Epson發表全新雷射投影機產品線，針對教室、會議室及娛樂場所等多元應用場景設計，旨在提供高畫質的視覺體驗，同時兼顧操作的簡便性與安裝部署的靈活性，滿足各領域日益提升的顯示技術需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/2026-powerlite-brightlink-laser-projectors",
+    "publish_date": "2026-05-19",
+    "keywords": [
+      "Epson",
+      "雷射投影機",
+      "PowerLite",
+      "BrightLink",
+      "顯示技術"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1011,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CH-TZ2800 北京地區促銷價 6500 元",
@@ -13312,6 +13903,27 @@
     ],
     "mentioned_brands": [
       "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1107,
+    "source_name": "Epson官方",
+    "title_zh": "建築雙人組利用愛普生大型場館投影機，將空地轉化為充滿活力的戶外文化樞紐",
+    "summary_zh": "紐約州紐伯格市在關閉最後一家電影院後缺乏影音共享空間，當地建築師透過愛普生大型場館投影設備與Cinemabox多媒體方案，成功將一處空地改造為充滿活力的戶外文化與電影體驗中心，展現投影技術在公共藝術中的應用潛力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/newburgh-cinemabox-multimedia-projection",
+    "publish_date": "2026-05-13",
+    "keywords": [
+      "戶外投影",
+      "大型場館投影機",
+      "文化樞紐",
+      "公共藝術"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "愛普生"
     ],
     "link_status": null
   },
@@ -13458,6 +14070,28 @@
     "mentioned_brands": [
       "愛普生",
       "理光"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1053,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "如何挑選最佳遊戲投影機？規格指南與選購建議",
+    "summary_zh": "本文深入探討如何挑選適合遊戲的投影機，比較投影機與電視在大螢幕沉浸感上的差異，並解析影響遊戲表現的核心規格，包含低輸入延遲、更新率、解析度（1080p與4K差異）以及亮度需求，提供玩家選購指南。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/how-to-choose-the-best-gaming-projector",
+    "publish_date": "2026-05-09",
+    "keywords": [
+      "遊戲投影機",
+      "輸入延遲",
+      "更新率",
+      "4K投影機",
+      "ISO亮度"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
     ],
     "link_status": null
   },
@@ -13632,6 +14266,70 @@
     "link_status": null
   },
   {
+    "id": 1055,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "全新投影機與二手投影機：您到底該買哪一種？",
+    "summary_zh": "本文探討購買全新投影機與二手投影機的優劣。二手投影機看似價格便宜，但常伴隨燈泡壽命耗盡、亮度衰減與缺乏保固等隱藏成本，長期總持有成本往往超越新機。因此，對於多數消費者而言，購買全新投影機才是兼顧經濟效益與穩定性的最佳選擇。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/new-vs-used-projectors-which-one-should-you-really-buy",
+    "publish_date": "2026-04-29",
+    "keywords": [
+      "二手投影機",
+      "全新投影機",
+      "ISO亮度",
+      "燈泡壽命",
+      "總持有成本"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1054,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "白天可以使用投影機嗎？亮度、抗光幕與環境光影響解析",
+    "summary_zh": "本文探討在白天或光源充足的環境下使用投影機的可行性與物理原理。透過剖析流明亮度、抗光幕（ALR）技術及投影尺寸的影響，並針對不同場景提供建議的ISO流明規格，幫助使用者在白天也能享受清晰的大螢幕視覺體驗。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/can-you-use-a-projector-in-daylight",
+    "publish_date": "2026-04-29",
+    "keywords": [
+      "ISO流明",
+      "抗光幕",
+      "環境光",
+      "投影機亮度"
+    ],
+    "mentioned_brands": [
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1022,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米TITAN Noir系列投影機在Kickstarter募資突破千萬美元",
+    "summary_zh": "極米科技推出的TITAN Noir系列高階家用投影機，在Kickstarter平台上線後迅速獲得全球超過三千名贊助者支持，募資金額正式突破一千萬美元。該系列包含三款新機型，主打雙智慧光圈系統與高對比度表現，展現消費者對大尺寸家庭劇院影像品質的高度需求。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/titan-noir-series-surpasses-10-million-in-kickstarter-funding",
+    "publish_date": "2026-04-29",
+    "keywords": [
+      "XGIMI",
+      "TITAN Noir",
+      "Kickstarter",
+      "募資",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 490,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下 PT-BAZ712C 投影機北京經銷商特價促銷",
@@ -13689,6 +14387,29 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1023,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技推出TITAN Noir系列4K雷射投影機，搭載全球首創雙智慧光圈系統",
+    "summary_zh": "極米科技正式在全球展開TITAN Noir系列4K旗艦投影機的預購，推出Max、Pro與標準版三款機型。該系列搭載全球首創的雙智慧光圈系統與RGB三雷射引擎，具備高達7,000 ISO流明與10,000:1原生對比度，結合頂級影像規格，專為高階家庭劇院與大畫面娛樂市場打造。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-opens-orders-for-titan-noir-series-4k-projectors",
+    "publish_date": "2026-04-24",
+    "keywords": [
+      "極米科技",
+      "TITAN Noir",
+      "4K投影機",
+      "雷射投影機",
+      "雙智慧光圈",
+      "Kickstarter"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },
@@ -13877,6 +14598,51 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1057,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "適合家庭觀影的最佳投影機指南與當貝DBOX02推薦",
+    "summary_zh": "本文探討家庭投影機的核心優勢，包含反射光源對眼睛更溫和、大螢幕沉浸感及擺放靈活性。文中特別推薦當貝DBOX02，其具備4K雷射投影、授權Netflix整合及簡易設定，結合高效能與高性價比，能滿足家庭觀影與遊戲的各種需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-family-friendly-projectors-for-comfortable-viewing-at-home",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "家庭投影機",
+      "4K雷射投影",
+      "當貝DBOX02",
+      "護眼光源",
+      "智慧投影"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝",
+      "Netflix"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1056,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "商務簡報最佳便攜式投影機指南與當貝 Freedo 解析",
+    "summary_zh": "本文探討現代商務簡報對便攜式投影機的需求，分析其在亮度、連線能力與機動性上的演進。固態LED光源與內建電池技術讓投影機能輕鬆放進筆電包。以當貝 Freedo 為例，具備135度一體式雲台與智慧調校功能，為行動辦公提供兼具成本效益與專業展示的大畫面解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/what-is-the-best-portable-projector-for-presentations",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "便攜式投影機",
+      "LED光源",
+      "ISO Lumens",
+      "雲台設計",
+      "商務簡報"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
     ],
     "link_status": null
   },
@@ -14094,6 +14860,48 @@
     "link_status": null
   },
   {
+    "id": 1058,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "戶外電影投影機與戶外電視之比較：哪種更適合戶外娛樂？",
+    "summary_zh": "本文深入探討戶外電影投影機與戶外專用電視的差異，從畫質表現、尺寸彈性、亮度和耐用度等關鍵因素進行對比。投影機能以較低成本提供百吋以上的超大沉浸式螢幕，適合夜間戶外觀影；而戶外電視則在強光下具備高亮度與高耐候性，但攜帶與尺寸擴充性受限，供消費者依需求進行抉擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/outdoor-film-projector-vs-tv-which-is-better-for-outdoor-entertainment",
+    "publish_date": "2026-04-08",
+    "keywords": [
+      "戶外投影機",
+      "智慧投影機",
+      "投影機與電視比較",
+      "Dangbei Freedo"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1059,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "2026年如何為家庭劇院挑選最佳的吸頂投影機指南",
+    "summary_zh": "本文探討2026年家庭劇院投影機的新趨勢，聚焦於吸頂投影機的挑選要點，包含靈活的仰角調整、輕巧便攜性、智慧串流功能，以及亮度（ISO流明）與解析度的規格標準，為消費者提供全面的選購建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/how-to-choose-the-best-ceiling-projector-for-your-home-theater-in-2026",
+    "publish_date": "2026-04-07",
+    "keywords": [
+      "吸頂投影機",
+      "家庭劇院",
+      "ISO流明",
+      "Google TV",
+      "便攜投影機"
+    ],
+    "mentioned_brands": [
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
     "id": 643,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-2255U投影機北京特價促銷9000元",
@@ -14116,6 +14924,73 @@
     "link_status": null
   },
   {
+    "id": 1024,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技宣布與EA SPORTS FC™ 26合作並推出大螢幕遊戲投影機系列",
+    "summary_zh": "極米科技宣布與知名遊戲EA SPORTS FC™ 26展開官方合作，並將在紐約舉辦發表會。此行銷活動主打透過HORIZON 20系列、MoGo 4與Vibe One等投影機產品，提供玩家大畫面、低延遲的沉浸式足球遊戲體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/enjoy-ea-sports-fc-26-with-xgimi-projectors",
+    "publish_date": "2026-04-02",
+    "keywords": [
+      "XGIMI",
+      "極米科技",
+      "EA SPORTS FC 26",
+      "HORIZON 20",
+      "MoGo 4",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "EA"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1060,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "投影機有輻射嗎？孕婦與兒童使用安全解析",
+    "summary_zh": "本文探討投影機產生的輻射類型與安全性，指出投影機屬於非游離輻射，其電磁波與光輻射強度極低，甚至低於手機與微波爐，對孕婦與兒童均無健康風險。文章並提供使用建議，包含保持適當觀賞距離、控制觀看時間以及利用反射光源保護視力，確保家庭安心使用。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/do-projectors-emit-radiation-are-they-safe-for-pregnant-women-and-children",
+    "publish_date": "2026-03-31",
+    "keywords": [
+      "投影機輻射",
+      "非游離輻射",
+      "護眼投影",
+      "孕婦兒童安全",
+      "當貝投影"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1025,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米推出TITAN Noir系列4K投影機並開放早鳥預購",
+    "summary_zh": "極米正式發表高階旗艦TITAN Noir系列4K家用投影機，搭載RGB三色雷射與雙光圈技術，提供高達7,000 ISO流明與10,000:1原生對比度。該系列預計於4月在Kickstarter展開募資，目前官網已開放早鳥預購與訂金優惠。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-unveils-titan-noir-series-exclusive-super-early-bird-deals",
+    "publish_date": "2026-03-31",
+    "keywords": [
+      "極米",
+      "TITAN Noir",
+      "4K投影機",
+      "三色雷射",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "极米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 861,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下3200流明全能投影，商務家用爆款！松下 PT-UX336C 投影機行情",
@@ -14134,6 +15009,50 @@
     "mentioned_brands": [
       "松下",
       "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1061,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "投影機適合小房間嗎？所需最小空間與投射比解析",
+    "summary_zh": "本文探討投影機在小房間或公寓等緊湊空間中的適用性，詳細解析投射比（Throw Ratio）的概念與計算方式。以常見的1.2投射比為例，說明在8至10英尺深度的房間內即可輕鬆投影出80至100吋的大畫面，提供免除天花板鑽孔的彈性擺放方案，協助租屋族與小空間用戶評估選購。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/is-a-projector-suitable-for-a-small-room-what-s-the-minimum-space-i-need",
+    "publish_date": "2026-03-27",
+    "keywords": [
+      "投影機",
+      "投射比",
+      "小空間",
+      "投射距離",
+      "當貝"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1026,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技發表TITAN Noir系列4K高階投影機新品",
+    "summary_zh": "極米科技正式推出全新TITAN Noir系列4K高階投影機，包含Max、Pro與Standard三款型號。旗艦款TITAN Noir Max具備7000 ISO流明亮度、RGB三色雷射光源、雙光圈系統以及高對比表現，並支援IMAX Enhanced與杜比視界，目前已於官方網站開放預訂，預計四月在Kickstarter展開群眾募資。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/new-4k-projectors-titan-noir-series-launched",
+    "publish_date": "2026-03-27",
+    "keywords": [
+      "XGIMI",
+      "TITAN Noir",
+      "4K投影機",
+      "雷射投影機",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },
@@ -14241,6 +15160,27 @@
     "link_status": null
   },
   {
+    "id": 1027,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技公布 TITAN Noir 系列 4K 投影機 Kickstarter 募資常見問題",
+    "summary_zh": "極米科技針對旗下 TITAN Noir 系列 4K 投影機在 Kickstarter 的募資活動發布常見問題解答，詳細說明 Noir、Pro 與 Max 三款機型的美元定價、全球運費政策、各國稅金計算方式以及募資早鳥優惠細節，協助消費者釐清訂購流程。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-titan-noir-series-kickstarter-faq",
+    "publish_date": "2026-03-25",
+    "keywords": [
+      "極米",
+      "4K投影機",
+      "Kickstarter",
+      "募資",
+      "TITAN Noir"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 859,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-PU1007B工程投影機特價促銷展開",
@@ -14299,6 +15239,28 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1062,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "2026年最佳復活節戶外電影之夜投影機推薦",
+    "summary_zh": "本文介紹2026年復活節戶外電影之夜的投影機選購趨勢，並以當貝Dangbei Freedo可攜式投影機為例，解析戶外投影機在亮度、智慧校正及內建Google TV與Netflix等核心功能的需求與優勢。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-2026-outdoor-projector-for-easter-movie-night",
+    "publish_date": "2026-03-24",
+    "keywords": [
+      "戶外投影機",
+      "可攜式投影機",
+      "Dangbei Freedo",
+      "Google TV",
+      "ISO亮度"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
     ],
     "link_status": null
   },
@@ -14383,6 +15345,50 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1063,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "投影機對老年人友善嗎？操作是否夠直覺？",
+    "summary_zh": "本文探討投影機作為銀髮族家庭娛樂升級的實用性。相較於傳統電視的直射光，投影機採用漫反射原理能有效降低眼睛疲勞與眩光，對視力退化的長者更為友善。同時，大尺寸螢幕帶來的放大效果有助於看清字幕，且結合智慧功能與雷射技術後，操作便利性已大幅提升。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/are-projectors-good-for-seniors-how-easy-are-they-to-use",
+    "publish_date": "2026-03-20",
+    "keywords": [
+      "投影機",
+      "銀髮族",
+      "護眼",
+      "漫反射",
+      "ALPD雷射"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1064,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "臥室與客廳投影機選購指南：解析空間需求與關鍵規格差異",
+    "summary_zh": "本文深入分析臥室與客廳的居家投影機選購差異。臥室偏好舒適、低噪音與可攜性，建議450至1500流明與短焦設計；客廳則需高亮度與4K解析度以對抗環境光，如當貝相關機型。整體提供消費者針對不同居家空間的挑選建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-projector-for-bedroom-and-living-room-for-home-cinema",
+    "publish_date": "2026-03-19",
+    "keywords": [
+      "家用投影機",
+      "臥室投影機",
+      "客廳投影機",
+      "規格比較",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
     ],
     "link_status": null
   },
@@ -14511,6 +15517,50 @@
     "link_status": null
   },
   {
+    "id": 1065,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "投影機投射在白牆上需要布幕嗎？效果與影響因素解析",
+    "summary_zh": "本文探討投影機直接投射於白牆上的可行性與實際效果。平整的白牆可作為良好的反射面，但最終畫質取決於投影機亮度、牆面塗料與室內光源。專家建議選擇平光或霧面白色漆，並針對不同環境亮度搭配適當流明數，以在無布幕情況下維持最佳觀影體驗。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/can-a-projector-work-on-a-white-wall-without-a-screen",
+    "publish_date": "2026-03-13",
+    "keywords": [
+      "投影機白牆",
+      "投影布幕",
+      "流明亮度",
+      "牆面塗料",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1066,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "什麼是投射比？如何計算投影機距離與挑選機型",
+    "summary_zh": "本文詳細介紹投影機的「投射比」概念與計算公式，解釋投射比如何決定投影距離與畫面寬度的關係。內容將投影機依投射比區分為標準焦距、短焦及超短焦三種類型，並分析其各自適合的室內空間與應用場景，協助消費者挑選最符合居家環境的設備。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/what-is-throw-ratio-how-to-calculate-projector-distance",
+    "publish_date": "2026-03-12",
+    "keywords": [
+      "投射比",
+      "投影距離",
+      "短焦投影機",
+      "超短焦投影機",
+      "畫面尺寸"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 850,
     "source_name": "ZOL投影機頻道",
     "title_zh": "Vidda Discover X Mini 85 雷射投影機推出優惠促銷",
@@ -14555,6 +15605,50 @@
     "link_status": null
   },
   {
+    "id": 1067,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "DLP與LCD投影機：哪一種更適合家用？",
+    "summary_zh": "本文深入探討DLP與LCD投影機的核心運作原理與性能差異。LCD投影機如同三色手電筒穿透面板，色彩鮮明但面板易老化；DLP投影機則利用微型鏡面反射成像，具備較佳的畫質清晰度與對比度。對於家用娛樂而言，兩者各具優勢與定位。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/dlp-vs-lcd-projector-which-one-is-better-for-home-use",
+    "publish_date": "2026-03-07",
+    "keywords": [
+      "DLP",
+      "LCD",
+      "家用投影機",
+      "顯示技術",
+      "對比度"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1068,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "適合旅行與露營的電池供電投影機：當貝Freedo攜帶型投影機解析",
+    "summary_zh": "本文介紹了適合旅行、露營及商務差旅的電池供電攜帶型投影機。以當貝Freedo為例，具備原生1080P解析度、450 ISO流明亮度、DLP顯示技術、內建Google TV與Netflix授權，並提供長達2.5小時續航力與Type-C 65W快充，滿足戶外與移動情境的大螢幕娛樂需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/battery-powered-projector-for-travel-and-camping",
+    "publish_date": "2026-03-06",
+    "keywords": [
+      "電池供電投影機",
+      "攜帶型投影機",
+      "露營投影機",
+      "當貝Freedo",
+      "Google TV"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 178,
     "source_name": "ProjectorCentral",
     "title_zh": "Optoma推出ZU920TNL、ZU820TNL商用雷射工程投影機",
@@ -14579,6 +15673,50 @@
     "link_status": null
   },
   {
+    "id": 1069,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "夜間在黑暗中觀看投影機會傷害眼睛嗎？解析視覺原理與護眼建議",
+    "summary_zh": "本文探討夜間黑暗環境中使用家用投影機對視力的影響。主要成因包含明暗對比過強、藍光暴露、亮度設定不當及觀看距離不對等。為避免眼睛疲勞與乾澀，建議保留微弱環境光源、適度調整投影機亮度、控制觀看時間並保持適當距離。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/does-watching-a-projector-in-the-dark-at-night-harm-your-eyes",
+    "publish_date": "2026-03-03",
+    "keywords": [
+      "投影機護眼",
+      "視力疲勞",
+      "藍光",
+      "家用投影機",
+      "觀看距離"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1028,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技於MWC 2026展出智慧投影技術並開放TITAN Noir系列4K雷射投影機預購",
+    "summary_zh": "極米科技（XGIMI）於西班牙MWC 2026展會中，展示最新高亮度與精準光學技術方案，並同步宣布全新TITAN Noir系列4K雷射投影機開放50美元訂金預約，正式展開上市前的早鳥預售活動。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-smart-projection-breakthroughs-at-mwc-2026",
+    "publish_date": "2026-03-03",
+    "keywords": [
+      "極米科技",
+      "XGIMI",
+      "MWC 2026",
+      "4K雷射投影機",
+      "智慧投影",
+      "TITAN Noir"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 753,
     "source_name": "ZOL投影機頻道",
     "title_zh": "宏碁 HE-4K30 投影機北京促銷價 5000 元",
@@ -14597,6 +15735,71 @@
     "mentioned_brands": [
       "宏碁",
       "Acer"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1070,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "零散斑投影機選購指南：解析雷射散斑與護眼技術",
+    "summary_zh": "本文探討傳統雷射投影機產生的「雷射散斑」現象如何導致長時間觀看時的眼睛疲勞，並介紹零散斑投影機如何透過優化光學系統來降低相干性、提升畫質平滑度與觀影舒適度，特別適合大畫面家庭劇院使用者。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/zero-speckle-projector-buying-guide",
+    "publish_date": "2026-02-28",
+    "keywords": [
+      "雷射散斑",
+      "護眼投影機",
+      "雷射投影",
+      "光學技術",
+      "視覺疲勞"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1072,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "2026年適合在智慧投影機上觀賞的最佳3D電影推薦",
+    "summary_zh": "本文介紹了十部適合透過智慧投影機觀賞的精選3D電影，涵蓋阿凡達：水之道、蜘蛛人：穿越新宇宙等近年熱門大片。文章探討了3D格式在大型投影螢幕上的視覺沉浸感優勢，並結合自家投影機產品，為家庭劇院愛好者提供最佳的觀影指南。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-3d-movies-to-watch-on-smart-projectors",
+    "publish_date": "2026-02-27",
+    "keywords": [
+      "智慧投影機",
+      "3D電影",
+      "家庭劇院",
+      "投影螢幕"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1071,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "2026年戶外後院電影的最佳投影機指南",
+    "summary_zh": "隨著春季氣溫回暖，將後院打造成家庭戶外電影院成為熱門的休閒選擇。本文探討了春假期間如何利用投影機快速佈置戶外觀影空間，並分析了日夜間觀影的需求、適合全家觀賞的電影類型，強調投影機帶來的便利性與家庭互動樂趣。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/best-outdoor-projector-for-backyard-movies-in-2026",
+    "publish_date": "2026-02-27",
+    "keywords": [
+      "戶外投影機",
+      "後院電影",
+      "春假娛樂",
+      "家庭觀影",
+      "當貝"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
     ],
     "link_status": null
   },
@@ -14754,6 +15957,28 @@
     "link_status": null
   },
   {
+    "id": 1030,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技於 CES 2026 展出全新 4K 投影機與 AI 技術",
+    "summary_zh": "極米科技（XGIMI）於 CES 2026 盛大參展，全球首發高階 4K 智慧投影機 TITAN Noir Max，搭載創新雙光圈系統以實現超高對比度；同場並展出旗艦 4K 投影機 TITAN 以及跨界 AI 眼鏡新品，展現其在家庭娛樂與光學工程的技術突破。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-4k-projectors-ai-technologies-at-ces-2026",
+    "publish_date": "2026-01-08",
+    "keywords": [
+      "CES 2026",
+      "4K投影機",
+      "智慧投影機",
+      "極米科技",
+      "雙光圈系統"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 171,
     "source_name": "PRNewswire",
     "title_zh": "Formovie CES 2026展出液冷技術與Xming Chapter One投影機",
@@ -14789,6 +16014,27 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1032,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技於 CES 2026 發表次世代 TITAN Noir 系列 4K 雷射投影機",
+    "summary_zh": "極米科技（XGIMI）在 CES 2026 正式發表全新次世代 TITAN Noir 系列 4K 雷射投影機，搭載動態光圈系統、升級硬體與精密光學元件，主打專業級的高對比與色彩表現，並宣布開放 50 美元預購訂金，預計於 2026 年 3 月正式上市。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-titan-noir-series-unveiled-at-ces-2026",
+    "publish_date": "2026-01-05",
+    "keywords": [
+      "XGIMI",
+      "TITAN Noir",
+      "4K投影機",
+      "雷射投影機",
+      "CES 2026"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
     ],
     "link_status": null
   },
@@ -14892,6 +16138,28 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1033,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技公布2025年黑色星期五早鳥優惠與活動時程",
+    "summary_zh": "投影機品牌極米科技（XGIMI）近日公布2025年黑色星期五促銷活動時程，預告將推出最高達62%折扣的優惠。活動包含訂閱電子報抽獎贈送Vibe One可攜式投影機，以及提供早鳥限定優惠與六十天價格保護保證，吸引消費者提前布局年終購物季。",
+    "category": "市場數據",
+    "importance": 2,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-black-friday-2025-countdown",
+    "publish_date": "2025-11-14",
+    "keywords": [
+      "黑色星期五",
+      "早鳥優惠",
+      "促銷活動",
+      "極米科技",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },
@@ -15023,6 +16291,51 @@
     "link_status": null
   },
   {
+    "id": 1034,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米於IFA 2025展出全新HORIZON 20系列與TITAN 4K投影機",
+    "summary_zh": "極米科技在柏林IFA 2025展會上，發表全新HORIZON 20系列4K家用投影機及商用旗艦TITAN。其中HORIZON 20 Max具備高達5700 ISO流明與RGB三雷射技術，並結合Google TV與高更新率遊戲支援，展現強悍的家庭娛樂與商用投影實力。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/explore-xgimi-projectors-horizon-20-series-titan-at-ifa",
+    "publish_date": "2025-09-08",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "HORIZON 20",
+      "TITAN",
+      "IFA 2025",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1035,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技於IFA 2025發表全新HORIZON 20系列家用投影機與TITAN商用投影機",
+    "summary_zh": "極米科技在IFA 2025展會中發表多款重量級新品，包含旗艦家用投影機HORIZON 20系列，最高亮度達5700 ISO流明並支援三色雷射與Dolby Vision；同時跨足商用市場推出TITAN系列，鎖定企業與大型展演應用，展現極米積極拓展高階家用與商業投影市場的企圖心。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-redefines-what-projection-should-be-at-ifa-2025",
+    "publish_date": "2025-09-05",
+    "keywords": [
+      "IFA 2025",
+      "HORIZON 20 Max",
+      "TITAN",
+      "三色雷射",
+      "家用投影機",
+      "商用投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Harman/Kardon"
+    ],
+    "link_status": null
+  },
+  {
     "id": 165,
     "source_name": "Engadget",
     "title_zh": "Anker於IFA 2025發表Nebula X1 Pro，整合160W重低音喇叭",
@@ -15058,6 +16371,27 @@
     ],
     "mentioned_brands": [
       "Aurzen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1036,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技將於IFA 2025推出首款TITAN商用投影機",
+    "summary_zh": "知名投影機品牌極米科技宣布，將在柏林IFA 2025展會上發表旗下首款專業級商用投影機TITAN。此舉標誌著該品牌從家用娛樂市場正式跨足商務會議室與大型活動等專業領域，提供具備高效能且操作簡便的投影解決方案，拓展其投影生態系。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/expect-xgimi-titan-commercial-projector-ifa-2025",
+    "publish_date": "2025-08-28",
+    "keywords": [
+      "極米科技",
+      "TITAN",
+      "IFA 2025",
+      "商用投影機",
+      "專業投影"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
     ],
     "link_status": null
   },
@@ -15101,6 +16435,98 @@
     "link_status": null
   },
   {
+    "id": 1037,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技進軍商用投影市場，預告於 IFA 2025 發表旗艦機型 TITAN",
+    "summary_zh": "知名投影機品牌極米科技宣布正式跨足商用投影市場，並預告將於 IFA 2025 展會上推出首款專業級旗艦投影機 TITAN。此產品主要面向會議室、大型活動空間及高階家庭劇院，象徵品牌業務從家用市場拓展至專業商用領域。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-will-tease-commercial-projection-titan-at-ifa-2025",
+    "publish_date": "2025-08-14",
+    "keywords": [
+      "極米科技",
+      "XGIMI",
+      "TITAN",
+      "IFA 2025",
+      "商用投影機",
+      "旗艦機型"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Google",
+      "Harman Kardon",
+      "Texas Instruments"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1038,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技推出2025年全新MoGo 4系列便攜智慧投影機",
+    "summary_zh": "極米科技（XGIMI）正式發表全新MoGo 4與MoGo 4 Laser兩款便攜智慧投影機。該系列主打1080p全高畫質、輕巧機身、Harman Kardon音響與360度旋轉支架等特色，並搭載Google TV系統。官方同步推出早鳥優惠活動，提供折扣與多樣化周邊贈品。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/introducing-mogo-4-series-portable-smart-projectors",
+    "publish_date": "2025-06-14",
+    "keywords": [
+      "極米科技",
+      "XGIMI",
+      "MoGo 4",
+      "便攜投影機",
+      "智慧投影機",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1039,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技發表 MoGo 4 系列隨身投影機：主打時尚設計與內建電池",
+    "summary_zh": "極米科技（XGIMI）於巴黎正式發表全新的 MoGo 4 與 MoGo 4 Laser 隨身投影機系列。該系列主打時尚潮流的外觀設計、咖啡杯大小的輕巧機身，並首度內建電池，提供 1080p 解析度與 450 ISO 流明亮度，結合 Harman Kardon 揚聲器，完美鎖定年輕世代與戶外娛樂市場。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-releases-mogo-4-series-in-style",
+    "publish_date": "2025-06-12",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "MoGo 4",
+      "隨身投影機",
+      "新品發布",
+      "便攜投影"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Harman Kardon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1040,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技預告2025夏季將推出全新MoGo 4系列便攜投影機",
+    "summary_zh": "極米科技官方發布預告，宣布將於2025年6月12日正式推出全新便攜式智慧投影機系列，主打輕巧時尚、無線串流與戶外行動娛樂功能。官方並同步推出早鳥訂閱優惠活動，邀請消費者搶先登記以獲取專屬折扣代碼，迎接全新的大畫面行動體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/new-xgimi-portable-projectors-arrive",
+    "publish_date": "2025-06-05",
+    "keywords": [
+      "極米科技",
+      "MoGo 4系列",
+      "便攜投影機",
+      "新品預告",
+      "早鳥優惠"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 164,
     "source_name": "ProjectorCentral",
     "title_zh": "Anker發表旗艦Nebula X1，業界首見液冷散熱三色雷射投影機",
@@ -15139,6 +16565,29 @@
     "link_status": null
   },
   {
+    "id": 1041,
+    "source_name": "XGIMI官方",
+    "title_zh": "為什麼極米是美國家用投影機的首選？解析市場趨勢與品牌優勢",
+    "summary_zh": "本文探討美國家用投影機市場的成長趨勢，指出消費者正逐漸以投影機取代傳統電視以追求大螢幕與空間自由。同時介紹極米（XGIMI）的全球化佈局、累積出貨量、海外營收表現，以及其獲得多項國際大獎肯定的技術與產品優勢。",
+    "category": "市場數據",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/why-xgimi-first-choice-for-home-projectors",
+    "publish_date": "2025-03-21",
+    "keywords": [
+      "家用投影機",
+      "市場數據",
+      "極米",
+      "雷射投影機",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米",
+      "RUNTO"
+    ],
+    "link_status": null
+  },
+  {
     "id": 161,
     "source_name": "ProjectorCentral",
     "title_zh": "CES 2025：生活風格投影機與超短焦成展場主軸",
@@ -15157,6 +16606,30 @@
       "Yaber",
       "Samsung",
       "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1042,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技閃耀CES 2025：展出概念產品與旗艦新機並榮獲大獎",
+    "summary_zh": "極米科技於CES 2025大放異彩，展出全新概念產品XGIMI Ascend，以及AURA 2超短焦投影機與HORIZON S Max 4K家用投影機等旗艦新品。現場透過互動展示與實機體驗吸引大量參觀人潮，並榮獲多項最佳CES大獎，展現其在家庭娛樂投影技術的創新實力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.xgimi.com/blogs/news/xgimi-shines-at-ces-2025-events-review",
+    "publish_date": "2025-01-15",
+    "keywords": [
+      "CES 2025",
+      "極米科技",
+      "XGIMI Ascend",
+      "AURA 2",
+      "HORIZON S Max",
+      "超短焦投影機",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },

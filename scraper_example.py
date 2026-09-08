@@ -1,21 +1,21 @@
 """
 scraper_example.py
-兩種爬蟲類型，目前追蹤 8 個來源：
+兩種爬蟲類型，目前追蹤 13 個來源：
 
-  A. RSS 來源 -> fetch_rss_source()（4 個）
-     Reddit r/projectors、投影時代（提供完整全文）、DigiTimes、IT之家。
-     後兩者是「綜合性」feed，需搭配 PROJECTOR_KEYWORDS 過濾標題。
+  A. RSS / Atom 來源 -> fetch_rss_source()（9 個）
+     Reddit r/projectors、投影時代（提供完整全文）、DigiTimes、IT之家、
+     XGIMI官方、當貝Dangbei官方、Epson官方、AV Network、Display Daily。
+     「綜合性」feed（DigiTimes / IT之家 / Epson / AV Network / Display Daily）
+     需搭配 PROJECTOR_KEYWORDS 過濾標題；XGIMI / 當貝 是投影機專業廠商，不過濾。
 
   B. 純 HTML 列表頁、無 RSS -> fetch_html_list_source()（4 個）
      ZOL投影機頻道、ZNDS投影頻道、ProjectorCentral、ProjectorReviews。
      文章詳情頁一律改用穩定的 SEO meta 標籤（description / og:title /
      article:published_time）取資料，比針對每個網站硬寫正文 CSS class 更耐用。
 
-  已移除（2026-09，開站至今產出 ~0 篇，見各 SOURCES 清單旁註解）：
-     TrendForce-Display / TrendForce-ConsumerElec（內容以面板/記憶體為主，
-     全被關鍵字濾掉）、洛圖科技RUNTO、199IT-奧維雲網（AVC 轉載代理，未曾進稿、
-     列表頁常逾時）。之後要補「市場數據」來源，改接 Futuresource / Omdia /
-     廠商新聞室會更對題。
+  已移除（2026-09，開站至今產出 ~0 篇）：TrendForce ×2、洛圖科技RUNTO、
+     199IT-奧維雲網。未整合：rAVe（feed 對非瀏覽器回 403）、BenQ（無 RSS、
+     press room 動態載入）——兩者都需要瀏覽器自動化。
 
      重要（2026-08 debug 記錄）：這一類來源原本用「正則表達式直接對整頁
      HTML 文字找完整網址」的方式取得連結，實測發現多個網站（ZOL、ZNDS、
@@ -68,6 +68,8 @@ HEADERS = {
 PROJECTOR_KEYWORDS = [
     "投影", "projector", "projection", "激光电视", "Laser TV",
     "LCoS", "DLP", "3LCD", "1LCD", "ALPD",
+    # 廠商投影機產品線名稱（綜合性來源如 Epson 官方 feed 的標題常只寫產品線、不寫 projector）
+    "EpiqVision", "PowerLite", "BrightLink", "Pro Cinema", "CineBeam", "LS-Series",
     # 中國品牌
     "极米", "XGIMI", "坚果", "当贝", "Dangbei", "Vidda", "峰米", "Fengmi",
     "小明", "小米投影", "海信激光", "长虹", "TCL投影",
@@ -109,9 +111,19 @@ def normalize_url(url: str | None) -> str | None:
     return urlunsplit((scheme, netloc, parts.path, query, ""))
 
 
-def _is_projector_related(title: str) -> bool:
+# 給「某家廠商自己的 feed」用的收窄關鍵字：不含品牌名（廠商每篇標題都有自己名字，
+# 帶品牌名等於沒濾）。只認「這篇真的在講投影機」的字眼。
+EPSON_FEED_KEYWORDS = [
+    "投影", "projector", "projection",
+    "EpiqVision", "PowerLite", "BrightLink", "Pro Cinema", "Lifestudio",
+    "LS-Series", "laser display", "large venue",
+]
+
+
+def _is_projector_related(title: str, keywords: list[str] | None = None) -> bool:
     text = title.lower()
-    return any(kw.lower() in text for kw in PROJECTOR_KEYWORDS)
+    kws = keywords if keywords is not None else PROJECTOR_KEYWORDS
+    return any(kw.lower() in text for kw in kws)
 
 
 def _normalize_date(raw: str) -> str:
@@ -147,9 +159,25 @@ RSS_SOURCES = [
     # 綜合性 RSS，務必搭配 filter=True 過濾標題，否則會混入大量不相關新聞。
     {"name": "DigiTimes", "url": "https://www.digitimes.com/rss/daily.xml", "filter": True},
     {"name": "IT之家", "url": "https://www.ithome.com/rss/", "filter": True},
-    # 2026-09 移除 TrendForce-Display / TrendForce-ConsumerElec：feed 本身正常，
-    # 但內容以面板／記憶體為主，開站至今產出 0 篇投影機相關文章，全被關鍵字濾掉。
-    # 若之後要補「市場數據」來源，改接 Futuresource / Omdia / 洛圖其他管道會更對題。
+
+    # --- 2026-09 新增 ---
+    # 廠商新聞室（第一手新品消息）。XGIMI / 當貝 幾乎只做投影機，不用過濾；
+    # Epson 什麼都做（印表機、機器人、POS…），一定要 filter=True。
+    {"name": "XGIMI官方", "url": "https://us.xgimi.com/blogs/news.atom"},
+    {"name": "當貝Dangbei官方", "url": "https://us.dangbei.com/blogs/newsroom.atom"},
+    # Epson 每篇標題都有「Epson」，用全域清單（含品牌名）等於沒濾——用收窄的
+    # EPSON_FEED_KEYWORDS，只放「真的在講投影機」的字眼，避免把印表機/POS/攝影
+    # 展新聞也送進 Gemini 浪費額度。
+    {"name": "Epson官方", "url": "https://news.epson.com/rss.xml",
+     "filter": True, "keywords": EPSON_FEED_KEYWORDS},
+    # 英文 ProAV 產業媒體（取代 rAVe——rAVe 的 feed 對非瀏覽器請求一律回 403，抓不到）。
+    {"name": "AV Network", "url": "https://www.avnetwork.com/rss", "filter": True},
+    # 顯示產業／市場數據（取代失效的 TrendForce / RUNTO）。
+    {"name": "Display Daily", "url": "https://displaydaily.com/feed/", "filter": True},
+
+    # 未整合：BenQ——官網沒有 RSS，press room / knowledge-center 是 JS 動態載入，
+    #   伺服器端 HTML 只吐得出零星連結，需要瀏覽器自動化才爬得動，暫不列入。
+    #   （BenQ 新品消息目前仍會透過 ProjectorCentral / ProjectorReviews / ZOL 間接收到。）
 ]
 
 
@@ -189,6 +217,7 @@ def fetch_rss_source(source: dict):
         return
 
     need_filter = source.get("filter", False)
+    keywords = source.get("keywords")  # 可為 None（用全域清單）
 
     total_entries = len(feed.entries)
     filtered_out = 0
@@ -197,7 +226,7 @@ def fetch_rss_source(source: dict):
 
     for entry in feed.entries:
         title = entry.get("title", "")
-        if need_filter and not _is_projector_related(title):
+        if need_filter and not _is_projector_related(title, keywords):
             filtered_out += 1
             continue
 
@@ -207,10 +236,16 @@ def fetch_rss_source(source: dict):
             skipped_existing += 1
             continue
 
-        # RSS 摘要通常不完整，若需要完整內文，建議另外對 entry.link 發請求
-        # 抓詳細頁再解析；投影時代這類提供全文的來源則不需要。
-        raw_content = entry.get("summary", title)
-        publish_date = _normalize_date(entry.get("published", ""))
+        # 內文優先序：<content>（Atom feed 常把整篇貼在這，例如 Shopify 部落格）
+        # → <summary> → 退回標題。太短會讓 Gemini 摘要品質下降。
+        raw_content = (
+            (entry.get("content") or [{}])[0].get("value")
+            or entry.get("summary")
+            or title
+        )
+        publish_date = _normalize_date(
+            entry.get("published") or entry.get("updated") or ""
+        )
 
         # 嘗試抓縮圖網址（不是每個 RSS 來源都有，抓不到就是 None，不強求）
         image_url = None
@@ -330,6 +365,7 @@ def fetch_html_list_source(source: dict):
     logger.info("列表頁找到 %d 篇文章連結", len(urls))
 
     need_filter = source.get("filter", False)
+    keywords = source.get("keywords")
     skipped_existing = 0
     meta_failed = 0
     filtered_out = 0
@@ -347,7 +383,7 @@ def fetch_html_list_source(source: dict):
         if not detail:
             meta_failed += 1
             continue
-        if need_filter and not _is_projector_related(detail["title"]):
+        if need_filter and not _is_projector_related(detail["title"], keywords):
             filtered_out += 1
             continue
 

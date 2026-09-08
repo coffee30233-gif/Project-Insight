@@ -60,6 +60,17 @@ def test_keyword_no_match():
     assert not _is_projector_related("")
 
 
+def test_keyword_override_list():
+    from scraper_example import EPSON_FEED_KEYWORDS
+    # 收窄清單不含品牌名 "Epson" —— 印表機新聞要被擋掉、投影機新聞要留下
+    assert not _is_projector_related(
+        "Epson Announces SureColor S7170 Signage Solution", EPSON_FEED_KEYWORDS)
+    assert _is_projector_related(
+        "Epson Introduces New 30,000-Lumen 4K Laser Projector", EPSON_FEED_KEYWORDS)
+    # 但用全域清單時「Epson」本身就會中（這正是收窄清單存在的原因）
+    assert _is_projector_related("Epson Announces SureColor S7170 Signage Solution")
+
+
 # ---------------------------------------------------------------------------
 # _normalize_date
 # ---------------------------------------------------------------------------
