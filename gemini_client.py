@@ -265,7 +265,10 @@ SYSTEM_PROMPT_B = """\
 4. 語氣專業、精簡，避免行銷式誇飾用語。
 5. 若某分類當月資料稀少，該節簡短註明「本月無重大更新」，不要硬湊字數。
 6. 只使用輸入資料中出現的數字與事實，不要自行推算或補齊缺漏的統計數據。
-7. 輸出格式為 Markdown。
+7. 每篇文章的 JSON 都有 importance（1-5）：5=產業指標數據/重大突破、3=一般新品或
+   常規評論、1-2=小型更新或單一用戶心得。**優先著墨 importance 4-5 的項目**；
+   importance 1-2 的可略過，或多篇合併成一句帶過，不要逐篇展開。
+8. 輸出格式為 Markdown。
 """
 
 REPORT_TEMPLATE = """\
@@ -537,7 +540,9 @@ SYSTEM_PROMPT_E = """\
    或無中生有
 4. 只使用輸入文章中出現的事實與數字，不要自行推算或補充外部知識
 5. 每項重點後方用括號註明來源媒體名稱，方便同事想深入了解時查證
-6. 輸出格式為 Markdown
+6. 每則文章前面標了 [重要度N]（1-5，5 最重要）。**優先寫 [重要度4] 和 [重要度5]**；
+   [重要度1-2] 的除非跟其他事件有關聯，否則可以不寫或一句話帶過
+7. 輸出格式為 Markdown
 """
 
 WEEKLY_TEMPLATE = """\
@@ -580,11 +585,13 @@ def generate_weekly_report(start_date: str, end_date: str, articles: list[dict])
             "本週沒有蒐集到任何相關文章，暫無週報內容。\n"
         )
 
+    # 讓 Gemini 看得到 importance，並讓高分的排在前面（同分維持原順序）
+    articles = sorted(articles, key=lambda a: a.get("importance") or 0, reverse=True)
     parts = []
     for a in articles:
         parts.append(
-            f"- 【{a['source_name']}】{a['title_zh']}（{a['category']}）\n"
-            f"  {a['summary_zh']}"
+            f"- [重要度{a.get('importance') or '?'}]【{a['source_name']}】"
+            f"{a['title_zh']}（{a['category']}）\n  {a['summary_zh']}"
         )
     articles_text = "\n".join(parts)
 

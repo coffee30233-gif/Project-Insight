@@ -187,6 +187,67 @@ main {
     margin-top: 2px;
 }
 
+/* -------------------- 本週重點 -------------------- */
+
+.weekly-highlights {
+    margin: 18px 0 4px;
+}
+.weekly-highlights .wh-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--accent-lamp);
+    margin: 0 0 8px;
+}
+.weekly-highlights .wh-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--bg-panel);
+    margin-bottom: 6px;
+    text-decoration: none;
+}
+.weekly-highlights .wh-item:hover {
+    background: var(--bg-panel-hover);
+    text-decoration: none;
+}
+.weekly-highlights .wh-score {
+    flex: none;
+    width: 26px;
+    height: 26px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--bg);
+    background: var(--accent-lamp-soft);
+}
+.weekly-highlights .wh-score[data-s="5"] { background: var(--accent-lamp); }
+.weekly-highlights .wh-score[data-s="3"] { background: var(--text-muted); }
+.weekly-highlights .wh-body {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+}
+.weekly-highlights .wh-headline {
+    color: var(--text);
+    font-size: 0.92rem;
+    font-weight: 600;
+    line-height: 1.4;
+}
+.weekly-highlights .wh-meta {
+    font-size: 0.76rem;
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+}
+
 /* -------------------- 篩選列 -------------------- */
 
 .filter-bar {

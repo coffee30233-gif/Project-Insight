@@ -88,13 +88,22 @@ def backfill_embeddings(batch_size: int = 200):
     print(f"完成，共補產生 {total} 篇文章的 embedding。")
 
 
+# importance（1-5，3 為基準）在「相似度相近」時當加分：每偏離基準 1 分，
+# 對排序分數加/減這麼多。抓 0.02 是因為真正相關的文章之間相似度差距通常 > 0.05，
+# 所以這個加分只會翻動「本來就咬得很近」的名次，不會把不相關的文章拉上來。
+IMPORTANCE_RERANK_BONUS = 0.02
+
+
 def cosine_similarity_search(query_vector: list[float], top_k: int = 8,
                               min_similarity: float = 0.0) -> list[dict]:
     """
     在所有已 embed 的文章中，找出跟 query_vector 最相似的 top_k 篇。
 
-    min_similarity：cosine 相似度低於這個值的結果直接丟掉。用來讓「資料庫裡其實
-    沒有相關內容」的問題回傳空清單，而不是硬塞幾篇「最不相關的」給模型當根據。
+    排序：主要看 cosine 相似度，importance 只在相似度相近時當 tie-breaker
+    （見 IMPORTANCE_RERANK_BONUS）。回傳的 similarity 欄位仍是「真實的 cosine 值」。
+
+    min_similarity：真實 cosine 相似度低於這個值的結果直接丟掉。用來讓「資料庫裡
+    其實沒有相關內容」的問題回傳空清單，而不是硬塞幾篇不相關的給模型當根據。
     """
     articles = db.get_all_embedded_articles()
     if not articles:
@@ -108,17 +117,28 @@ def cosine_similarity_search(query_vector: list[float], top_k: int = 8,
     matrix_normalized = matrix / norms
 
     scores = matrix_normalized @ query_vec  # cosine similarity（向量已正規化）
-    top_indices = np.argsort(-scores)[:top_k]
+
+    # 先取比 top_k 寬一點的候選（純相似度），再用「相似度 + importance 加分」重排。
+    pool = min(len(articles), max(top_k * 3, top_k + 5))
+    pool_idx = np.argsort(-scores)[:pool]
+
+    def rerank_key(i):
+        imp = articles[int(i)].get("importance") or 3
+        return float(scores[i]) + IMPORTANCE_RERANK_BONUS * (imp - 3)
+
+    ordered = sorted(pool_idx, key=rerank_key, reverse=True)
 
     results = []
-    for idx in top_indices:
-        score = float(scores[idx])
+    for idx in ordered:
+        score = float(scores[idx])           # 真實 cosine，不含加分
         if score < min_similarity:
             continue
         article = dict(articles[int(idx)])
         article["similarity"] = score
-        del article["embedding"]  # 不需要回傳給呼叫端
+        del article["embedding"]             # 不需要回傳給呼叫端
         results.append(article)
+        if len(results) >= top_k:
+            break
     return results
 
 

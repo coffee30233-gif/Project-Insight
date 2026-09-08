@@ -125,7 +125,35 @@ async function loadArticlesData() {
     await loadArchiveIndex();
     const res = await fetch("data/articles.json");
     allArticles = await res.json();
+    renderWeeklyHighlights();
     renderArticles(1, false);
+}
+
+// 首頁 Hero 下方「本週重點」：近 7 天內、importance 最高的最多 3 則
+// （importance 由 Gemini 評分 1-5：5=產業指標數據/重大突破、3=一般新品、1-2=小型更新）。
+function renderWeeklyHighlights() {
+    const el = document.getElementById("weekly-highlights");
+    if (!el) return;
+
+    const cutoff = new Date(Date.now() - 7 * 864e5).toISOString().slice(0, 10);
+    const top = allArticles
+        .filter(a => (a.publish_date || "") >= cutoff && (a.importance || 0) >= 3)
+        .sort((a, b) =>
+            (b.importance || 0) - (a.importance || 0) ||
+            (b.publish_date || "").localeCompare(a.publish_date || ""))
+        .slice(0, 3);
+
+    if (top.length === 0) { el.hidden = true; return; }
+    el.hidden = false;
+    el.innerHTML = `<h2 class="wh-title">本週重點</h2>` + top.map(a => `
+        <a class="wh-item" href="${escapeAttr(a.url)}" target="_blank" rel="noopener"
+           title="${escapeAttr(SOURCE_LINK_HINT)}">
+            <span class="wh-score" data-s="${a.importance || 0}">${a.importance || "–"}</span>
+            <span class="wh-body">
+                <span class="wh-headline">${escapeHtml(a.title_zh || a.original_title || "")}</span>
+                <span class="wh-meta">${escapeHtml(a.source_name || "")}｜${escapeHtml(a.publish_date || "")}｜${escapeHtml(a.category || "")}</span>
+            </span>
+        </a>`).join("");
 }
 
 // 「查看本站存檔內容」：點下去才去抓 data/archive/{id}.json（失效連結通常沒幾則，
