@@ -306,16 +306,48 @@ def update_relevance(article_id: int, relevance: str, reason: str):
             conn.execute("UPDATE articles SET embedding = NULL WHERE id = ?", (article_id,))
 
 
+def _embed_row(r) -> dict:
+    """把一列文章整理成 embed_article() 需要的欄位（keywords / mentioned_brands 解成 list）。"""
+    return {
+        "id": r["id"],
+        "title_zh": r["title_zh"],
+        "summary_zh": r["summary_zh"],
+        "category": r["category"],
+        "mentioned_brands": json.loads(r["mentioned_brands"] or "[]"),
+        "keywords": json.loads(r["keywords"] or "[]"),
+    }
+
+
 def get_unembedded_articles(limit: int = 200) -> list[dict]:
     """取出已完成 Gemini 摘要處理、但尚未產生 embedding 的文章。"""
     with get_conn() as conn:
         rows = conn.execute(
-            """SELECT id, title_zh, summary_zh FROM articles
+            """SELECT id, title_zh, summary_zh, category, mentioned_brands, keywords
+               FROM articles
                WHERE processed_at IS NOT NULL AND embedding IS NULL
                LIMIT ?""",
             (limit,),
         ).fetchall()
-    return [dict(r) for r in rows]
+    return [_embed_row(r) for r in rows]
+
+
+def get_articles_for_reembed() -> list[dict]:
+    """
+    取出「應該要有 embedding 的文章」全部（供 embeddings.reembed_all() 用）——
+    也就是 get_all_embedded_articles() 的同一個過濾條件，只是不要求 embedding 已存在。
+    換模型 / 改 embed 文字後，用這個把整個 RAG 索引重算一致。
+    """
+    with get_conn() as conn:
+        rows = conn.execute(
+            f"""SELECT id, title_zh, summary_zh, category, mentioned_brands, keywords
+               FROM articles
+               WHERE processed_at IS NOT NULL
+                     AND title_zh IS NOT NULL
+                     AND {_relevance_filter_sql()}
+                     AND {_report_source_filter_sql()}""",
+            (*EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
+        ).fetchall()
+    return [_embed_row(r) for r in rows]
 
 
 def _load_rag_jsonl() -> list[dict]:

@@ -16,6 +16,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 import json
+import time
+
 import numpy as np
 from google import genai
 from google.genai import types
@@ -38,31 +40,92 @@ def get_client() -> genai.Client:
     return _client
 
 
-def embed_text(text: str, task_type: str) -> list[float]:
+def embed_text(text: str, task_type: str, max_retry: int = 4) -> list[float]:
     """
     task_type 依用途區分：
       - "RETRIEVAL_DOCUMENT"：文章存入資料庫時使用
       - "RETRIEVAL_QUERY"：使用者提問時使用
     這兩種 task_type 會讓模型針對「被搜尋」與「發起搜尋」分別優化向量，
     檢索品質會比兩邊都用同一種 task_type 好。
+
+    遇到 429（超速）/ 503（Google 端過載）會退避重試——批次重算幾百篇時，
+    中間撞一次暫時性錯誤不該讓整批中斷。
     """
     client = get_client()
-    result = client.models.embed_content(
-        model=EMBED_MODEL,
-        contents=text,
-        config=types.EmbedContentConfig(
-            task_type=task_type,
-            output_dimensionality=EMBED_DIMENSIONS,
-        ),
-    )
-    return list(result.embeddings[0].values)
+    for attempt in range(max_retry):
+        try:
+            result = client.models.embed_content(
+                model=EMBED_MODEL,
+                contents=text,
+                config=types.EmbedContentConfig(
+                    task_type=task_type,
+                    output_dimensionality=EMBED_DIMENSIONS,
+                ),
+            )
+            return list(result.embeddings[0].values)
+        except Exception as e:
+            msg = str(e).lower()
+            transient = any(k in msg for k in
+                            ("429", "503", "unavailable", "resource_exhausted",
+                             "deadline", "500", "internal"))
+            if not transient or attempt == max_retry - 1:
+                raise
+            wait = 5 * (attempt + 1)
+            print(f"embed_text 暫時性錯誤（{type(e).__name__}），{wait}s 後重試 "
+                  f"({attempt + 1}/{max_retry})")
+            time.sleep(wait)
 
 
-def embed_article(title_zh: str, summary_zh: str) -> list[float]:
-    """文章用標題+摘要一起 embed，比只用摘要更能捕捉關鍵詞（品牌、型號等）。
-    Embedding 免費額度是 100 RPM，遠不到瓶頸，所以這裡不套節流閥。"""
-    text = f"{title_zh}\n{summary_zh}"
+def _article_embed_text(title_zh, summary_zh, category=None,
+                         brands=None, keywords=None) -> str:
+    """組出要 embed 的文字：標題 + 摘要 + 分類 + 品牌 + 關鍵字。
+    加進分類/品牌/關鍵字後，像「當貝有什麼新品」「雷射光源」這類查詢的命中率會更好。"""
+    parts = [title_zh or "", summary_zh or ""]
+    if category:
+        parts.append(f"分類：{category}")
+    if brands:
+        parts.append("品牌：" + "、".join(str(b) for b in brands if b))
+    if keywords:
+        parts.append("關鍵字：" + "、".join(str(k) for k in keywords if k))
+    return "\n".join(p for p in parts if p)
+
+
+def embed_article(title_zh, summary_zh, category=None,
+                   brands=None, keywords=None) -> list[float]:
+    """文章 embed。Embedding 免費額度是 100 RPM，遠不到瓶頸，所以這裡不套節流閥。"""
+    text = _article_embed_text(title_zh, summary_zh, category, brands, keywords)
     return embed_text(text, task_type="RETRIEVAL_DOCUMENT")
+
+
+def reembed_all(sleep_between: float = 0.7) -> int:
+    """
+    把「應該要有 embedding」的文章全部重新 embed（換模型 / 改 embed 文字後用）。
+    不會改變向量『數量』——只是用新的輸入文字重算既有這些文章的向量，維度一樣 768。
+    回傳重算的篇數。
+    """
+    rows = db.get_articles_for_reembed()
+    total = len(rows)
+    print(f"要重新 embed 的文章：{total} 篇")
+    done = failed = 0
+    for r in rows:
+        try:
+            vec = embed_article(
+                r["title_zh"], r["summary_zh"],
+                category=r.get("category"),
+                brands=r.get("mentioned_brands"),
+                keywords=r.get("keywords"),
+            )
+            db.set_embedding(r["id"], vec)
+            done += 1
+        except Exception as e:
+            failed += 1
+            print(f"  ! id={r['id']} 重算失敗，跳過：{type(e).__name__}: {str(e)[:80]}")
+        if (done + failed) % 50 == 0 or (done + failed) == total:
+            print(f"  {done + failed}/{total}（成功 {done}、失敗 {failed}）")
+        if sleep_between:
+            time.sleep(sleep_between)
+    print(f"完成，共重算 {done} 篇（失敗 {failed} 篇，可再跑一次補）。")
+    return done
 
 
 def embed_query(question: str) -> list[float]:
@@ -81,7 +144,12 @@ def backfill_embeddings(batch_size: int = 200):
         if not pending:
             break
         for article in pending:
-            vector = embed_article(article["title_zh"], article["summary_zh"])
+            vector = embed_article(
+                article["title_zh"], article["summary_zh"],
+                category=article.get("category"),
+                brands=article.get("mentioned_brands"),
+                keywords=article.get("keywords"),
+            )
             db.set_embedding(article["id"], vector)
             total += 1
         print(f"已補產生 {total} 篇文章的 embedding...")
