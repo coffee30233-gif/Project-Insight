@@ -1,5 +1,199 @@
 [
   {
+    "id": 996,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Lumio Arc 5投影機與Sony音響連接問題之使用者討論",
+    "summary_zh": "本文為Reddit論壇使用者的求助討論，探討Lumio Arc 5投影機透過HDMI ARC連接Sony HT-RT3 5.1聲道音響系統時，是否能透過HDMI轉光纖轉換器成功輸出杜比數位5.1聲道音訊，屬於消費端設備相容性與連接方式的個人經驗交流。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wa1wj0/lumio_arc_5_sony_htrt3_hdmi_arc_vs_optical_51/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Lumio Arc 5",
+      "Sony HT-RT3",
+      "HDMI ARC",
+      "光纖音訊",
+      "投影機音效"
+    ],
+    "mentioned_brands": [
+      "Lumio Arc",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 994,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼PK32與明基X3000i投影機規格與預算選購比較",
+    "summary_zh": "本篇文章為使用者在預算與規格考量下，針對奧圖碼Photon Life PK32新品與二手明基X3000i投影機的選購諮詢。內容探討兩者在暗室環境下的畫質、對比度表現，以及針對遊戲與家庭劇院應用的性價比與預算評估。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wa5fjs/optoma_pk32_vs_benq_x3100i/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Optoma",
+      "BenQ",
+      "PK32",
+      "X3000i",
+      "投影機選購",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 991,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "德國地區入門級投影機購買諮詢與推薦",
+    "summary_zh": "德國消費者於論壇尋求預算在三歐元以內的入門投影機推薦，主要用於觀看電影與YouTube，投影距離約三點五公尺以內。貼文提及Wanbo X5 Pro、極米MoGo 2 Pro與WiMiUS P62 Pro等選項，反映出歐洲平價家用投影機市場的實際需求與消費者選購考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wa3eip/germany_what_to_buy/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "入門投影機",
+      "德國市場",
+      "家用投影機",
+      "預算推薦"
+    ],
+    "mentioned_brands": [
+      "Wanbo",
+      "XGIMI",
+      "WiMiUS"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 990,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "NothingProjector 132吋超短焦銀幕出現垂直波紋問題",
+    "summary_zh": "有用戶購買了NothingProjector的132吋固定式超短焦銀幕，搭配Aetherion Max投影機使用。在組裝完成尚未上牆前，發現銀幕表面出現每隔一兩吋便有的連續垂直波紋，導致光線分佈不均，目前正尋求是否為拉簧調整或包裝瑕疵所致。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wa7dhv/nothingprojector_fixed_132_inch_ust_screen/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "NothingProjector",
+      "超短焦銀幕",
+      "抗光幕",
+      "銀幕平整度"
+    ],
+    "mentioned_brands": [
+      "NothingProjector",
+      "Aetherion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1008,
+    "source_name": "投影時代",
+    "title_zh": "真4K 120Hz投影商用元年：極米、AWOL超短焦與堅果長焦在IFA 2026同台首發新品",
+    "summary_zh": "在IFA 2026展會上，投影產業迎來真4K 120Hz的商用元年。極米與AWOL Vision分別推出全球首發的4K 120Hz超短焦投影新品，主打RGB三激光光源與高對比度；同時，堅果也發表了具備雙智能虹膜與光學變焦的旗艦長焦投影。這些新品共同突破了過往超短焦在4K高刷新率下的技術瓶頸，全面進軍高端影音與遊戲市場。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "http://www.pjtime.com/2026/9/172157147811.shtml",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "4K 120Hz",
+      "超短焦投影",
+      "IFA 2026",
+      "三激光光源",
+      "光學鏡頭位移"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "AWOL Vision",
+      "堅果"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1005,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC-NX5升級方案與劇院投影機選購討論",
+    "summary_zh": "本文為Reddit論壇上的用戶討論，內容主要關於擁有全黑化視聽室與135吋寬螢幕的使用者，在尋求從JVC-NX5投影機升級時，該選擇NZ500、NX700還是其他品牌型號的經驗交流與產品推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9i39n/upgrade_options_from_a_jvcnx5_cinemascope_screen/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "JVC",
+      "NX5",
+      "NZ500",
+      "家用投影機",
+      "劇院螢幕"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1004,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶回報Valerion Max投影機播放黑白電影時出現色溫漂移問題",
+    "summary_zh": "有用戶使用Valerion Max DLP投影機播放串流黑白電影時，發現畫面色溫在偏暖紅與偏冷綠之間不穩定地晃動。用戶質疑是投影機本身的問題，還是網路串流速率波動所導致，並尋求其他使用者的排查建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9io6m/streamed_a_bw_film_temperature_of_image_was/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "Valerion Max",
+      "DLP投影機",
+      "色溫",
+      "串流"
+    ],
+    "mentioned_brands": [
+      "Valerion",
+      "Apple",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1003,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機音訊連接難題：如何在不拉明線的情況下實現杜比全景聲",
+    "summary_zh": "本文探討在客廳安裝投影機時的音訊傳輸難題。使用者希望將智慧投影機的聲音無線或透過長距離光纖傳輸至現有的迴傳音響，以實現杜比全景聲效果，同時避免在地面走線，尋求兼顧美觀與音質的最佳解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9pw4r/projector_audio_puzzle/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "投影機",
+      "音訊傳輸",
+      "杜比全景聲",
+      "光纖音訊",
+      "無線音訊"
+    ],
+    "mentioned_brands": [
+      "LG",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1000,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找無彩虹效應的超短焦LCD投影機",
+    "summary_zh": "有用戶在論壇上尋求無彩虹效應的超短焦投影機建議，並指出3LCD技術雖可保證沒有彩虹偽影，但市面上符合條件的LCD超短焦機種價格普遍偏高，因此正尋找合適的替代方案與市場選擇。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1w9umaf/ultrashortthrow_lcdrainbowfree/",
+    "publish_date": "2026-09-07",
+    "keywords": [
+      "超短焦投影機",
+      "LCD投影機",
+      "彩虹效應",
+      "顯示技術"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 978,
     "source_name": "Reddit r/projectors",
     "title_zh": "超短焦投影機家庭使用易用性與安裝疑慮",
@@ -12110,6 +12304,26 @@
     "link_status": null
   },
   {
+    "id": 1012,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "2026護眼顯示推薦產品：堅果N5S Ultra Max",
+    "summary_zh": "在第三屆健康顯示大會上，官方與多家專業機構共同揭曉了2026年健康顯示推薦產品名單，其中堅果品牌的N5S Ultra Max投影機成功入選，展現其在健康護眼與顯示技術上的優異表現，獲得行業與消費者肯定。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1188/11888512.html",
+    "publish_date": "2026-06-04",
+    "keywords": [
+      "堅果N5S Ultra Max",
+      "健康顯示大會",
+      "護眼投影機",
+      "推薦產品"
+    ],
+    "mentioned_brands": [
+      "堅果"
+    ],
+    "link_status": null
+  },
+  {
     "id": 690,
     "source_name": "ZOL投影機頻道",
     "title_zh": "2026健康顯示大會推薦：Vidda C5 Master",
@@ -12299,6 +12513,27 @@
     "link_status": null
   },
   {
+    "id": 1011,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-TZ2800 北京地區促銷價 6500 元",
+    "summary_zh": "知名投影機品牌愛普生旗下的 CH-TZ2800 家用投影機，近日於北京通路展開特價促銷活動。該款產品主打 4K 高畫質與高對比度等核心亮點，目前商家給出優惠價為人民幣 6500 元，提供有興趣升級家庭劇院的消費者一項性價比極佳的選購參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1183/11839457.html",
+    "publish_date": "2026-05-19",
+    "keywords": [
+      "愛普生",
+      "CH-TZ2800",
+      "家用投影機",
+      "4K",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
     "id": 906,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下 PT-UW391C 商務辦公投影機特價促銷",
@@ -12398,6 +12633,26 @@
     ],
     "mentioned_brands": [
       "大眼橙"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1010,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L790U北京促銷熱賣",
+    "summary_zh": "知名投影機品牌愛普生旗下型號CB-L790U近期在北京通路展開特價促銷活動。該款投影機主打激光光源技術、恆定亮度輸出以及迅速開機等產品亮點，提供市場具吸引力的採購價格，吸引有需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1179/11796680.html",
+    "publish_date": "2026-05-11",
+    "keywords": [
+      "愛普生",
+      "CB-L790U",
+      "雷射光源",
+      "投影機促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
     ],
     "link_status": null
   },
