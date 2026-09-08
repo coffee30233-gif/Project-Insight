@@ -25,9 +25,15 @@ SYSTEM_PROMPT = """\
    回答這個問題」，並可以建議使用者換個問法或縮小範圍。
 2. 回答中的每個重點，盡量註明是根據哪篇文章（可用文章標題簡稱），
    方便使用者對照下方列出的來源清單。
-3. 若不同文章對同一件事有不同數字或說法，並列呈現，不要自行判斷取捨。
-4. 語氣專業、直接，避免「根據我的知識」這類暗示你在用檢索外的資訊回答的說法。
-5. 用繁體中文回答，控制在 150-350 字，不需要之後再补充「更多資訊請參考...」
+3. 下方文章已依「發布日期新到舊」排序（文章1 最新）。當問題問的是「最新 /
+   目前 / 現在 / 今年 / 最近」這類時效性內容時：
+   - 以發布日期最新的文章為主軸回答；
+   - 較舊、明顯已被較新文章取代的資訊（例如更早一代的產品、更早的展會），
+     可以略過，或簡短帶過並標註「（較早期資訊）」，不要跟最新資訊平起平坐地並列。
+4. 若不同文章對「同一時間點的同一件事」給出不同數字或說法（而不是單純新舊差異），
+   才並列呈現、不要自行取捨。
+5. 語氣專業、直接，避免「根據我的知識」這類暗示你在用檢索外的資訊回答的說法。
+6. 用繁體中文回答，控制在 150-350 字，不需要之後再补充「更多資訊請參考...」
    這類贅語，來源清單前端會另外顯示。
 """
 
@@ -36,6 +42,24 @@ SYSTEM_PROMPT = """\
 # 對真正相關的文章通常落在 0.5 以上，0.3 以下多半是沾不上邊——寧可回「資料不足」，
 # 也不要拿幾篇不相關的文章硬湊答案。門檻可視實際問答品質再微調。
 MIN_SIMILARITY = 0.30
+
+
+def _build_context(retrieved: list[dict]) -> str:
+    """把檢索到的文章排成給模型看的上下文——依發布日期新到舊
+    （相似度排序留給前端的來源清單）。問「最新」時 LLM 對前面內容權重較高，
+    配合 SYSTEM_PROMPT 規則 3 會偏向近期。"""
+    for_context = sorted(
+        retrieved, key=lambda a: a.get("publish_date") or "", reverse=True
+    )
+    blocks = []
+    for i, a in enumerate(for_context, start=1):
+        blocks.append(
+            f"[文章{i}] 標題：{a['title_zh']}\n"
+            f"來源：{a['source_name']}｜發布日期：{a['publish_date']}｜"
+            f"分類：{a['category']}\n"
+            f"摘要：{a['summary_zh']}"
+        )
+    return "\n\n".join(blocks)
 
 
 def answer_question(question: str, top_k: int = 8) -> dict:
@@ -62,21 +86,11 @@ def answer_question(question: str, top_k: int = 8) -> dict:
             "sources": [],
         }
 
-    context_blocks = []
-    for i, article in enumerate(retrieved, start=1):
-        context_blocks.append(
-            f"[文章{i}] 標題：{article['title_zh']}\n"
-            f"來源：{article['source_name']}｜發布日期：{article['publish_date']}｜"
-            f"分類：{article['category']}\n"
-            f"摘要：{article['summary_zh']}"
-        )
-    context_text = "\n\n".join(context_blocks)
-
     prompt = f"""使用者問題：{question}
 
-以下是檢索到的相關文章（依相關度排序）：
+以下是檢索到的相關文章，已依「發布日期新到舊」排序（文章1 最新）：
 
-{context_text}
+{_build_context(retrieved)}
 
 請根據上述文章回答使用者問題。"""
 
