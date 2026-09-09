@@ -1,5 +1,597 @@
 [
   {
+    "id": 1139,
+    "source_name": "投影時代",
+    "title_zh": "極米發布昆侖系列純三色激光工程投影機，打破單色激光主導局面",
+    "summary_zh": "極米正式推出昆侖系列純三色激光工程投影機，亮度涵蓋12000至25000流明，採用大尺寸DLP晶片與自研畫質晶片，主打高色域與高對比度。該系列透過自動校色、超寬幅電動移軸、遠端集中管理及IP6X全密封防塵等技術，全面改善工程投影機的畫質、安裝調試與維護痛點，推動工程投影市場進入画質與运维並重的下半場。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "http://www.pjtime.com/2026/9/182620442537.shtml",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "極米",
+      "昆侖系列",
+      "工程投影機",
+      "三色激光",
+      "純三色激光",
+      "DLP晶片",
+      "防塵"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "X-VISION",
+      "APEX OS"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1136,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找符合特定需求與預算的平價投影機",
+    "summary_zh": "國外網友在論壇發文尋求預算在600歐元以內、具備旋轉調整彈性且耐用度至少兩年的平價投影機，同時希望附帶智慧電視功能。這反映出一般消費市場對於高性價比、可攜且耐用投影機的實際需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wazmxk/cheapest_projector_that_can_satisfy_my_needs/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "平價投影機",
+      "消費需求",
+      "可攜式投影機",
+      "耐用度"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1134,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "10,000:1對比度是否需要擔心？消費者對家用投影機規格的疑問",
+    "summary_zh": "本文為一般消費者在選購家用投影機時，針對BenQ TK700機型規格的討論與疑慮。文章探討了10,000:1的對比度在全黑視聽室中是否會導致黑色表現偏灰，並拿來與手機螢幕的對比度數據做對比，反映出新手消費者對投影機光學特性的不熟悉與選購考量。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wasulp/100001_contrast_ratio_should_i_be_worried/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "對比度",
+      "BenQ TK700",
+      "家用投影機",
+      "規格比較"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1132,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何在投影機與擴大機系統中整合無線電視天線（OTA）",
+    "summary_zh": "本文為Reddit論壇使用者的技術求助討論，探討如何在現有BenQ投影機與Onkyo擴大機設置中，整合無線電視OTA天線訊號。由於多數市售調諧器產品主要針對電視設計，使用者需額外尋求串流盒等設備進行轉接，涉及影音設備的相容性與連接方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1waviwr/adding_ota_tuner_to_receiver/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "OTA天線",
+      "擴大機",
+      "投影機連接",
+      "BenQ",
+      "Onkyo"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Onkyo",
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1129,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何查詢 TOPTRO X9 投影機的 MAC 地址？",
+    "summary_zh": "本文為使用者在 Reddit 論壇上發文求助，詢問關於 TOPTRO X9 投影機尋找 MAC 地址的方法，以便將設備順利連線至學校的無線網路。此類內容屬於單一消費者的使用疑問與疑難排解，對整體產業分析較無直接幫助。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wax6u6/how_do_i_find_the_mac_address_of_my_toptro_x9/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "TOPTRO X9",
+      "MAC地址",
+      "網路連線",
+      "疑難排解"
+    ],
+    "mentioned_brands": [
+      "TOPTRO"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1127,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion VisionMaster Pro 2 投影機之電動地拉幕選購討論",
+    "summary_zh": "本文為使用者針對 Valerion VisionMaster Pro 2 投影機尋找電動地拉張力幕的討論。因歐洲老屋無法進行牆面安裝，需選用 100 至 120 吋的地拉幕。為避免三色雷射常見的散斑與熱點問題，排除了抗光幕，專注尋找消光白布幕，並詢問 Vividstorm 等品牌的實際使用心得與平整度表現。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wayfl2/floorrising_tension_screen_recommendation_for/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "Valerion VisionMaster Pro 2",
+      "電動地拉幕",
+      "張力幕",
+      "雷射散斑",
+      "消光白"
+    ],
+    "mentioned_brands": [
+      "Valerion",
+      "Vividstorm",
+      "NothingProjector",
+      "LeApex"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1125,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vivitek 投影機燈泡指示燈閃爍故障求助",
+    "summary_zh": "使用者在 Reddit 論壇發文求助，指出其購入公寓時附帶的 Vivitek 投影機出現故障。具體症狀為開機後螢幕無畫面、風扇正常運轉，但電源燈與燈泡指示燈交替閃爍，且無法正常關機。發問者懷疑是燈泡壽命已盡需要更換，並詢問購買替換燈泡與確認型號的相關資訊。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1waypzr/vivitek_lamp_light_flashing/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "Vivitek",
+      "投影機故障",
+      "燈泡閃爍",
+      "疑難排解"
+    ],
+    "mentioned_brands": [
+      "Vivitek"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1122,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：PixPaq Gold RAY-MASTERED投影機是否值得入手或有更好選擇",
+    "summary_zh": "一名消費者在Reddit論壇詢問關於PixPaq Gold RAY-MASTERED投影機的實際表現，並與Epson、BenQ、XGIMI及ViewSonic等主流品牌的多款機型進行比較，尋求社群使用者的真實評價與高性價比建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wb1zgg/is_the_pixpaq_gold_raymastered_projector_actually/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "PixPaq Gold RAY-MASTERED",
+      "Epson EF-21",
+      "BenQ GV32",
+      "XGIMI MoGo 3 Pro",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "PixPaq",
+      "Epson",
+      "BenQ",
+      "XGIMI",
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1120,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機故障求助：運作時發出巨響冒煙後無法開機",
+    "summary_zh": "一名用戶在論壇求助，表示其投影機在開啟時發出巨大聲響並伴隨冒煙，隨後更換燈泡與濾網仍無法開機且完全無燈號顯示。推測可能為內部電源供應器損壞，正在尋求下一步的故障排除建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wb4urj/no_luck_any_insight_is_appreciated/",
+    "publish_date": "2026-09-09",
+    "keywords": [
+      "投影機故障",
+      "燈泡更換",
+      "電源供應器",
+      "維修求助"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1158,
+    "source_name": "ProjectorCentral",
+    "title_zh": "Stewart Filmscreen 於 CEDIA 2026 發表第二代 Director's Choice 投影幕",
+    "summary_zh": "Stewart Filmscreen 在 CEDIA Expo 2026 展出獲獎的 Director's Choice Generation 2 投影幕。該產品針對客製化安裝市場進行優化，採用比前代纖薄 56% 的全新設計，提供更卓越的安裝彈性與視覺表現。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/stewart-filmscreen-cedia-2026.htm",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Stewart Filmscreen",
+      "CEDIA 2026",
+      "投影幕",
+      "客製化安裝"
+    ],
+    "mentioned_brands": [
+      "Stewart Filmscreen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1157,
+    "source_name": "ProjectorCentral",
+    "title_zh": "Screen Innovations 於 CEDIA 2026 展示 KAOS 360 投影幕",
+    "summary_zh": "Screen Innovations 在 CEDIA 2026 展會中首次亮相 KAOS 360 背投螢幕。該產品搭載雙面 360 度光學設計與堅固的 Onyx 固定系統，旨在為戶外影音應用帶來全新的視覺體驗與轉變。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/screen-innovation-kaos-360-cedia.htm",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Screen Innovations",
+      "KAOS 360",
+      "CEDIA 2026",
+      "背投螢幕",
+      "戶外AV"
+    ],
+    "mentioned_brands": [
+      "Screen Innovations"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1156,
+    "source_name": "ProjectorCentral",
+    "title_zh": "Kaleidescape 在 CEDIA 2026 展示 Strato K 電影播放器",
+    "summary_zh": "Kaleidescape 於 CEDIA 2026 展會中推出全新的 Strato K 電影播放器，主打支援原生 8K 影片播放功能，為頂級家庭劇院市場帶來突破性的高畫質視聽體驗與產業變革。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/kaleidescape-strato-k-cedia-2026.htm",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Kaleidescape",
+      "Strato K",
+      "CEDIA 2026",
+      "8K播放器",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1155,
+    "source_name": "ProjectorCentral",
+    "title_zh": "JVC於CEDIA展出DLA-NZ900與DLA-NZ800旗艦投影機",
+    "summary_zh": "JVC在CEDIA 2026展會中，重點展示其旗艦級的DLA-NZ900與DLA-NZ800 8K D-ILA投影機，並同步展出CM-Pro吊架等相關周邊設備，吸引眾多視聽愛好者關注，展現其在高階家庭劇院市場的技術實力。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/jvc-cedia-2026-dla-nz900.htm",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "JVC",
+      "DLA-NZ900",
+      "DLA-NZ800",
+      "CEDIA 2026",
+      "8K投影機"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1154,
+    "source_name": "ProjectorCentral",
+    "title_zh": "深入解析 Barco Residential 高階家用投影技術與架構整合策略",
+    "summary_zh": "Barco Residential 在洛杉磯的 ByDesign 活動中，展示了專業影像技術、特製投影平台以及建築空間整合如何完美應用於頂級家庭劇院。該發表凸顯了高階家用投影市場對於影像精準度與空間美學的高度重視，為奢華影音整合提供了解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/barco-residential-approach-to-high-end-projection.htm",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Barco Residential",
+      "高階家用投影",
+      "家庭劇院",
+      "建築整合"
+    ],
+    "mentioned_brands": [
+      "Barco"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1153,
+    "source_name": "ProjectorCentral",
+    "title_zh": "Barco Residential 於 CEDIA 2026 展示 Freya + SST 投影機",
+    "summary_zh": "Barco Residential 在 CEDIA 2026 展會中亮相 Freya + SST 投影機。此款獲獎機型專為頂級家庭劇院設計，主打提供極致的對比度與旗艦級的高階性能表現。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/barco-freya-sst-cedia-2026.htm",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Barco",
+      "CEDIA 2026",
+      "Freya + SST",
+      "家庭劇院",
+      "高階投影機"
+    ],
+    "mentioned_brands": [
+      "Barco",
+      "Barco Residential"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1152,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-E6U北京促銷價42000元",
+    "summary_zh": "近期北京通路針對ROLY RL-E6U投影機推出特惠活動，促銷價為42000元人民幣。該機型主打超高亮度、高效實用與輕巧便攜等產品特色，吸引有商務或工程投影需求的消費者關注與採購。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1245/12450437.html",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "ROLY",
+      "RL-E6U",
+      "投影機行情",
+      "促銷",
+      "高亮度"
+    ],
+    "mentioned_brands": [
+      "ROLY",
+      "偉業投影"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1151,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-AC55LU 北京促銷熱賣",
+    "summary_zh": "索諾克推出 SNP-AC55LU 投影機促銷活動，該產品主打高亮度、支援 U 盤直讀以及無線投屏等便利功能。目前由特定經銷商進行特價促銷，價格採面議方式，吸引有採購需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1245/12450433.html",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "索諾克",
+      "SNP-AC55LU",
+      "投影機",
+      "促銷",
+      "無線投屏"
+    ],
+    "mentioned_brands": [
+      "索諾克"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1150,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基EH6834投影機北京促銷價6800元",
+    "summary_zh": "本篇報導來自中關村線上，介紹明基EH6834投影機在北京地區的通路促銷活動。該款投影機主打豐富色彩、畫面清晰與智能省電等產品特點，目前在指定經銷商處享有優惠價格6800元人民幣，提供有意購買的消費者參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1245/12450430.html",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "明基",
+      "EH6834",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "明基"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1149,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L790U投影機北京促銷價32851元",
+    "summary_zh": "愛普生旗下具備雷射光源與恆定輸出的CB-L790U投影機，近日於北京通路展開特價促銷活動，優惠價格為人民幣32851元。該款機種主打迅速開機與穩定亮度表現，提供有採購需求的消費者一項參考選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1245/12450428.html",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "愛普生",
+      "CB-L790U",
+      "雷射投影機",
+      "通路行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1142,
+    "source_name": "投影時代",
+    "title_zh": "視美樂全新L系列工程投影機發表，主打高畫質與強悍性能",
+    "summary_zh": "視美樂正式推出全新L系列工程投影機，主打極致的光影表現與色彩還原能力。該系列產品針對工程應用場景進行全面升級，展現出強大的硬體實力與穩定性，滿足大型展演與商業應用的專業需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/9/182955362361.shtml",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "視美樂",
+      "L系列",
+      "工程投影機",
+      "新品發布",
+      "雷射光源"
+    ],
+    "mentioned_brands": [
+      "視美樂",
+      "Simmew"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1141,
+    "source_name": "投影時代",
+    "title_zh": "明基發表W4200三色雷射4K投影機，主打全玻璃電動鏡頭與旗艦畫質",
+    "summary_zh": "明基在IFA展期推出全新旗艦家庭影院投影機W4200，捨棄智慧盒子轉向純粹高畫質。採用三色RGB雷射光源提供3200流明亮度，搭載全玻璃電動鏡頭、抗散斑系統及聯發科MT9681晶片，支援杜比視界、HDR10+與IMAX Enhanced認證，預計2027年1月上市，定價約4000歐元。",
+    "category": "新品發布",
+    "importance": 4,
+    "url": "http://www.pjtime.com/2026/9/182311676136.shtml",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "明基",
+      "W4200",
+      "三色雷射",
+      "4K投影機",
+      "杜比視界",
+      "IMAX Enhanced"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "明基",
+      "索尼",
+      "JVC",
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1140,
+    "source_name": "投影時代",
+    "title_zh": "索諾克攜喜馬拉雅與天山系列投影機亮相2026電博會，展現國產激光顯示技術",
+    "summary_zh": "索諾克於2026中國國際消費電子博覽會展出喜馬拉雅與天山系列投影機。喜馬拉雅系列主打AI智慧化功能與長效激光光源，天山系列則聚焦工程應用，具備高解析度、靈活色彩管理與多機融合控制能力，充分展現國產激光顯示技術在智慧聯網與工程可靠性上的最新進展。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/9/182354482996.shtml",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "索諾克",
+      "電博會",
+      "激光顯示",
+      "喜馬拉雅系列",
+      "天山系列",
+      "DLP投影機"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonor"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1137,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "英國預算300英鎊以內投影機選購請益",
+    "summary_zh": "本文為英國消費者在Reddit論壇發起之討論，尋求預算在300英鎊以內的入門投影機。使用情境為全黑臥室、投影距離約2公尺、牆面寬度120公分，需內建喇叭並支援手機或筆電連線，作為觀看電影的替代方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wais03/trying_to_get_a_projector_for_300_or_less/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "入門投影機",
+      "預算型投影機",
+      "消費心得",
+      "選購指南"
+    ],
+    "mentioned_brands": [
+      "JBL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1135,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：即將收到Horizon 20 Pro投影機，預算用盡暫時只能投射在牆上有什麼建議嗎？",
+    "summary_zh": "一位Reddit網友發文求助，表示自己即將收到購入的Horizon 20 Pro投影機，但因預算見底，暫時只能將畫面投射在牆壁上，未來才會添購一百至一百二十吋的固定式銀幕，因此希望社群成員能提供在白牆投影期間的實用建議與注意事項。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wao4xj/aiuto_domani_mi_verrà_consegnato_horizon_20_pro/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "Horizon 20 Pro",
+      "家用投影機",
+      "牆面投影",
+      "投影銀幕"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1130,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Yamaha RX-V4A與極米Horizon Pro透過ARC連接發生短暫音訊中斷問題",
+    "summary_zh": "本文為Reddit論壇使用者的求助貼文，探討極米Horizon Pro投影機透過ARC連接Yamaha RX-V4A擴大機時，出現短暫音訊中斷的故障排除與原因尋找。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wapmss/yamaha_rxv4a_xgimi_horizon_pro_brief_audio/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "極米",
+      "Horizon Pro",
+      "Yamaha",
+      "ARC",
+      "音訊中斷"
+    ],
+    "mentioned_brands": [
+      "Yamaha",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1128,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新科投影機車主分享戶外觀影體驗與美好心得",
+    "summary_zh": "本文為 Reddit 用戶分享初次購入 BenQ TH575 投影機的喜悅。透過結合舊款藍光播放器與書架喇叭，在戶外庭院舉辦電影之夜，成功打造理想的視聽環境。作者並向社群詢問大家的初次觀影經驗，屬於單一消費者的使用心得分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wadxa5/new_projector_owner/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "BenQ TH575",
+      "戶外投影",
+      "家庭劇院",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1123,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機預購價格與後續特惠活動之比較探討",
+    "summary_zh": "本文為消費者在社群論壇上的提問與討論，主要關注投影機新機預購優惠價與後續黑色星期五等大型促銷檔期相比是否更具優勢，並探討預購價的保值性與後續價格變動趨勢，反映出消費者對於投影機零售價格波動的實際購買決策考量。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1waio2v/how_do_projector_preorder_prices_usually_compare/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "預購價格",
+      "特惠活動",
+      "黑色星期五",
+      "零售價格",
+      "消費者討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1116,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "市面上新投影機湧現，何時是最佳購買時機？",
+    "summary_zh": "消費者參觀IFA展會後，發現市場上湧現大量新投影機，並對其中部分系列產生興趣。由於缺乏完整評測，難以單憑上市資訊做出決定，因此在網路上發文詢問大家通常會在新品發表後等待多久才購買。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wag6ei/so_many_new_projectors_coming_out_whens_the_right/",
+    "publish_date": "2026-09-08",
+    "keywords": [
+      "IFA展會",
+      "新品上市",
+      "購買時機",
+      "消費者討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 1013,
     "source_name": "Reddit r/projectors",
     "title_zh": "Xwall投影相關產品討論",
@@ -13841,6 +14433,26 @@
     "mentioned_brands": [
       "當貝",
       "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1148,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L790U 雷射投影機特價促銷展開",
+    "summary_zh": "愛普生旗下具備雷射光源與迅速開機特性的 CB-L790U 工程投影機，目前於北京通路展開特價促銷活動。該機型主打恆定光輸出表現，吸引有採購需求的消費者洽詢面議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1184/11842968.html",
+    "publish_date": "2026-05-20",
+    "keywords": [
+      "愛普生",
+      "CB-L790U",
+      "雷射光源",
+      "投影機促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
     ],
     "link_status": null
   },
