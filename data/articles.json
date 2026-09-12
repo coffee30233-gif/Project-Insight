@@ -1,5 +1,426 @@
 [
   {
+    "id": 1216,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機畫面同步與音訊延遲問題求助",
+    "summary_zh": "一名大學生網友分享其購買的YGSKK平價微型投影機在使用HDMI連接電腦時，遭遇畫面同步與音訊不同步的問題，且內建無線網路功能亦失效。文章同時尋求200美元預算內的非智慧型投影機替代方案，作為宿舍電視的替代品。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdovkb/problems_with_projector_syncing/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "微型投影機",
+      "HDMI連接",
+      "畫面同步",
+      "音訊延遲",
+      "宿舍投影機"
+    ],
+    "mentioned_brands": [
+      "YGSKK"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1215,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找TOPTRO X7投影機相容偏光濾光片的求助討論",
+    "summary_zh": "有用戶在論壇發文求助，尋找適用於TOPTRO X7投影機的相容偏光濾光片。原尺寸約為96x60毫米，但購買號稱相容的替換品後安裝出現色彩反轉問題，詢問其他用戶是否有成功更換的零件型號與購買管道。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdpdx3/has_anyone_found_a_compatible_polarizer_filter/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "TOPTRO X7",
+      "偏光濾光片",
+      "維修",
+      "光學元件"
+    ],
+    "mentioned_brands": [
+      "TOPTRO"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1210,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 Pro 投影機的 PS5 HDR 設定詢問與討論",
+    "summary_zh": "本文為 Reddit 用戶針對極米 Horizon 20 Pro 投影機搭配 PlayStation 5 主機時，在 HDR 顯示設定、HGiG 開啟與否、峰值亮度設定以及與特定遊戲相容性上所遇到的實際操作疑問與調整經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdwlf1/horizon_20_pro_ps5_hdr_settings/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "Horizon 20 Pro",
+      "PS5",
+      "HDR",
+      "HGiG",
+      "DLP"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Sony",
+      "PlayStation"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1209,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Stream to 3D 軟體推出第 6 版更新，支援 3D 投影機即時 2D 轉 3D 內容",
+    "summary_zh": "本文介紹專為 3D 投影機及 VR 設備設計的軟體 Stream to 3D。其第 6 版更新加入 AI 輔助的深度引導轉換與傳統時間序列轉換，可在 Windows PC 上即時將一般 2D 影片、PC 畫面或直播源轉換為立體 3D 格式，並輸出至支援 DLP-Link 或主動式快門的 3D 投影機，解決投影機缺乏 3D 片源的痛點。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdn39q/got_a_3d_projector_stream_to_3d_can_convert_video/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "3D投影機",
+      "2D轉3D",
+      "即時轉換",
+      "AI深度估算",
+      "立體顯示"
+    ],
+    "mentioned_brands": [
+      "NVIDIA",
+      "RTX"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1208,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信PX3 Pro開箱與使用心得分享",
+    "summary_zh": "本文為一般用戶分享海信PX3 Pro超短焦投影機的使用心得。作者對其高亮度、內建喇叭表現以及優秀的畫質給予高度評價，但同時也指出部分進階功能如240Hz遊戲與Xbox認證對他而言並非必要，整體綜合體驗給予九分的高分肯定。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdw6gr/hisense_px3_pro/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "Hisense PX3 Pro",
+      "超短焦投影機",
+      "雷射投影",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Sony",
+      "Xbox"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1237,
+    "source_name": "ProjectorCentral",
+    "title_zh": "AWALL 與極米科技於 CEDIA 2026 宣布結盟推出全新 X-Wall 品牌",
+    "summary_zh": "在 CEDIA 2026 展覽中，AWALL 執行長 Steven Shulman 正式宣布與極米科技展開策略合作，推出專為美國客製化安裝市場打造的高端家庭劇院品牌 XWALL by XGIMI，拓展雙方在北美通路的市場佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/xwall-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "AWALL",
+      "極米科技",
+      "CEDIA 2026",
+      "家用投影機",
+      "客製化安裝"
+    ],
+    "mentioned_brands": [
+      "AWALL",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1236,
+    "source_name": "ProjectorCentral",
+    "title_zh": "極米科技於CEDIA 2026發表AURA 3 Max超短焦投影機",
+    "summary_zh": "極米科技在CEDIA Expo 2026展會上，正式亮相全新旗艦級超短焦投影機AURA 3 Max。該款新機具備4K高畫質與120Hz高更新率，並搭載先進的雙光圈（Dual Iris）技術，進一步提升對比度與影像表現，吸引業界高度關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/xgimi-aura3-max-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "極米",
+      "AURA 3 Max",
+      "超短焦投影機",
+      "4K 120Hz",
+      "CEDIA 2026"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1235,
+    "source_name": "ProjectorCentral",
+    "title_zh": "SIM2 於 CEDIA 2026 推出 See First 概念與 UltraNero 4S DUO 投影機",
+    "summary_zh": "SIM2 在 CEDIA 2026 展會中正式亮相全新的 See First 概念，並推出 UltraNero 4S DUO 高階投影機產品。此次發表延續品牌在家庭劇院市場的高端定位，展示了最新的光學顯示技術與創新的影像處理方案，吸引了業界與影音愛好者的廣泛關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/sim2-ultranero-4s-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "SIM2",
+      "UltraNero 4S DUO",
+      "CEDIA 2026",
+      "家庭劇院",
+      "高階投影機"
+    ],
+    "mentioned_brands": [
+      "SIM2"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1234,
+    "source_name": "ProjectorCentral",
+    "title_zh": "Magnetar 於 CEDIA 2026 推出 ULTIMA 頂級通用媒體播放器",
+    "summary_zh": "Magnetar 在 CEDIA 2026 展覽中正式發表 ULTIMA 頂級通用媒體播放器，主打搭載專屬直流電源級設計，為家庭劇院與高端影音系統提供極致的訊號傳輸與影音表現。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/magnetar-ultima-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "Magnetar",
+      "ULTIMA",
+      "CEDIA 2026",
+      "媒體播放器",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Magnetar"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1233,
+    "source_name": "ProjectorCentral",
+    "title_zh": "madVR 實驗室於 CEDIA 2026 推出 Envy 視訊處理器的 madAssist 支援",
+    "summary_zh": "madVR Labs 在 CEDIA 2026 展會上推出全新的 madAssist 功能，這是一項專為 Envy 視訊處理器設計的專利申請中 AI 技術，能自動分析、解答並直接設定支援的產品，提升家庭劇院影像調校效率。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/madvr-madassist-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "madVR Labs",
+      "madAssist",
+      "Envy",
+      "CEDIA 2026",
+      "視訊處理器",
+      "AI 設定"
+    ],
+    "mentioned_brands": [
+      "madVR"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1232,
+    "source_name": "ProjectorCentral",
+    "title_zh": "愛普生於 CEDIA 2026 展示 Q 系列高亮度家用投影機",
+    "summary_zh": "愛普生在 CEDIA 2026 展會中亮相其最新的 Q 系列高亮度家用投影技術與解決方案。透過專訪影片展示這些高階顯示設備如何為各類空間帶來卓越的影像轉換效果與家庭劇院體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/epson-qseries-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "Epson",
+      "Q-Series",
+      "CEDIA 2026",
+      "高亮度投影機",
+      "家用投影"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1231,
+    "source_name": "ProjectorCentral",
+    "title_zh": "科視在 CEDIA 2026 展出 Korus 系列 4K1000-KS 投影機",
+    "summary_zh": "科視（Christie）於 CEDIA 2026 展會上首次公開亮相 Korus 系列的 4K1000-KS 單DLP投影機。該款新機主打小巧緊湊的外觀設計，並提供五年保固服務，鎖定高階家用與專業視聽市場，展現品牌在投影技術的最新佈局。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/christie-korus-4k1000-ks-cedia-2026-video.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "Christie",
+      "4K1000-KS",
+      "CEDIA 2026",
+      "1DLP",
+      "高階投影機"
+    ],
+    "mentioned_brands": [
+      "Christie"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1230,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "影音遊戲雙料王 優派LX720-4KC Ultra三色雷射投影機評測",
+    "summary_zh": "優派推出全新的LX720-4KC Ultra三色雷射投影機，主打解決家庭大屏觀影與主機PC遊戲的雙重需求。針對傳統投影機在明亮環境下畫質發灰、色彩表現不佳、遊戲延遲高及拖影嚴重等痛點進行升級，為消費者提供兼具影音與遊戲的高性能投影解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1246/12460372.html",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "優派",
+      "三色雷射投影機",
+      "4K投影機",
+      "遊戲投影",
+      "LX720-4KC Ultra"
+    ],
+    "mentioned_brands": [
+      "優派",
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1226,
+    "source_name": "IT之家",
+    "title_zh": "大眼橙推出C5 Pro投影儀：1080P解析度、600CVIA亮度，首發價1099元",
+    "summary_zh": "大眼橙正式發表全新C5 Pro智慧投影儀，具備原生1080P解析度與600CVIA亮度。該產品搭載沙姆全屏清晰技術與雙模組校正系統，結合1GB記憶體與32GB儲存空間，支援WiFi 6，並配備一體化夜燈雲台及10W音響，首發售價為人民幣1099元。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.ithome.com/1/001/460.htm",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "大眼橙",
+      "C5 Pro",
+      "智慧投影儀",
+      "1080P",
+      "600CVIA",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1224,
+    "source_name": "DigiTimes",
+    "title_zh": "ficonTEC 突破 CPO 測試瓶頸，攜手 Hermes Testing",
+    "summary_zh": "ficonTEC 宣佈在共封裝光學（CPO）測試技術上取得重大突破，並與 Hermes Testing 建立合作夥伴關係，旨在解決矽光子與光學元件檢測的產業難題，提升先進封裝的測試效率與良率。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.digitimes.com/news/a20260910PD231/cpo-siph-silicon-testing-equipment.html",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "CPO",
+      "ficonTEC",
+      "Hermes Testing",
+      "矽光子",
+      "光學測試"
+    ],
+    "mentioned_brands": [
+      "ficonTEC",
+      "Hermes Testing"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1221,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "2001年自製投影機歷史照片分享",
+    "summary_zh": "本文為來自 Reddit 論壇的歷史回顧分享，用戶貼出了自己於 2001 年親手組裝投影機的珍貴照片。內容主要展示早期的DIY投影設備外觀與內部結構，屬於玩家個人的懷舊分享，並未涉及當前主流的產業市場數據、全新商業機型發布或深度的上游供應鏈與核心技術動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wd2zed/year_2001_biulding_my_own_projector/",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "DIY投影機",
+      "歷史回顧",
+      "玩家改裝"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1218,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "學校投影機出現綠紅色偏問題的故障排除經驗分享",
+    "summary_zh": "本文探討學校使用的Panasonic投影機在暑假期間出現影像呈現綠紅色彩偏差的問題。經交叉測試線材與訊號源後發現，重設原廠設定即可解決此異常，但內建選單顯示正常，推測為輸入訊號解碼異常所致。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdi4fh/annoying_problem_that_ive_fixed_but_dont_know_the/",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "投影機故障",
+      "色彩偏差",
+      "訊號解碼",
+      "Panasonic"
+    ],
+    "mentioned_brands": [
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1217,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機非藍牙無線音訊連接選項討論",
+    "summary_zh": "有用戶在Reddit討論區發文尋求投影機與遠距離聲霸之間的非藍牙無線音訊連接方案，以避免傳統藍牙傳輸帶來的音質劣化，同時省去佈設實體HDMI線材的麻煩，引發關於無線音訊傳輸技術的交流。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdgo76/nonbt_wireless_audio_connection_options/",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "無線音訊",
+      "藍牙",
+      "聲霸",
+      "連接埠"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1212,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Optoma投影機連接Apple TV與Sonos音響時ARC/eARC失效問題求助",
+    "summary_zh": "本文為Reddit用戶發文求助，內容關於使用奧圖碼投影機搭配Apple TV 4K及Sonos Beam音響時，遇到音訊回傳通道ARC或eARC無法正常運作的問題，屬於常見的消費者設備連接疑難排解討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdg396/arcearc_not_working_optoma_projector_apple_tv_4k/",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "ARC",
+      "eARC",
+      "Optoma",
+      "Apple TV",
+      "Sonos"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Apple",
+      "Sonos"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1207,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：關於 Horizon 20 pro 投影機的布幕選擇",
+    "summary_zh": "有消費者在論壇發文求助，剛入手 Horizon 20 pro 投影機，家中環境為白天自然光少、夜晚光線可控且為白牆，希望能尋求網友推薦合適的100或120吋固定式投影幕，以充分發揮該投影機的畫質潛力。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wdhr7d/horizon_20_pro_aiuto/",
+    "publish_date": "2026-09-11",
+    "keywords": [
+      "投影幕",
+      "家用投影機",
+      "固定式布幕",
+      "畫質優化"
+    ],
+    "mentioned_brands": [
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1198,
     "source_name": "投影時代",
     "title_zh": "科視Christie將於InfoComm India 2026展出先進投影與LED解決方案",
@@ -15557,6 +15978,25 @@
     "link_status": null
   },
   {
+    "id": 1228,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "2026年Q1智能投影銷量下滑，1LCD技術逆勢占超70%份額並加速高端化",
+    "summary_zh": "2026年第一季度中國智能投影市場整體銷量與銷售額雙雙下滑，分別年減21.4%與23.4%。儘管產業處於下行周期，1LCD技術路線卻逆勢成長，銷量占比突破70%並持續穩固其市場主導地位。",
+    "category": "市場數據",
+    "importance": 4,
+    "url": "https://projector.zol.com.cn/1172/11723939.html",
+    "publish_date": "2026-04-27",
+    "keywords": [
+      "智能投影",
+      "銷量數據",
+      "1LCD",
+      "市場份額",
+      "中國市場"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 1202,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CH-CB-805F 特價促銷歡迎來電諮詢",
@@ -16573,6 +17013,27 @@
     "mentioned_brands": [
       "BenQ",
       "明基"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1227,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BW410C 投影機北京促銷價 12500 元",
+    "summary_zh": "松下旗下型號 PT-BW410C 投影機於北京通路展開特價促銷活動，優惠售價為人民幣 12500 元。相關經銷商提供實體店面諮詢服務，適合有採購商用或特定顯示設備需求的消費者前往洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1153/11531826.html",
+    "publish_date": "2026-03-23",
+    "keywords": [
+      "松下",
+      "PT-BW410C",
+      "投影機行情",
+      "促銷優惠"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
     ],
     "link_status": null
   },
