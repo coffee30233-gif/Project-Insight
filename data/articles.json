@@ -1,5 +1,185 @@
 [
   {
+    "id": 1242,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "小型公寓投影機選購建議詢問",
+    "summary_zh": "一名剛搬進小公寓的使用者在社群平台發文尋求投影機選購建議。其主要需求包含預算有限、投影距離約八英尺、牆面寬度約五英尺，並計畫連接Roku與遊戲機進行日常娛樂。此討論反映出一般消費市場對平價且適合小空間使用的家用投影機之實際需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1weouec/projector_recommendations_for_small_apartment/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "小型公寓",
+      "家用投影機",
+      "選購建議",
+      "消費端"
+    ],
+    "mentioned_brands": [
+      "Roku"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1238,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機能否垂直向上搭配鏡片進行背投？",
+    "summary_zh": "本文為使用者在網路論壇詢問，關於將超短焦投影機垂直向上擺放，並透過四十五度鏡面反射將影像投射到背投螢幕的可行性。內容探討空間配置、鏡面反射機制以及預算等硬體設置相關問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wepxk2/is_it_possible_to_use_an_ultrashortthrow/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "超短焦投影機",
+      "背投螢幕",
+      "鏡面反射",
+      "安裝配置"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1252,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "峰米 S5 投影機使用 Twitch 應用程式遭遇低解析度問題的求助",
+    "summary_zh": "有用戶在 Reddit 論壇上發文求助，指出其新購入的峰米 S5 投影機在使用特定第三方介面與 Twitch 應用程式時，即使手動選擇高畫質，影片解析度仍舊維持在最低畫質，尋求其他社群成員提供解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1we6rse/twitch_on_low_resolution_only_on_my_formovie_s5/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "峰米S5",
+      "Twitch",
+      "投影機故障",
+      "解析度"
+    ],
+    "mentioned_brands": [
+      "Formovie",
+      "峰米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1251,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算有限的入門投影機選購請益與二手機種評估",
+    "summary_zh": "本文為 Reddit 用戶發起之討論，尋求預算低於兩百美元的高畫質投影機。文中探討了二手 Wimius W1 LED 與 Andersson PDX F2550 等平價機型，並提及在小型公寓與暗室環境中的投影需求與實際可行性，反映出入門消費者的選購痛點。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wefir7/projector_for_a_cheap_bitch_250_dollarydoos/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "平價投影機",
+      "二手投影機",
+      "Wimius W1",
+      "Andersson PDX F2550",
+      "入門投影機"
+    ],
+    "mentioned_brands": [
+      "Wimius",
+      "Andersson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1249,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 英國投影幕推薦討論",
+    "summary_zh": "本文為 Reddit 用戶在投影機板上發起的一則討論，主要針對極米特定投影機型號在英國市場尋求適合的投影幕搭配建議。內容僅為一般用戶間的產品配件諮詢，並未涉及深入的產業動態或重大技術突破。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1weaaqa/xgmimi_titan_noir_max_screen_recommendation_uk/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "投影幕",
+      "配件推薦",
+      "用戶討論"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1248,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "一般投影機是否適合搭配拉線幕？",
+    "summary_zh": "本文為論壇用戶針對一般投影機是否能從拉線幕（Tab-tensioned screen）獲得實際效益的提問，探討布幕平整度對投影畫質的影響與設備相容性問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1webc1q/tab_tention/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "投影幕",
+      "拉線幕",
+      "布幕平整度"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1247,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "1.43:1 IMAX 投影效果討論",
+    "summary_zh": "有用戶分享使用 X3AQ 1080p 原生投影機進行 1.43:1 IMAX 格式投影的實際體驗，並探討透過加裝廣角鏡頭來消除畫面兩側黑邊、完美填滿牆面的升級可能性，屬於個人使用心得交流。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1we1riq/1431_imax_projection/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "IMAX投影",
+      "1.43:1",
+      "X3AQ",
+      "原生1080p",
+      "廣角鏡頭"
+    ],
+    "mentioned_brands": [
+      "X3AQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1246,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TK710 與極米 Horizon 20 價格與規格比較討論",
+    "summary_zh": "本文為論壇用戶針對BenQ TK710與極米Horizon 20兩款投影機的價格與規格進行的討論。使用者主要考量在暗室觀賞電影與電視，並兼顧半明亮環境下觀賞體育賽事的表現，同時比較了兩者在亮度和雷射散斑上的差異。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1webxgl/benq_tk710_vs_xgimi_horizon_20_pricing/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "BenQ TK710",
+      "XGIMI Horizon 20",
+      "家用投影機",
+      "價格比較"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1239,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "老牌投影機分享：預算有限者的優質選擇",
+    "summary_zh": "本文為使用者分享其繼續使用 Epson 5040ub 舊款燈泡投影機的心得。儘管未升級新機，但其色彩表現與畫質仍相當出色，作者認為預算有限的消費者選擇知名品牌的舊款機種依然是不錯的方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1we44ma/good_old_projector/",
+    "publish_date": "2026-09-12",
+    "keywords": [
+      "燈泡投影機",
+      "Epson 5040ub",
+      "JVC",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1216,
     "source_name": "Reddit r/projectors",
     "title_zh": "投影機畫面同步與音訊延遲問題求助",
@@ -14855,6 +15035,28 @@
     "link_status": null
   },
   {
+    "id": 1258,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-FH54投影機北京促銷價6850元",
+    "summary_zh": "知名投影機品牌愛普生旗下型號CB-FH54近日在北京通路展開特價促銷，優惠售價為人民幣6850元。該款投影機採用3LCD顯示技術，具備4100 ISO流明亮度以及0.62吋大尺寸顯示晶片，提供消費者具性價比的採購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1200/12004781.html",
+    "publish_date": "2026-06-17",
+    "keywords": [
+      "愛普生",
+      "CB-FH54",
+      "3LCD",
+      "投影機行情",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1096,
     "source_name": "Epson官方",
     "title_zh": "愛普生推出全新三萬流明4K高亮度工程投影機 專為沈浸式大型環境打造",
@@ -14957,6 +15159,27 @@
     "mentioned_brands": [
       "Sony",
       "索尼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1257,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 4K 激光投影機 UHZ616 高性價比促銷",
+    "summary_zh": "奧圖碼推出 4K 激光投影機 UHZ616，主打震撼聽覺與色彩優化技術，強調畫面層次分明。目前通路市場正進行特價促銷活動，優惠價為 9699 元人民幣，吸引重視性價比的消費者目光。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1199/11996226.html",
+    "publish_date": "2026-06-15",
+    "keywords": [
+      "4K投影機",
+      "激光投影",
+      "奧圖碼",
+      "UHZ616",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
     ],
     "link_status": null
   },
@@ -15169,6 +15392,27 @@
     ],
     "mentioned_brands": [
       "飛利浦"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1256,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-LC55LU 北京促銷價 522,220 元",
+    "summary_zh": "本文報導索諾克品牌旗下型號 SNP-LC55LU 投影機在北京地區的通路促銷活動。經銷商針對該款高階投影設備推出特價優惠，提供有採購需求的企業或專業用戶前往實體據點洽詢與選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1191/11913572.html",
+    "publish_date": "2026-06-01",
+    "keywords": [
+      "索諾克",
+      "SNP-LC55LU",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "偉業投影"
     ],
     "link_status": null
   },
@@ -16480,6 +16724,28 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1255,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-XZ401C 高清投影機特價促銷，商教市場優選",
+    "summary_zh": "松下推出 PT-XZ401C 教育長焦系列投影機，主打高亮表現與靈活安裝特性，能提供清晰穩定的投影畫質，滿足商務及教育場域的需求。目前通路商正進行特價促銷活動，為採購高畫質投影設備提供具性價比的選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1165/11655940.html",
+    "publish_date": "2026-04-17",
+    "keywords": [
+      "松下",
+      "PT-XZ401C",
+      "商教投影機",
+      "長焦投影",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
     ],
     "link_status": null
   },
