@@ -1,5 +1,204 @@
 [
   {
+    "id": 1266,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從籃球框上方投射半場地面的投影機選購諮詢",
+    "summary_zh": "有使用者在論壇尋求推薦能從籃球架或籃板上方將半場球場畫面投射至地面的投影機，所需投射尺寸高達47乘50英尺，且一般平價機型無法滿足此超大尺寸需求，引發關於戶外大型場地投影應用的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfdpjm/project_a_basketball_court_on_the_ground_from_the/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "投影機推薦",
+      "大型投影",
+      "戶外投影",
+      "球場投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1264,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "高價Panasonic投影機是否可搭配Zorsika鏡頭？",
+    "summary_zh": "這是一則來自Reddit討論區的發文，使用者詢問高價位的Panasonic投影機是否能夠相容並使用Zorsika鏡頭。由於原文僅有標題與短網址，缺乏實際的技術討論或測試內容，僅反映特定用戶在鏡頭配件搭配上的疑問。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfh7ax/zorsika_lenses_on_20k_panasonic_projector/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Panasonic",
+      "Zorsika",
+      "投影機鏡頭",
+      "配件相容性"
+    ],
+    "mentioned_brands": [
+      "Panasonic",
+      "Zorsika"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1263,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion Pro 投影機播放 Plex HDR 內容時色彩與細節表現異常問題探討",
+    "summary_zh": "有用戶反映使用 Valerion Pro 投影機透過內建 Plex App 播放 4K HDR10 檔案時，畫面出現色彩黯淡、缺乏層次以及帶有藍色調的問題，與電腦螢幕的鮮豔畫質落差極大。討論聚焦於 Android TV 播放器的色域對應或解碼異常，尋求相關設定調整與解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfk74n/color_and_details_issue_with_vlerion_pro_plex/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Valerion Pro",
+      "Plex",
+      "HDR10",
+      "色彩表現",
+      "Android TV"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1259,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "135吋投影幕與較低視線高度：巨大的沉浸感是否值得輕微的向上視角？",
+    "summary_zh": "本文探討家庭劇院中大尺寸投影幕的安裝配置問題，使用者在追求135吋巨幅畫面帶來的沉浸感時，是否需要妥協於略微偏高的視角，引發關於視聽舒適度與畫面尺寸平衡的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfk5p1/135_screen_vs_lower_eye_level_is_the_massive/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "投影幕",
+      "家庭劇院",
+      "視角",
+      "沉浸感",
+      "大尺寸"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1275,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Pro 促銷價：現在打八五折還是等黑色星期五？",
+    "summary_zh": "本篇為 Reddit 論壇使用者的討論文，探討極米特定投影機型號目前的 15% 折扣是否為最佳入手時機，並詢問是否應等待後續黑色星期五檔期以獲得更大優惠，內容偏向消費者個人購物抉擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wet15g/xgimi_titan_noir_pro_sale_price_15_off_now_or/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "促銷",
+      "價格",
+      "折扣",
+      "黑色星期五"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1274,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極光 Horizon 20 Pro 投影機邊緣陰影調整問題",
+    "summary_zh": "有使用者在論壇發文求助，表示在使用極光特定型號投影機時，畫面兩側出現了無法消除的陰影問題，詢問其他網友關於畫面調整與校正的解決方法。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wf11l7/horizon_20_pro/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "投影機",
+      "畫面調整",
+      "陰影問題",
+      "使用者求助"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1272,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手愛普生3800投影機是否值得購買之諮詢",
+    "summary_zh": "有消費者在網路二手平台發現一台標價350美元的Epson 3800投影機，賣方表示功能正常但需要更換燈泡以恢復亮度。該買家在論壇發文詢問其他用戶，探討此價格與需更換燈泡的狀況是否值得前往查看並購買。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wf5pg4/is_it_worth_buying/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "Epson",
+      "二手投影機",
+      "燈泡更換",
+      "市場交易"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1271,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "短焦投影機購買建議與臥室空間距離詢問",
+    "summary_zh": "有消費者在網路論壇尋求臥室投影機購買建議，考量房間投射距離僅約220公分，希望能投射出75吋螢幕畫面，並提及部分型號因空間限制無法達到理想尺寸，反映出小空間用戶對短焦投影機的實際需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wezy34/buying_advice_short_throw_distance/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "短焦投影機",
+      "購買建議",
+      "投射距離",
+      "臥室劇院"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1267,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生投影機鏡頭型號辨識求助",
+    "summary_zh": "有網友在論壇上尋求協助，表示自己整理十年前安防工程的備品時，發現一顆裝在ELPLL06包裝盒內的愛普生投影機鏡頭。由於鏡頭本體無型號僅有序號與條碼，且序號查詢未果，懷疑內部裝錯鏡頭，希望尋找方法辨識其真實型號避免浪費。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wf5d4l/epson_lens_elpll06/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "EPSON",
+      "投影機鏡頭",
+      "備品",
+      "型號辨識"
+    ],
+    "mentioned_brands": [
+      "EPSON"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1265,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 是否值得購買之消費者討論",
+    "summary_zh": "本文為消費者在社群論壇上針對極米 Horizon 20 投影機的選購諮詢。內容探討了 DIY 家庭劇院的空間規劃、投影距離、畫面尺寸、鏡頭位移功能，以及支援 3D 播放等實際使用需求，尋求其他用戶的評價與潛在問題回饋。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wf6d0o/xgimi_horizon_20_to_buy_or_not_to_buy/",
+    "publish_date": "2026-09-13",
+    "keywords": [
+      "極米",
+      "Horizon 20",
+      "家用投影機",
+      "家庭劇院",
+      "鏡頭位移"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1242,
     "source_name": "Reddit r/projectors",
     "title_zh": "小型公寓投影機選購建議詢問",
@@ -16531,6 +16730,27 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1277,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2265U投影機商用辦公促銷，高畫質便捷更適配",
+    "summary_zh": "愛普生推出CB-2265U商用投影機，主打商用辦公與中小型展示場景，具備高畫質與便捷特性，能有效滿足企業日常開會與簡報需求。目前通路商正展開特價促銷活動，為企業用戶提供具性價比的辦公顯示設備選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1166/11663673.html",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "愛普生",
+      "CB-2265U",
+      "商用投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
     ],
     "link_status": null
   },
