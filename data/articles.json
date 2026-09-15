@@ -1,5 +1,248 @@
 [
   {
+    "id": 1299,
+    "source_name": "DigiTimes",
+    "title_zh": "矽光子轉移光學模組瓶頸至上游：從元件製造轉向雷射級基板供應",
+    "summary_zh": "隨著矽光子技術發展，光學模組的生產瓶頸已從下游的元件製造端，向上游轉移至雷射級基板的供應。這項產業鏈結構的轉變，突顯了上游原材料與基板技術在光通訊與相關顯示光學應用中的關鍵地位與潛在挑戰。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.digitimes.com/news/a20260914PD232/market-siph-substrate-inp-manufacturing.html",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "矽光子",
+      "光學模組",
+      "基板供應",
+      "供應鏈"
+    ],
+    "mentioned_brands": [
+      "FormFactor"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1282,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找預算150美元內且支援天花板投影的彈性投影機",
+    "summary_zh": "本文為Reddit論壇上的消費者詢問文，使用者正在尋找一款價格在150美元以內、具備高度彈性且能直接投射至天花板的投影機，作為送給親戚的生日禮物，不希望額外購買支架等配件。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wggtrf/what_is_a_good_projector_thats_i_flexible_so_that/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "天花板投影",
+      "低預算投影機",
+      "可攜式投影機",
+      "消費心得"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1309,
+    "source_name": "ProjectorCentral",
+    "title_zh": "深入 CEDIA Expo 2026：觀看投影產業領袖專訪影片",
+    "summary_zh": "本篇報導來自 CEDIA Expo 2026 展會現場，透過專訪影片深入探討最新的前沿投影機產品與投影幕技術。業界領袖與專家齊聚一堂，展示家用與高階投影顯示領域的最新發展趨勢與創新成果。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorcentral.com/cedia-2026-projector-videos.htm",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "CEDIA Expo",
+      "投影機",
+      "投影幕",
+      "產業領袖",
+      "專訪"
+    ],
+    "mentioned_brands": [
+      "ProjectorCentral"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1305,
+    "source_name": "AV Network",
+    "title_zh": "2026年影音資訊科技趨勢：Barco ClickShare",
+    "summary_zh": "本文作者Cindy Davis探討2026年影音與資訊科技產業的發展現況，聚焦於現代職場與高等教育校園的體驗式精神，並深入分析人工智慧在未來工作場所中所扮演的角色及相關技術驅動因素。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.avnetwork.com/business/expert-opinions/the-state-of-av-it-2026-barco-clickshare",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "AV/IT",
+      "Barco ClickShare",
+      "人工智慧",
+      "影音科技"
+    ],
+    "mentioned_brands": [
+      "Barco"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1304,
+    "source_name": "IT之家",
+    "title_zh": "当贝 X9 Max 投影仪亮相：支援 4800 CVIA 亮度、米家互联，9 月 16 日开售",
+    "summary_zh": "当贝近日正式亮相全新 X9 Max 投影仪，主打 4800 CVIA 亮度及 80000:1 动态对比度。硬体規格搭載 QuaLas42 激光器与 MT9681 晶片，支援四向無損光學鏡頭位移、VRR 可变刷新率，並可深度联动米家生态与小爱同学，展現出色的高階智慧投影機規格。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.ithome.com/1/002/313.htm",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "当贝",
+      "X9 Max",
+      "投影仪",
+      "CVIA亮度",
+      "激光投影",
+      "米家互联"
+    ],
+    "mentioned_brands": [
+      "当贝",
+      "米家",
+      "小爱同学"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1298,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手購買紅米投影機求助：如何解除地區限制並安裝Google Play",
+    "summary_zh": "一名中國大陸的消費者新購買了紅米投影機Pro 4，但在安裝Google Play商店以及觀看Netflix和YouTube等串流影音時遇到困難，疑似遭遇地區鎖定問題，因此在網路論壇上發文尋求解決方案與操作指導。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfv7cd/im_totally_new_in_this_world_and_lost_i_bought_one/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "紅米",
+      "投影機",
+      "Google Play",
+      "地區限制"
+    ],
+    "mentioned_brands": [
+      "Redmi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1297,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Q系列投影機討論",
+    "summary_zh": "本文為Reddit論壇上關於Q系列投影機的簡短討論串，僅包含發文者帳號與轉貼連結，並未提供任何具體的產品規格、市場數據、技術細節或品牌動態等實質產業資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfrche/q_series/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Q系列",
+      "Reddit",
+      "投影機討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1291,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於Q系列DWU1052投影機的規格詢問與討論",
+    "summary_zh": "有消費者在論壇詢問關於Q系列DWU1052 PRO-UHD雷射智慧投影機的相關資訊，該機型具備超過7000 ANSI流明與4K解析度，發問者認為其規格適合用於高爾夫模擬器，但仍在評估其實際表現與購買價值。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfypxc/q_series/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Q Series",
+      "DWU1052",
+      "雷射投影機",
+      "4K投影機",
+      "高爾夫模擬器"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1286,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Leica Cine Compact投影機評價與購買諮詢",
+    "summary_zh": "義大利消費者在Reddit論壇發文詢問Leica Cine Compact 1投影機的實際表現與購買價值。使用者因青睞徠卡光學在色彩與立體感上的表現，正在尋找兼具高畫質與便攜性的高階投影設備，並探討市場上是否有性價比更高的高階替代選項。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wg71lr/leica_cine_compact/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Leica Cine Compact",
+      "便攜投影機",
+      "高畫質光學",
+      "消費心得"
+    ],
+    "mentioned_brands": [
+      "Leica"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1284,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson Home Cinema 2150 與 Panasonic PT-AE4000 二手投影機選購比較",
+    "summary_zh": "本文為 Reddit 用戶針對二手市場上 Epson Home Cinema 2150 與 Panasonic PT-AE4000 兩款投影機的規格與價格進行詢問與討論，尋求社群網友的購買建議，屬於單一消費者的使用心得與選購諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wfxgyv/epson_home_cinema_2150_vs_panasonic_ptae4000/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Epson",
+      "Panasonic",
+      "二手投影機",
+      "Home Cinema 2150",
+      "PT-AE4000"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1281,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "初學者尋求超短焦投影機與梯形校正建議",
+    "summary_zh": "本文為初學者在Reddit論壇上尋求關於超短焦投影機的安裝建議，特別探討了極米特定機型以及在實際使用中，如何透過精確的物理擺放位置來避免使用梯形校正，以確保投影畫面的完美對齊與最佳畫質表現。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wg6tiz/ust_advice/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "梯形校正",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1280,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 投影機色彩帶與防彩虹效應功能討論",
+    "summary_zh": "有消費者購買極米 Titan Noir Max 投影機後，發現觀看白牆場景時出現嚴重的綠色與紫色色彩帶問題，尤其在開啟防彩虹效應（Anti-RBE）及縮小光圈時特別明顯，引發關於 DLP 投影機畫質表現與設定的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wg27ei/titan_noir_max_color_banding_with_antirbe/",
+    "publish_date": "2026-09-14",
+    "keywords": [
+      "Titan Noir Max",
+      "色彩帶",
+      "防彩虹效應",
+      "DLP投影機",
+      "光圈"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1266,
     "source_name": "Reddit r/projectors",
     "title_zh": "從籃球框上方投射半場地面的投影機選購諮詢",
@@ -15513,6 +15756,28 @@
     "link_status": null
   },
   {
+    "id": 1308,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 R3 Ultra 雲台自由投影 解鎖無邊界居家新觀影方式",
+    "summary_zh": "大眼橙推出 R3 Ultra 投影機，創新融合雲台結構與投影技術，打破傳統投影機的固定角度限制，為主打居家觀影體驗的新型態智慧投影設備，目前通路正在進行特價促銷活動。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1192/11928393.html",
+    "publish_date": "2026-06-05",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra",
+      "雲台投影機",
+      "新品促銷",
+      "智慧投影"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "中關村線上"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1012,
     "source_name": "ZOL投影機頻道",
     "title_zh": "2026護眼顯示推薦產品：堅果N5S Ultra Max",
@@ -15972,6 +16237,26 @@
     "mentioned_brands": [
       "Epson",
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1307,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "高性價比之選：大眼橙 C3 Air 臥室投影機特價促銷",
+    "summary_zh": "知名投影機品牌大眼橙推出 C3 Air 臥室專用機型，主打夜燈雲台與極速穩定等特色功能。目前經銷商正進行限時特價促銷活動，優惠售價為 829 人民幣，鎖定追求高性價比的居家影音消費者市場。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1180/11800794.html",
+    "publish_date": "2026-05-12",
+    "keywords": [
+      "大眼橙",
+      "C3 Air",
+      "臥室投影機",
+      "投影機促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
     ],
     "link_status": null
   },
@@ -17330,6 +17615,27 @@
       "促銷行情"
     ],
     "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1306,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-PU1008W投影機特價促銷中",
+    "summary_zh": "愛普生旗下型號CB-PU1008W投影機近日於北京經銷商處展開特價促銷活動，採價格面議方式銷售。該機型具備一定市場熱度，適合有大畫面投影需求的商務或工程用戶前往實體店面洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1153/11538516.html",
+    "publish_date": "2026-03-25",
+    "keywords": [
+      "愛普生",
+      "CB-PU1008W",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
       "Epson"
     ],
     "link_status": null
