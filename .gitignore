@@ -1,6 +1,8 @@
 # API Key
 .env
 .env.*
+# 範本檔不含機密值，要進 git（給遷移到新機器時用，見 MIGRATION.md）
+!.env.example
 
 # Python
 __pycache__/
