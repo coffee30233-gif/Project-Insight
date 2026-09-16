@@ -1,5 +1,315 @@
 [
   {
+    "id": 1340,
+    "source_name": "ProjectorReviews",
+    "title_zh": "soundcore Nebula 推出 X1S 智慧投影機",
+    "summary_zh": "soundcore Nebula 發表全新 X1S 智慧投影機，搭載 4K 解析度與 6000 流明 RGB 雷射光源。具備 25 度電動雲台、Google TV 系統、SpaceFlow AI 空間對位技術及無線衛星喇叭，建議售價為 2499 美元起。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.projectorreviews.com/soundcore-nebula-introduces-the-x1s-lifestyle-projector/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "soundcore Nebula",
+      "X1S",
+      "4K投影機",
+      "RGB雷射",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "soundcore",
+      "Nebula",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1321,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson EH-LS800W 與 Hisense PL2 規格表現比較",
+    "summary_zh": "有用戶在社群平台發文詢問 Epson EH-LS800W 與 Hisense PL2 兩款超短焦投影機的比較。該用戶主要需求包含低遊戲延遲、具備抗環境光能力與低運作噪音，並在文中初步分析兩者在亮室表現與價格上的差異，尋求其他使用者的實際經驗與選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh7eb4/epson_ehls800w_vs_hisense_pl2/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "Epson EH-LS800W",
+      "Hisense PL2",
+      "超短焦投影機",
+      "遊戲延遲",
+      "抗環境光"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1320,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "高爾夫模擬器場館尋求相容連接埠的備用投影機建議",
+    "summary_zh": "經營高爾夫模擬器場館的用戶發文詢問，由於場內使用的BenQ高階雷射投影機送修期間導致場地閒置，希望能尋找一款具備相似連接埠規格且價格較親民的備用機型，以便進行隨插即用的替換，維持場館營運。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh7zcz/backup_projector_with_similar_ports/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "BenQ",
+      "高爾夫模擬器",
+      "備用投影機",
+      "連接埠"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1315,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "這台投影機能原生播放 24p 內容嗎？",
+    "summary_zh": "有消費者在論壇詢問投影機是否能原生支援 24p 電影內容播放，以避免 3:2 下拉轉換帶來的影響，並以奧圖碼特定型號為例探討其規格真實性，同時尋求預算內具備原生 24p 播放能力的投影機推薦。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh73am/does_this_projector_play_24p_content_natively/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "24p",
+      "原生播放",
+      "規格",
+      "奧圖碼"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1312,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion投影機電影觀賞最佳畫質設定討論",
+    "summary_zh": "本篇為Reddit論壇用戶發文，尋求關於Valerion Pro投影機在夜間觀賞電影時的最佳畫質設定建議，包含圖像模式、雷射亮度與色彩調校等相關討論與經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh56y1/valerion_what_are_your_optimal_picture_settings/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "Valerion Pro",
+      "畫質設定",
+      "雷射亮度",
+      "色彩調校"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1311,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找超短焦投影機抗光幕推薦",
+    "summary_zh": "有用戶在論壇上發文，表示自己擁有一台LG超短焦投影機，目前正在尋找適合搭配的100吋固定式菲涅爾抗光幕，並向社群徵求相關產品的推薦與使用建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1whe12r/looking_for_a_ust_projector_screen_recommendation/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "超短焦投影機",
+      "抗光幕",
+      "菲涅爾",
+      "投影幕"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1310,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson TW9400 對決 BenQ TK710 投影機選購討論",
+    "summary_zh": "本文為 Reddit 用戶在規劃專屬家庭劇院時，針對預算約兩千美元的 Epson TW9400 與 BenQ TK710 兩款熱門家用投影機進行效能比較與選購請益，探討重點包含黑階表現、色彩鮮豔度及整體畫質。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1whdiij/epson_tw9400_vs_benq_tk710/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "Epson TW9400",
+      "BenQ TK710",
+      "家庭劇院",
+      "投影機比較"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1336,
+    "source_name": "AV Network",
+    "title_zh": "2026年影音資訊產業現狀：Panasonic投影機與顯示器美洲區專訪",
+    "summary_zh": "本文為資深媒體人對影音資訊產業發展的深入探討，聚焦於現代工作場所與高等教育校園的體驗式設計趨勢，並探討人工智慧在相關領域扮演的角色，提供產業決策者的關鍵洞察與前瞻性分析。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.avnetwork.com/business/expert-opinions/the-state-of-av-it-2026-panasonic-projector-and-display-americas",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "AV/IT",
+      "Panasonic",
+      "顯示器",
+      "人工智慧",
+      "智慧校園"
+    ],
+    "mentioned_brands": [
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1328,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度市場兩萬盧比以下家用投影機選購諮詢",
+    "summary_zh": "本文為消費者在Reddit論壇尋求預算兩萬印度盧比以內的家用投影機推薦，主要用途為觀看電影與串流影音，並同時關注售後服務品質。這類討論反映出新興市場對高性價比入門級娛樂投影機的實際需求與選購考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wgsa9t/want_to_buy_a_projector_india_under_20000_inr/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "家用投影機",
+      "印度市場",
+      "入門機種",
+      "串流影音"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1327,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "加拿大溫哥華地區9呎臥室尋找預算300加幣二手1080p投影機求助",
+    "summary_zh": "本文為一般消費者在Reddit論壇發文，尋求在預算300加幣內購買用於臥室觀看電影的二手1080p投影機。文中詳細列出九呎縱深房間的投影距離、75至80吋畫面尺寸需求，並探討BenQ等知名品牌二手機種的性價比與可行性。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wgt5sq/used_1080p_projector_for_a_9ft_bedroom_in/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "二手投影機",
+      "1080p",
+      "家用投影機",
+      "BenQ"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Epson",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1326,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Veho Quda Titan Pro投影機評價詢問",
+    "summary_zh": "國外論壇用戶發文詢問關於售價約五百英鎊的Veho Quda Titan Pro投影機評價。由於網路上相關資訊稀少，發文者希望能尋求有實際使用經驗的網友提供建議，以評估是否值得購買該款特價產品。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wgva21/veho_quda_titan_pro_any_good/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "Veho",
+      "Quda Titan Pro",
+      "投影機評價",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Veho"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1324,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於使用XY Soundmax 4K編織投影幕且無黑色背板的效能探討",
+    "summary_zh": "有用戶在討論區發文，分享其使用極米投影機搭配抗噪點螢幕的經驗。由於客廳環境無法進行完善的遮光且無暗色背景，使用者針對採用XY Soundmax 4K編織幕在無黑色背板情況下的反射與漏光問題提出疑問，並尋求替代解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wgw1d5/xy_soundmax_4k_screen_without_black_backing/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "投影幕",
+      "編織幕",
+      "XY Soundmax 4K",
+      "抗噪點"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Wupro",
+      "XY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1323,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Optoma UHD50 投影機燈泡更換與副廠燈泡閃爍問題求助",
+    "summary_zh": "一名 Optoma UHD50 用戶在網購平台購買副廠替換燈泡後，使用一個月便出現畫面色彩閃爍的問題。由於原廠網站的付款方式疑慮，該用戶正尋求其他可靠的合法授權管道以購買 BL-FP240E 原廠燈泡零件。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh0t0t/replacement_lamp/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "Optoma",
+      "UHD50",
+      "燈泡更換",
+      "副廠燈泡",
+      "OEM零件"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1322,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horlat T10 Ultra 投影機值得購買嗎？使用者發文求助",
+    "summary_zh": "一名印尼消費者在網路上詢問關於Horlat T10 Ultra投影機的評價。該產品標榜高亮度與多項規格，但使用者對其真實亮度和色彩表現抱持懷疑，並擔憂其為白牌貼牌產品，因此在論壇上尋求實際使用經驗與真實流明測試數據。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh3so8/horlat_t10_ultra_buy_or_not/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "Horlat T10 Ultra",
+      "投影機評價",
+      "ANSI亮度",
+      "白牌投影機"
+    ],
+    "mentioned_brands": [
+      "Horlat"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1318,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horlat T10 Ultra投影機值得購買嗎？使用者發文尋求真實評價與亮度測試",
+    "summary_zh": "一名印尼消費者在網路上詢問關於Horlat T10 Ultra投影機的購買建議。該產品標榜具備3000 ANSI流明亮度，售價約250美元。發文者對其規格真實性抱持懷疑，並想了解實際的色彩表現與亮度數據，探究其是否為貼牌的白牌中國投影機。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wh3xvt/horlat_t10_ultra_buy_or_not/",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "Horlat T10 Ultra",
+      "投影機",
+      "ANSI流明",
+      "白牌投影機"
+    ],
+    "mentioned_brands": [
+      "Horlat"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1299,
     "source_name": "DigiTimes",
     "title_zh": "矽光子轉移光學模組瓶頸至上游：從元件製造轉向雷射級基板供應",
@@ -15648,6 +15958,27 @@
     "link_status": null
   },
   {
+    "id": 1339,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基EH6834投影機北京促銷價6800元",
+    "summary_zh": "通路市場最新行情顯示，明基EH6834投影機在北京經銷商處展開特價促銷活動，優惠售價為人民幣6800元。該機型主打豐富色彩、清晰畫面及智能省電功能，吸引消費者目光，為近期有意入手智慧投影機的買家提供一項划算的選購參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1197/11976670.html",
+    "publish_date": "2026-06-13",
+    "keywords": [
+      "明基",
+      "EH6834",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
     "id": 943,
     "source_name": "ZOL投影機頻道",
     "title_zh": "明基 MH560 投影機北京促銷價 5200 元",
@@ -16558,6 +16889,27 @@
     "link_status": null
   },
   {
+    "id": 1338,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-XW401C 商教投影機限時特惠促銷",
+    "summary_zh": "松下 PT-XW401C 高亮度商教投影機於北京通路展開限時特價促銷活動，核心經銷商祭出優惠價格吸引買氣，提供有辦公與教學需求的消費者高性價比的採購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1176/11766026.html",
+    "publish_date": "2026-05-06",
+    "keywords": [
+      "松下",
+      "PT-XW401C",
+      "商教投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
     "id": 807,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下 PT-UW391C 寬螢幕高亮投影機 辦公教學特價促銷",
@@ -17015,6 +17367,27 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1337,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麗訊 DU5053Z 商用激光投影機促銷特價33680元",
+    "summary_zh": "通路商針對麗訊DU5053Z商用雷射投影機推出特價優惠活動，售價為33680元。該機型主打0.67吋DMD晶片、高亮度及便於安裝等產品特點，主要鎖定商用投影市場的採購需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1169/11692582.html",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "麗訊",
+      "DU5053Z",
+      "雷射投影機",
+      "商用投影機",
+      "0.67DMD"
+    ],
+    "mentioned_brands": [
+      "麗訊"
     ],
     "link_status": null
   },
