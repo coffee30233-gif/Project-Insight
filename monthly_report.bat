@@ -73,8 +73,14 @@ if errorlevel 1 (
 echo [FAILED=!FAILED!] >> "%LOGFILE%" 2>&1
 echo ===== %date% %time% 每月報告產生完成 ===== >> "%LOGFILE%" 2>&1
 
+REM 失敗告警信改由 n8n 處理（見下方 notify_n8n.py 呼叫），本機不再寄信。
 if "!FAILED!"=="1" (
-    python -c "d=open(r'%LOGFILE%',encoding='utf-8',errors='replace').read(); print(d[-4000:])" | python notify.py "月報流程有步驟失敗 %date%"
+    set N8N_STATUS=failed
+) else (
+    set N8N_STATUS=success
 )
+
+REM 不管成功失敗都通知一次 n8n（沒設 N8N_WEBHOOK_MONTHLY 就靜靜略過，見 notify_n8n.py）
+python -c "d=open(r'%LOGFILE%',encoding='utf-8',errors='replace').read(); print(d[-4000:])" | python notify_n8n.py monthly !N8N_STATUS!
 
 exit /b %FAILED%

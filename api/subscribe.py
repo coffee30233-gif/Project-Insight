@@ -7,14 +7,19 @@ Vercel Serverless Function，對應路由 /api/subscribe（POST）。
 data/subscribers.json、直接 commit 回 repo」的做法——不需要額外申請資料庫服務，
 訂閱名單本身也會保留在 GitHub 的版本紀錄裡。
 
-本機執行 python send_weekly_email.py 寄週報時，只要先 git pull，
-就能讀到最新的訂閱名單。
+週報寄信現在改由 n8n 處理：weekly_report.bat 跑完會呼叫 notify_n8n.py，
+把當下最新的訂閱名單和週報 PDF 一起送給 n8n 的 Webhook，n8n 收到後逐一
+寄給訂閱戶（見 notify_n8n.py 開頭的說明）。
 
 需要的環境變數（在 Vercel 專案 Settings → Environment Variables 設定）：
-    GITHUB_TOKEN   - GitHub Personal Access Token，需要有這個 repo 的
-                     "Contents" 讀寫權限（fine-grained token 選 Read and write）
-    GITHUB_REPO    - 格式 "owner/repo"，例如 "coffee30233-gif/Project-Insight"
-    GITHUB_BRANCH  - 通常是 "main"
+    GITHUB_TOKEN     - GitHub Personal Access Token，需要有這個 repo 的
+                       "Contents" 讀寫權限（fine-grained token 選 Read and write）
+    GITHUB_REPO      - 格式 "owner/repo"，例如 "coffee30233-gif/Project-Insight"
+    GITHUB_BRANCH    - 通常是 "main"
+    N8N_WEBHOOK_SUBSCRIBE - （選填）新訂閱者的 n8n Webhook Production URL，
+                       沒設就不通知，不影響訂閱本身
+    N8N_WEBHOOK_TOKEN - （選填，建議跟 N8N_WEBHOOK_SUBSCRIBE 一起設）
+                       n8n Webhook 的 Header Auth 驗證值
 """
 import json
 import os
@@ -107,6 +112,26 @@ def _now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
 
+def _notify_n8n_new_subscriber(email: str) -> None:
+    """新訂閱者通知，最佳努力（失敗不影響訂閱本身），沒設定就直接略過。"""
+    url = os.environ.get("N8N_WEBHOOK_SUBSCRIBE")
+    if not url:
+        return
+
+    payload = {"email": email, "timestamp": _now_iso()}
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(url, data=data, method="POST")
+    req.add_header("Content-Type", "application/json")
+    token = os.environ.get("N8N_WEBHOOK_TOKEN")
+    if token:
+        req.add_header("X-Webhook-Token", token)
+
+    try:
+        urllib.request.urlopen(req, timeout=10)
+    except Exception:
+        pass  # 通知失敗不該影響訂閱本身成功與否
+
+
 def _handle_subscribe(req: SubscribeRequest):
     email = req.email.strip()
     if not EMAIL_RE.match(email):
@@ -119,6 +144,8 @@ def _handle_subscribe(req: SubscribeRequest):
 
     if result == "already_subscribed":
         return {"message": "這個信箱已經訂閱過囉"}
+
+    _notify_n8n_new_subscriber(email)
     return {"message": "訂閱成功！下週一起會收到週報"}
 
 
