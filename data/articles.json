@@ -1,5 +1,203 @@
 [
   {
+    "id": 1359,
+    "source_name": "ProjectorCentral",
+    "title_zh": "JVC針對8K投影機推出購買即贈專用吊架優惠活動",
+    "summary_zh": "JVC宣布即日起購買旗下指定8K D-ILA投影機型號，如DLA-NZ800與DLA-NZ900，即可免費獲贈專屬的Engage CM-Pro天花板吊架，此舉旨在提升高階家庭劇院消費者的購買附加價值。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.projectorcentral.com/jvc-free-projector-mount.htm",
+    "publish_date": "2027-09-16",
+    "keywords": [
+      "JVC",
+      "8K投影機",
+      "吊架",
+      "D-ILA"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1342,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 系列中國市場版本與國際版差異討論",
+    "summary_zh": "本文討論了極米 Horizon 系列在中國市場的 RS 系列變體（如 RS20 Pro Max），與國際版相比其硬體規格相近甚至更好且價格較低，但使用者介面為全中文且保固政策不同，引發消費者對於跨境購買與實際表現的探討。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wi3c1f/chinese_market_variants_of_the_xgimi_horizon/",
+    "publish_date": "2026-09-17",
+    "keywords": [
+      "極米",
+      "Horizon",
+      "RS20",
+      "中國市場",
+      "規格比較"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1356,
+    "source_name": "Epson官方",
+    "title_zh": "波士頓抒情歌劇院與MASARY工作室運用Epson大型場館雷射投影機打造沉浸式超級標題藝術",
+    "summary_zh": "波士頓抒情歌劇院攜手藝術團體MASARY，利用Epson高階大型場館4K雷射投影機，將傳統的歌劇翻譯字幕轉化為動態舞台視覺藝術。此創新應用跳脫傳統小螢幕框架，透過高亮度與高畫質投影技術，讓舞台視覺與字幕完美融合，為觀眾帶來更具沉浸感的觀劇體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/masary-studios-boston-opera-4k-laser-projectors",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "雷射投影機",
+      "大型場館投影",
+      "舞台藝術",
+      "4K投影"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Boston Lyric Opera",
+      "MASARY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1355,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "為什麼投影機畫面會模糊？探討六個常見原因與解決方法",
+    "summary_zh": "本文探討投影機畫面模糊的六個常見原因，包含對焦不準、鏡頭髒污、擺放角度不當、訊號源解析度過低及投影尺寸過大等狀況。同時介紹當貝N3 Max等新機型透過自動對焦功能簡化設定，協助用戶快速排除影像模糊問題。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/why-is-my-projector-blurry",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "投影機畫面模糊",
+      "自動對焦",
+      "鏡頭清潔",
+      "投影機擺放",
+      "當貝"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1353,
+    "source_name": "投影時代",
+    "title_zh": "科視上海演示室全新升級，展示多款高階投影設備與沉浸式方案",
+    "summary_zh": "科視（Christie）上海辦演示室完成全面升級，擴建三千平米多功能空間。現場劃分Eclipse G3演示區、全系列產品展示區及球幕沉浸式體驗區，展出多款RGB純雷射與1DLP激光投影機，強化在地化支援並推動視覺技術在文旅等場景應用。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/9/261910687599.shtml",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "科視",
+      "演示室",
+      "Eclipse G3",
+      "RGB純雷射投影機",
+      "1DLP激光投影機",
+      "球幕投影"
+    ],
+    "mentioned_brands": [
+      "科視",
+      "Christie"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1352,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機選購決策討論",
+    "summary_zh": "這是一篇來自Reddit論壇的使用者討論串，主題關於投影機產品的選購與決策過程。由於原文內容僅有標題與討論連結，缺乏具體的機型規格、市場數據或技術深度內容，故僅能反映一般消費者的購買諮詢需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1whkdbg/projector_decision/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "投影機",
+      "選購指南",
+      "消費者討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1350,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Titan Noir 投影機吊裝後的風扇噪音問題探討",
+    "summary_zh": "使用者在討論區反映，其安裝於天花板的 Titan Noir 投影機產生了令人困擾的高頻風扇噪音，即使搭配強大音響系統仍清晰可聞。然而奇怪的是，先前放置於咖啡桌上使用時卻幾乎完全靜音，使用者正尋求關於噪音突然變大的原因與降噪解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1whwmtt/titan_noir_noise/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "Titan Noir",
+      "風扇噪音",
+      "吊裝",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Titan Noir"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1349,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Titan Noir Max 遊戲模式問題討論",
+    "summary_zh": "本文為 Reddit 論壇上的使用者討論串，主要探討 Titan Noir Max 投影機在啟用遊戲模式時所遇到的相關技術與設定問題，屬於單一用戶的使用心得與疑難排解。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1whwwer/titan_noir_max_game_mode_issues/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "Titan Noir Max",
+      "遊戲模式",
+      "投影機故障"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1344,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "現代投影機的使用壽命與耐用性探討",
+    "summary_zh": "本文為消費者在Reddit論壇上關於投影機壽命與耐用性的提問，探討現代投影機是否適合日常替代電視使用，並尋求兩千美元預算以內的推薦機型，反映出一般消費者對投影機長期穩定性的實際顧慮。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1whw982/how_long_do_projectors_actually_last/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "投影機壽命",
+      "耐用性",
+      "家用投影機",
+      "消費者討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1341,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "串流平台的4K畫質是否足夠？",
+    "summary_zh": "本文為Reddit論壇上的使用者討論，探討串流服務的4K畫質是否與實體藍光光碟有明顯差距，以及是否值得為了追求畫質而費時轉錄光碟。這類內容屬於消費者的主觀使用心得與畫質比較討論，並未涉及產業數據或重大技術突破。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wi0ovi/are_streaming_services_good_enough_for_4k/",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "4K畫質",
+      "串流服務",
+      "藍光光碟",
+      "畫質比較"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 1340,
     "source_name": "ProjectorReviews",
     "title_zh": "soundcore Nebula 推出 X1S 智慧投影機",
@@ -16212,6 +16410,26 @@
     "link_status": null
   },
   {
+    "id": 1358,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 MEU702 工程投影機促銷活動登場",
+    "summary_zh": "知名投影機品牌奧圖碼推出 MEU702 工程投影機促銷活動，該款機型主打畫面細膩、超長光源壽命與色彩微調功能。目前由特定合作經銷商展開特價促銷，吸引工程投影市場與商務領域用戶的關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1188/11887664.html",
+    "publish_date": "2026-05-29",
+    "keywords": [
+      "奧圖碼",
+      "MEU702",
+      "工程投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1203,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-F1200ZL特價促銷歡迎來電諮詢",
@@ -16885,6 +17103,28 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1357,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-XZ431C 雷射商教投影機通路特惠促銷",
+    "summary_zh": "本文報導松下高亮度雷射商教投影機 PT-XZ431C 在北京通路進行特價促銷活動，優惠售價為 16999 元人民幣。此機型主打高亮度特色，適合商務與教育應用場景，提供有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1176/11766008.html",
+    "publish_date": "2026-05-06",
+    "keywords": [
+      "松下",
+      "PT-XZ431C",
+      "雷射投影機",
+      "商教投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
     ],
     "link_status": null
   },
