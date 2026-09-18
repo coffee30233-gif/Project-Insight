@@ -136,13 +136,20 @@ def _normalize_date(raw: str) -> str:
     跟文章實際頁面上顯示的日期對不起來。
     """
     from dateutil import parser as date_parser
-    from datetime import timezone, timedelta
+    from datetime import datetime, timezone, timedelta
 
     TW_TZ = timezone(timedelta(hours=8))
+    today = datetime.now(TW_TZ).date()
     try:
         dt = date_parser.parse(raw)
         if dt.tzinfo is not None:
             dt = dt.astimezone(TW_TZ)
+        # 防呆：來源網站的 meta 標籤日期偶爾會標錯到未來（曾發生過 ProjectorCentral
+        # 把 article:published_time 寫成隔年同一天），寧可退回抓取當下的日期，
+        # 也不要讓錯誤的未來日期污染 stats.json 的「最新更新」。
+        if dt.date() > today + timedelta(days=1):
+            logger.warning("來源日期看起來是未來時間（%s），改用抓取當下日期", raw)
+            return time.strftime("%Y-%m-%d")
         return dt.strftime("%Y-%m-%d")
     except Exception:
         return time.strftime("%Y-%m-%d")

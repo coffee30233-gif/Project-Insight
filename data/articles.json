@@ -1,26 +1,5 @@
 [
   {
-    "id": 1363,
-    "source_name": "ProjectorCentral",
-    "title_zh": "JVC針對8K投影機推出購買即贈專用吊架優惠方案",
-    "summary_zh": "知名投影機品牌JVC宣佈，凡購買旗下指定8K D-ILA投影機型號（包含DLA-NZ800與DLA-NZ900），即可免費獲贈原廠客製化的Engage CM-Pro專用吊架，提供消費者更具性價比的安裝配套方案。",
-    "category": "新品發布",
-    "importance": 2,
-    "url": "https://www.projectorcentral.com/jvc-free-projector-mount.htm",
-    "publish_date": "2027-09-16",
-    "keywords": [
-      "JVC",
-      "8K投影機",
-      "吊架",
-      "D-ILA",
-      "促銷方案"
-    ],
-    "mentioned_brands": [
-      "JVC"
-    ],
-    "link_status": null
-  },
-  {
     "id": 1407,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生 CB-2255U 投影機特價促銷活動",
@@ -546,6 +525,27 @@
     "mentioned_brands": [
       "XGIMI",
       "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1363,
+    "source_name": "ProjectorCentral",
+    "title_zh": "JVC針對8K投影機推出購買即贈專用吊架優惠方案",
+    "summary_zh": "知名投影機品牌JVC宣佈，凡購買旗下指定8K D-ILA投影機型號（包含DLA-NZ800與DLA-NZ900），即可免費獲贈原廠客製化的Engage CM-Pro專用吊架，提供消費者更具性價比的安裝配套方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.projectorcentral.com/jvc-free-projector-mount.htm",
+    "publish_date": "2026-09-16",
+    "keywords": [
+      "JVC",
+      "8K投影機",
+      "吊架",
+      "D-ILA",
+      "促銷方案"
+    ],
+    "mentioned_brands": [
+      "JVC"
     ],
     "link_status": null
   },
