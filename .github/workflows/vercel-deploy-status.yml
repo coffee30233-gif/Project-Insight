@@ -1,0 +1,39 @@
+name: Vercel Deployment Alert
+
+# Vercel 的 GitHub 整合會透過 GitHub 的 Deployments API 回報部署狀態
+# （environment: Production / Preview），這裡只在失敗時通知，成功不用管。
+on:
+  deployment_status:
+
+permissions:
+  contents: read
+
+jobs:
+  notify-on-failure:
+    if: github.event.deployment_status.state == 'failure' || github.event.deployment_status.state == 'error'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: 通知 n8n
+        env:
+          N8N_WEBHOOK_DEPLOY: ${{ secrets.N8N_WEBHOOK_DEPLOY }}
+          N8N_WEBHOOK_TOKEN: ${{ secrets.N8N_WEBHOOK_TOKEN }}
+        run: |
+          cat <<EOF | python notify_n8n.py deploy failed
+          Vercel 部署失敗
+          環境：${{ github.event.deployment.environment }}
+          狀態：${{ github.event.deployment_status.state }}
+          說明：${{ github.event.deployment_status.description }}
+          部署連結：${{ github.event.deployment_status.target_url }}
+          對應 commit：${{ github.event.deployment.sha }}
+          EOF
