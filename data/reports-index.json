@@ -1,145 +1,219 @@
 {
-  "weekly": [
+  "years": [
     {
-      "file": "2026-W37.md",
-      "hasSlides": true,
-      "hasPdf": true
+      "year": 2026,
+      "annual": null,
+      "months": [
+        {
+          "year": 2026,
+          "month": 9,
+          "monthly": null,
+          "weekly": [
+            {
+              "file": "2026-W37.md",
+              "hasSlides": true,
+              "hasPdf": true
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "month": 8,
+          "monthly": {
+            "file": "2026-08.md",
+            "hasSlides": true,
+            "hasPdf": false
+          },
+          "weekly": [
+            {
+              "file": "2026-W36.md",
+              "hasSlides": true,
+              "hasPdf": true
+            },
+            {
+              "file": "2026-W35.md",
+              "hasSlides": true,
+              "hasPdf": true
+            },
+            {
+              "file": "2026-W34.md",
+              "hasSlides": true,
+              "hasPdf": true
+            },
+            {
+              "file": "2026-W33.md",
+              "hasSlides": true,
+              "hasPdf": true
+            },
+            {
+              "file": "2026-W32.md",
+              "hasSlides": true,
+              "hasPdf": true
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "month": 7,
+          "monthly": {
+            "file": "2026-07.md",
+            "hasSlides": true,
+            "hasPdf": false
+          },
+          "weekly": [
+            {
+              "file": "2026-W31.md",
+              "hasSlides": true,
+              "hasPdf": true
+            },
+            {
+              "file": "2026-W30.md",
+              "hasSlides": false,
+              "hasPdf": true
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "monthly": {
+            "file": "2026-06.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "monthly": {
+            "file": "2026-05.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "monthly": {
+            "file": "2026-04.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "monthly": {
+            "file": "2026-03.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "monthly": {
+            "file": "2026-02.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "monthly": {
+            "file": "2026-01.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        }
+      ]
     },
     {
-      "file": "2026-W36.md",
-      "hasSlides": true,
-      "hasPdf": true
-    },
-    {
-      "file": "2026-W35.md",
-      "hasSlides": true,
-      "hasPdf": true
-    },
-    {
-      "file": "2026-W34.md",
-      "hasSlides": true,
-      "hasPdf": true
-    },
-    {
-      "file": "2026-W33.md",
-      "hasSlides": true,
-      "hasPdf": true
-    },
-    {
-      "file": "2026-W32.md",
-      "hasSlides": true,
-      "hasPdf": true
-    },
-    {
-      "file": "2026-W31.md",
-      "hasSlides": true,
-      "hasPdf": true
-    },
-    {
-      "file": "2026-W30.md",
-      "hasSlides": false,
-      "hasPdf": true
-    }
-  ],
-  "monthly": [
-    {
-      "file": "2026-08.md",
-      "hasSlides": true,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-07.md",
-      "hasSlides": true,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-06.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-05.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-04.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-03.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-02.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2026-01.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-12.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-11.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-10.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-09.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-08.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-04.md",
-      "hasSlides": false,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-01.md",
-      "hasSlides": false,
-      "hasPdf": false
-    }
-  ],
-  "semiannual": [
-    {
-      "file": "2026-h1.md",
-      "hasSlides": true,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-h2.md",
-      "hasSlides": true,
-      "hasPdf": false
-    },
-    {
-      "file": "2025-h1.md",
-      "hasSlides": true,
-      "hasPdf": false
-    }
-  ],
-  "annual": [
-    {
-      "file": "2025-annual.md",
-      "hasSlides": true,
-      "hasPdf": false
+      "year": 2025,
+      "annual": {
+        "file": "2025-annual.md",
+        "hasSlides": true,
+        "hasPdf": false
+      },
+      "months": [
+        {
+          "year": 2025,
+          "month": 12,
+          "monthly": {
+            "file": "2025-12.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "monthly": {
+            "file": "2025-11.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "monthly": {
+            "file": "2025-10.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "monthly": {
+            "file": "2025-09.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "monthly": {
+            "file": "2025-08.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "monthly": {
+            "file": "2025-04.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "monthly": {
+            "file": "2025-01.md",
+            "hasSlides": false,
+            "hasPdf": false
+          },
+          "weekly": []
+        }
+      ]
     }
   ]
 }

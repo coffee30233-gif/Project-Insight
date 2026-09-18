@@ -515,6 +515,42 @@ main {
 .report-list-col li button:hover { background: var(--bg-panel); color: var(--text); }
 .report-list-col li button.active { background: var(--accent-lamp); color: #1a1408; font-weight: 600; }
 
+/* 收合式的年 / 月報告樹狀列表 */
+.report-list-col details { margin-bottom: 2px; }
+
+.report-list-col summary {
+    cursor: pointer;
+    list-style: none;
+    font-family: var(--font-display);
+    color: var(--text);
+    padding: 7px 10px;
+    border-radius: 6px;
+}
+.report-list-col summary::-webkit-details-marker { display: none; }
+.report-list-col summary::before {
+    content: "▸";
+    display: inline-block;
+    width: 1em;
+    margin-right: 4px;
+    color: var(--text-muted);
+    transition: transform 0.15s ease;
+}
+.report-list-col details[open] > summary::before { transform: rotate(90deg); }
+.report-list-col summary:hover { background: var(--bg-panel); }
+
+.report-year > summary { font-size: 0.9rem; font-weight: 600; }
+.report-year > ul { padding-left: 4px; margin: 2px 0 18px; }
+
+.report-month > summary { font-size: 0.82rem; color: var(--text-muted); }
+.report-month > ul { padding-left: 18px; margin: 2px 0 6px; }
+
+.report-missing {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    padding: 6px 10px;
+    opacity: 0.7;
+}
+
 .report-viewer {
     background: var(--bg-panel);
     border: 1px solid var(--border);

@@ -10,7 +10,7 @@ RAG 檢索仍然需要讀 projector_intel.db 本身，但那是唯讀，見 db.p
 會產生：
     data/stats.json           首頁統計數字（db.get_dashboard_stats()）
     data/articles.json        所有已處理文章（陣列，前端載進記憶體做篩選/分頁）
-    data/reports-index.json   { "monthly": [...], "annual": [...] } 檔名清單
+    data/reports-index.json   { "years": [{年, annual, months: [{年,月,monthly,weekly}]}] }
     data/reports/*.md         reports/ 目錄底下報告的原樣複製
 
 （注意：路徑是專案根目錄下的 data/，不是 static/data/ —— index.html/app.js 都放在
@@ -26,6 +26,7 @@ import json
 import os
 import re
 import shutil
+from datetime import date
 
 import config
 import db
@@ -133,23 +134,40 @@ def export_articles():
 
 def export_reports_index_and_files():
     """
-    複製 reports/ 底下的 .md（與同檔名的 .pptx，如果存在）到 data/reports/，
+    複製 reports/ 底下的 .md（與同檔名的 .pptx／.pdf，如果存在）到 data/reports/，
     並產生 reports-index.json。每筆報告是 {"file": "2025-annual.md", "hasSlides": true,
     "hasPdf": true} 這種物件，hasSlides／hasPdf 代表有沒有對應的 .pptx／.pdf 可以下載。
 
+    輸出格式是「年 → 月 → 週」的巢狀結構，對應網站上收合式的報告列表：
+        {"years": [
+            {"year": 2026, "annual": {...} | null,
+             "months": [{"year": 2026, "month": 9, "monthly": {...} | null,
+                         "weekly": [{...}, ...]}, ...]},
+            ...
+        ]}
+    年份、月份、週報都依新到舊排序。週報依「該週週一所在的年月」歸類（用 ISO 週曆
+    算，跨月的週用週一那天為準）。半年報（{年}-h1.md / -h2.md）不再放進網站顯示，
+    但檔案本身仍留在 reports/，不會被刪除。
+
     依檔名判斷報告類型：
       - {年}-annual.md     → 年度報告
-      - {年}-h1.md / -h2.md → 半年報（上半年／下半年）
+      - {年}-h1.md / -h2.md → 半年報（不放進 reports-index.json，網站不顯示）
       - {年}-W{週}.md       → 週報
       - {年}-{月}.md        → 月報
     """
     os.makedirs(REPORTS_DST_DIR, exist_ok=True)
 
-    monthly, weekly, semiannual, annual = [], [], [], []
+    annual_by_year: dict[int, dict] = {}
+    monthly_by_ym: dict[tuple[int, int], dict] = {}
+    weekly_by_ym: dict[tuple[int, int], list] = {}
+
     if os.path.isdir(REPORTS_SRC_DIR):
         for filename in os.listdir(REPORTS_SRC_DIR):
             if not filename.endswith(".md"):
                 continue
+            if filename.endswith("-h1.md") or filename.endswith("-h2.md"):
+                continue  # 半年報：網站不再顯示，檔案留著就好，略過複製/收錄
+
             shutil.copyfile(
                 os.path.join(REPORTS_SRC_DIR, filename),
                 os.path.join(REPORTS_DST_DIR, filename),
@@ -168,33 +186,66 @@ def export_reports_index_and_files():
                 shutil.copyfile(pdf_src, os.path.join(REPORTS_DST_DIR, pdf_filename))
 
             entry = {"file": filename, "hasSlides": has_slides, "hasPdf": has_pdf}
-            if filename.endswith("-annual.md"):
-                annual.append(entry)
-            elif filename.endswith("-h1.md") or filename.endswith("-h2.md"):
-                semiannual.append(entry)
-            elif re.match(r"^\d{4}-W\d{2}\.md$", filename):
-                weekly.append(entry)
-            else:
-                monthly.append(entry)
 
-    monthly.sort(key=lambda e: e["file"], reverse=True)
-    weekly.sort(key=lambda e: e["file"], reverse=True)
-    semiannual.sort(key=lambda e: e["file"], reverse=True)
-    annual.sort(key=lambda e: e["file"], reverse=True)
+            annual_match = re.match(r"^(\d{4})-annual\.md$", filename)
+            weekly_match = re.match(r"^(\d{4})-W(\d{2})\.md$", filename)
+            monthly_match = re.match(r"^(\d{4})-(\d{2})\.md$", filename)
+
+            if annual_match:
+                year = int(annual_match.group(1))
+                annual_by_year[year] = entry
+            elif weekly_match:
+                year, week = int(weekly_match.group(1)), int(weekly_match.group(2))
+                monday = date.fromisocalendar(year, week, 1)
+                key = (monday.year, monday.month)
+                weekly_by_ym.setdefault(key, []).append(entry)
+            elif monthly_match:
+                year, month = int(monthly_match.group(1)), int(monthly_match.group(2))
+                monthly_by_ym[(year, month)] = entry
+            # 其他檔名（例如未來新格式）目前先忽略，不強塞進這個結構
+
+    all_years = set(annual_by_year) | {y for (y, _m) in monthly_by_ym} | {y for (y, _m) in weekly_by_ym}
+
+    years_out = []
+    for year in sorted(all_years, reverse=True):
+        months_in_year = sorted(
+            {m for (y, m) in monthly_by_ym if y == year} | {m for (y, m) in weekly_by_ym if y == year},
+            reverse=True,
+        )
+        months_out = []
+        for month in months_in_year:
+            weekly_list = sorted(
+                weekly_by_ym.get((year, month), []), key=lambda e: e["file"], reverse=True
+            )
+            months_out.append({
+                "year": year,
+                "month": month,
+                "monthly": monthly_by_ym.get((year, month)),
+                "weekly": weekly_list,
+            })
+        years_out.append({
+            "year": year,
+            "annual": annual_by_year.get(year),
+            "months": months_out,
+        })
 
     path = os.path.join(STATIC_DATA_DIR, "reports-index.json")
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(
-            {"weekly": weekly, "monthly": monthly, "semiannual": semiannual, "annual": annual},
-            f, ensure_ascii=False, indent=2,
-        )
+        json.dump({"years": years_out}, f, ensure_ascii=False, indent=2)
 
-    all_entries = weekly + monthly + semiannual + annual
+    annual_count = len(annual_by_year)
+    monthly_count = len(monthly_by_ym)
+    weekly_count = sum(len(v) for v in weekly_by_ym.values())
+    all_entries = (
+        list(annual_by_year.values())
+        + list(monthly_by_ym.values())
+        + [e for lst in weekly_by_ym.values() for e in lst]
+    )
     slides_count = sum(1 for e in all_entries if e["hasSlides"])
     pdf_count = sum(1 for e in all_entries if e["hasPdf"])
     print(
-        f"已寫入 {path}（週報 {len(weekly)} 份、月報 {len(monthly)} 份、半年報 {len(semiannual)} 份、"
-        f"年報 {len(annual)} 份，其中 {slides_count} 份有附簡報、{pdf_count} 份有附 PDF，"
+        f"已寫入 {path}（{len(years_out)} 個年度、週報 {weekly_count} 份、月報 {monthly_count} 份、"
+        f"年報 {annual_count} 份，其中 {slides_count} 份有附簡報、{pdf_count} 份有附 PDF，"
         f"檔案已複製到 {REPORTS_DST_DIR}）"
     )
 

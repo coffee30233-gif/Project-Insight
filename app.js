@@ -239,54 +239,60 @@ function reportLabel(filename) {
     if (filename.endsWith("-annual.md")) {
         return `${filename.slice(0, 4)} 年度回顧`;
     }
-    if (filename.endsWith("-h1.md")) {
-        return `${filename.slice(0, 4)} 年 上半年`;
-    }
-    if (filename.endsWith("-h2.md")) {
-        return `${filename.slice(0, 4)} 年 下半年`;
-    }
     const weeklyMatch = filename.match(/^(\d{4})-W(\d{2})\.md$/);
     if (weeklyMatch) {
-        return `${weeklyMatch[1]} 年 第 ${parseInt(weeklyMatch[2])} 週`;
+        return `第 ${parseInt(weeklyMatch[2])} 週`;
     }
     const [year, month] = filename.replace(".md", "").split("-");
     return `${year} 年 ${parseInt(month)} 月`;
 }
 
-function reportListItem(item) {
-    // 相容兩種格式：舊資料是純檔名字串，新資料是 {file, hasSlides, hasPdf} 物件
-    const file = typeof item === "string" ? item : item.file;
-    const hasSlides = typeof item === "string" ? false : !!item.hasSlides;
-    const hasPdf = typeof item === "string" ? false : !!item.hasPdf;
-    return `<li><button data-file="${file}" data-slides="${hasSlides}" data-pdf="${hasPdf}">${reportLabel(file)}</button></li>`;
+function reportListItem(entry, missingLabel) {
+    if (!entry) {
+        return `<li class="report-missing">${missingLabel}</li>`;
+    }
+    return `<li><button data-file="${entry.file}" data-slides="${entry.hasSlides}" data-pdf="${entry.hasPdf}">${reportLabel(entry.file)}</button></li>`;
+}
+
+function renderMonthBlock(m) {
+    const weeklyItems = m.weekly.length
+        ? m.weekly.map(w => reportListItem(w)).join("")
+        : `<li class="report-missing">尚無週報</li>`;
+    return `
+        <li class="report-month-item">
+            <details class="report-month">
+                <summary>${m.month} 月</summary>
+                <ul>
+                    ${reportListItem(m.monthly, "尚無月報")}
+                    ${weeklyItems}
+                </ul>
+            </details>
+        </li>`;
+}
+
+function renderYearBlock(y, isFirst) {
+    const monthsHtml = y.months.map(m => renderMonthBlock(m)).join("");
+    return `
+        <details class="report-year" ${isFirst ? "open" : ""}>
+            <summary>${y.year} 年</summary>
+            <ul>
+                ${reportListItem(y.annual, "尚無年度報告")}
+                ${monthsHtml}
+            </ul>
+        </details>`;
 }
 
 async function loadReportList() {
     const res = await fetch("data/reports-index.json");
     const data = await res.json();
+    const tree = document.getElementById("report-tree");
 
-    const annualEl = document.getElementById("annual-report-list");
-    const semiannualEl = document.getElementById("semiannual-report-list");
-    const monthlyEl = document.getElementById("monthly-report-list");
-    const weeklyEl = document.getElementById("weekly-report-list");
+    const years = data.years || [];
+    tree.innerHTML = years.length
+        ? years.map((y, i) => renderYearBlock(y, i === 0)).join("")
+        : `<div class="empty-state">尚無報告資料</div>`;
 
-    annualEl.innerHTML = data.annual.length
-        ? data.annual.map(reportListItem).join("")
-        : `<li style="color:var(--text-muted); font-size:0.82rem; padding:6px 10px;">尚無年度報告</li>`;
-
-    semiannualEl.innerHTML = (data.semiannual || []).length
-        ? data.semiannual.map(reportListItem).join("")
-        : `<li style="color:var(--text-muted); font-size:0.82rem; padding:6px 10px;">尚無半年報</li>`;
-
-    monthlyEl.innerHTML = data.monthly.length
-        ? data.monthly.map(reportListItem).join("")
-        : `<li style="color:var(--text-muted); font-size:0.82rem; padding:6px 10px;">尚無月報</li>`;
-
-    weeklyEl.innerHTML = (data.weekly || []).length
-        ? data.weekly.map(reportListItem).join("")
-        : `<li style="color:var(--text-muted); font-size:0.82rem; padding:6px 10px;">尚無週報</li>`;
-
-    document.querySelectorAll("#annual-report-list button, #semiannual-report-list button, #monthly-report-list button, #weekly-report-list button")
+    tree.querySelectorAll("button[data-file]")
         .forEach(btn => btn.addEventListener("click", () => openReport(btn.dataset.file, btn.dataset.slides === "true", btn.dataset.pdf === "true", btn)));
 }
 
