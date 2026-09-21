@@ -110,6 +110,7 @@ jobs:
         id: status
         if: always()
         run: |
+          echo "各步驟結果：report=${{ steps.report.outcome }} pdf=${{ steps.pdf.outcome }} export=${{ steps.export.outcome }} commit=${{ steps.commit.outcome }}"
           if [ "${{ steps.report.outcome }}" = "failure" ] || \
              [ "${{ steps.pdf.outcome }}" = "failure" ] || \
              [ "${{ steps.export.outcome }}" = "failure" ] || \
