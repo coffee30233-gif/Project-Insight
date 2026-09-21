@@ -27,6 +27,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # GitHub 的 Linux 主機預設沒有中文字型。generate_weekly_pdf.py 找不到字型時會退回
+      # 「不內嵌字型」的備用方案，PDF 在不少閱讀器裡會變亂碼；週報圖表（matplotlib）也
+      # 會變成方塊。文泉驛正黑（wqy-zenhei）路徑剛好就在兩支程式的字型候選清單裡。
+      - name: 安裝中文字型（PDF 與圖表用）
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-wqy-zenhei
+          fc-cache -f
+
       - name: Restore projector_intel.db（來自 tmp/db-transfer 分支）
         run: python backup_db.py restore
 
