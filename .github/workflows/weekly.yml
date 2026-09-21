@@ -2,7 +2,9 @@ name: Weekly Report
 
 on:
   schedule:
-    - cron: '0 1 * * 1'   # 每週一 09:00 台北時間（UTC+8）
+    # 週一 05:00 台北時間 = 週日 21:00 UTC。刻意提早：GitHub 排程常延遲數小時，
+    # 提早排才有機會在週一早上上班前寄出。
+    - cron: '0 21 * * 0'
   workflow_dispatch: {}
 
 permissions:
@@ -15,6 +17,10 @@ concurrency:
 jobs:
   weekly-report:
     runs-on: ubuntu-latest
+    env:
+      # 排程時間是週日 21:00 UTC，Runner 預設時區是 UTC，date.today() 會算成「週日」，
+      # 週報就會抓成再上一週。改用台北時區，今天才會是週一，範圍才對。
+      TZ: Asia/Taipei
     steps:
       - name: Checkout
         uses: actions/checkout@v4
