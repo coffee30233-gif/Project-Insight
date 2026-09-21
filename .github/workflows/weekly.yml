@@ -125,6 +125,8 @@ jobs:
           N8N_WEBHOOK_WEEKLY: ${{ secrets.N8N_WEBHOOK_WEEKLY }}
           N8N_WEBHOOK_TOKEN: ${{ secrets.N8N_WEBHOOK_TOKEN }}
           N8N_TEST_SUBSCRIBERS: ${{ github.event.inputs.test_email }}
+          # 信件裡「前往網站看更多」按鈕的連結；沒設的話連結會是空的，按了沒反應
+          WEBSITE_URL: https://project-insight-theta.vercel.app/
         run: |
           echo "GitHub Actions weekly run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
             | python notify_n8n.py weekly ${{ steps.status.outputs.result }} "${{ steps.filename.outputs.report_file }}"
