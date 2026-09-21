@@ -5,7 +5,12 @@ on:
     # 週一 05:00 台北時間 = 週日 21:00 UTC。刻意提早：GitHub 排程常延遲數小時，
     # 提早排才有機會在週一早上上班前寄出。
     - cron: '0 21 * * 0'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: '測試用：只寄給這個信箱（留空 = 寄給全部訂閱戶）'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -119,6 +124,7 @@ jobs:
         env:
           N8N_WEBHOOK_WEEKLY: ${{ secrets.N8N_WEBHOOK_WEEKLY }}
           N8N_WEBHOOK_TOKEN: ${{ secrets.N8N_WEBHOOK_TOKEN }}
+          N8N_TEST_SUBSCRIBERS: ${{ github.event.inputs.test_email }}
         run: |
           echo "GitHub Actions weekly run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
             | python notify_n8n.py weekly ${{ steps.status.outputs.result }} "${{ steps.filename.outputs.report_file }}"
