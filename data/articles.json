@@ -1,5 +1,314 @@
 [
   {
+    "id": 1485,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 REV9178 實力出圈，奧圖碼 4K 投影機新報價",
+    "summary_zh": "知名投影機品牌奧圖碼旗下的 4K 投影機型號 REV9178，近日於通路商展開特價促銷活動，優惠價格來到新台幣換算後的約 19999 人民幣。此波價格調整與銷售動態吸引了市場關注，提供有意入手高畫質投影設備的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1251/12515471.html",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "奧圖碼",
+      "REV9178",
+      "4K投影機",
+      "特價促銷",
+      "市場行情"
+    ],
+    "mentioned_brands": [
+      "奧圖碼",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1484,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 EH412ST 短焦高亮工程投影機最新促銷行情",
+    "summary_zh": "奧圖碼推出 EH412ST 短焦高亮工程投影機最新市場行情，該機型主打超高亮度與白天直投能力，並具備梯形校正功能，目前通路商正進行特價促銷活動，吸引有採購需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1251/12515469.html",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "奧圖碼",
+      "EH412ST",
+      "短焦投影機",
+      "工程投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1483,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼EL400HST教育會議短焦雷射投影機特價促銷",
+    "summary_zh": "知名投影機品牌奧圖碼推出EL400HST教育會議短焦雷射投影機，目前通路商正進行特價優惠活動。此款機種主打教育與商務會議應用，結合短焦投影與雷射光源技術，提供高畫質與彈性的安裝空間，吸引有採購需求的企業與學校關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1251/12515464.html",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "奧圖碼",
+      "EL400HST",
+      "短焦投影機",
+      "雷射投影機",
+      "教育投影機"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1482,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 HNF736 1080P高亮度投影機市場促銷報價",
+    "summary_zh": "知名投影機品牌奧圖碼旗下的HNF736高亮度1080P投影機機種，近日於北京通路展開特價促銷活動。目前核心經銷商給出的優惠售價為新台幣計價相當的15999元人民幣，提供有意採購高亮度商務或家用顯示設備的消費者參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1251/12515459.html",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "奧圖碼",
+      "HNF736",
+      "1080P",
+      "高亮投影機",
+      "市場報價"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1470,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找小巧便宜的家用投影機推薦",
+    "summary_zh": "本文為Reddit論壇上的消費者諮詢討論，使用者尋求預算低於50美元、適合攜帶且能在臥室牆面進行基本家庭電影之用的平價投影機，並提及Amazon或二手市場常見的白牌與入門品牌。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wllfhl/small_and_cheap_projector/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "平價投影機",
+      "攜帶型投影機",
+      "入門款",
+      "消費者諮詢"
+    ],
+    "mentioned_brands": [
+      "Elphas",
+      "Topvision"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1466,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "歐洲地區5公尺投射距離與1000歐元預算之4K投影機選購與音訊配置請益",
+    "summary_zh": "本文為Reddit論壇用戶在歐洲地區尋求投影機選購建議之討論貼文。發文者希望能以約1000歐元預算，尋找適合5公尺投射距離的4K投影機，並同時詢問關於影音訊號路由配置的相關問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wll29a/eu_need_4k_projector_recommendation_for_a_5m_164/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "4K投影機",
+      "選購指南",
+      "投射距離",
+      "音訊配置"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1462,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Nebula Capsule 3 Laser 與 LG CineBeam Q Mini 該如何選擇",
+    "summary_zh": "本文為 Reddit 用戶在投影機專版上的簡短提問，主要針對兩款便攜式雷射投影機 Nebula Capsule 3 Laser 與 LG CineBeam Q Mini 在價格相同的情況下，尋求性價比與實際效能的購買建議，屬於消費者的選購諮詢討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wlqaeg/nebula_capsule_3_laser_với_lg_cinebeam_q_mini/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "Nebula",
+      "LG",
+      "Capsule 3 Laser",
+      "CineBeam Q Mini",
+      "便攜投影機"
+    ],
+    "mentioned_brands": [
+      "Nebula",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1457,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算300歐元以內的輕巧便攜投影機推薦詢問",
+    "summary_zh": "本文為論壇用戶的消費端發問，尋找預算在300歐元以內、適合攜帶外出的輕巧型便攜投影機。發文者明確指出其主要需求為旅行使用與偶爾的居家觀影，並了解在該預算限制下無法追求極致的影像畫質，尋求社群使用者的機型推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wlsg3q/compact_travel_projector_with_small_budget/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "便攜投影機",
+      "旅行投影機",
+      "入門預算"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1456,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "峰米 R1 Nano 投影機故障：無雷射光源並發出異響",
+    "summary_zh": "有用戶回報其峰米 R1 Nano 雷射投影機在使用時突然故障，目前出現風扇正常運轉但無雷射光輸出、伴隨重複點擊異響後自動關機的狀況。經更換高功率 USB-C 充電器測試後問題依舊，尋求社群協助排除故障原因。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wm2fn0/fengmi_r1_nano_no_laser_clicking_sound/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "峰米",
+      "R1 Nano",
+      "故障排除",
+      "雷射投影機",
+      "硬體異常"
+    ],
+    "mentioned_brands": [
+      "Fengmi",
+      "峰米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1455,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "剛入手Vidda C5 Boundless Master（海信XR10）投影機之真實開箱心得",
+    "summary_zh": "本文為外國用戶分享最新入手海信XR10的海外版Vidda C5 Boundless Master投影機使用心得。作者搭配106吋抗光幕與全黑化客廳，指出其亮度、對比與色彩表現遠勝前代機種。透過側載軟體與外接電視棒克服地區限制，提供實用的跨國使用經驗與產品性能回饋。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wlm8kt/just_got_my_vidda_c5_boundless_master_hisense_xr10/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "Vidda C5",
+      "海信XR10",
+      "家用投影機",
+      "開箱心得",
+      "雷射投影"
+    ],
+    "mentioned_brands": [
+      "Vidda",
+      "Hisense",
+      "XGIMI",
+      "AKIA"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1454,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "考慮生物視角與距離的投影機視場角(FOV)計算器分享",
+    "summary_zh": "有網友開發了一款結合生物視覺特性的視場角（FOV）計算器，透過加入距離懲罰因子，修正傳統幾對數學公式無法準確反映雙眼立體視覺與動態視差的缺陷，藉此凸顯投影機在適當觀看距離下所帶來的沉浸感優勢。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wluzeb/biologically_correct_fov_calculator/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "FOV",
+      "視場角",
+      "投影機",
+      "沉浸感",
+      "計算器"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1453,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "初次入手二手投影機心得分享",
+    "summary_zh": "有使用者在網路社群分享自己以低廉價格買下二手Epson ES3260投影機的經驗。儘管該機型解析度較低且為4比3比例，但用來在車庫觀賞冰球比賽已相當足夠，讓原PO直呼比過去購買的廉價白牌產品好用許多。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wlxzbq/first_time_score/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "Epson",
+      "二手投影機",
+      "家用投影",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1472,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合閱讀用的平價投影機討論",
+    "summary_zh": "本文為Reddit論壇上的使用者發文，尋求一款適合在臥室天花板或牆面投影電子書與網頁文字的投影機。需求包含低噪音、體積小巧便於移動、具備良好的文字清晰度、支援有線連接如HDMI或USB、不強制連接Wi-Fi，且預算在一百美元以內。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wljx0e/projector_for_reading/",
+    "publish_date": "2026-09-20",
+    "keywords": [
+      "閱讀投影機",
+      "低噪音",
+      "文字投影",
+      "平價投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1469,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生LS800投影機遊戲畫面顏色異常討論",
+    "summary_zh": "有用戶在使用愛普生LS800投影機進行遊戲時，發現畫面中特定黃橘色植物在快速手動轉動視角時會變深，且僅在白天場景出現。經交叉測試手持模式並無此現象，引發關於投影機色彩處理與動態顯示的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wl8446/noticed_something_really_odd/",
+    "publish_date": "2026-09-20",
+    "keywords": [
+      "Epson LS800",
+      "遊戲投影",
+      "色彩異常",
+      "動態顯示"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1460,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找預算型遊戲投影機的社群討論與型號比較",
+    "summary_zh": "本文為Reddit論壇上的消費者詢問文，尋求預約約一千美元、適合連接遊戲機遊玩並觀賞電影的家用投影機。討論中提及了ViewSonic PX701-4K與BenQ TK700兩款熱門機型，並考量了全暗房間、投射距離及螢幕尺寸等環境條件。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wli5br/best_budget_gaming_projector/",
+    "publish_date": "2026-09-20",
+    "keywords": [
+      "遊戲投影機",
+      "ViewSonic",
+      "BenQ",
+      "4K投影機",
+      "家用投影"
+    ],
+    "mentioned_brands": [
+      "ViewSonic",
+      "BenQ",
+      "Nintendo"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1452,
     "source_name": "ZOL投影機頻道",
     "title_zh": "多場景自由切換，優派LX720-4KC Ultra投影機評測",
@@ -39,6 +348,31 @@
     "mentioned_brands": [
       "堅果",
       "小米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1474,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "升級4K投影機難抉擇：海信與極米機型比較",
+    "summary_zh": "本文為使用者在客廳升級時，針對海信C2 Ultra與極米Horizon 20 Max兩款4K投影機的規格與表現進行比較。內容探討了兩者在亮度、對比度、暗室表現及價格上的差異，並提及海信新一代機種的資訊，提供給尋求劇院級升級的使用者作為選購參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wkkul9/upgrading_and_torn_hisense_vs_xgimi/",
+    "publish_date": "2026-09-19",
+    "keywords": [
+      "Hisense C2 Ultra",
+      "Xgimi Horizon 20 Max",
+      "4K投影機",
+      "對比度",
+      "亮度"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Xgimi",
+      "Optoma",
+      "Yamaha",
+      "Vidda"
     ],
     "link_status": null
   },
@@ -17756,6 +18090,27 @@
     "link_status": null
   },
   {
+    "id": 1481,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-BJ5832 投影機市場促銷與規格介紹",
+    "summary_zh": "易仁科技推出 YR-BJ5832 投影機產品，主打360度全方位投影、多激光組設計以及0.44直投短焦鏡頭。目前該機型正於經銷商通路進行特價促銷活動，優惠售價為43999元人民幣，在市場上獲得一定的關注與銷售熱度。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1187/11872952.html",
+    "publish_date": "2026-05-25",
+    "keywords": [
+      "易仁科技",
+      "YR-BJ5832",
+      "短焦投影機",
+      "雷射光源",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1180,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-FH08投影機北京特價促銷中",
@@ -18010,6 +18365,28 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1480,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BMZ51SC 投影機商用促銷：靈活安裝與雷射光源亮點",
+    "summary_zh": "松下推出的 PT-BMZ51SC 商務雷射投影機近期展開特價促銷活動，定價為56800元。該機型主打商教市場，具備靈活的安裝特性以及雙HDMI連接介面，提供高畫質與穩定的投影表現，吸引關注辦公與教育顯示升級的買家目光。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1183/11836897.html",
+    "publish_date": "2026-05-18",
+    "keywords": [
+      "松下",
+      "PT-BMZ51SC",
+      "雷射投影機",
+      "商用投影",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
     ],
     "link_status": null
   },
@@ -18872,6 +19249,27 @@
     ],
     "mentioned_brands": [
       "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1479,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L730U 投影機特價促銷中",
+    "summary_zh": "通路商針對愛普生推出 CB-L730U 雷射投影機的特價促銷活動，價格採面議方式，提供有意購買商用或工程投影設備的消費者前往實體據點洽詢與選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1169/11695167.html",
+    "publish_date": "2026-04-22",
+    "keywords": [
+      "愛普生",
+      "CB-L730U",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
     ],
     "link_status": null
   },
