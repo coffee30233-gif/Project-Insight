@@ -1,5 +1,277 @@
 [
   {
+    "id": 1501,
+    "source_name": "投影時代",
+    "title_zh": "索諾克領航系列工程投影機賦能中國陶瓷琉璃館沉浸式空間",
+    "summary_zh": "中國陶瓷琉璃館升級打造全鏡面沉浸式展廳，採用三十台索諾克領航系列激光工程投影機作為光影載體。展廳透過多機融合拼接與高亮度色彩還原，呈現紋飾、森野、水境、絲路與窑火等五大主題，克服鏡面環境干擾與長時間運作挑戰，完美展現陶瓷琉璃文明的數位化美學。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "http://www.pjtime.com/2026/9/322057532345.shtml",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "索諾克",
+      "Sonnoc",
+      "工程投影機",
+      "激光投影",
+      "文博數字化",
+      "沉浸式展廳"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1497,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機升級建議：尋求高亮度與杜比視界支援的機種",
+    "summary_zh": "一名投影機使用者因贏得獎金計畫升級現有的BenQ TK710長焦投影機。他主要訴求為更高的亮度、更好的動態色彩以及支援杜比視界功能，目前正考慮預購極米XGIMI Aura 3超短焦機種或等待Horizon 30系列，並在社群上徵求關於超短焦與長焦方案的比較與選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmilg1/advice_needed_for_an_upgrade/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "BenQ TK710",
+      "XGIMI Aura 3",
+      "Horizon 30",
+      "投影機升級",
+      "杜比視界"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1496,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三季陽台投影機安裝與升級建議詢問",
+    "summary_zh": "使用者在家中新建的三季陽台尋求投影機架設與升級建議。因免費取得的NEC超短焦投影機安裝困難，發文詢問能在12至16英尺距離投射120吋畫面的替代機種與安裝方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmngi9/3_season_room/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "NEC",
+      "超短焦投影機",
+      "投影機安裝",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "NEC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1495,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我做對決定了嗎？網友分享低預算購買二手商用投影機心得",
+    "summary_zh": "一名網友在預算有限的情況下，放棄購買全新的現代智慧投影機，轉而以二百五十美元購入使用時數尚低的二手Panasonic商用投影機PT-RZ370U。雖然該機型年代較久且缺乏現代智慧功能，但他看重其高亮度表現，並在論壇上徵求其他用戶對此抉擇的看法與評價。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmi4rf/did_i_make_the_right_choice/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "二手投影機",
+      "PT-RZ370U",
+      "XGIMI Elfin Flip Plus",
+      "投影機預算"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1491,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求露營用電池供電投影機推薦",
+    "summary_zh": "有消費者在論壇上發文尋求露營活動使用的電池供電投影機推薦，並提及考慮極米MoGo 3 Pro，同時設定預算在500美元以內，希望獲得其他網友的使用建議與挑選指引。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmrc5d/anybody_have_a_battery_powered_projector_to/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "露營投影機",
+      "便攜投影機",
+      "電池供電",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1488,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "舞蹈與藝術專案投影機選購求助",
+    "summary_zh": "有使用者在Reddit論壇發文求助，尋找適合舞蹈與藝術專案應用的投影機設備。這類應用通常涉及動態投影對位與特殊場景架設，屬於使用者個人的實務經驗諮詢，並未涉及具體的產業市場分析或重大技術革新。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn059b/help_needed_danceart_project/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "投影機求助",
+      "藝術專案",
+      "舞蹈投影",
+      "Reddit討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1487,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony Bravia Projector 7 與 Xgimi Titan NOIR Max 購買諮詢",
+    "summary_zh": "本文為 Reddit 用戶發起的投影機選購討論，預算約五千歐元，主要在 Sony Bravia Projector 7 與 Xgimi Titan NOIR Max 之間進行比較與詢問，同時提及搭配高階顯示卡與未來搬遷後的使用環境評估。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmwrec/sony_bravia_projector_7/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "Sony Bravia Projector 7",
+      "Xgimi Titan NOIR Max",
+      "家用投影機",
+      "選購指南"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Xgimi",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1507,
+    "source_name": "AV Network",
+    "title_zh": "波士頓歌劇院攜手Epson 將字幕翻譯轉化為舞台藝術",
+    "summary_zh": "波士頓歌劇院近期運用Epson投影機設備，將歌劇演出時的翻譯字幕巧妙融合至舞台佈景設計中，不僅提升觀眾的觀賞體驗，更展現了投影技術在表演藝術領域中的創意應用與視覺整合潛力。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.avnetwork.com/installations/boston-lyric-opera-turns-translation-into-scenic-art-with-epson",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "Epson",
+      "歌劇院",
+      "投影應用",
+      "舞台設計"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1506,
+    "source_name": "AV Network",
+    "title_zh": "2026年影音資訊產業現況：索尼電子",
+    "summary_zh": "本文為專業影音科技媒體對索尼電子在影音資訊產業發展趨勢的訪談與觀點報導，探討現代工作場所與高等教育校園的沉浸式體驗趨勢，並關注人工智慧技術在未來職場中扮演的核心角色與影響力。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.avnetwork.com/business/expert-opinions/the-state-of-av-it-2026-sony-electronics",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "索尼電子",
+      "影音資訊產業",
+      "人工智慧",
+      "工作場所"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Sony Electronics"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1505,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "什麼是投影機投射比？投影機應該離螢幕多遠？",
+    "summary_zh": "本文詳細介紹投影機投射比的概念與計算方式，說明投射距離與畫面寬度的關聯，並以當貝N3 Max投影機為例，示範如何根據特定投射比與螢幕尺寸來規劃擺放距離，協助使用者在有限空間中打造理想的觀影畫幅。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://us.dangbei.com/blogs/newsroom/what-is-projector-throw-ratio-how-far-should-a-projector-be-from-the-screen",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "投射比",
+      "投射距離",
+      "畫面寬度",
+      "投影機安裝"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1500,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Kodak Luma 350 使用者藍牙與無網路串流疑問",
+    "summary_zh": "本篇為Reddit論壇使用者的求助貼文，針對Kodak Luma 350微型投影機提出兩項操作疑問：包含藍牙喇叭連接失敗是否與遙控器有關，以及在無Wi-Fi的郵輪環境下如何播放已下載的串流影音內容。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wm68q4/kodak_luma_350/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "Kodak Luma 350",
+      "藍牙連線",
+      "行動投影機",
+      "使用者心得"
+    ],
+    "mentioned_brands": [
+      "Kodak",
+      "Roku"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1499,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ W1100 投影機更換燈泡安裝問題與故障排除",
+    "summary_zh": "一名使用者購買了 BenQ W1100 投影機的替換燈泡，但發現新燈泡外殼有細微公差導致無法鎖上固定螺絲，開機後約30秒便自動關機並亮起燈泡紅燈警示。此案例反映了第三方或替換燈泡在硬體相容性與安裝公差上的常見問題，屬個人用戶的使用心得與求助討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmc101/replacement_lamp_issue_with_benq_w1100/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "BenQ W1100",
+      "投影機燈泡",
+      "燈泡更換",
+      "硬體相容性"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1498,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "藝術繪圖投影選購：二手高畫質投影機與專用藝術投影機之比較",
+    "summary_zh": "本文探討藝術創作與描圖時，選用二手高畫質傳統投影機是否能取代市面上新推出、針對藝術用途行銷的專用投影機。作者以Epson舊款高畫質機種與Caydo P3等藝術專用機進行對比，探討性價比與實際價值差異。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wmfimw/projecting_to_trace_artwork_used_high_quality/",
+    "publish_date": "2026-09-21",
+    "keywords": [
+      "藝術投影",
+      "描圖投影",
+      "二手投影機",
+      "Epson",
+      "Caydo P3"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Caydo"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1485,
     "source_name": "ZOL投影機頻道",
     "title_zh": "奧圖碼 REV9178 實力出圈，奧圖碼 4K 投影機新報價",
@@ -17926,6 +18198,27 @@
     "link_status": null
   },
   {
+    "id": 1509,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "鴻合HT-K502UA投影機商用高畫質投影解鎖多元場景促銷特惠",
+    "summary_zh": "本文報導鴻合科技推出的HT-K502UA商用高清雷射投影機，目前於特定通路展開限時特價促銷活動，優惠價為新台幣對應的19999元人民幣。該機型主打商用視聽市場，提供多元應用場景的投影解決方案，滿足企業用戶的高畫質展示需求。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1188/11888777.html",
+    "publish_date": "2026-06-01",
+    "keywords": [
+      "鴻合",
+      "HT-K502UA",
+      "商用投影機",
+      "雷射投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "鴻合"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1256,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索諾克 SNP-LC55LU 北京促銷價 522,220 元",
@@ -19332,6 +19625,26 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1508,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 C3 Ultra 投影機促銷特惠",
+    "summary_zh": "知名投影機品牌大眼橙推出 C3 Ultra 機型特價促銷活動，通路優惠價為 2199 元人民幣。該款產品主打家庭觀影娛樂，具備高效散熱與運行安靜等亮點，吸引消費者目光。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1169/11692489.html",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "大眼橙",
+      "C3 Ultra",
+      "投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
     ],
     "link_status": null
   },
