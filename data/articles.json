@@ -1,5 +1,293 @@
 [
   {
+    "id": 1532,
+    "source_name": "DigiTimes",
+    "title_zh": "SK海力士創投部門將業務拓展至光學互連與系統軟體",
+    "summary_zh": "SK海力士旗下創投機構近期將投資觸角延伸至記憶體以外的領域，積極布局光學互連技術與系統軟體開發。此舉顯示該半導體大廠正尋求多元化技術投資，期望在次世代資料傳輸與運算架構中卡位，強化其在光學與軟體生態系的影響力。",
+    "category": "供應鏈",
+    "importance": 3,
+    "url": "https://www.digitimes.com/news/a20260923VL206/software-brand-venture-capital-technology-data.html",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "SK hynix",
+      "光學互連",
+      "系統軟體",
+      "創投",
+      "半導體"
+    ],
+    "mentioned_brands": [
+      "SK hynix"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1522,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我應該把牆壁和天花板漆成黑色嗎？",
+    "summary_zh": "有用戶在論壇上發文求助，表示家中牆壁為白色導致投影反光問題嚴重，因此正在考慮是否應該將牆壁與天花板塗刷成黑色來改善觀影體驗，並徵求社群成員的意見與相關建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wngrft/should_i_paint_my_wall_and_ceiling_black/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "家用投影",
+      "反光",
+      "牆面顏色",
+      "劇院搭建"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1520,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找高CP值家用投影機的選購建議與討論",
+    "summary_zh": "本文為消費者在預算三至五百美元內尋找家用投影機的請益貼文，需求包含11英尺投射距離、100至120吋畫面及1080p解析度。討論中提及尋求二手機種或特惠檔期購買，並考慮如BenQ W1070等型號，反映出入門級家用市場的採購偏好。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wno8xe/cheapish_projector_advice/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "家用投影機",
+      "二手投影機",
+      "入門投影機",
+      "BenQ W1070"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1518,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼PK32 4K LED投影機特價促銷資訊",
+    "summary_zh": "知名通路B&H Photo Video針對奧圖碼PK32 4K LED畫素位移投影機推出限時特賣優惠，售價降至499美元。這款具備高畫質技術的投影機在預算型產品中受到消費者關注，特賣活動時間短暫且即將結束。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wntzgk/if_you_have_500_and_youre_looking_for_4k_pixel/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "Optoma",
+      "PK32",
+      "4K投影機",
+      "LED投影機",
+      "特價"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "B&H"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1514,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我的新投影機配置分享",
+    "summary_zh": "本文為Reddit用戶分享的個人家用投影機實際架設案例，展示了搭配120吋抗光幕（ALR screen）的L9Q雷射電視組合，提供給有興趣的消費者作為居家影音空間佈置的參考範例。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wnh6ys/my_new_setup/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "家用投影機",
+      "ALR抗光幕",
+      "L9Q"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1535,
+    "source_name": "AV Network",
+    "title_zh": "2026年影音資訊產業趨勢：ViewSonic專訪前言",
+    "summary_zh": "本文介紹資深媒體人Cindy Davis的背景與其在影音資訊產業的深厚資歷，並探討現代職場與高等教育校園的體驗式精神，以及人工智慧在未來職場中所扮演的重要角色。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.avnetwork.com/business/expert-opinions/the-state-of-av-it-2026-viewsonic",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "AV/IT產業",
+      "人工智慧",
+      "職場趨勢"
+    ],
+    "mentioned_brands": [
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1534,
+    "source_name": "Epson官方",
+    "title_zh": "愛普生推出全新三晶片3LCD雷射家用投影機，重塑劇院、遊戲與體育大螢幕娛樂體驗",
+    "summary_zh": "愛普生發表全新Home Cinema系列三晶片3LCD雷射投影機，旨在滿足現代消費者對電影、遊戲與體育賽事的大螢幕、高亮度及4K HDR沉浸式視覺體驗的需求，讓家庭娛樂的建置與升級變得更加輕鬆便捷。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://news.epson.com/news/theater-gaming-and-sports-reimagined-epsons-new-home-cinema-3-chip-3lcd-laser-projectors-make-big-screen-entertainment-easier-than-ever",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "投影機",
+      "3LCD",
+      "雷射光源",
+      "4K HDR",
+      "家用娛樂"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1530,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ HT3550 在 SmartEco 模式下播放暗場景時出現亮度閃爍與條紋",
+    "summary_zh": "明基 BenQ HT3550 用戶反映，投影機在 SmartEco 燈泡模式下播放暗部畫面時，會出現明顯的亮度閃爍與條紋異常，切換至其他燈泡模式則運作正常。用戶正尋求社群解答此問題是否為硬體故障及故障零件為何。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn0pjr/benq_ht3550_exhibits_brightness_flickering_and/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "BenQ",
+      "HT3550",
+      "SmartEco",
+      "閃爍",
+      "燈泡模式"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1529,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon S Pro 倒置放置於層架上的硬體風險討論",
+    "summary_zh": "使用者因投影機擺放位置靠近天花板，考慮將極米 Horizon S Pro 直接倒置放在層架上以改善投射畫面，但擔憂此舉是否會對內部硬體造成損害。這類消費者使用心得與擺設疑問，反映出家用智慧投影機在非標準吊裝情境下的實際應用困擾。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn4vs9/xgimi_horizon_s_pro_upside_down_withount_mounting/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "極米",
+      "Horizon S Pro",
+      "投影機擺設",
+      "硬體影響"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Sanyo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1528,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Optoma PK31 投影機選購諮詢與規格比較",
+    "summary_zh": "本文為使用者在Reddit論壇上尋求關於奧圖碼Optoma PK31與PH31投影機的選購建議。文章探討了兩款機種在4K解析度與1080p解析度、RGB LED光源以及不同流明亮度之間的差異，並在五百歐元預算內權衡暗室觀影與亮度表現的實用性。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn6izt/optoma_kp31_is_it_a_good_choice/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "Optoma",
+      "PK31",
+      "PH31",
+      "投影機選購",
+      "LED光源"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Nexigo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1525,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生Epson LS6000首發評測：對比度雖僅約400:1但畫面表現意外神似電視",
+    "summary_zh": "本文帶來愛普生最新投影機Epson LS6000的第一手評測開箱影片。該機型的最大優勢在於色彩還原度極佳，儘管其實際對比度僅約400:1，但在特定條件下的觀看體驗依然展現出驚豔且近似電視的畫面質感。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn5kqx/epson_ls6000_firstlook_video_surprisingly_tvlike/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "Epson LS6000",
+      "投影機評測",
+      "色彩還原",
+      "對比度"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1523,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機在一般客廳真的值得入手嗎？使用者經驗探討",
+    "summary_zh": "本文探討超短焦投影機在一般明亮客廳的實際使用價值，分析其擺設便利性與視聽空間規劃的挑戰。文中提及海信等品牌機型，並比較超短焦與傳統投影機在櫃體深度、螢幕搭配及空間配置上的差異，引發對客廳投影方案的熱烈討論。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn6v9i/is_a_ust_projector_actually_worth_it_for_a_normal/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "客廳投影",
+      "海信",
+      "投影機擺設"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "海信"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1519,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 PX3 Pro 投影機最新韌體更新 Q0804 釋出討論",
+    "summary_zh": "海信 PX3 Pro 雷射電視投影機釋出最新的 Q0804 韌體更新，英國 VIDAA 作業系統版本的用戶回報指出，更新後主選單介面、系統設定以及電視頻道功能皆有明顯改變與優化。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wnc701/hisense_px3_pro_latest_update_q0804/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "海信",
+      "PX3 Pro",
+      "韌體更新",
+      "VIDAA OS"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1515,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生推出三款全新 4K 3LCD 雷射投影機：LS5000、LS6000 與 LS7500",
+    "summary_zh": "愛普生（Epson）近日發表三款全新的 4K 3LCD 家用雷射投影機 LS5000、LS6000 與 LS7500，售價由 1,999.99 美元起跳。這系列機種皆採用 3LCD 成像與像素位移技術，支援 HDR 與 120Hz 遊戲更新率，主要差異在於亮度表現以及投射比，滿足不同空間大小與安裝需求的家庭劇院消費者。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wn6vt3/epson_announces_ls5000_ls6000_and_ls7500_three/",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "Epson",
+      "雷射投影機",
+      "3LCD",
+      "4K",
+      "LS5000",
+      "LS6000",
+      "LS7500"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1501,
     "source_name": "投影時代",
     "title_zh": "索諾克領航系列工程投影機賦能中國陶瓷琉璃館沉浸式空間",
@@ -18337,6 +18625,26 @@
     "mentioned_brands": [
       "索尼",
       "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1536,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-X3282STC 投影機北京促銷價 4999 元",
+    "summary_zh": "松下推出 PT-X3282STC 商用投影機促銷活動，由授權核心代理商富日广通在北京地區展開特價販售，限時優惠價為人民幣 4999 元。該機款主打性價比與實用性，吸引有意採購辦公或教育投影設備的消費者關注與洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1187/11877677.html",
+    "publish_date": "2026-05-26",
+    "keywords": [
+      "松下",
+      "PT-X3282STC",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "松下"
     ],
     "link_status": null
   },
