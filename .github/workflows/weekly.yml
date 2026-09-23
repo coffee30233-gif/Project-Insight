@@ -1,0 +1,137 @@
+name: Weekly Report
+
+on:
+  schedule:
+    # 週一 05:00 台北時間 = 週日 21:00 UTC。刻意提早：GitHub 排程常延遲數小時，
+    # 提早排才有機會在週一早上上班前寄出。
+    - cron: '0 21 * * 0'
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: '測試用：只寄給這個信箱（留空 = 寄給全部訂閱戶）'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: projector-insight-pipeline
+  cancel-in-progress: false
+
+jobs:
+  weekly-report:
+    runs-on: ubuntu-latest
+    env:
+      # 排程時間是週日 21:00 UTC，Runner 預設時區是 UTC，date.today() 會算成「週日」，
+      # 週報就會抓成再上一週。改用台北時區，今天才會是週一，範圍才對。
+      TZ: Asia/Taipei
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # GitHub 的 Linux 主機預設沒有中文字型。generate_weekly_pdf.py 找不到字型時會退回
+      # 「不內嵌字型」的備用方案，PDF 在不少閱讀器裡會變亂碼；週報圖表（matplotlib）也
+      # 會變成方塊。文泉驛正黑（wqy-zenhei）路徑剛好就在兩支程式的字型候選清單裡。
+      - name: 安裝中文字型（PDF 與圖表用）
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-wqy-zenhei
+          fc-cache -f
+
+      - name: Restore projector_intel.db（來自 tmp/db-transfer 分支）
+        run: python backup_db.py restore
+
+      - name: 產生週報
+        id: report
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_weekly_report.py
+
+      - name: 算出這次週報的檔名
+        id: filename
+        run: |
+          REPORT_FILE=$(python -c "from datetime import date, timedelta; d=date.today(); monday=d-timedelta(days=d.weekday()+7); y,w,_=monday.isocalendar(); print(f'{y}-W{w:02d}.md')")
+          echo "報告檔名：$REPORT_FILE"
+          echo "report_file=$REPORT_FILE" >> "$GITHUB_OUTPUT"
+
+      - name: 產生 PDF 和簡報
+        id: pdf
+        if: always()
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          REPORT_FILE="${{ steps.filename.outputs.report_file }}"
+          if [ -f "reports/$REPORT_FILE" ]; then
+            python generate_weekly_pdf.py "reports/$REPORT_FILE"
+            python generate_slides.py "reports/$REPORT_FILE"
+          else
+            echo "找不到 reports/$REPORT_FILE，PDF/簡報略過"
+            exit 1
+          fi
+
+      - name: 匯出靜態資料
+        id: export
+        if: always()
+        continue-on-error: true
+        run: python export_static_data.py
+
+      - name: git commit + push（data/ 和 reports/）
+        id: commit
+        if: always()
+        continue-on-error: true
+        run: |
+          git config user.name "projector-insight-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data reports
+          if git diff --cached --quiet; then
+            echo "沒有新變更，略過 commit / push"
+          else
+            git commit -m "Weekly report ${{ steps.filename.outputs.report_file }}（GitHub Actions）"
+            git push origin HEAD:main
+          fi
+
+      - name: 把資料庫狀態存回 tmp/db-transfer 分支
+        if: always()
+        continue-on-error: true
+        run: python backup_db.py
+
+      - name: 判斷整體成功/失敗
+        id: status
+        if: always()
+        run: |
+          echo "各步驟結果：report=${{ steps.report.outcome }} pdf=${{ steps.pdf.outcome }} export=${{ steps.export.outcome }} commit=${{ steps.commit.outcome }}"
+          if [ "${{ steps.report.outcome }}" = "failure" ] || \
+             [ "${{ steps.pdf.outcome }}" = "failure" ] || \
+             [ "${{ steps.export.outcome }}" = "failure" ] || \
+             [ "${{ steps.commit.outcome }}" = "failure" ]; then
+            echo "result=failed" >> "$GITHUB_OUTPUT"
+          else
+            echo "result=success" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 通知 n8n（成功時會一併上傳 PDF + 訂閱名單 + 摘要）
+        if: always()
+        env:
+          N8N_WEBHOOK_WEEKLY: ${{ secrets.N8N_WEBHOOK_WEEKLY }}
+          N8N_WEBHOOK_TOKEN: ${{ secrets.N8N_WEBHOOK_TOKEN }}
+          N8N_TEST_SUBSCRIBERS: ${{ github.event.inputs.test_email }}
+          # 信件裡「前往網站看更多」按鈕的連結；沒設的話連結會是空的，按了沒反應
+          WEBSITE_URL: https://project-insight-theta.vercel.app/
+        run: |
+          echo "GitHub Actions weekly run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
+            | python notify_n8n.py weekly ${{ steps.status.outputs.result }} "${{ steps.filename.outputs.report_file }}"
+
+      - name: 有步驟失敗就讓這次 workflow 顯示失敗
+        if: steps.status.outputs.result == 'failed'
+        run: exit 1

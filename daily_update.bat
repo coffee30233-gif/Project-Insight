@@ -89,8 +89,15 @@ echo ===== %date% %time% 每日更新完成 ===== >> "%LOGFILE%" 2>&1
 
 rmdir "%LOCKDIR%" 2>nul
 
+REM 失敗告警信改由 n8n 處理（見下方 notify_n8n.py 呼叫），這台電腦連不進
+REM 公司信箱（smtp.minaik.com 535 認證錯誤），本機不再寄信。
 if "!FAILED!"=="1" (
-    python -c "d=open(r'%LOGFILE%',encoding='utf-8',errors='replace').read(); print(d[-4000:])" | python notify.py "每日更新有步驟失敗 %date%"
+    set N8N_STATUS=failed
+) else (
+    set N8N_STATUS=success
 )
+
+REM 不管成功失敗都通知一次 n8n（沒設 N8N_WEBHOOK_DAILY 就靜靜略過，見 notify_n8n.py）
+python -c "d=open(r'%LOGFILE%',encoding='utf-8',errors='replace').read(); print(d[-4000:])" | python notify_n8n.py daily !N8N_STATUS!
 
 exit /b %FAILED%

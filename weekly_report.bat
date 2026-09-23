@@ -74,18 +74,21 @@ if errorlevel 1 (
     echo [沒有新變更，略過 commit / push] >> "%LOGFILE%" 2>&1
 )
 
-echo 寄送週報 email... >> "%LOGFILE%" 2>&1
-python send_weekly_email.py "reports\%REPORT_FILE%" >> "%LOGFILE%" 2>&1
-if errorlevel 1 (
-    echo [!! 週報寄信失敗 rc=%errorlevel%] >> "%LOGFILE%" 2>&1
-    set FAILED=1
-)
+REM 週報寄信改由 n8n 處理（見下方 notify_n8n.py 呼叫，會把 PDF + 訂閱名單
+REM 一起送過去），本機這邊不再寄信（send_weekly_email.py 已刪除）。
 
 echo [FAILED=!FAILED!] >> "%LOGFILE%" 2>&1
 echo ===== %date% %time% 每週報告完成 ===== >> "%LOGFILE%" 2>&1
 
+REM 失敗告警信改由 n8n 處理（見下方 notify_n8n.py 呼叫），本機不再寄信。
 if "!FAILED!"=="1" (
-    python -c "d=open(r'%LOGFILE%',encoding='utf-8',errors='replace').read(); print(d[-4000:])" | python notify.py "週報流程有步驟失敗 %date%"
+    set N8N_STATUS=failed
+) else (
+    set N8N_STATUS=success
 )
+
+REM 不管成功失敗都通知一次 n8n（沒設 N8N_WEBHOOK_WEEKLY 就靜靜略過，見 notify_n8n.py）
+REM 成功時會帶上 REPORT_FILE，連同訂閱名單、PDF、摘要一起上傳給 n8n 寄給訂閱戶
+python -c "d=open(r'%LOGFILE%',encoding='utf-8',errors='replace').read(); print(d[-4000:])" | python notify_n8n.py weekly !N8N_STATUS! "%REPORT_FILE%"
 
 exit /b %FAILED%
