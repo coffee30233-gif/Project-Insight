@@ -1,5 +1,269 @@
 [
   {
+    "id": 1547,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：尋找Salange k2投影機的韌體以修復磚機問題",
+    "summary_zh": "有用戶在論壇發文求助，尋找Salange k2型號投影機的官方韌體檔案，希望能藉此修復因刷機失敗或其他原因導致無法開機的磚機問題，屬於消費者的單一求助個案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1woarc8/salange_k2_projector_firmware_unbrick_i_needed/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "Salange k2",
+      "韌體",
+      "磚機修復",
+      "投影機維修"
+    ],
+    "mentioned_brands": [
+      "Salange"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1542,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Proton網格投影機布幕討論",
+    "summary_zh": "有使用者在論壇詢問關於新款Proton網格投影機布幕的使用經驗。據賣家宣稱，該布幕同時具備抗光屏（ALR）技術並能減少雷射散斑現象，目前北美地區尚無當地實體通路販售此款特殊規格的投影布幕產品。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1woct2k/proton_grid_projector_screen/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "投影幕",
+      "ALR抗光幕",
+      "雷射散斑",
+      "Proton grid"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1541,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找通電自動播放與循環播放USB檔案之平價投影機討論",
+    "summary_zh": "有網友在論壇發文尋求預算在五十至一百美元之間的平價投影機，要求具備通電後自動開機，並能無需人工介入自動循環播放USB影片檔案的功能，主要應用於車用萬聖節裝飾投影場景。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wojcud/projector_that_will_auto_playloop_usb_file_on/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "USB自動播放",
+      "平價投影機",
+      "循環播放",
+      "車用投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1540,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Tzumi投影機Netflix與藍牙連線故障求助",
+    "summary_zh": "用戶發文求助關於Tzumi投影機的故障問題，指出設備雖然能正常使用YouTube且網路連線無虞，但內建的Netflix應用程式無法正常運作，且藍牙喇叭也無法成功配對連接，嘗試重設後仍未解決。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1woitep/tzumi_projector_not_working/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "Tzumi",
+      "投影機故障",
+      "Netflix",
+      "藍牙連線"
+    ],
+    "mentioned_brands": [
+      "Tzumi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1539,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "理論上要在夜間將影像投影到山壁上需要什麼條件？",
+    "summary_zh": "本文為網路論壇討論串，探討在夜間將影像投影到寬度達0.8英里且具45度斜坡的山壁上所需之技術條件。原發文者提出利用無人機懸掛投影或是從五英里外的湖泊進行遠距離投射的構想，引發網友對超高流明投影與戶外大型光學投影可行性的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wodw2n/theoretically_what_would_it_take_to_project_an/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "戶外投影",
+      "超高流明",
+      "大型投影",
+      "山壁投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1560,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "寶視來高清智能投影A42U 4200LM無線投射促銷",
+    "summary_zh": "寶視來推出A3 Plus系列智能投影機A42U，具備4200流明高亮度與無線投射功能，主打智聯開關與多元控制特色。目前授權核心代理商正進行特價促銷活動，優惠售價為9999元人民幣，提供市場消費者具吸引力的採購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1252/12522397.html",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "寶視來",
+      "智能投影機",
+      "A42U",
+      "4200流明",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "寶視來"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1559,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麥克賽爾 J3701U 3700流明高清雷射投影機特價促銷",
+    "summary_zh": "本文報導投影機市場的通路優惠資訊，麥克賽爾MMP-J3701U 3700流明高清雷射投影機於北京授權代理商展開特價促銷活動，優惠價為新台幣換算後的11899元人民幣，提供有意採購的消費者參考。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1252/12522396.html",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "麥克賽爾",
+      "MMP-J3701U",
+      "雷射投影機",
+      "特價促銷",
+      "通路行情"
+    ],
+    "mentioned_brands": [
+      "麥克賽爾",
+      "Maxell"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1558,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下主流商教投影XZ401C 4000流明高清特價促銷",
+    "summary_zh": "松下推出主流商務與教育應用的PT-XZ401C投影機，具備4000流明的高亮度表現。目前代理商正在進行特價促銷活動，優惠售價為10999元人民幣，提供市場一項高效能且具性價比的採購選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1252/12522395.html",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "松下",
+      "PT-XZ401C",
+      "商教投影機",
+      "4000流明",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1557,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基高清家用商務投影機HT711特價促銷",
+    "summary_zh": "知名投影機品牌明基旗下的HT711高清家用與商務投影機，近期在授權核心代理商處展開特價促銷活動。優惠售價為5399元人民幣，提供有採購需求的消費者一個高性價比的入手選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1252/12522394.html",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "明基",
+      "HT711",
+      "家用投影機",
+      "商務投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1550,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手發問：Wanbo X7 與 XGIMI Elfin Flip Plus 該如何選擇？",
+    "summary_zh": "一名投影機新手正考慮購入 Wanbo X7 或 XGIMI Elfin Flip Plus，主要用於搭配掌機使用，並尋求大約 8 千墨西哥披索預算內的同級機種推薦。這屬於論壇消費者的個人選購諮詢討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wo99z8/vale_la_pena_o_es_mejor_otro/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "Wanbo X7",
+      "Elfin Flip Plus",
+      "投影機選購",
+      "消費心得"
+    ],
+    "mentioned_brands": [
+      "Wanbo",
+      "XGIMI",
+      "Asus"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1549,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "可攜式投影機架設與便攜投影幕選購建議",
+    "summary_zh": "有使用者分享其隨身攜帶微型投影機外出使用的經驗，並詢問適合戶外及聚會使用的平價、可折疊式便攜投影幕推薦方案，探討如何提升行動投影的畫質與架設便利性。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wo9ima/portable_projector_setup_advice/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "可攜式投影機",
+      "投影幕",
+      "微型投影機",
+      "戶外投影"
+    ],
+    "mentioned_brands": [
+      "Nebula"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1548,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生EH-LS9000、EH-TW7000與EH-TW6250客廳投影機選購比較與詢問",
+    "summary_zh": "本篇為Reddit論壇上的消費者討論，針對愛普生三款投影機EH-LS9000、EH-TW7000與EH-TW6250進行客廳應用評比。考量小空間、4.5公尺投影距離與1.7公尺寬布幕的配置，原發文者在追求高階雷射光源壽命與較低預算機型之間猶豫，尋求網友推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wo49al/epson_ehls9000_vs_ehtw7000_vs_ehtw6250_for/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "Epson",
+      "EH-LS9000",
+      "EH-TW7000",
+      "EH-TW6250",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1545,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson LS650 與 LS670 機型比較與選購討論",
+    "summary_zh": "本文為 Reddit 用戶針對 Epson 旗下的 LS650 與 LS670 兩款雷射投影機進行的規格與價格比較討論。發文者指出兩者翻新機價格分別為 1000 美元與 1700 美元，主要用途為觀看電影及玩遊戲，並詢問價差近兩倍是否值得為了升級功能而購入。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wo2qr1/epson_ls650_vs_ls670/",
+    "publish_date": "2026-09-23",
+    "keywords": [
+      "Epson",
+      "LS650",
+      "LS670",
+      "雷射投影機",
+      "翻新機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1532,
     "source_name": "DigiTimes",
     "title_zh": "SK海力士創投部門將業務拓展至光學互連與系統軟體",
@@ -18928,6 +19192,27 @@
     "link_status": null
   },
   {
+    "id": 1555,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-TW7400 北京地區促銷價 15500 元",
+    "summary_zh": "愛普生旗下投影機型號 CH-TW7400 近日在北京通路市場展開特價促銷活動，優惠售價為人民幣 15500 元。提供有採購需求的消費者與代理商參考的終端零售價格動態。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1183/11839458.html",
+    "publish_date": "2026-05-19",
+    "keywords": [
+      "愛普生",
+      "CH-TW7400",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "EPSON"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1105,
     "source_name": "Epson官方",
     "title_zh": "Epson推出全新雷射投影機系列，主打高衝擊力、簡便操作與空間彈性",
@@ -20231,6 +20516,27 @@
     "mentioned_brands": [
       "ROLY",
       "樂麗"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1554,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "小米推出庭屏8雲台版智能投影儀",
+    "summary_zh": "小米推出全新庭屏8雲台版智能投影儀，搭載自研光機與AI畫質增強技術，支援1080P解析度及360度智能雲台旋轉。具備自動對焦與梯形校正功能，內建雙麥遠場語音與小愛同學語音助理，並提供16GB儲存空間，滿足日常智慧家庭娛樂需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1168/11688763.html",
+    "publish_date": "2026-04-20",
+    "keywords": [
+      "小米",
+      "智能投影儀",
+      "雲台投影",
+      "AI畫質",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "小米"
     ],
     "link_status": null
   },
