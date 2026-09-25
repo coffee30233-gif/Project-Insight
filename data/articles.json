@@ -1,5 +1,133 @@
 [
   {
+    "id": 1579,
+    "source_name": "ZNDS投影頻道",
+    "title_zh": "以AI拓展智能科技邊界，當貝創始人金凌琳入選2026《財富》潛力榜",
+    "summary_zh": "2026年9月，《財富》雜誌公布中國40歲以下最具潛力的商界精英榜，杭州當貝網路科技有限公司創始人金凌琳憑藉在人工智能賽道的創新表現成功入選。該榜單聚焦各行業最具潛力的年輕創新者，展現人工智慧與智能科技領域的發展動態與人物成就。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://news.znds.com/article/69629.html",
+    "publish_date": "2026-09-25",
+    "keywords": [
+      "當貝",
+      "金凌琳",
+      "財富潛力榜",
+      "人工智慧",
+      "智能科技"
+    ],
+    "mentioned_brands": [
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1566,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ X3100i與Optoma UHZ58LV家用劇院投影機規格與耐用度比較",
+    "summary_zh": "本文為德國用戶在籌備專用暗室家庭劇院時，針對BenQ X3100i與Optoma UHZ58LV兩款熱門投影機的規格、價格及長期耐用度進行比較。討論焦點包含遊戲低延遲、雷射光源與LED光源差異，以及品牌可靠度與售後服務的評價。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wpay8s/benq_x3100i_vs_optoma_uhz58lv_for_a_dedicated/",
+    "publish_date": "2026-09-25",
+    "keywords": [
+      "BenQ X3100i",
+      "Optoma UHZ58LV",
+      "家用投影機",
+      "4LED光源",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Optoma",
+      "Celexon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1564,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 Lifestudio Grand Plus 投影畫面模糊問題探討",
+    "summary_zh": "有用戶在 Reddit 發文求助，指出新購入的愛普生 Lifestudio Grand Plus 投影機在投射至牆面時，出現畫面頂部嚴重模糊、底部與側邊輕微模糊、僅中心底部清晰的狀況。經過初步調整與測試，即使確認投影機水平放置且牆面平整，問題仍無法獲得解決，引發關於對焦與梯形校正功能的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wphtuz/epson_lifestudio_grand_plus_mystery_blurriness/",
+    "publish_date": "2026-09-25",
+    "keywords": [
+      "Epson",
+      "Lifestudio Grand Plus",
+      "投影模糊",
+      "對焦問題",
+      "梯形校正"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1574,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何在日光環境下對抗投影機亮度不足的問題：超短焦投影機與抗光幕的應用探討",
+    "summary_zh": "本文為論壇用戶針對開放式空間日光干擾問題的經驗請益。作者探討在無法完全遮光的環境下，如何透過高流明超短焦投影機搭配落地式抗光幕來克服畫面泛白現象。內容提及多款即將上市的新品機型與硬體配置評估，並尋求社群對於光害控制的實際使用建議。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1woua0o/how_many_lumens_to_combat_daylight_issues/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "抗光幕",
+      "流明",
+      "環境光"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "AWOL",
+      "HiSense",
+      "Vividstorm"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1567,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "雙光圈與單光圈加影像處理：實際差異與效果探討",
+    "summary_zh": "本文探討高階超短焦投影機在光學控制上的分歧設計，比較實體雙光圈與單光圈結合黑階演算法的差異。討論焦點在於機械式光圈物理遮光的成效是否能優於動態幀處理演算法，並關注原生對比度測量標準對數據的影響。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wp1hss/dual_iris_vs_single_iris_plus_processing_does_it/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "雙光圈",
+      "單光圈",
+      "黑階演算法",
+      "原生對比度",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1562,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "首台投影機入手分享：Valerion Streammaster Plus 2 實測心得",
+    "summary_zh": "一名長期關注投影機社群的用戶，在比價後趁特價以1650加幣購入Valerion Streammaster Plus 2雷射投影機，搭配110吋銀幕使用。使用者表示暗室表現極佳，但後續仍需處理線材整理並升級音響系統以匹配畫面。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wp4u4e/first_projector/",
+    "publish_date": "2026-09-24",
+    "keywords": [
+      "Valerion Streammaster Plus 2",
+      "雷射投影機",
+      "家用投影機",
+      "使用者心得"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1547,
     "source_name": "Reddit r/projectors",
     "title_zh": "求助：尋找Salange k2投影機的韌體以修復磚機問題",
@@ -19188,6 +19316,27 @@
     ],
     "mentioned_brands": [
       "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1577,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基EH6834投影機北京促銷報價6800元",
+    "summary_zh": "根據中關村線上最新行情資訊，明基旗下EH6834投影機機種近日於北京地區展開特惠促銷活動，特價優惠價格為人民幣6800元。該款產品主打豐富色彩表現、清晰畫質以及智能省電功能，提供當地消費者選購參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1183/11839463.html",
+    "publish_date": "2026-05-19",
+    "keywords": [
+      "明基",
+      "EH6834",
+      "投影機",
+      "行情",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "明基"
     ],
     "link_status": null
   },
