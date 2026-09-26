@@ -1,5 +1,144 @@
 [
   {
+    "id": 1587,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機電源指示燈亮起但無法開機故障求助",
+    "summary_zh": "本文為一般用戶在Reddit論壇發文求助，描述其新購入的投影機在經歷錯誤插拔與電源線反插後，出現電源指示燈亮紅燈但無法正常開機的故障情況，文章內容屬於單一用戶的使用心得與故障排除討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wqcxwd/projecter_power_button_on_but_not_turning_on/",
+    "publish_date": "2026-09-26",
+    "keywords": [
+      "故障排除",
+      "電源問題",
+      "用戶心得"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1585,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "利用投影對映進行牆面繪畫的創業構想與軟體諮詢",
+    "summary_zh": "有使用者在論壇上發文尋求建議，探討如何利用投影對映技術來進行牆面繪畫創業，並詢問市面上有哪些適合初學者使用、可調整投影尺寸的相關控制軟體及其成本價格，引發社群關於投影應用與入門難易度的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wq2yfm/painting_with_projection_mapping/",
+    "publish_date": "2026-09-26",
+    "keywords": [
+      "投影對映",
+      "Projection Mapping",
+      "牆面繪畫",
+      "投影軟體"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1583,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 Max 使用者的螢幕選擇與遊戲畫面優化求助",
+    "summary_zh": "一名剛購入極米 Horizon 20 Max 投影機的消費者發文求助，指出設備在白天光線下表現不佳，且將畫面投射在特殊藝術漆牆面上導致遊戲畫面失真。他正尋找適合日夜兩用的130吋下拉式布幕，並詢問灰色布幕夜間表現及個人電腦遊戲設定的優化技巧。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wq34oa/xgimi_optimization/",
+    "publish_date": "2026-09-26",
+    "keywords": [
+      "極米",
+      "Horizon 20 Max",
+      "投影幕",
+      "遊戲優化",
+      "日夜兩用"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1581,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "沉浸式投影顯示技術之未來發展",
+    "summary_zh": "本文探討即將進入家庭與商業應用市場的全新沉浸式投影顯示技術。隨著顯示技術不斷演進，此類創新方案有望為使用者帶來更具包覆感與互動性的視覺體驗，適合應用於家庭劇院及商業展示等多元場域。",
+    "category": "技術動態",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wqhp9h/imersive_projection_display_technology/",
+    "publish_date": "2026-09-26",
+    "keywords": [
+      "沉浸式投影",
+      "顯示技術",
+      "家用投影",
+      "商業投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1589,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TK710STi 與 Optoma UHZ36STe 投影機選購比較討論",
+    "summary_zh": "本篇文章來自網路論壇的用戶提問，主要聚焦於兩款熱門短焦雷射投影機 BenQ TK710STi 與 Optoma UHZ36STe 的規格與選購比較，內容反映出消費者在實際應用場景中的產品抉擇與討論需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wpq7m8/benq_tk710sti_or_optoma_uhz36ste/",
+    "publish_date": "2026-09-25",
+    "keywords": [
+      "BenQ",
+      "Optoma",
+      "TK710STi",
+      "UHZ36STe",
+      "短焦投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1588,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aetherion Max UST 投影機溢價問題討論",
+    "summary_zh": "本文為 Reddit 論壇上關於 Aetherion Max 超短焦投影機價格與價值的討論串，內容主要由用戶分享產品購買價格是否合理及相關使用經驗，對於宏觀的投影機產業動態與技術發展參考價值較低。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wpx4s3/overspay_of_aetherion_max_ust/",
+    "publish_date": "2026-09-25",
+    "keywords": [
+      "Aetherion Max",
+      "UST",
+      "超短焦投影機",
+      "售價"
+    ],
+    "mentioned_brands": [
+      "Aetherion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1586,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三星 Premiere 9 與極米 Aura 3 Max 超短焦投影機在亮室與暗室表現之比較討論",
+    "summary_zh": "本文為消費者在實體店面觀看三星 Premiere 9 超短焦投影機搭配抗光幕的心得，並探討其在環境光下的黑位表現。文中同時比較即將推出的極米 Aura 3 Max 規格差異，探討在不同光源環境下與更大尺寸投影畫面的實際觀影體驗差異。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wptx9q/light_vs_dark_and_samsung_premiere_9_vs_xgimi/",
+    "publish_date": "2026-09-25",
+    "keywords": [
+      "超短焦投影機",
+      "三星",
+      "極米",
+      "抗光幕",
+      "黑位表現"
+    ],
+    "mentioned_brands": [
+      "Samsung",
+      "Xgimi",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1579,
     "source_name": "ZNDS投影頻道",
     "title_zh": "以AI拓展智能科技邊界，當貝創始人金凌琳入選2026《財富》潛力榜",
@@ -19079,6 +19218,29 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1594,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "微果C1臥室投影機天貓特惠直降92元",
+    "summary_zh": "堅果投影機旗下的微果C1臥室投影機推出促銷活動，具備1080P高清畫質與小巧便携設計，能適應多種居家生活場景。目前在天貓精選平台享有下單立減優惠，實際售價降至913.73元，提供消費者高性價比的家用大屏觀影選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1187/11871902.html",
+    "publish_date": "2026-05-25",
+    "keywords": [
+      "微果C1",
+      "堅果投影機",
+      "家用投影機",
+      "1080P",
+      "促銷優惠"
+    ],
+    "mentioned_brands": [
+      "微果",
+      "堅果",
+      "天貓"
     ],
     "link_status": null
   },
