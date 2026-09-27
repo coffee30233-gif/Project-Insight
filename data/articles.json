@@ -1,5 +1,147 @@
 [
   {
+    "id": 1607,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "萬播投影機實際表現如何？Reddit用戶發文詢問評價與平價替代方案",
+    "summary_zh": "有用戶在Reddit論壇發文詢問平價投影機品牌萬播（Wanbo）的實際表現，特別關注萬播Vali 1 Pro型號，並尋求使用過該品牌投影機的真實心得，同時也開放徵求五百美元以下的同價位替代機種建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wr0bgs/are_wanbo_projectors_actually_good/",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "萬播",
+      "Wanbo",
+      "平價投影機",
+      "Vali 1 Pro",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "Wanbo",
+      "萬播"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1602,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 HC2350 投影機出現綠色色偏與殘影問題",
+    "summary_zh": "有用戶反應愛普生HC2350投影機畫面頂部出現綠色色偏，且有明顯殘影現象，更換不同HDMI訊號源後問題依舊。由於該機仍在保固期內，用戶正在詢問此類硬體故障是否屬於原廠保固範圍與維修可能性。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wr873i/epson_hc2350_green_tint_and_ghosting/",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "Epson",
+      "HC2350",
+      "綠色色偏",
+      "殘影",
+      "硬體故障"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1601,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH575i 與 Epson EF-22N 暗室觀影比較討論",
+    "summary_zh": "本篇為網路論壇用戶關於BenQ TH575i與Epson EF-22N兩款投影機在暗室環境下觀賞電影與影集的規格比較與實際使用心得徵詢，主要關注黑階表現、彩虹效應、運作噪音及連接埠限制等實際體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wr8bz6/benq_th575i_vs_epson_ef22n_for_dark_room/",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "BenQ TH575i",
+      "Epson EF-22N",
+      "暗室觀影",
+      "投影機比較"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1599,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "家用劇院投影機升級替換請益",
+    "summary_zh": "一名使用者因家中老舊的Panasonic投影機故障且零件難尋，正尋求預算兩千美元內的4K升級方案。在參考AI建議與考量現有吊架安裝投射比後，其看中一款官方整新版的Epson 4K加強型投影機，並發文向社群專家徵求購買建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wr64dm/home_theater_replacement/",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "家用投影機",
+      "4K投影機",
+      "升級替換",
+      "整新機"
+    ],
+    "mentioned_brands": [
+      "Panasonic",
+      "ChatGPT",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1598,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "未使用的投影區域亮度過高問題探討",
+    "summary_zh": "有用戶發文反映其新購入的海信投影機在黑暗場景中，投影畫面周圍未使用的空白區域顯得過於明亮，調整影像設定亦無法改善，詢問是否為機王或產品通病。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wqvsor/unused_projection_area_color_is_too_bright/",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "投影機",
+      "亮度",
+      "畫面邊緣",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1597,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit 用戶分享平價投影機 RZ370U 使用心得與畫面表現",
+    "summary_zh": "國外論壇用戶分享一款售價僅 280 美元的平價投影機 RZ370U，在環境光充足且投影至 150 吋深色牆面的條件下，依然能展現出相當清晰的畫質表現，適合作為預算有限的工作室投影設備方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wr4f7j/this_thing_is_impressive_tons_of_ambient_light/",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "RZ370U",
+      "平價投影機",
+      "使用者心得",
+      "環境光表現"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1610,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從側邊餘光瞥見超短焦投影機的光線會對眼睛造成危險嗎？",
+    "summary_zh": "本文探討消費者剛購入超短焦投影機後的常見疑慮，擔憂進出房間時從側邊餘光瞥見雷射光源是否會傷害眼睛。文章提及設備已內建安全防護模式且經測試有效，討論焦點集中在雷射投影的實際使用安全與日常防護機制。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wqiuoz/dangerous_to_glance_at_ust_from_the_side/",
+    "publish_date": "2026-09-26",
+    "keywords": [
+      "超短焦投影機",
+      "雷射光源",
+      "視力安全",
+      "防護機制"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 1587,
     "source_name": "Reddit r/projectors",
     "title_zh": "投影機電源指示燈亮起但無法開機故障求助",
@@ -18549,6 +18691,26 @@
     "link_status": null
   },
   {
+    "id": 1613,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基MX560投影機北京促銷價3199元",
+    "summary_zh": "通路商針對明基MX560高流明商務投影機推出特價促銷活動，北京地區優惠售價為3199元人民幣。該機型主要定位於中大型會議室應用，具備高亮度等產品特色，提供有採購需求的企業用戶參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1200/12004786.html",
+    "publish_date": "2026-06-17",
+    "keywords": [
+      "明基",
+      "MX560",
+      "商務投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "明基"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1450,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下 PT-BMZ62C 北京促銷價 13,500 元人民幣",
@@ -18931,6 +19093,27 @@
     "mentioned_brands": [
       "大眼橙",
       "中關村線上"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1612,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙C3 Air投影機北京特惠促銷價829元",
+    "summary_zh": "知名投影機品牌大眼橙旗下的C3 Air機型，近日在北京通路商家展開特價促銷活動，優惠售價為人民幣829元。該款主打卧室精靈與夜燈雲台設計的投影設備，吸引不少有意尋求高性價比家用投影機的消費者關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1192/11928430.html",
+    "publish_date": "2026-06-04",
+    "keywords": [
+      "大眼橙",
+      "C3 Air",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "易仁科技"
     ],
     "link_status": null
   },
