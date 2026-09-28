@@ -1,9 +1,9 @@
 {
-  "total_articles": 1101,
+  "total_articles": 1127,
   "total_sources": 34,
   "by_source": {
-    "ZOL投影機頻道": 434,
-    "Reddit r/projectors": 304,
+    "ZOL投影機頻道": 451,
+    "Reddit r/projectors": 313,
     "ProjectorReviews": 120,
     "ProjectorCentral": 71,
     "當貝Dangbei官方": 33,
@@ -39,16 +39,16 @@
   },
   "by_category": {
     "供應鏈": 14,
-    "市場數據": 150,
-    "技術動態": 116,
-    "新品發布": 821
+    "市場數據": 151,
+    "技術動態": 117,
+    "新品發布": 845
   },
-  "latest_publish_date": "2026-09-27",
+  "latest_publish_date": "2026-09-28",
   "link_check": {
     "by_status": {
       "blocked": 3,
       "ok": 1,
-      "unchecked": 1493
+      "unchecked": 1527
     },
     "last_checked_at": "2026-09-04T08:07:10.276057+00:00"
   }

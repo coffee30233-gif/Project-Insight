@@ -1,5 +1,521 @@
 [
   {
+    "id": 1648,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L790U投影機特價促銷中",
+    "summary_zh": "通路訊息指出，愛普生旗下的CB-L790U雷射投影機目前在經銷商處展開特價促銷活動。該機型具備雷射光源、迅速開機與恆定輸出等產品亮點，提供有採購需求的消費者進行詢價與選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545939.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CB-L790U",
+      "雷射投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1647,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2155W投影機特價促銷活動",
+    "summary_zh": "愛普生旗下型號CB-2155W投影機近日於北京經銷商處展開特價促銷活動。該款商用投影機具備高亮度等特色，適合企業辦公與教育場景使用，目前價格採面議方式，提供有採購需求的消費者前往實體店面諮詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545938.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CB-2155W",
+      "投影機促銷",
+      "商用投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1646,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-994F投影機特價促銷中",
+    "summary_zh": "通路商針對愛普生CB-994F商用投影機展開特價促銷活動，該機型主打採用3LCD投影技術，具備4100ISO流明亮度與0.62吋大尺寸晶片，提供有需求的消費者進行採購諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545937.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CB-994F",
+      "3LCD",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1645,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CH-TW7400投影機北京商家特價促銷中",
+    "summary_zh": "知名投影機品牌愛普生旗下的CH-TW7400機型，近日於北京地區展開通路特價促銷活動。商家提供價格面議優惠，吸引有意購買家用高畫質投影設備的消費者前往實體店面洽詢了解詳情。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545936.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CH-TW7400",
+      "投影機促銷",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1644,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-PU1008W 投影機特價促銷訊息",
+    "summary_zh": "通路商針對愛普生工程投影機型號 CB-PU1008W 展開特價促銷活動，買家可透過電話或親自前往北京實體店面進行價格諮詢與採購，提供有需求的消費者採購參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545935.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CB-PU1008W",
+      "工程投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "EPSON"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1643,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-982W投影機通路特價促銷中",
+    "summary_zh": "知名投影機品牌愛普生旗下的CB-982W商用投影機機型，近日於北京通路展開特價促銷活動。業者表示價格採面議方式，提供有採購需求的消費者前往實體據點洽詢與選購，展現終端市場的常規促銷動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545934.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CB-982W",
+      "商用投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1642,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-972投影機特價促銷活動",
+    "summary_zh": "愛普生推出CB-972商用投影機特價促銷活動，由北京經銷商進行價格面議與現場諮詢。此類通路銷售資訊主要針對終端消費者採購，對整體投影機產業的宏觀趨勢、市場數據或核心技術發展無直接影響。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1254/12545933.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "CB-972",
+      "投影機",
+      "促銷",
+      "商用投影"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1641,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-LS800B 特價促銷歡迎來電諮詢",
+    "summary_zh": "知名投影機品牌愛普生旗下的 EH-LS800B 4K雷射電視投影機，近期於北京經銷商展開特價促銷活動。該款產品主打操作簡易與高畫質表現，吸引對大畫面家庭劇院有興趣的消費者關注與洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1254/12545932.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "愛普生",
+      "EH-LS800B",
+      "雷射電視",
+      "4K投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1628,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三星The Freestyle投影機無法開機之用戶求助與討論",
+    "summary_zh": "一名用戶在Reddit發文求助，指出其長期連接電源的三星The Freestyle投影機在返家後突然無法開機。該用戶已嘗試重新啟動與更換電源線未果，懷疑可能與當地高溫環境導致內部損壞有關，並計畫送修檢測。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wrteb6/samsung_freestyle_geht_einfach_nicht_mehr_an/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "Samsung Freestyle",
+      "投影機故障",
+      "無法開機",
+      "用戶求助"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1627,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Nothingprojector 電動布幕邊角皺褶問題求助",
+    "summary_zh": "一名用戶在論壇發文求助，表示剛購買的 Nothingprojector 電動抗光投影布幕，安裝時已確認水平並調整了兩側的張力繩，但畫面左上角與右上角仍然出現嚴重的波浪狀皺褶，無法透過常規方式改善，尋求社群協助。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wrulqi/nothingprojector_drop_down_screen_issues/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "投影布幕",
+      "電動布幕",
+      "抗光布幕",
+      "產品問題"
+    ],
+    "mentioned_brands": [
+      "Nothingprojector"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1626,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "室內外兩用投影機與布幕挑選討論",
+    "summary_zh": "本文為Reddit論壇使用者的發文，主要探討如何挑選適合室內與室外兩種不同環境使用的投影機及對應布幕。內容屬於一般消費者的產品應用諮詢與選購心得交流，並未涉及深度的產業市場數據、新技術研發或供應鏈動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wrq2o6/choosing_projectorscreen_for_insideoutside_setup/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "投影機挑選",
+      "布幕",
+      "室外投影",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1623,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找奧圖碼 UHD52Alv 投影機的替代機型建議",
+    "summary_zh": "本文為 Reddit 論壇用戶發起的尋求投影機替換建議討論，使用者因原本的奧圖碼 UHD52Alv 出現白點故障而需尋找新機。文章提及安裝距離為19呎、搭配142吋螢幕，並反映目前市面上長焦投影機選擇減少、多數為短焦機種的現象。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wrztkg/replacing_optoma_uhd52alv_looking_for_suggestions/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "Optoma",
+      "UHD52Alv",
+      "4K投影機",
+      "長焦投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1621,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機是否必須搭配抗光幕？使用者提問與環境分析",
+    "summary_zh": "本文探討使用者在購買超短焦投影機時，針對130至150吋大畫面是否必須選購昂貴的抗光幕。使用者提出若在全黑環境下觀看，並利用黑色絨布搭建遮光結構，是否可替代抗光幕的效果，引發對投影機周邊配件與環境控制的討論。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1ws1nwo/is_alr_screen_necessary_in_this_situation/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "超短焦投影機",
+      "抗光幕",
+      "投影幕",
+      "視聽環境"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1619,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明基 BenQ GV30 投影機串流應用程式頻繁閃退問題求助",
+    "summary_zh": "有使用者在網路論壇發文求助，指出明基 BenQ GV30 智慧投影機在執行 Max 等串流影音應用程式時，會頻繁發生自動登出並強制返回主畫面的異常狀況，尋求其他用戶的解決方案與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1ws5uuz/benq_gv30_keeps_kicking_me_out_of_streaming_apps/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "BenQ",
+      "GV30",
+      "串流應用程式",
+      "閃退",
+      "使用者問題"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "HBO Max"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1618,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生投影機型號HA85A燈泡更換求助",
+    "summary_zh": "本文為 Reddit 用戶發文尋求 Epson 投影機型號 HA85A 的燈泡更換協助。由於拆解過程遇到困難，且發現該機型設計可能缺乏便利使用者的維修途徑，發文者希望能獲得相關拆解與更換燈泡的實用建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1ws1ozy/epson_projector_model_ha85a_bulb_replacement_help/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "Epson",
+      "HA85A",
+      "燈泡更換",
+      "投影機維修"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1616,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手奧圖碼720p投影機心得：低延遲與價格符合需求但解析度猶豫",
+    "summary_zh": "使用者分享尋找二手奧圖碼投影機的經驗，該機型具備低輸入延遲且價格便宜，非常適合搭配Steam Deck進行遊戲。然而因其原生解析度僅為720p，使用者在觀賞電影與遊戲畫質之間權衡，並尋求社群對於720p解析度的滿意度回饋與同價位1080p替代方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1ws4mra/i_found_a_projector_that_checks_all_the_boxes/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "Optoma",
+      "720p",
+      "二手投影機",
+      "低輸入延遲",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1615,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生、索尼與JVC齊聚紐約：高亮度螢幕與犀利提問",
+    "summary_zh": "本文探討愛普生、索尼與JVC三大投影機品牌在紐約舉辦的產業活動，展示最新的高亮度顯示螢幕與相關技術，並在現場引發關於畫質、性能與市場走向的深度討論與交流，吸引眾多投影機愛好者關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://www.reddit.com/r/projectors/comments/1wryyl5/epson_sony_and_jvc_in_nyc_bright_screens_blunt/",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "投影機",
+      "高亮度",
+      "顯示技術",
+      "產業活動"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Sony",
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1640,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CH-TW7000投影機北京特價促銷",
+    "summary_zh": "通路商針對愛普生CH-TW7000家用投影機展開特價促銷活動。該機型具備4K超高清解析度、3000流明亮度，並支援大變焦與3D功能，提供有興趣的消費者洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1253/12533198.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CH-TW7000",
+      "4K投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "中關村線上"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1639,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2255U投影機特價促銷中",
+    "summary_zh": "愛普生CB-2255U商用投影機於北京通路展開特價促銷活動，價格採面議方式。該機型主打3LCD投影技術、WUXGA標準解析度以及雙畫面並列投影等功能亮點，吸引有採購需求的消費者關注與諮詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1253/12533197.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-2255U",
+      "3LCD",
+      "投影機促銷",
+      "商用投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1638,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-2265U投影機北京特價促銷中",
+    "summary_zh": "本文報導愛普生旗下型號CB-2265U投影機於北京經銷商處展開特價促銷活動，消費者可透過電話或前往實體店面洽詢面議價格，提供有意採購商務投影設備的用戶參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1253/12533196.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-2265U",
+      "投影機促銷",
+      "商用投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1637,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-FH54投影機特價促銷中",
+    "summary_zh": "愛普生推出CB-FH54商用投影機特價促銷活動，此款機種採用3LCD投影技術，具備4100流明亮度以及0.62吋大尺寸晶片，提供優異的投影表現，目前由特定經銷商進行特價販售，價格採面議方式。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1253/12533195.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-FH54",
+      "3LCD",
+      "投影機促銷",
+      "4100流明"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1636,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L690U投影機特價促銷活動展開",
+    "summary_zh": "知名通路商針對愛普生CB-L690U工程投影機推出限時特價促銷活動。該機型主打雷射光源的恆定亮度輸出、迅速開機以及優異的畫質表現，目前商家提供價格面議的優惠方案，吸引有商務與工程安裝需求的買家洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1253/12533194.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-L690U",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1635,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-FH08 投影機北京市場特價促銷",
+    "summary_zh": "愛普生推出CB-FH08商務教育投影機，近期於北京通路展開特價促銷活動。該機型採用3LCD投影技術，具備3600流明亮度以及0.62吋大尺寸顯示晶片，提供良好的影像表現與性價比，吸引有採購需求的消費者洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1253/12533193.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-FH08",
+      "3LCD",
+      "投影機促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1634,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-X49投影機特價促銷中",
+    "summary_zh": "知名投影機品牌愛普生的CB-X49商務機種，近期在通路商展開特價促銷活動。該機型主打辦公與教育市場，目前商家提供價格面議優惠，吸引有採購需求的消費者前往實體店面洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1253/12533192.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-X49",
+      "投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1633,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L530U特價促銷歡迎來電諮詢",
+    "summary_zh": "知名投影機品牌愛普生旗下的CB-L530U工程投影機，近日於北京通路商展開特價促銷活動。該機型具備高亮度等工程應用特點，目前商家採取價格面議方式銷售，提供有採購需求的企業或場域用戶前往洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://projector.zol.com.cn/1253/12533191.html",
+    "publish_date": "2026-09-27",
+    "keywords": [
+      "愛普生",
+      "CB-L530U",
+      "投影機促銷",
+      "工程投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1607,
     "source_name": "Reddit r/projectors",
     "title_zh": "萬播投影機實際表現如何？Reddit用戶發文詢問評價與平價替代方案",
@@ -21118,6 +21634,27 @@
     ],
     "mentioned_brands": [
       "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1632,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "1080P高亮度！奧圖碼EH412商用投影機首選促銷",
+    "summary_zh": "奧圖碼推出EH412商用投影機，具備1080P高畫質與高亮度表現，適合辦公與商務簡報使用。目前經銷商推出特價促銷活動，優惠價格為5399元人民幣，提供有採購需求的企業用戶一個高性價比的優質選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1164/11647300.html",
+    "publish_date": "2026-04-13",
+    "keywords": [
+      "奧圖碼",
+      "EH412",
+      "商用投影機",
+      "1080P",
+      "投影機促銷"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
     ],
     "link_status": null
   },
