@@ -143,12 +143,32 @@ def _extract_card_term(runs, max_term_len=18):
     return term, description
 
 
+def _is_heading_only_bullet(runs):
+    """
+    判斷這條「項目」本質上只是一個沒有實際說明內容的標題，不是真正的一則
+    重點，不該被硬塞進卡片網格裡變成一張空殼卡片。常見於兩種寫法：
+      1. `### 小標題` 轉出來的純標題（parse_report 裡整行包成單一個粗體
+         run，後面沒有任何文字）。
+      2. `**類別名稱**：` 後面接縮排子清單（例如「**光電核心元件投資**：」
+         下面接兩個子項目）——子清單被拆成獨立項目後，父項目只剩下粗體
+         詞加一個冒號，去掉冒號之後完全沒有內容。
+    """
+    if not runs:
+        return True
+    if not runs[0][1]:  # 第一段不是粗體，一定不是這種「純標題」情況
+        return False
+    rest = "".join(text for text, _ in runs[1:]).strip()
+    rest = re.sub(r"^[：:]\s*$", "", rest)
+    return not rest
+
+
 def _is_card_friendly(bullets, min_ratio=0.7):
     """段落裡大多數項目都符合「關鍵詞：說明」格式、且數量不太多，才適合改用卡片網格。"""
-    if not bullets or len(bullets) > 12:
+    content_bullets = [b for b in bullets if not _is_heading_only_bullet(b)]
+    if not content_bullets or len(content_bullets) > 12:
         return False
-    matched = sum(1 for b in bullets if _extract_card_term(b) is not None)
-    return (matched / len(bullets)) >= min_ratio
+    matched = sum(1 for b in content_bullets if _extract_card_term(b) is not None)
+    return (matched / len(content_bullets)) >= min_ratio
 
 
 def _fallback_card(runs, max_term_len=18):
@@ -171,8 +191,10 @@ def _fallback_card(runs, max_term_len=18):
 
 
 def paginate_cards(bullets, per_page=MAX_CARDS_PER_SLIDE):
-    """把符合卡片格式的項目，依 per_page 切成好幾頁。"""
-    cards = [_extract_card_term(b) or _fallback_card(b) for b in bullets]
+    """把符合卡片格式的項目，依 per_page 切成好幾頁（分組用的小標題不算進來，見
+    `_is_heading_only_bullet`）。"""
+    content_bullets = [b for b in bullets if not _is_heading_only_bullet(b)]
+    cards = [_extract_card_term(b) or _fallback_card(b) for b in content_bullets]
     return [cards[i:i + per_page] for i in range(0, len(cards), per_page)] or [[]]
 
 
@@ -455,12 +477,16 @@ def build_card_grid_slide(prs, section_no, heading, cards, page_index=1, page_to
     n = len(cards)
     if n <= 2:
         cols = max(n, 1)
+        term_size, desc_size = 20, 15.5
     elif n == 3:
         cols = 3
+        term_size, desc_size = 18, 14
     elif n == 4:
         cols = 4
+        term_size, desc_size = 17, 13.5
     else:
         cols = 3
+        term_size, desc_size = 16, 13
     rows = -(-n // cols)  # 無條件進位
 
     margin_x = 0.6
@@ -484,17 +510,23 @@ def build_card_grid_slide(prs, section_no, heading, cards, page_index=1, page_to
         _add_card_rect(slide, x, y, w, h, line_color=accent, fill_color=CARD2)
 
         pad = Inches(0.22)
-        _add_textbox(slide, x + pad, y + Inches(0.18), w - pad * 2, Inches(0.5),
-                     term, 14.5, accent, bold=True)
+        if term:
+            _add_textbox(slide, x + pad, y + Inches(0.18), w - pad * 2, Inches(0.5),
+                         term, term_size, accent, bold=True)
+            desc_top, desc_h = y + Inches(0.72), h - Inches(0.9)
+        else:
+            # 沒有抓到標題的項目（原文本來就不是「關鍵詞：說明」格式），不要
+            # 留一塊空白的標題區——說明文字直接往上補滿，卡片才不會看起來空洞。
+            desc_top, desc_h = y + Inches(0.22), h - Inches(0.4)
 
-        desc_box = slide.shapes.add_textbox(x + pad, y + Inches(0.72), w - pad * 2, h - Inches(0.9))
+        desc_box = slide.shapes.add_textbox(x + pad, desc_top, w - pad * 2, desc_h)
         tf = desc_box.text_frame
         tf.word_wrap = True
         p = tf.paragraphs[0]
         p.line_spacing = 1.2
         run = p.add_run()
         run.text = desc
-        run.font.size = Pt(11.5)
+        run.font.size = Pt(desc_size)
         run.font.name = "Arial"
         run.font.color.rgb = SCREEN
 
