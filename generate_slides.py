@@ -263,6 +263,14 @@ def parse_report(md_text: str):
         if current is None:
             continue  # 標題出現前的內容（理論上不會有）不處理
 
+        if line.startswith("### "):
+            # 小節內的副標題（例如附錄裡的「### 市場數據」分類），沒有對應的投影片
+            # 版面，用全粗體的一行呈現，至少不要把 ### 符號原封不動印出來。
+            sub_heading = line[4:].strip()
+            if sub_heading:
+                current["bullets"].append([(sub_heading, True)])
+            continue
+
         text = BULLET_PREFIX.sub("", line)  # 有條列符號就去掉，沒有就原樣使用
         # 拿掉 [1][2] 這種引用標記，簡報上不需要，完整引用留在網頁版報告
         text = re.sub(r"\s*(?:\[\d+\])+", "", text)
@@ -338,12 +346,16 @@ def _add_card_rect(slide, x, y, w, h, line_color=BORDER, fill_color=CARD):
     return shape
 
 
-def _add_eyebrow_heading(slide, section_no, heading):
-    """段落編號 + 圖示 + 標題，內容頁跟卡片頁共用同一套視覺。"""
+def _add_eyebrow_heading(slide, section_no, heading, page_index=1, page_total=1):
+    """段落編號 + 圖示 + 標題，內容頁跟卡片頁共用同一套視覺。
+
+    同一個段落如果被分成好幾頁（page_total > 1），標題後面會加上 (第幾頁/共幾頁)，
+    提醒讀者這是同一個主題的延續，不是新的內容。"""
     icon = _section_icon(heading)
     eyebrow_text = f"{str(section_no).zfill(2)} · SECTION" + (f"　{icon}" if icon else "")
     _add_textbox(slide, Inches(0.6), Inches(0.42), Inches(8), Inches(0.35), eyebrow_text, 11, LAMP, bold=True)
-    _add_textbox(slide, Inches(0.6), Inches(0.78), Inches(12), Inches(0.75), heading, 26, SCREEN, bold=True)
+    title_text = heading if page_total <= 1 else f"{heading}（{page_index}/{page_total}）"
+    _add_textbox(slide, Inches(0.6), Inches(0.78), Inches(12), Inches(0.75), title_text, 26, SCREEN, bold=True)
 
 
 # ---------------------------------------------------------------------------
@@ -367,10 +379,10 @@ def build_title_slide(prs, title, subtitle):
     return slide
 
 
-def build_content_slide(prs, section_no, heading, bullet_group, continued=False):
+def build_content_slide(prs, section_no, heading, bullet_group, page_index=1, page_total=1):
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     _set_background(slide, ROOM)
-    _add_eyebrow_heading(slide, section_no, heading)
+    _add_eyebrow_heading(slide, section_no, heading, page_index, page_total)
 
     if not bullet_group:
         _add_textbox(slide, Inches(0.6), Inches(1.9), Inches(11), Inches(0.5), "（本段無內容）", 14, MIST)
@@ -412,14 +424,14 @@ def build_content_slide(prs, section_no, heading, bullet_group, continued=False)
     return slide
 
 
-def build_card_grid_slide(prs, section_no, heading, cards):
+def build_card_grid_slide(prs, section_no, heading, cards, page_index=1, page_total=1):
     """
     卡片網格版面，取代單調的條列，用在「關鍵詞：說明」格式的內容上
     （例如品牌動態、新品盤點這類一條一個主題的段落）。
     """
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     _set_background(slide, ROOM)
-    _add_eyebrow_heading(slide, section_no, heading)
+    _add_eyebrow_heading(slide, section_no, heading, page_index, page_total)
 
     n = len(cards)
     if n <= 2:
@@ -573,13 +585,16 @@ def generate(md_path: str):
 
         bullets = section["bullets"]
         if bullets and _is_card_friendly(bullets):
-            for group in paginate_cards(bullets):
-                build_card_grid_slide(prs, page, section["heading"], group)
+            card_pages = paginate_cards(bullets)
+            total = len(card_pages)
+            for idx, group in enumerate(card_pages, start=1):
+                build_card_grid_slide(prs, page, section["heading"], group, idx, total)
                 page += 1
         elif bullets or not has_chart:
             groups = paginate_bullets(bullets)
-            for g_idx, group in enumerate(groups):
-                build_content_slide(prs, page, section["heading"], group, continued=(g_idx > 0))
+            total = len(groups)
+            for idx, group in enumerate(groups, start=1):
+                build_content_slide(prs, page, section["heading"], group, idx, total)
                 page += 1
 
     build_closing_slide(prs, page)
