@@ -43,7 +43,7 @@ import os
 from pptx import Presentation
 from pptx.util import Inches, Pt, Emu
 from pptx.dml.color import RGBColor
-from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
+from pptx.enum.text import PP_ALIGN, MSO_ANCHOR, MSO_AUTO_SIZE
 from pptx.enum.shapes import MSO_SHAPE
 from pptx.oxml.ns import qn
 from pptx.chart.data import CategoryChartData
@@ -543,6 +543,10 @@ def build_card_grid_slide(prs, section_no, heading, cards, page_index=1, page_to
         desc_box = slide.shapes.add_textbox(x + pad, desc_top, w - pad * 2, desc_h)
         tf = desc_box.text_frame
         tf.word_wrap = True
+        # 說明文字長度不一，固定字級遇到長的內容會超出卡片邊框（例如某個品牌
+        # 當年度的數字特別多、句子特別長）。開啟「縮小文字以符合形狀大小」，
+        # PowerPoint 會自動把字級往下調到能塞進這個文字框為止，不會再溢出。
+        tf.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
         p = tf.paragraphs[0]
         p.line_spacing = 1.2
         run = p.add_run()
