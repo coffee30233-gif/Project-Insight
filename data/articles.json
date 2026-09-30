@@ -1,5 +1,405 @@
 [
   {
+    "id": 1713,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麥克賽爾 MMP-J3701X 雷射液晶投影機商務教育雙優特惠",
+    "summary_zh": "麥克賽爾推出MMP-J3701X雷射液晶投影機，主打商務會議與教育培訓應用市場。目前通路商針對該款機型展開特價促銷活動，鎖定辦公與教學場域的採購需求，提供高性價比的投影解決方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1254/12546425.html",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "麥克賽爾",
+      "雷射投影機",
+      "液晶投影機",
+      "商務教育投影機"
+    ],
+    "mentioned_brands": [
+      "麥克賽爾"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1711,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "投影機亮度解析：你需要多少流明？以當貝 N3 Max 為例",
+    "summary_zh": "本文詳細解析投影機亮度的核心概念，探討流明、ANSI與ISO流明對畫質的影響。指出對現代家用投影機而言，1,000 ISO流明已是兼顧暗室與微光客廳的高性價比標準，並以當貝N3 Max為例，說明合適的亮度能為電影與日常娛樂帶來清晰生動的沉浸式大畫面體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://us.dangbei.com/blogs/newsroom/brightness-of-projector-explained-how-many-projector-lumens-do-you-need",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "投影機亮度",
+      "ISO流明",
+      "家用投影機",
+      "當貝 N3 Max"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1710,
+    "source_name": "DigiTimes",
+    "title_zh": "格羅方德新加坡廠產能利用率突破九成，矽光子擴產面臨設備交期瓶頸",
+    "summary_zh": "格羅方德位於新加坡的晶圓廠產能利用率已攀升至九成以上。然而，隨著該廠積極推動矽光子技術擴產計畫，目前正遭遇設備交期拉長的供應鏈瓶頸，這可能對先進光學元件的產能釋放速度造成一定程度的制約與影響。",
+    "category": "供應鏈",
+    "importance": 4,
+    "url": "https://www.digitimes.com/news/a20260929PD228/globalfoundries-silicon-photonics-equipment-capacity.html",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "格羅方德",
+      "新加坡廠",
+      "產能利用率",
+      "矽光子",
+      "設備交期"
+    ],
+    "mentioned_brands": [
+      "GlobalFoundries",
+      "格羅方德"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1702,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找超薄尺寸投影幕的安裝解決方案",
+    "summary_zh": "本文為Reddit論壇用戶的尋求協助貼文，探討如何在僅有三吋深度的有限空間內，安裝隱藏式的電動或手動對應投影幕。由於市面上多數產品的吊掛支架尺寸皆超過四吋，發文者正尋找外殼深度小於三吋的特殊投影幕規格。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtjm1i/retractablepull_down_rear_projector_screen_with/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "投影幕",
+      "安裝空間",
+      "吊掛支架",
+      "隱藏式設計"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1700,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ X500i 與 Optoma UHD35STx 及 ViewSonic X2 4K 投影機選購比較討論",
+    "summary_zh": "本文為 Reddit 用戶針對三款熱門 4K 投影機 BenQ X500i、Optoma UHD35STx 與 ViewSonic X2 4K 的規格與價格進行比較與選購諮詢。討論涵蓋短焦距離適應性、4K 遊戲表現、主機相容性及歐盟燈泡法規限制等面向。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtklfh/benq_x500i_vs_optoma_uhd35stx_vs_viewsonic_x2_4k/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "BenQ",
+      "Optoma",
+      "ViewSonic",
+      "4K投影機",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Optoma",
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1696,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機的中央聲道喇叭擺放解決方案",
+    "summary_zh": "針對超短焦投影機與中央聲道喇叭擺放位置衝突的常見難題，有網友分享了解決辦法。透過在電視櫃前方安裝夾式層架，將喇叭放置於投影機前方，既能解決空間衝突，又不會阻擋超短焦投影機的畫面投射，提供給有相同困擾的用戶參考。",
+    "category": "技術動態",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtfcw6/center_speaker_placement_with_ust_projector/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "中央聲道",
+      "喇叭擺放",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1695,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於大學戶外電影之平價投影機與布幕選擇的簡單詢問",
+    "summary_zh": "本文為Reddit用戶發文，尋求適合大學舉辦戶外電影之夜的高品質且預算友善的投影機建議，同時詢問尋找大型投影布幕或替代材質（如床單）的來源與推薦。屬於一般消費者的使用心得與採購諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wttfuo/quick_question_about_outdoor_projector_and_budget/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "戶外投影機",
+      "預算型投影機",
+      "投影布幕",
+      "大學活動"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1693,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶抱怨Aurzen Roku E1R投影機風扇噪音過大並尋求靜音替代方案",
+    "summary_zh": "一名剛接觸投影機的消費者購買了Aurzen Roku E1R，雖然對畫質與系統介面滿意，但因運作風扇噪音過大而決定退貨。該用戶在尋求預算一千美元內、適合小房間且運作安靜的替代投影機型號，或考慮改買電視。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtuixm/aurzen_roku_e1r_too_loud_other_ideas/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "Aurzen Roku E1R",
+      "風扇噪音",
+      "消費者心得",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Aurzen",
+      "Roku"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1692,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "戶外投影機在寒冷冬季低溫下的運作限制與可行性探討",
+    "summary_zh": "本文為論壇用戶針對戶外投影機在寒冷冬季低溫環境下的耐受極限所提出的詢問。討論焦點在於一般投影機是否能短暫承受戶外低溫，以滿足冬天在戶外熱水浴缸中觀賞電影的需求，屬於消費者的實際使用經驗與選購諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtv9sp/general_low_temperature_limits_for_outdoor/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "戶外投影機",
+      "低溫限制",
+      "冬季使用",
+      "消費諮詢"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1691,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 L9Q 三雷射電視特價優惠資訊",
+    "summary_zh": "知名通路 B&H 針對海信 L9Q 三雷射電視推出特價優惠活動，根據網友分享的連結顯示，該款雷射投影電視預計最快將於 10 月 5 日開始出貨，吸引尋求優惠的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtvyz4/for_anyone_looking_for_a_deal/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "海信",
+      "L9Q",
+      "雷射電視",
+      "特價",
+      "B&H"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "B&H"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1690,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Wimius P62 Pro 投影機用戶求助比例設定",
+    "summary_zh": "本文為 Reddit 論壇上的單一用戶求助貼文，主要針對 Wimius P62 Pro 投影機的畫面顯示比例（aspect ratio）設定尋求協助。由於內容僅屬於消費者的個人產品使用問題與疑難排解，並未涉及產業市場動態、重大技術突破或供應鏈資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtssxq/wimius_p62_pro_projector_user_help_w_aspect/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "Wimius",
+      "P62 Pro",
+      "投影機",
+      "畫面比例"
+    ],
+    "mentioned_brands": [
+      "Wimius"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1688,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "暗室觀影時手動光圈與動態光圈的比較與討論",
+    "summary_zh": "本文探討新型三雷射投影機在處理黑階表現時，採用手動光圈與動態光圈的差異。使用者關注暗室環境中，動態光圈是否仍會因字幕出現或明暗場景切換而產生亮度泵浦效應，並討論固定手動光圈結合雷射調光的實際觀影體驗。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtu5fa/manual_or_dynamic_iris_for_movies_in_a_dark_room/",
+    "publish_date": "2026-09-30",
+    "keywords": [
+      "光圈",
+      "動態光圈",
+      "手動光圈",
+      "黑階",
+      "雷射調光"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1709,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "隨身投影機究竟實用還是只是行銷噱頭？",
+    "summary_zh": "本文為Reddit論壇上的用戶討論串，主要探討隨身攜帶型投影機在日常實際使用中的效用與價值，引發網友對於便攜式投影設備實用性與產品定位的正反意見交流。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wt58jk/are_portable_projectors_actually_useful_or_mostly/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "隨身投影機",
+      "便攜投影",
+      "論壇討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1708,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC NZ800 投影機鏡頭自動位移問題求助",
+    "summary_zh": "有用戶反映其擁有的 JVC NZ800 投影機在每次開機時，鏡頭會自動發生左右偏移的問題，且即使開啟鏡頭鎖定功能也無法改善，每次皆需手動調整微調才能恢復正確畫面位置。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wt6ecx/jvc_nz800_lens_shifting_by_itself/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "JVC",
+      "NZ800",
+      "鏡頭位移",
+      "災情"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1707,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Capsule 3 Laser D2426 無法投影問題討論",
+    "summary_zh": "本文源自Reddit論壇的用戶求助討論，主要探討Anker旗下Nebula Capsule 3 Laser微型雷射投影機在運作時出現無法正常投影的故障狀況與相關用戶經驗交流。",
+    "category": "新品發布",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtciwu/capsule_3_laser_d2426_no_projection/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "Capsule 3 Laser",
+      "D2426",
+      "微型投影機",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Anker",
+      "Nebula"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1706,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "減少投影機訊號處理時間與輸入延遲：eARC與HDMI直通之比較",
+    "summary_zh": "本文探討在家庭劇院配置中，如何透過調整設備連接方式來降低音訊延遲與輸入延遲。使用者分享了將播放設備透過擴大機連接至投影機時遇到的影音不同步問題，並討論改用eARC架構或將設備直接連接投影機能否改善效能，這對於追求低延遲的投影機玩家具有實務參考價值。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtaiqt/minimising_signal_processing_timeinput_lag_earc/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "輸入延遲",
+      "eARC",
+      "HDMI",
+      "影音同步",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Apple",
+      "Marantz",
+      "Valerion",
+      "Nintendo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1705,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "購機前重視但實際使用後卻無感的投影機規格有哪些？",
+    "summary_zh": "本文為論壇用戶發起之討論，探討消費者在購買投影機前花費大量時間研究，但在實際使用後卻發現並非如此重要的規格參數，同時也尋找當初被忽略但實際體驗至關重要的功能，反映出消費者的實際使用心得與選購盲點。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wt3yeu/what_projector_specification_did_you_care_about/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "投影機規格",
+      "消費心得",
+      "選購指南",
+      "亮度",
+      "解析度"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1701,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "針對電影導向的家庭劇院設置，你會選擇投影機還是大型電視？",
+    "summary_zh": "本文為Reddit論壇上的消費者討論串，主要探討使用者從傳統電視轉換至家用投影機的心得。討論焦點涵蓋電影與串流影音體驗、架設難易度、環境光線影響、日常維護、音效表現以及實際畫質，提供潛在買家深入的實用參考。",
+    "category": "市場數據",
+    "importance": 1,
+    "url": "https://www.reddit.com/r/projectors/comments/1wt3pd4/for_a_moviefocused_setup_would_you_choose_a/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "家庭劇院",
+      "家用投影機",
+      "電視對比",
+      "消費心得"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1697,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "雷射投影機真的值得家用花更多錢購買嗎？使用者經驗探討",
+    "summary_zh": "本文為Reddit論壇上的消費者討論，探討家用雷射投影機相較於傳統燈泡機型是否值得更高的溢價。討論焦點包含畫面一致性、開關機速度、發熱量、風扇噪音、長期亮度衰減與維護成本等實際使用體驗。",
+    "category": "技術動態",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wt3wti/is_a_laser_projector_really_worth_the_extra_money/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "雷射投影機",
+      "燈泡投影機",
+      "家用投影機",
+      "光源技術",
+      "使用者體驗"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1694,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "CINÈST 雙軸電動超短焦投影機電視櫃深度評測",
+    "summary_zh": "本文針對 CINÈST 雙軸電動超短焦投影機專用電視櫃進行開箱評測，結合精美家具外觀與精密投影微調功能，提供超短焦投影機玩家更優質的視聽整合方案與實際使用心得。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://www.reddit.com/r/projectors/comments/1wtd4bh/cinèst_2axis_motorized_ust_media_console_review/",
+    "publish_date": "2026-09-29",
+    "keywords": [
+      "超短焦投影機",
+      "電視櫃",
+      "電動支架",
+      "配件評測"
+    ],
+    "mentioned_brands": [
+      "CINÈST",
+      "ProjectorScreen.com"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1687,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-PU2120W特價促銷歡迎來電諮詢",
@@ -303,6 +703,87 @@
     "mentioned_brands": [
       "Silver Ticket",
       "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1717,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-E6U 雷射投影機北京地區最新促銷報價",
+    "summary_zh": "本文報導了ROLY品牌RL-E6U雷射投影機在北京市場的最新經銷商促銷行情。該款投影機主打超高亮度、高效實用與輕巧便攜等產品亮點，目前特價優惠為59999元人民幣，提供有意採購的消費者參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1254/12546994.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "ROLY",
+      "RL-E6U",
+      "雷射投影機",
+      "投影機報價"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1716,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-P30C 商用家用投影機市場新選擇",
+    "summary_zh": "松下推出全新 PT-P30C 投影機，主打 4K 超清解析度與雷射光源，並採用金屬機身設計，兼具商用與家用市場需求。目前通路商正進行特價促銷，吸引消費者目光，為投影機市場提供一項高性價比的新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1254/12546984.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "松下",
+      "PT-P30C",
+      "4K投影機",
+      "雷射光源"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1715,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-P31C 投影機實測，三色激光特價促銷",
+    "summary_zh": "松下推出全新 PT-P31C 4K 投影機，主打三色雷射光源與金屬機身設計。目前該款機型已在指定經銷商展開特價促銷活動，優惠價為 12899 元人民幣，吸引追求高畫質與質感外觀的消費族群關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "url": "https://projector.zol.com.cn/1254/12546982.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "松下",
+      "PT-P31C",
+      "三色雷射",
+      "4K投影機",
+      "投影機行情"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1714,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 C3 Ultra 現貨特惠，促銷價 2199 元",
+    "summary_zh": "通路消息指出，智慧投影機品牌大眼橙的 C3 Ultra 機型正進行特價促銷活動，優惠售價為 2199 元人民幣。該款產品主打觀影娛樂、高效散熱與低噪音運行等特色，提供消費者具性價比的選購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1254/12546835.html",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "大眼橙",
+      "C3 Ultra",
+      "投影機特惠",
+      "零售行情"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
     ],
     "link_status": null
   },
@@ -19369,6 +19850,27 @@
     "mentioned_brands": [
       "奧圖碼",
       "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1712,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BAZ712C 投影機特價促銷資訊",
+    "summary_zh": "松下推出PT-BAZ712C高亮度投影機產品，近期於北京經銷商通路展開特價促銷活動。該機型主打高亮度特色，適合商用或特定場景應用，目前商家提供價格面議優惠，吸引有採購需求的消費者前往洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "url": "https://projector.zol.com.cn/1207/12073364.html",
+    "publish_date": "2026-06-29",
+    "keywords": [
+      "松下",
+      "PT-BAZ712C",
+      "高亮投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
     ],
     "link_status": null
   },
