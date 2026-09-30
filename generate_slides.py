@@ -151,9 +151,28 @@ def _is_card_friendly(bullets, min_ratio=0.7):
     return (matched / len(bullets)) >= min_ratio
 
 
+def _fallback_card(runs, max_term_len=18):
+    """
+    `_extract_card_term` 判斷不是標準「**關鍵詞**：說明」格式時的退路。
+    以前的寫法遇到「**關鍵詞**：」後面完全沒有說明文字的情況（Gemini 偶爾會
+    把某一項壓縮過頭，只剩標題沒有內容），會做出一張說明欄空白的卡片。
+    這裡改成：說明欄拿不到內容，就把整條項目的完整文字放進說明欄，確保卡片
+    不會是空的。
+    """
+    full_text = "".join(text for text, _ in runs).strip()
+    if runs and runs[0][1]:
+        term = re.sub(r"[：:]\s*$", "", runs[0][0].strip())
+        if term and len(term) <= max_term_len:
+            rest = "".join(text for text, _ in runs[1:]).strip()
+            rest = re.sub(r"^[：:]\s*", "", rest)
+            if rest:
+                return term, rest
+    return "", full_text or "（無內容）"
+
+
 def paginate_cards(bullets, per_page=MAX_CARDS_PER_SLIDE):
     """把符合卡片格式的項目，依 per_page 切成好幾頁。"""
-    cards = [_extract_card_term(b) or (b[0][0][:18], "".join(t for t, _ in b[1:])) for b in bullets]
+    cards = [_extract_card_term(b) or _fallback_card(b) for b in bullets]
     return [cards[i:i + per_page] for i in range(0, len(cards), per_page)] or [[]]
 
 
@@ -550,6 +569,25 @@ def build_chart_slide(prs, section_no, heading, chart):
     return slide
 
 
+def build_appendix_summary_slide(prs, section_no, heading, item_count):
+    """
+    附錄類段落（例如「附錄：本月參考來源」）常常是幾十到上百條連結，逐條列出
+    對簡報來說太累贅——那種細節留給文字版報告，簡報只用一張投影片帶過摘要。
+    """
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    _set_background(slide, ROOM)
+    _add_eyebrow_heading(slide, section_no, heading)
+
+    summary = f"共 {item_count} 項" if item_count else "詳見完整報告"
+    _add_textbox(slide, Inches(0.6), Inches(2.4), Inches(11.5), Inches(0.6),
+                 summary, 20, SCREEN, bold=True)
+    _add_textbox(slide, Inches(0.6), Inches(3.1), Inches(11.5), Inches(0.8),
+                 "完整清單與連結請見網站上的文字版報告", 14, MIST)
+
+    _add_page_number(slide, section_no)
+    return slide
+
+
 def build_closing_slide(prs, page_no):
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     _set_background(slide, ROOM)
@@ -578,6 +616,11 @@ def generate(md_path: str):
 
     page = 2
     for i, section in enumerate(report["sections"], start=1):
+        if section["heading"].startswith("附錄"):
+            build_appendix_summary_slide(prs, page, section["heading"], len(section["bullets"]))
+            page += 1
+            continue
+
         has_chart = bool(section.get("charts"))
         for chart in section.get("charts", []):
             build_chart_slide(prs, page, section["heading"], chart)
