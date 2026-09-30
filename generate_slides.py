@@ -29,12 +29,38 @@ Markdown 裡 **粗體** 標出的關鍵詞（用琥珀色加粗顯示），項�
 - 之後每一行是「類別名稱: 數值1, 數值2, ...」，數值順序要對應 series
 - 一個 section 裡可以放多個 chart 區塊，每個都會各自產生一張圖表投影片
 
+【強調頁語法】想把某個數字獨立成一頁、用大字級凸顯，用這種 fenced code block：
+
+    ```highlight
+    value: +87.63%
+    label: 極米海外收入年增率
+    context: 帶動整體毛利率提升至 39%（選填）
+    ```
+
+- value/label 一定要寫，context 可省略
+- 建議一份報告最多標記 1-2 個，不要每個段落都放，否則失去「強調」的意義
+
+【表格語法】規格/價格這種適合逐欄對照的資料，用這種 fenced code block，會畫成
+真正的 PowerPoint 表格（不是圖片）：
+
+    ```table
+    headers: 型號, 亮度, 解析度, 售價
+    JVC DLA-NZ700: 3000流明, 8K, 9999.95美元
+    Anker Nebula X1: 6000流明, 4K, 2999美元
+    ```
+
+- 第一行 headers 定義所有欄位名稱（含第一欄）
+- 之後每一行是「第一欄的值: 其餘欄位值1, 其餘欄位值2, ...」，逗號分隔
+
 仍然是全自動產生、不需要另外裝 Node.js；如果要更講究、含時間軸的版本，
 可以請 AI 助手用 pptxgenjs 客製化製作。
 
 【版面自動判斷】如果一個段落底下的項目符號，大多數是「**關鍵詞**：說明」這種
 格式、而且數量不太多（2-8 條），會自動改用卡片網格呈現（比較像簡報，不是條列）；
 不符合這個格式、或項目太多太長的段落，維持原本的條列式呈現，並沿用動態分頁機制。
+
+【開頭總覽頁】標題頁後面會自動接一張「本期報告總覽」，統計這份報告的段落數、
+重點項目數、圖表/表格數量（從解析出來的結構直接算，不需要額外標記）。
 """
 import re
 import sys
@@ -249,46 +275,107 @@ def _parse_chart_block(lines: list[str]) -> dict | None:
     return chart
 
 
+def _parse_highlight_block(lines: list[str]) -> dict | None:
+    """
+    把 ```highlight ... ``` 區塊解析成 {"value":..., "label":..., "context":...}，
+    用來標記段落裡最值得獨立成一頁強調的單一數字（見檔案開頭語法說明）。
+    """
+    result = {"value": "", "label": "", "context": ""}
+    for line in lines:
+        line = line.strip()
+        if not line or ":" not in line:
+            continue
+        key, val = line.split(":", 1)
+        key = key.strip().lower()
+        if key in result:
+            result[key] = val.strip()
+    if not result["value"] or not result["label"]:
+        return None  # 沒寫全 value/label 就當作沒寫，不要顯示不完整的強調頁
+    return result
+
+
+def _parse_table_block(lines: list[str]) -> dict | None:
+    """
+    把 ```table ... ``` 區塊解析成 {"headers": [...], "rows": [[...], ...]}。
+    第一行 headers 定義欄位名稱（含第一欄），之後每一行是
+    「第一欄的值: 其餘欄位值1, 其餘欄位值2, ...」，逗號分隔（見檔案開頭語法說明）。
+    """
+    headers: list[str] = []
+    rows: list[list[str]] = []
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        if line.lower().startswith("headers:"):
+            headers = [h.strip() for h in line.split(":", 1)[1].split(",") if h.strip()]
+        elif ":" in line:
+            first_col, rest = line.split(":", 1)
+            row = [first_col.strip()] + [c.strip() for c in rest.split(",")]
+            rows.append(row)
+
+    if not headers or not rows:
+        return None
+
+    normalized_rows = []
+    for row in rows:
+        if len(row) < len(headers):
+            row = row + [""] * (len(headers) - len(row))
+        normalized_rows.append(row[:len(headers)])
+    return {"headers": headers, "rows": normalized_rows}
+
+
+_BLOCK_PARSERS = {
+    "chart": ("charts", _parse_chart_block),
+    "highlight": ("highlights", _parse_highlight_block),
+    "table": ("tables", _parse_table_block),
+}
+
+
 def parse_report(md_text: str):
     """
-    把報告 Markdown 拆成 {title, sections: [{heading, bullets: [...], charts: [...]}]}。
+    把報告 Markdown 拆成
+    {title, sections: [{heading, bullets, charts, highlights, tables}]}。
 
     相容兩種常見寫法：
     - 條列式：「- 內容」或「*   內容」（dash 或 asterisk 開頭，空格數量不拘）
     - 整段文字：標題底下直接寫一段話，沒有條列符號（例如月報的「本月摘要」）
     兩種都會被當成一個個「項目」放進 bullets，簡報上統一用圓點呈現。
 
-    另外支援 ```chart ... ``` fenced code block，解析成 charts（見檔案開頭的語法說明），
-    畫成真正的 PowerPoint 圖表。
+    另外支援三種 fenced code block（見檔案開頭的語法說明），各自解析成對應的
+    結構化資料，畫成真正的 PowerPoint 圖表／強調頁／表格：
+      ```chart ...```      → charts
+      ```highlight ...```  → highlights
+      ```table ...```      → tables
     """
     lines = md_text.splitlines()
     title = ""
     sections = []
     current = None
-    in_chart = False
-    chart_buffer: list[str] = []
+    block_key = None  # 目前在哪種 fenced block 裡面（chart/highlight/table），沒有就是 None
+    block_buffer: list[str] = []
 
     for raw_line in lines:
         line = raw_line.strip()
 
-        if in_chart:
+        if block_key is not None:
             if line == "```":
-                in_chart = False
+                field, parser = _BLOCK_PARSERS[block_key]
                 if current is not None:
-                    chart = _parse_chart_block(chart_buffer)
-                    if chart:
-                        current["charts"].append(chart)
-                chart_buffer = []
+                    parsed = parser(block_buffer)
+                    if parsed:
+                        current[field].append(parsed)
+                block_key = None
+                block_buffer = []
             else:
-                chart_buffer.append(raw_line)
+                block_buffer.append(raw_line)
             continue
 
         if not line:
             continue
 
-        if line == "```chart":
-            in_chart = True
-            chart_buffer = []
+        if line.startswith("```") and line[3:] in _BLOCK_PARSERS:
+            block_key = line[3:]
+            block_buffer = []
             continue
 
         if line.startswith("# ") and not title:
@@ -296,7 +383,10 @@ def parse_report(md_text: str):
             continue
 
         if line.startswith("## "):
-            current = {"heading": line[3:].strip(), "bullets": [], "charts": []}
+            current = {
+                "heading": line[3:].strip(),
+                "bullets": [], "charts": [], "highlights": [], "tables": [],
+            }
             sections.append(current)
             continue
 
@@ -438,6 +528,52 @@ def build_title_slide(prs, title, subtitle):
                  title, 40, SCREEN, bold=True)
     _add_textbox(slide, Inches(0.8), Inches(4.55), Inches(10.5), Inches(0.5),
                  subtitle, 15, MIST)
+    return slide
+
+
+def build_overview_slide(prs, report):
+    """
+    標題頁後面接一張「本期報告總覽」，跟網站首頁的統計列呼應，讓讀者一開始
+    就能掌握這份報告的規模。數字全部從報告本身解析出來的結構計算，不需要
+    Gemini 另外標記，也不會因為忘記寫而缺漏。
+    """
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    _set_background(slide, ROOM)
+
+    sections = report["sections"]
+    real_sections = [s for s in sections if not s["heading"].startswith("附錄")]
+    appendix_sections = [s for s in sections if s["heading"].startswith("附錄")]
+
+    section_count = len(real_sections)
+    bullet_count = sum(
+        len([b for b in s["bullets"] if not _is_heading_only_bullet(b)])
+        for s in real_sections
+    )
+    chart_count = sum(len(s.get("charts", [])) for s in sections)
+    table_count = sum(len(s.get("tables", [])) for s in sections)
+    article_count = sum(len(s["bullets"]) for s in appendix_sections)
+
+    stats = [("涵蓋段落", str(section_count)), ("重點項目", str(bullet_count))]
+    if article_count:
+        stats.append(("參考文章", str(article_count)))
+    if chart_count:
+        stats.append(("數據圖表", str(chart_count)))
+    if table_count:
+        stats.append(("比較表格", str(table_count)))
+
+    _add_textbox(slide, Inches(0.8), Inches(0.75), Inches(10), Inches(0.4),
+                 "本期報告總覽", 16, LAMP, bold=True)
+
+    n = len(stats)
+    col_w = 12.133 / n
+    for i, (label, value) in enumerate(stats):
+        x = Inches(0.6 + i * col_w)
+        _add_textbox(slide, x, Inches(2.6), Inches(col_w - 0.3), Inches(1.2),
+                     value, 54, SCREEN, bold=True, align=PP_ALIGN.CENTER)
+        _add_textbox(slide, x, Inches(3.85), Inches(col_w - 0.3), Inches(0.5),
+                     label, 14, MIST, align=PP_ALIGN.CENTER)
+
+    _add_page_number(slide, 2)
     return slide
 
 
@@ -630,6 +766,73 @@ def build_chart_slide(prs, section_no, heading, chart):
     return slide
 
 
+def build_highlight_slide(prs, section_no, heading, highlight):
+    """
+    大數字強調頁：把段落裡最值得凸顯的單一數字（例如「年增 87.63%」）獨立
+    成一頁，用超大字級當視覺焦點，不跟其他條列擠在一起。對應 ```highlight```
+    區塊（見檔案開頭語法說明）。
+    """
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    _set_background(slide, ROOM)
+    _add_eyebrow_heading(slide, section_no, heading)
+    _add_glow_circle(slide, Inches(10.3), Inches(-1.5), Inches(6), LENS, 10)
+
+    _add_textbox(slide, Inches(0.6), Inches(2.5), Inches(12.1), Inches(2.0),
+                 highlight["value"], 88, LAMP, bold=True, align=PP_ALIGN.CENTER)
+    _add_textbox(slide, Inches(0.85), Inches(4.55), Inches(11.6), Inches(0.6),
+                 highlight["label"], 22, SCREEN, bold=True, align=PP_ALIGN.CENTER)
+    if highlight.get("context"):
+        _add_textbox(slide, Inches(1.5), Inches(5.25), Inches(10.3), Inches(0.8),
+                     highlight["context"], 14, MIST, align=PP_ALIGN.CENTER)
+
+    _add_page_number(slide, section_no)
+    return slide
+
+
+def build_table_slide(prs, section_no, heading, table_data):
+    """
+    表格版面：呈現結構化的規格／價格比較資料，比條列或卡片更適合逐欄對照
+    的內容。對應 ```table``` 區塊（見檔案開頭語法說明）。
+    """
+    slide = prs.slides.add_slide(prs.slide_layouts[6])
+    _set_background(slide, ROOM)
+    _add_eyebrow_heading(slide, section_no, heading)
+
+    headers = table_data["headers"]
+    rows = table_data["rows"]
+    n_rows, n_cols = len(rows) + 1, len(headers)
+
+    left, top = Inches(0.6), Inches(1.85)
+    width = Inches(12.133)
+    height = Inches(min(5.0, 0.55 * n_rows))
+
+    graphic_frame = slide.shapes.add_table(n_rows, n_cols, left, top, width, height)
+    tbl = graphic_frame.table
+    tbl.first_row = False  # 不用內建的表頭配色樣式，改用自己的顏色
+
+    def _style_cell(cell, text, color, bold, fill):
+        cell.text = text
+        cell.fill.solid()
+        cell.fill.fore_color.rgb = fill
+        cell.margin_left = Inches(0.1)
+        cell.margin_right = Inches(0.1)
+        cell.vertical_anchor = MSO_ANCHOR.MIDDLE
+        run = cell.text_frame.paragraphs[0].runs[0]
+        run.font.size = Pt(13 if bold else 12)
+        run.font.bold = bold
+        run.font.color.rgb = color
+        run.font.name = "Arial"
+
+    for c, header_text in enumerate(headers):
+        _style_cell(tbl.cell(0, c), header_text, LAMP, True, CARD2)
+    for r, row in enumerate(rows, start=1):
+        for c, value in enumerate(row):
+            _style_cell(tbl.cell(r, c), value, SCREEN, False, CARD if r % 2 else CARD2)
+
+    _add_page_number(slide, section_no)
+    return slide
+
+
 def build_appendix_summary_slide(prs, section_no, heading, item_count):
     """
     附錄類段落（例如「附錄：本月參考來源」）常常是幾十到上百條連結，逐條列出
@@ -674,19 +877,30 @@ def generate(md_path: str):
     prs.slide_height = SLIDE_H
 
     build_title_slide(prs, report["title"], "投影機產業報告 · 自動產生簡報")
+    build_overview_slide(prs, report)
 
-    page = 2
+    page = 3
     for i, section in enumerate(report["sections"], start=1):
         if section["heading"].startswith("附錄"):
             build_appendix_summary_slide(prs, page, section["heading"], len(section["bullets"]))
             page += 1
             continue
 
-        has_chart = bool(section.get("charts"))
+        has_extra = bool(section.get("charts") or section.get("highlights") or section.get("tables"))
+
+        for highlight in section.get("highlights", []):
+            build_highlight_slide(prs, page, section["heading"], highlight)
+            page += 1
+
         for chart in section.get("charts", []):
             build_chart_slide(prs, page, section["heading"], chart)
             page += 1
 
+        for table_data in section.get("tables", []):
+            build_table_slide(prs, page, section["heading"], table_data)
+            page += 1
+
+        has_chart = has_extra  # 沿用既有變數名稱，供下面判斷「純圖表/表格/強調頁，沒有條列」的段落用
         bullets = section["bullets"]
         if bullets and _is_card_friendly(bullets):
             card_pages = paginate_cards(bullets)
