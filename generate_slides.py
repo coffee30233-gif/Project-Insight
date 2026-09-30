@@ -47,7 +47,9 @@ from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
 from pptx.enum.shapes import MSO_SHAPE
 from pptx.oxml.ns import qn
 from pptx.chart.data import CategoryChartData
-from pptx.enum.chart import XL_CHART_TYPE, XL_LEGEND_POSITION, XL_TICK_LABEL_POSITION
+from pptx.enum.chart import (
+    XL_CHART_TYPE, XL_LEGEND_POSITION, XL_TICK_LABEL_POSITION, XL_LABEL_POSITION,
+)
 
 # 跟網站一致的配色（見 style.css / tailwind 設計 token）
 ROOM = RGBColor(0x14, 0x16, 0x1A)
@@ -125,7 +127,7 @@ def paginate_bullets(bullets):
     return pages
 
 
-def _extract_card_term(runs, max_term_len=18):
+def _extract_card_term(runs, max_term_len=26):
     """
     判斷這條項目符號是不是「**關鍵詞**：說明」格式，是的話回傳 (term, description)，
     不是的話回傳 None。關鍵詞長度設上限，避免整句話剛好被寫成粗體時被誤判成卡片標題。
@@ -171,7 +173,7 @@ def _is_card_friendly(bullets, min_ratio=0.7):
     return (matched / len(content_bullets)) >= min_ratio
 
 
-def _fallback_card(runs, max_term_len=18):
+def _fallback_card(runs, max_term_len=26):
     """
     `_extract_card_term` 判斷不是標準「**關鍵詞**：說明」格式時的退路。
     以前的寫法遇到「**關鍵詞**：」後面完全沒有說明文字的情況（Gemini 偶爾會
@@ -342,6 +344,25 @@ def _set_shape_alpha(shape, alpha_pct):
         return
     alpha = srgb.makeelement(qn("a:alpha"), {"val": str(int(alpha_pct * 1000))})
     srgb.append(alpha)
+
+
+def _force_axis_labels_low(axis):
+    """
+    圖表數列有正有負時，PowerPoint 預設會把類別座標軸的文字貼著「數值 0」
+    那條線畫，負值的長條會跟文字擠在一起。python-pptx 沒有開放這個設定
+    （對應 OOXML 的 <c:tickLblPos>），改用底層 XML 硬指定成 "low"，文字就會
+    固定貼齊繪圖區域下緣，不管 0 軸線實際落在哪裡都不會被長條擋到。
+    """
+    ax_elm = axis._element
+    tick_lbl_pos = ax_elm.find(qn("c:tickLblPos"))
+    if tick_lbl_pos is None:
+        tick_lbl_pos = ax_elm.makeelement(qn("c:tickLblPos"), {})
+        cross_ax = ax_elm.find(qn("c:crossAx"))
+        if cross_ax is not None:
+            cross_ax.addprevious(tick_lbl_pos)
+        else:
+            ax_elm.append(tick_lbl_pos)
+    tick_lbl_pos.set("val", "low")
 
 
 def _add_glow_circle(slide, cx, cy, d, color, alpha_pct):
@@ -577,6 +598,9 @@ def build_chart_slide(prs, section_no, heading, chart):
     plot.data_labels.font.size = Pt(10)
     plot.data_labels.font.color.rgb = SCREEN
     plot.data_labels.font.name = "Arial"
+    # 明確指定「長條外側末端」，不然負值的長條預設會把標籤放在接近 0 軸的
+    # 位置，容易跟類別座標軸的文字疊在一起（見 2026-08 月報那次的實際案例）。
+    plot.data_labels.position = XL_LABEL_POSITION.OUTSIDE_END
     for i, series in enumerate(plot.series):
         series.format.fill.solid()
         series.format.fill.fore_color.rgb = palette[i % len(palette)]
@@ -588,6 +612,7 @@ def build_chart_slide(prs, section_no, heading, chart):
         cat_axis.tick_labels.font.color.rgb = MIST
         cat_axis.tick_labels.font.name = "Arial"
         cat_axis.format.line.color.rgb = BORDER
+        _force_axis_labels_low(cat_axis)
 
         val_axis = gchart.value_axis
         val_axis.tick_labels.font.size = Pt(10)
