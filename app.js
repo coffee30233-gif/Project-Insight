@@ -282,6 +282,128 @@ function renderYearBlock(y, isFirst) {
         </details>`;
 }
 
+// ---------------------------------------------------------------------------
+// 報告 Markdown 裡的 ```chart ```table 這類自訂語法區塊（PPT 產生器專用，
+// 見 generate_slides.py），網站這邊沒有對應的解析器時 marked.js 會把整段
+// 原始英文語法（title: xxx / series: xxx）當成一般 code block 照樣印出來，
+// 讀者看了一頭霧水。這裡在丟給 marked 之前先轉成乾淨的 Markdown 表格。
+// ---------------------------------------------------------------------------
+
+function _parseChartBlock(lines) {
+    let title = "";
+    let series = [];
+    const categories = [];
+    for (const raw of lines) {
+        const line = raw.trim();
+        if (!line) continue;
+        const lower = line.toLowerCase();
+        if (lower.startsWith("title:")) {
+            title = line.slice(line.indexOf(":") + 1).trim();
+        } else if (lower.startsWith("series:")) {
+            series = line.slice(line.indexOf(":") + 1).split(",").map(s => s.trim()).filter(Boolean);
+        } else if (line.includes(":")) {
+            const idx = line.indexOf(":");
+            const label = line.slice(0, idx).trim();
+            const values = line.slice(idx + 1).split(",").map(v => v.trim()).filter(Boolean);
+            if (values.length) categories.push([label, values]);
+        }
+    }
+    if (!categories.length) return null;
+    if (!series.length) {
+        const n = categories[0][1].length;
+        series = Array.from({ length: n }, (_, i) => `數值${i + 1}`);
+    }
+    return { title, series, categories };
+}
+
+function _parseTableBlock(lines) {
+    let headers = [];
+    const rows = [];
+    for (const raw of lines) {
+        const line = raw.trim();
+        if (!line) continue;
+        const lower = line.toLowerCase();
+        if (lower.startsWith("headers:")) {
+            headers = line.slice(line.indexOf(":") + 1).split(",").map(h => h.trim()).filter(Boolean);
+        } else if (line.includes(":")) {
+            const idx = line.indexOf(":");
+            const firstCol = line.slice(0, idx).trim();
+            const rest = line.slice(idx + 1).split(",").map(c => c.trim());
+            rows.push([firstCol, ...rest]);
+        }
+    }
+    if (!headers.length || !rows.length) return null;
+    const normalized = rows.map(row => {
+        if (row.length < headers.length) {
+            return [...row, ...Array(headers.length - row.length).fill("")];
+        }
+        return row.slice(0, headers.length);
+    });
+    return { headers, rows: normalized };
+}
+
+function _chartToMarkdownTable(chart) {
+    const headerRow = ["類別", ...chart.series];
+    const out = [];
+    if (chart.title) out.push(`**${chart.title}**`, "");
+    out.push(`| ${headerRow.join(" | ")} |`);
+    out.push(`| ${headerRow.map(() => "---").join(" | ")} |`);
+    for (const [label, values] of chart.categories) {
+        out.push(`| ${label} | ${values.join(" | ")} |`);
+    }
+    return out.join("\n");
+}
+
+function _tableBlockToMarkdownTable(table) {
+    const out = [];
+    out.push(`| ${table.headers.join(" | ")} |`);
+    out.push(`| ${table.headers.map(() => "---").join(" | ")} |`);
+    for (const row of table.rows) {
+        out.push(`| ${row.join(" | ")} |`);
+    }
+    return out.join("\n");
+}
+
+function preprocessReportMarkdown(mdText) {
+    const lines = mdText.split("\n");
+    const out = [];
+    let blockTag = null;
+    let buffer = [];
+
+    for (const rawLine of lines) {
+        const line = rawLine.trim();
+
+        if (blockTag !== null) {
+            if (line === "```") {
+                if (blockTag === "chart") {
+                    const chart = _parseChartBlock(buffer);
+                    if (chart) out.push("", _chartToMarkdownTable(chart), "");
+                } else if (blockTag === "table") {
+                    const table = _parseTableBlock(buffer);
+                    if (table) out.push("", _tableBlockToMarkdownTable(table), "");
+                }
+                // 其他未知的 fence 類型（例如已淘汰語法殘留）直接捨棄，不讓原始英文外洩
+                blockTag = null;
+                buffer = [];
+            } else {
+                buffer.push(rawLine);
+            }
+            continue;
+        }
+
+        const fenceMatch = line.match(/^```(\S+)/);
+        if (fenceMatch) {
+            blockTag = fenceMatch[1].toLowerCase();
+            buffer = [];
+            continue;
+        }
+
+        out.push(rawLine);
+    }
+
+    return out.join("\n");
+}
+
 async function loadReportList() {
     const res = await fetch("data/reports-index.json");
     const data = await res.json();
@@ -315,7 +437,7 @@ async function openReport(filename, hasSlides, hasPdf, btnEl) {
         return;
     }
     const markdownText = await res.text();
-    viewer.innerHTML = marked.parse(markdownText);
+    viewer.innerHTML = marked.parse(preprocessReportMarkdown(markdownText));
 
     let showToolbar = false;
 

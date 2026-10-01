@@ -204,6 +204,34 @@ def _fallback_card(runs, max_term_len=26):
     return "", full_text or "（無內容）"
 
 
+def _estimate_card_lines(text_len, box_w_in, font_pt, base_font=14.5, base_width=11.7, base_chars=CHARS_PER_LINE):
+    """跟 `_estimate_bullet_height` 同一套估算邏輯，只是改成給任意文字框寬度／
+    字級用：字級越小、框越寬，一行塞得下的字數越多（粗略假設字寬跟字級成正比）。"""
+    chars_per_line = max(1, int(base_chars * (box_w_in / base_width) * (base_font / font_pt)))
+    return max(1, -(-text_len // chars_per_line))  # 無條件進位
+
+
+def _fit_card_desc_size(descriptions, box_w_in, box_h_in, max_size, min_size=9.0, line_spacing=1.2):
+    """
+    卡片說明文字長度差異很大，固定字級遇到特別長的內容會超出卡片邊框（PowerPoint
+    的「縮小文字以符合形狀」只在使用者於 PowerPoint 內互動時才會即時重算，不能
+    保證開啟就一定有算好，長文字甚至可能超出它肯縮小的下限）。改成開這個字級前
+    先自己依最長的說明文字反推：同一頁所有卡片用同一個字級（畫面才整齊），從
+    n 決定的預設字級開始，量不夠就一路調小，直到確定塞得下為止。
+    """
+    size = max_size
+    while size > min_size:
+        line_h_in = LINE_HEIGHT_IN * (size / 14.5) * (line_spacing / 1.15)
+        fits = all(
+            _estimate_card_lines(len(desc), box_w_in, size) * line_h_in <= box_h_in
+            for desc in descriptions
+        )
+        if fits:
+            return size
+        size -= 0.5
+    return min_size
+
+
 def paginate_cards(bullets, per_page=MAX_CARDS_PER_SLIDE):
     """把符合卡片格式的項目，依 per_page 切成好幾頁（分組用的小標題不算進來，見
     `_is_heading_only_bullet`）。"""
@@ -577,6 +605,12 @@ def build_card_grid_slide(prs, section_no, heading, cards, page_index=1, page_to
 
     card_w = (grid_w - gap * (cols - 1)) / cols
     card_h = (grid_h - gap * (rows - 1)) / rows
+
+    # 用「有標題」情況下較窄的說明欄高度（h - 0.9）當保守基準反推字級，確保
+    # 就算全部卡片都有標題也塞得下；沒有標題、欄位比較高的卡片自然更寬裕。
+    text_w_in = card_w - 0.44
+    desc_box_h_in = card_h - 0.9
+    desc_size = _fit_card_desc_size([desc for _, desc in cards], text_w_in, desc_box_h_in, max_size=desc_size)
 
     for idx, (term, desc) in enumerate(cards):
         r, c = divmod(idx, cols)
