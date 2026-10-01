@@ -7,7 +7,11 @@
         {
           "year": 2026,
           "month": 9,
-          "monthly": null,
+          "monthly": {
+            "file": "2026-09.md",
+            "hasSlides": true,
+            "hasPdf": false
+          },
           "weekly": [
             {
               "file": "2026-W39.md",
