@@ -149,8 +149,13 @@ def call_gemini(model, contents, config, max_retry=None, retry_wait=None, pace_c
                 if "429" in msg or "resource_exhausted" in msg:
                     print(f"429 on {candidate}, trying next model...")
                     continue
+                if "503" in msg or "unavailable" in msg or "high demand" in msg:
+                    # Gemini 伺服器端暫時過載，跟 429 一樣換下一個 model／下一輪，
+                    # 不要整個呼叫直接失敗（月報曾因此整個排程失敗，見 2026-10-01）。
+                    print(f"503 on {candidate} (server overloaded), trying next model...")
+                    continue
 
-                raise  # 非額度/不存在類錯誤，不要吞
+                raise  # 非額度/不存在/過載類錯誤，不要吞
 
         # 這一輪所有 model 都失敗
         if round_i < max_retry - 1:
