@@ -129,6 +129,15 @@ async function loadArticlesData() {
     renderArticles(1, false);
 }
 
+// relevance 等級對「該不該優先出現在首頁」的權重，跟 gemini_client.py 的
+// RELEVANCE_PRIORITY 同一套邏輯：Direct/Indirect 優先度一樣，Maybe（關聯薄弱、
+// 待人工複核）明確排後面，不該因為 importance 分數高就搶到真正相關文章前面；
+// 沒分類過的舊資料（null）當中性權重，不會被往後排。
+const RELEVANCE_PRIORITY = { Direct: 2, Indirect: 2, Maybe: 1 };
+function relevancePriority(relevance) {
+    return relevance in RELEVANCE_PRIORITY ? RELEVANCE_PRIORITY[relevance] : 2;
+}
+
 // 首頁 Hero 下方「本週重點」：近 7 天內、importance 最高的最多 3 則
 // （importance 由 Gemini 評分 1-5：5=產業指標數據/重大突破、3=一般新品、1-2=小型更新）。
 function renderWeeklyHighlights() {
@@ -139,6 +148,7 @@ function renderWeeklyHighlights() {
     const top = allArticles
         .filter(a => (a.publish_date || "") >= cutoff && (a.importance || 0) >= 3)
         .sort((a, b) =>
+            relevancePriority(b.relevance) - relevancePriority(a.relevance) ||
             (b.importance || 0) - (a.importance || 0) ||
             (b.publish_date || "").localeCompare(a.publish_date || ""))
         .slice(0, 3);

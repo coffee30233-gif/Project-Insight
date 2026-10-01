@@ -166,6 +166,23 @@ def call_gemini(model, contents, config, max_retry=None, retry_wait=None, pace_c
 
     raise RuntimeError("No available Gemini model.") from last_error
 
+
+# relevance 等級對「該不該優先寫進報告」的權重。Direct/Indirect 都是「真的跟投影機
+# 有關」，優先度一樣；Maybe（關聯薄弱、待人工複核）明確排在後面，同 importance 時
+# 不該搶在 Direct/Indirect 前面；None 是舊資料（分類功能上線前），當成中性權重，
+# 不要因為沒分類過就被往後排。Unrelated 不會出現在這裡（db 層已經過濾掉）。
+RELEVANCE_PRIORITY = {"Direct": 2, "Indirect": 2, "Maybe": 1, None: 2}
+
+
+def _report_sort_key(article: dict):
+    """月報／週報排序共用：relevance 優先、同一層再比 importance，確保關聯薄弱
+    的文章不會因為 importance 分數高就搶到比真正相關文章更前面的位置。"""
+    return (
+        RELEVANCE_PRIORITY.get(article.get("relevance"), 2),
+        article.get("importance") or 0,
+    )
+
+
 # ---------------------------------------------------------------------------
 # Prompt A：單篇文章處理
 # ---------------------------------------------------------------------------
@@ -354,6 +371,11 @@ REPORT_TEMPLATE = """\
 
 def generate_monthly_report(year: int, month: int, articles: list[dict]) -> str:
     """呼叫 Gemini 彙整月報，回傳 Markdown 字串。"""
+
+    # relevance 高、importance 高的文章排前面，Gemini 在篇幅有限時才會優先取材
+    # 真正跟投影機相關、重要的文章，而不是被關聯薄弱但 importance 分數高的文章
+    # 搶到版面（見 _report_sort_key 的說明）。
+    articles = sorted(articles, key=_report_sort_key, reverse=True)
 
     prompt = REPORT_TEMPLATE.format(
         year=year,
@@ -687,8 +709,9 @@ def generate_weekly_report(start_date: str, end_date: str, articles: list[dict])
             "本週沒有蒐集到任何相關文章，暫無週報內容。\n"
         )
 
-    # 讓 Gemini 看得到 importance，並讓高分的排在前面（同分維持原順序）
-    articles = sorted(articles, key=lambda a: a.get("importance") or 0, reverse=True)
+    # 讓 Gemini 看得到 importance，並讓高分、relevance 等級高的排在前面
+    # （同分維持原順序；見 _report_sort_key 的說明）
+    articles = sorted(articles, key=_report_sort_key, reverse=True)
     parts = []
     for a in articles:
         parts.append(

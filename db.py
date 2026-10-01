@@ -187,7 +187,7 @@ def get_articles_by_month(year: int, month: int) -> list[dict]:
     with get_conn() as conn:
         rows = conn.execute(
             f"""SELECT source_name, title_zh, summary_zh, category, importance,
-                      url, publish_date, keywords, mentioned_brands, image_url
+                      relevance, url, publish_date, keywords, mentioned_brands, image_url
                FROM articles
                WHERE publish_date LIKE ? AND processed_at IS NOT NULL
                      AND {_relevance_filter_sql()}
@@ -203,6 +203,7 @@ def get_articles_by_month(year: int, month: int) -> list[dict]:
             "summary_zh": r["summary_zh"],
             "category": r["category"],
             "importance": r["importance"],
+            "relevance": r["relevance"],
             "url": r["url"],
             "publish_date": r["publish_date"],
             "keywords": json.loads(r["keywords"] or "[]"),
@@ -220,7 +221,7 @@ def get_articles_by_date_range(start_date: str, end_date: str) -> list[dict]:
     with get_conn() as conn:
         rows = conn.execute(
             f"""SELECT source_name, title_zh, summary_zh, category, importance,
-                      url, publish_date, keywords, mentioned_brands, image_url
+                      relevance, url, publish_date, keywords, mentioned_brands, image_url
                FROM articles
                WHERE publish_date >= ? AND publish_date <= ? AND processed_at IS NOT NULL
                      AND {_relevance_filter_sql()}
@@ -237,6 +238,7 @@ def get_articles_by_date_range(start_date: str, end_date: str) -> list[dict]:
             "summary_zh": r["summary_zh"],
             "category": r["category"],
             "importance": r["importance"],
+            "relevance": r["relevance"],
             "url": r["url"],
             "publish_date": r["publish_date"],
             "keywords": json.loads(r["keywords"] or "[]"),
@@ -431,8 +433,8 @@ def list_articles(source: str | None = None, category: str | None = None,
 
         rows = conn.execute(
             f"""SELECT id, source_name, title_zh, summary_zh, category,
-                       importance, url, publish_date, keywords, mentioned_brands,
-                       link_status
+                       importance, relevance, url, publish_date, keywords,
+                       mentioned_brands, link_status
                 FROM articles
                 WHERE {where_clause}
                 ORDER BY publish_date DESC, id DESC
@@ -449,6 +451,7 @@ def list_articles(source: str | None = None, category: str | None = None,
             "summary_zh": r["summary_zh"],
             "category": r["category"],
             "importance": r["importance"],
+            "relevance": r["relevance"],
             "url": r["url"],
             "publish_date": r["publish_date"],
             "keywords": json.loads(r["keywords"] or "[]"),
