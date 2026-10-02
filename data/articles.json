@@ -1,5 +1,192 @@
 [
   {
+    "id": 1764,
+    "source_name": "DigiTimes",
+    "title_zh": "LG電子與LS Electric攜手美國冷卻產能與電力交易以解決AI資料中心瓶頸",
+    "summary_zh": "LG電子與LS Electric宣布合作，鎖定美國市場布局AI資料中心所需的冷卻系統產能與高壓電力基礎設施，以期緩解當前資料中心面臨的散熱與供電瓶頸。這項合作反映出大型電子廠正積極轉向高成長的基礎設施與能源管理領域，強化其在美國市場的供應鏈韌性。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261002VL210/data-center-cooling-lg-electronics-capacity-infrastructure.html",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "AI資料中心",
+      "冷卻系統",
+      "LG電子",
+      "電力基礎設施"
+    ],
+    "mentioned_brands": [
+      "LG Electronics",
+      "LS Electric"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1758,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ MX505投影機影像模糊與清潔問題求助",
+    "summary_zh": "有用戶以極低價格購入二手BenQ MX505投影機，但發現投影畫面霧化且對焦不良。經檢查發現鏡頭疑似有刮痕且內部有灰塵，發文詢問是否透過清潔或更換燈泡可以解決此問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wv5szp/cleaning_or_replacing/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "BenQ",
+      "MX505",
+      "投影機維修",
+      "鏡頭清潔"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1757,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "手機畫面投影至投影機的方法詢問",
+    "summary_zh": "有使用者在論壇上發文詢問，除了常見的Miracast協定之外，還有哪些將智慧型手機畫面投影或鏡射至投影機的可行方法與技術選項。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wv8ff2/mirror/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "手機鏡射",
+      "Miracast",
+      "畫面投放",
+      "投影機連線"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1755,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "歐洲地區家用投影機選購建議與預算詢問",
+    "summary_zh": "歐洲消費者在Reddit論壇發文尋求投影機選購建議，因不滿現有平價機型色彩表現，希望升級至品質更好的產品。其投影距離約4.5公尺、搭配120吋銀幕，預算最高約700歐元，且不需內建音響系統。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wv9d5u/advice_for_a_projector_europe/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "家用投影機",
+      "選購建議",
+      "歐洲市場",
+      "預算"
+    ],
+    "mentioned_brands": [
+      "Iwimius"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1753,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "家庭劇院投影機的彩虹效應與雷射斑點現象探討",
+    "summary_zh": "本文為消費者在籌備家庭劇院系統時，針對投影機常見的彩虹效應與雷射斑點問題進行討論與發問。內容探討這些視覺干擾現象的發生頻率，以及對於對視覺敏感的使用者在選購投影機時的實際影響與考量。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wv57bv/rainbow_effect_and_laser_speckle/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "彩虹效應",
+      "雷射斑點",
+      "家庭劇院",
+      "投影機技術"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1751,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Lisowod 投影機用戶使用心得與評價",
+    "summary_zh": "本文為消費者分享 Lisowod 品牌投影機的實際使用心得，指出該產品具備出色的畫質與音效表現，即使不使用專用布幕，直接投射在客廳牆面上也能有很好的效果，同時對該公司的客服效率表示肯定。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wvkmfx/lisowod_projector/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "Lisowod",
+      "投影機",
+      "用戶心得",
+      "畫質"
+    ],
+    "mentioned_brands": [
+      "Lisowod"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1749,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦與短焦投影機及布幕選擇指南",
+    "summary_zh": "本文為消費者在客廳環境下評估超短焦與短焦投影機的選購心得。討論了極光極米等品牌機型在採光環境下的表現，並針對不可固定於牆面的可捲收式抗光布幕需求，探討客廳觀賞時的設備搭配與選購痛點。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wvg7ca/guidance_on_ust_vs_st_and_screen_type/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "超短焦投影機",
+      "短焦投影機",
+      "抗光幕",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1762,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Benq TH575 投影機內部異物求助",
+    "summary_zh": "一名用戶在 Reddit 論壇發文求助，指出今年六月購入的 Benq TH575 燈泡投影機投影畫面出現疑似毛髮或灰塵的異物，詢問是否需要擔心以及相應的清潔方式，引發社群關於投影機日常維護的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wuz9jr/what_is_this/",
+    "publish_date": "2026-10-01",
+    "keywords": [
+      "BenQ",
+      "TH575",
+      "燈泡投影機",
+      "灰塵"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1760,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明基 BenQ TH575 投影機出現雪花畫面故障求助",
+    "summary_zh": "一名用戶分享其購入一年的 BenQ TH575 整新投影機，因環境灰塵累積導致開機出現雪花畫面。經自行拆機清潔主機板與晶片後，雖曾短暫恢復正常，但隔日問題再度復發，目前正尋求維修與更換零件的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wustxa/am_i_cooked_benq_th575/",
+    "publish_date": "2026-10-01",
+    "keywords": [
+      "BenQ",
+      "TH575",
+      "投影機維修",
+      "DMD晶片",
+      "灰塵故障"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1729,
     "source_name": "Reddit r/projectors",
     "title_zh": "尋找可隱藏超短焦投影機與抗光幕的專用電視櫃",
@@ -22285,6 +22472,28 @@
       "Sony"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1767,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "寶視來BV6H北京特價促銷41999元",
+    "summary_zh": "通路商針對寶視來BV6H投影機推出特價促銷活動，北京地區授權代理商給出41999元的優惠價格。該款機型主打4K超高畫質、高流明亮度及高對比度等產品特色，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1187/11877687.html",
+    "publish_date": "2026-05-26",
+    "keywords": [
+      "寶視來",
+      "BV6H",
+      "4K投影機",
+      "通路行情"
+    ],
+    "mentioned_brands": [
+      "寶視來",
+      "BV6H"
+    ],
+    "link_status": null
   },
   {
     "id": 1536,
