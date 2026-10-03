@@ -1,5 +1,172 @@
 [
   {
+    "id": 1783,
+    "source_name": "IT之家",
+    "title_zh": "極哲 ZIP PRO 三折疊便攜投影儀首銷：售價 2999 元",
+    "summary_zh": "極哲推出全新 ZIP PRO 三折疊便攜投影儀並正式開售，售價 2999 元。該產品主打輕巧便攜，重量僅 586 克，採用創新三折疊結構設計並內建支架。規格方面支援 1080P 解析度、200流明亮度，內建 10000mAh 電池與立體聲喇叭，提供多元的投影模式與設備直連功能。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.ithome.com/1/009/425.htm",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "極哲",
+      "ZIP PRO",
+      "三折疊投影儀",
+      "便攜投影機",
+      "新品上市"
+    ],
+    "mentioned_brands": [
+      "極哲",
+      "京东"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1774,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit 用戶詢問多功能娛樂室的投影機與銀幕推薦",
+    "summary_zh": "本文為 Reddit 用戶在論壇上發文尋求投影設備建議，其使用環境為無自然光的獨立娛樂室，投影距離約十六英呎，可用投影畫面尺寸約七乘八英尺，主要用途為偶爾觀賞電影與電視節目，目前正向社群徵求適合的機型與布幕搭配方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1ww35vf/projector_suggestions/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "投影機推薦",
+      "家用投影機",
+      "投影銀幕",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1773,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 投影機光圈調整後出現綠色色偏問題討論",
+    "summary_zh": "有用戶反映其使用的極米 Titan Noir Max 投影機在更換良品後，解決了畫面均勻度與偽影問題，但當光圈縮小至特定數值時，畫面卻出現了明顯的綠色色偏現象。該用戶在網路社群發文詢問其他擁有同款機型的使用者，以確認此狀況是否為常態表現。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1ww7u4q/xgimi_titan_noir_max_green_tint/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "極米",
+      "Titan Noir Max",
+      "色偏",
+      "光圈",
+      "畫質問題"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1771,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合電影欣賞的投影機推薦",
+    "summary_zh": "本篇文章為Reddit論壇上的使用者發文，尋求預算約一萬五千元左右、適合用於觀賞電影的高品質投影機推薦。這類單一用戶的詢問與消費心得屬於常見的社群互動，未涉及具體的產業數據、重大新品發布或深度的光學技術探討。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wwfa0d/projector_recommendation/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "投影機推薦",
+      "家用投影機",
+      "電影欣賞"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1768,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "終於消除了 Titan Noir Max 投影機的雷射散斑：使用低音震動器",
+    "summary_zh": "一名發燒友分享了解決雷射電視與抗光幕常見雷射散斑問題的非官方改裝技巧。透過在投影幕上安裝低音震動器並以特定頻率震動布幕，成功打破雷射光干涉形成的散斑現象。雖然這是一個需要權衡震動噪音的動手改造方案，但確實為對散斑敏感的用戶提供了一個有效的改善思路。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1ww2av6/finally_killed_laser_speckle_on_my_titan_noir_max/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "雷射散斑",
+      "Titan Noir Max",
+      "抗光幕",
+      "雷射投影機",
+      "改裝"
+    ],
+    "mentioned_brands": [
+      "Titan Noir",
+      "Wupro"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1781,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "小米 L1 Pro 投影機選單邊緣殘影問題詢問",
+    "summary_zh": "有用戶在論壇上發文求助，指出剛購入的二手小米 L1 Pro 投影機在顯示 Google TV 設定選單時，高對比度元素的邊緣出現了殘影與拖尾現象，特別是在畫面的左側與上方邊緣，因此詢問這是否為投影機的正常現象或屬於硬體瑕疵。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wvs0m2/xiaomi_l1_pro_ghostingtrailing_on_google_tv_menu/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "小米",
+      "L1 Pro",
+      "殘影",
+      "Google TV",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "Xiaomi",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1780,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影對應軟體開發分享",
+    "summary_zh": "一名開發者因市面上的投影對應軟體價格高昂或插件不穩定，自行開發了一款開源的視窗四角定位投影軟體。該工具旨在提供簡易的投影對應功能，並於社群詢問使用者的興趣與接受度。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wvszhh/projection_mapping_software/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "投影對應",
+      "開源軟體",
+      "四角定位"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1769,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Vibe One 投影機開機畫面異常求助與保固建議",
+    "summary_zh": "一名用戶在Reddit發文表示，其購買八個月的極米 Vibe One投影機在某次開機時畫面出現異常，重啟後雖恢復正常，但擔憂是硬體潛在問題的前兆，因此發文詢問是否應趁保固期間送修檢查，引起社群討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wvq19w/something_happened_to_my_projector_when_i_put_it/",
+    "publish_date": "2026-10-02",
+    "keywords": [
+      "極米",
+      "Vibe One",
+      "投影機故障",
+      "保固維修"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1764,
     "source_name": "DigiTimes",
     "title_zh": "LG電子與LS Electric攜手美國冷卻產能與電力交易以解決AI資料中心瓶頸",
@@ -23429,6 +23596,29 @@
       "Panasonic"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1785,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基E585投影機北京促銷優惠價6000元",
+    "summary_zh": "近期明基E585智慧投影機在北京通路市場展開促銷活動，特價售價為新台幣換算約6000元人民幣。該款投影機主打高畫質影像表現，並具備四向校正與側投功能，吸引有採購需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1176/11761950.html",
+    "publish_date": "2026-05-05",
+    "keywords": [
+      "明基",
+      "E585",
+      "投影機",
+      "促銷行情",
+      "智慧投影"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
   },
   {
     "id": 1397,

@@ -1,9 +1,9 @@
 {
-  "total_articles": 1207,
+  "total_articles": 1216,
   "total_sources": 34,
   "by_source": {
-    "ZOL投影機頻道": 481,
-    "Reddit r/projectors": 358,
+    "ZOL投影機頻道": 482,
+    "Reddit r/projectors": 365,
     "ProjectorReviews": 120,
     "ProjectorCentral": 71,
     "當貝Dangbei官方": 34,
@@ -12,7 +12,7 @@
     "ZNDS投影頻道": 20,
     "Epson官方": 13,
     "DigiTimes": 12,
-    "IT之家": 7,
+    "IT之家": 8,
     "AV Network": 6,
     "知乎": 2,
     "流媒体网": 2,
@@ -40,16 +40,16 @@
   "by_category": {
     "供應鏈": 16,
     "市場數據": 154,
-    "技術動態": 128,
-    "新品發布": 909
+    "技術動態": 132,
+    "新品發布": 914
   },
-  "latest_publish_date": "2026-10-02",
+  "latest_publish_date": "2026-10-03",
   "link_check": {
     "by_status": {
       "blocked": 651,
       "dead": 6,
       "ok": 972,
-      "unchecked": 21
+      "unchecked": 39
     },
     "last_checked_at": "2026-10-01T07:21:50.171791+00:00"
   }
