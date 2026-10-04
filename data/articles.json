@@ -1,5 +1,140 @@
 [
   {
+    "id": 1799,
+    "source_name": "IT之家",
+    "title_zh": "極米推出業界首款原生4K 120Hz雷射電視AURA 3，售價18,999元起",
+    "summary_zh": "極米科技正式發售業界首款原生支援4K 120Hz的雷射電視極米AURA 3，提供100吋至120吋多種版本，售價自18,999元人民幣起。該產品具備850nits全屏穩定亮度、7000:1原生對比度，並搭載獨立畫質晶片、哈曼卡頓音響及多項護眼與遊戲低延遲技術。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.ithome.com/1/009/644.htm",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "極米",
+      "AURA 3",
+      "雷射電視",
+      "4K 120Hz",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "XGIMI",
+      "安路",
+      "哈曼卡頓",
+      "AMD"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1787,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Ultimea Apollo P40 投影機購買建議詢問",
+    "summary_zh": "本文為 Reddit 用戶針對 Ultimea Apollo P40 投影機的性價比請益討論。原價約兩百至兩百五歐元的機種，發問者有機會以大約九十至一百歐元的特價入手，因此向社群徵詢該機型的實際畫質、亮度、運作噪音與耐用度等使用經驗，以評估此價格是否值得購買。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wx5qpb/advise_on_ultimea_apollo_p40/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "Ultimea Apollo P40",
+      "投影機",
+      "性價比",
+      "購買建議"
+    ],
+    "mentioned_brands": [
+      "Ultimea"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1786,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "雷射投影機斑點現象的DIY改善技巧",
+    "summary_zh": "針對雷射投影機常見的斑點干擾問題，有使用者分享透過安裝音頻震動器與雙面膠，對布幕施加微幅震動來破壞干擾紋路，成功改善畫面清晰度，為高階雷射機種提供了一種低成本的物理改造方案。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wx0d7l/laser_speckle_reduction_hack_rgb/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "雷射斑點",
+      "投影機改裝",
+      "雷射投影機",
+      "布幕微震"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Silver ticket",
+      "Dayton"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1797,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon Ultra 用戶詢問拆機清潔與風扇異常問題",
+    "summary_zh": "一名極米 Horizon Ultra 投影機用戶發文求助，指出設備在開啟低延遲模式遊玩 PS5 時會出現風扇異常並自動關機的錯誤，嘗試過恢復原廠設定與韌體重置均無效。因已過保固期，正尋求拆機清潔與維修的相關建議與教學。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wwopx1/xgimi_horizon_ultra_did_anyone_opened_projector/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "極米",
+      "Horizon Ultra",
+      "投影機維修",
+      "風扇異常"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1796,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "雷射斑點與布幕搭配的探討",
+    "summary_zh": "一名投影機用戶正考慮升級現有的燈泡機，並對三雷射投影機的高畫質感到興趣，但擔心高增益布幕會放大令人困擾的雷射斑點現象，因此在猶豫是否該選擇其他機種或過度擔憂。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wwjc4n/laser_speckle_dalite_hp_screen/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "雷射斑點",
+      "三雷射投影機",
+      "投影布幕",
+      "高增益"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Da-Lite"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1795,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ HT2050A 用戶考慮升級 Xgimi 新機的選購討論",
+    "summary_zh": "一名使用 BenQ HT2050A 超過四年的用戶發文詢問是否值得升級至 Xgimi 的新款機種。文中探討了高亮度三色雷射光源產生的散斑問題、牆面投影與幕布的搭配、4K解析度與杜比視界在特定距離下的實際效益，引發社群關於投影機升級成本與畫質提升的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wwpvbr/upgrade_from_benq_ht2050/",
+    "publish_date": "2026-10-03",
+    "keywords": [
+      "升級",
+      "三色雷射",
+      "4K投影機",
+      "散斑問題"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1783,
     "source_name": "IT之家",
     "title_zh": "極哲 ZIP PRO 三折疊便攜投影儀首銷：售價 2999 元",
@@ -22535,6 +22670,28 @@
     "link_status": "ok"
   },
   {
+    "id": 1808,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BMZ51SC投影機特價促銷資訊",
+    "summary_zh": "通路商針對松下PT-BMZ51SC商用雷射投影機展開特價促銷活動，該機型主打商務應用與雙HDMI連接埠規格。此類零售通路行情資訊主要提供區域買家採購參考，對整體產業數據影響有限。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1189/11890901.html",
+    "publish_date": "2026-05-30",
+    "keywords": [
+      "松下",
+      "PT-BMZ51SC",
+      "雷射投影機",
+      "商用投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1448,
     "source_name": "ZOL投影機頻道",
     "title_zh": "轟天炮1080P投影機特價促銷",
@@ -24523,6 +24680,29 @@
       "科視"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1807,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CO-FH01 商務投影機北京促銷價 2800 元",
+    "summary_zh": "近期通路傳出愛普生 CO-FH01 商務投影機在中國北京市場展開特價促銷活動，優惠售價為人民幣 2800 元。該款投影機主打 3LCD 顯示技術與 1080P 全高清解析度，提供商務辦公使用的實惠選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1165/11658666.html",
+    "publish_date": "2026-04-16",
+    "keywords": [
+      "愛普生",
+      "CO-FH01",
+      "3LCD",
+      "商務投影機",
+      "價格行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "理光"
+    ],
+    "link_status": null
   },
   {
     "id": 755,
