@@ -1,5 +1,341 @@
 [
   {
+    "id": 1834,
+    "source_name": "IT之家",
+    "title_zh": "海信 Vidda 推出大眼睛 M2 Pro 旗艦版投影機：1800 CVIA 亮度，售價 5499 元",
+    "summary_zh": "海信旗下品牌 Vidda 推出大眼睛 M2 Pro 旗艦版三色激光投影機，主打 1800 CVIA 亮度，搭載 0.47 吋 DMD 晶片與 MT9679 旗艦處理器。支援 1.3 倍無損變焦、240Hz 高更新率以及 360 度萬向雲台，售價為人民幣 5499 元。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.ithome.com/1/009/803.htm",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "Vidda",
+      "海信",
+      "三色激光投影儀",
+      "新品發布",
+      "智慧投影"
+    ],
+    "mentioned_brands": [
+      "Vidda",
+      "海信",
+      "京東"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1833,
+    "source_name": "DigiTimes",
+    "title_zh": "DIGITIMES 深度觀察：AI 數據需求激增，電力與散熱成全新瓶頸",
+    "summary_zh": "本文探討人工智慧運算需求大增之下，資料中心的電力供應與散熱技術如何成為產業發展的全新瓶頸。隨著高效能運算晶片功耗攀升，相關散熱解決方案與能源管理架構正快速轉型，以因應未來算力擴展的挑戰。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261002PD250/data-cooling-demand-chips-hbm.html",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "AI資料中心",
+      "散熱技術",
+      "高效能運算",
+      "電力供應"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1821,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "首購投影機諮詢與推薦需求",
+    "summary_zh": "歐洲一對夫妻計畫在臥室使用投影機取代傳統電視，考量未來搬遷需求，預算控制在二百歐元以內。他們打算將投影機投射在傾斜的白色天花板上，並連接遊戲主機與串流設備，目前正向社群尋求合適的入門機型推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxl01k/first_ever_projector/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "入門投影機",
+      "臥室投影",
+      "預算型投影機",
+      "消費者諮詢"
+    ],
+    "mentioned_brands": [
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1819,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機燈泡過熱或異常熄滅問題求助",
+    "summary_zh": "國外論壇用戶發文求助，指出其投影機在開機數分鐘後，畫面開始逐漸變暗，隨後燈泡完全熄滅，但內部顯示面板與主機仍然維持運轉狀態。這類狀況通常與燈泡老化、散熱不良或電源板異常有關，屬於消費者的日常使用疑難排解範例。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxs5y7/projetor_nao_funciona_direito/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "投影機故障",
+      "燈泡熄滅",
+      "散熱問題",
+      "用戶求助"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1817,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Elfin Flip Plus 投影機選購請益與性價比討論",
+    "summary_zh": "有消費者在論壇詢問特價至 319 美元的極米 Elfin Flip Plus 投影機是否值得入手，並尋求同價位帶的更佳替代方案。該機型主要用於臥室及聚會等情境的電影觀賞，引發社群關於入門級投影機性價比與規格選擇的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxnk00/good_or_can_it_be_better/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "極米",
+      "Elfin Flip Plus",
+      "投影機選購",
+      "入門投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1816,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "探討投影幕尺寸與觀影距離的視角關係及展示工具",
+    "summary_zh": "本文探討投影機安裝與觀影距離的幾何關係，指出100吋螢幕在3公尺與120吋螢幕在3.6公尺時，其16:9畫面的視角皆約為41度。作者並分享自製的免費螢幕比例計算工具，協助用戶評估不同配置下的觀影體驗與空間配置。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxk50u/a_100_inch_screen_at_3_m_and_a_120_inch_screen_at/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "投影幕",
+      "觀影距離",
+      "視角",
+      "螢幕尺寸",
+      "空間規劃"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1814,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生投影機出現綠點疑為壞點，用戶詢問處理方式",
+    "summary_zh": "一名用戶購買全新愛普生3800投影機後，發現畫面右下角出現一個綠色亮點，懷疑是面板壞點並詢問是否能透過維修修復或直接申請退換貨，屬於典型的消費者單一產品故障求助。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxyi70/dead_pixel/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "壞點",
+      "故障",
+      "維修",
+      "退換貨"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1811,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用家分享投影機使用心得並尋求遊戲投影機推薦",
+    "summary_zh": "一名Reddit用戶分享其近期購入平價投影機的使用心得，表示其帶來的沉浸式體驗遠勝過以往的45吋電視。同時，該名用戶也透露計畫在年底前購入高階投影機來搭配PS5遊戲主機使用，並向社群尋求低延遲且性價比高的遊戲投影機推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxra6g/so_far_soo_good_i_think_it_is_the_best_decision_i/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "投影機",
+      "遊戲投影機",
+      "低延遲",
+      "PS5"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1831,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找250歐元以下的預算型投影機諮詢",
+    "summary_zh": "有消費者在網路論壇發文尋求歐洲地區價格在250歐元以下的預算型投影機推薦，反映出入門級消費市場對於高性價比家用投影設備的實際需求與討論熱度。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxb40y/hey_everyone_im_looking_for_a_budget_projector/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "預算型投影機",
+      "入門投影機",
+      "消費需求"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1830,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 PH31 投影機解析度與韌體更新討論",
+    "summary_zh": "有用戶在使用奧圖碼投影機連接筆電時，意外發現可支援 4K 降頻至 30Hz 的選項，懷疑是像素位移技術所致，並推測該型號可能與其他機種在規格上具有共通性或人工限制。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxbyb8/optoma_ph31_update/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "Optoma",
+      "PH31",
+      "4K",
+      "像素位移",
+      "解析度"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1829,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "宏碁 AOpen 投影機串流播放問題求助",
+    "summary_zh": "一名新進的投影機使用者發文求助，表示其購入的 Acer AOpen LED 投影機無法直接播放 Netflix 與 YouTube 等串流平台內容，並詢問其他用戶的解決方案與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wx8p16/acer_apen/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "Acer",
+      "AOpen",
+      "LED投影機",
+      "串流媒體"
+    ],
+    "mentioned_brands": [
+      "Acer",
+      "AOpen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1827,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求500美元以下家用劇院投影機推薦",
+    "summary_zh": "本文為Reddit論壇使用者的求助貼文，詢問預算在500美元以內的最佳家用劇院投影機選擇。使用者表示已安裝遮光窗簾以控制環境光，但仍希望投影機在日間也能有一定水準的畫質表現，主要聚焦於入門級消費市場的需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Maybe",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxd1e3/i_want_to_setup_a_home_theatre_dose_anybody_have/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "家用投影機",
+      "入門投影機",
+      "劇院投影機",
+      "選購指南"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1825,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 與 Flip 4K 相關討論",
+    "summary_zh": "本篇為國外論壇 Reddit 關於極米品牌未公開或傳聞中的新型投影機機型 Horizon 20 與 Flip 4K 之討論串，內容主要聚焦於產品命名與規格猜測，尚無明確官方正式規格或上市細節公布。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxil9p/xgimi_horizon_20_flip_4k/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "極米",
+      "Horizon 20",
+      "Flip 4K",
+      "新品傳聞"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1818,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度市場投影機選購求助：極米 Vibe One 與 Pixpaq Gold Ray 4K 比較",
+    "summary_zh": "印度地區消費者在 Reddit論壇發文求助，尋找適合觀看OTT串流影音且能投射100吋畫面的投影機。目前面臨兩個選項：全新極米 Vibe One售價 18k，以及附有半年保固的二手 Pixpaq Gold Ray 4K搭售 Fire TV Stick售價 19k，亟需網友提供購買建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxhkjt/xgimi_vibe_one_vs_pixpaq_gold_ray_4k_region_india/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "極米",
+      "Vibe One",
+      "Pixpaq Gold Ray 4K",
+      "印度市場",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Pixpaq",
+      "Amazon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1812,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "網友分享以超低價格購入Epson二手投影機心得與設備連接困擾",
+    "summary_zh": "一名國外網友在Reddit分享，以兩百加幣超低價格買到僅使用六百小時的Epson二手投影機，並附帶天花板吊架與備用燈泡。然而實際使用時遭遇音訊輸出受限、筆電與遊戲機連接困難等問題，正在尋求透過電視棒解決藍牙音訊與投放的改善方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxgrei/i_think_i_hit_the_jackpot/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "Epson",
+      "二手投影機",
+      "家用投影",
+      "影音連接"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Amazon",
+      "JBL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1809,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "居家208吋大銀幕劇院建置：變形鏡頭的實際應用與調校",
+    "summary_zh": "本文分享了一位玩家在家中建置208吋電影院的實務經驗。透過搭配JVC NZ900旗艦投影機與ISCO 1.33倍變形鏡頭，解決了原生17:9矩陣面板在播放2.35:1寬螢幕電影時的光損問題，並針對不同長寬比內容分享了投影機的實際鏡頭設定與畫面切換技巧。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wxi7nc/208_screen_at_home_anamorphic_lens/",
+    "publish_date": "2026-10-04",
+    "keywords": [
+      "變形鏡頭",
+      "家用劇院",
+      "JVC NZ900",
+      "寬螢幕",
+      "投影機鏡頭"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "ISCO"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1799,
     "source_name": "IT之家",
     "title_zh": "極米推出業界首款原生4K 120Hz雷射電視AURA 3，售價18,999元起",
