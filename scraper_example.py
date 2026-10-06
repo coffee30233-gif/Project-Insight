@@ -182,6 +182,12 @@ RSS_SOURCES = [
     # 顯示產業／市場數據（取代失效的 TrendForce / RUNTO）。
     {"name": "Display Daily", "url": "https://displaydaily.com/feed/", "filter": True},
 
+    # --- 2026-10 新增 ---
+    # ProjectorScreen.com「Expert Insights」部落格：Shopify 站，跟 XGIMI / 當貝同一種
+    # .atom 路徑。內容幾乎都是投影機評測／新品／活動，不用過濾（真的不相關的由
+    # Gemini 的 relevance 判斷擋掉）。
+    {"name": "ProjectorScreen", "url": "https://www.projectorscreen.com/blogs/insights.atom"},
+
     # 未整合：BenQ——官網沒有 RSS，press room / knowledge-center 是 JS 動態載入，
     #   伺服器端 HTML 只吐得出零星連結，需要瀏覽器自動化才爬得動，暫不列入。
     #   （BenQ 新品消息目前仍會透過 ProjectorCentral / ProjectorReviews / ZOL 間接收到。）

@@ -54,6 +54,16 @@ def test_month_query_excludes_reddit_and_unrelated(temp_db):
     assert "正常文章 A" in titles
 
 
+def test_rag_includes_reddit_but_not_unrelated(temp_db):
+    # AI 問答的檢索範圍：Reddit 要查得到，Unrelated 仍然排除
+    with db.get_conn() as conn:
+        conn.execute("UPDATE articles SET embedding = ?", (json.dumps([0.1, 0.2]),))
+    titles = {a["title_zh"] for a in db.get_all_embedded_articles()}
+    assert "論壇求助帖" in titles
+    assert "無關新聞" not in titles
+    assert "論壇求助帖" in {a["title_zh"] for a in db.get_articles_for_reembed()}
+
+
 def test_list_articles_still_includes_reddit(temp_db):
     # 「最新情報」列表要照常顯示 Reddit（只是不進報告）
     res = db.list_articles(source="Reddit r/projectors")

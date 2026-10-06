@@ -156,8 +156,9 @@ Function），沒人使用時等於沒有東西在跑、在花錢。好處：便
 ### 資料庫
 - **`db.py`** — SQLite 讀寫。單一 `articles` 表。查詢過濾邏輯：
   - `EXCLUDED_RELEVANCE = ("Unrelated",)` — 無關文章不進報告 / 問答。
-  - `EXCLUDED_FROM_REPORTS = ("Reddit r/projectors",)` — Reddit 只在「最新情報」列表顯示，
-    不進週 / 月 / 年報，也不進 AI 問答（內容多為使用者求助 / 討論帖，不算產業情報）。
+  - `EXCLUDED_FROM_REPORTS = ("Reddit r/projectors",)` — Reddit 不進週 / 月 / 年報
+    （內容多為使用者求助 / 討論帖，不算產業情報），但會顯示在「最新情報」列表，
+    也能被 AI 問答查到。
   - Vercel 上（`IS_VERCEL`）`get_all_embedded_articles()` 改讀 `data/rag.jsonl`，不碰資料庫。
 
 ### 匯出 / 前端
@@ -265,7 +266,7 @@ n8n 是一個「把重複工作串起來自動執行」的工具，跑在 Docker
 |---|---|
 | **原文連結失效偵測** | 新增 `check_links.py` + DB 三個欄位；每季自動巡連結，前端顯示「連結可能已失效，請參考本站摘要」；預留「原文快取」功能（`ENABLE_ORIGINAL_CACHE`，因著作權考量預設關閉）。 |
 | **爬蟲效能** | 先查重再抓詳情頁（整趟從 ~22 分鐘 → 2–3 分鐘；ZOL 205 個連結原本走 4 分鐘、現在 3 秒）。RSS 加逾時、修好重試迴圈（原本每來源每天 parse 3 次）。附帶修好 Reddit RSS（先前長期回傳 0 篇）。 |
-| **Reddit 分流** | Reddit r/projectors 恢復供文後，只進「最新情報」列表，不進報告與 AI 問答。 |
+| **Reddit 分流** | Reddit r/projectors 恢復供文後，進「最新情報」列表與 AI 問答，但不進週 / 月 / 年報。 |
 | **DB 不進 git** | AI 問答改讀 `data/rag.jsonl`（逐行、可 delta），`projector_intel.db` 移出 git —— `.git` 從此不再每天長 8 MB。 |
 | **AI 問答相似度門檻** | 檢索不到相關內容就誠實回「資料不足」，不硬湊答案。 |
 | **維運告警 + 安全網** | `notify.py` 失敗告警信；`catch_up.sh` 補跑排程；`flock` 互斥鎖。 |

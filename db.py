@@ -72,9 +72,10 @@ MIGRATIONS = [
 # 舊資料（還沒有 relevance 欄位、值是 NULL）視為沒問題，不會被這個過濾條件擋掉。
 EXCLUDED_RELEVANCE = ("Unrelated",)
 
-# 這些來源的文章只在網站「最新情報」列表顯示，不納入週報／月報／年報，也不進 AI 問答。
+# 這些來源的文章不納入週報／月報／年報，但仍會顯示在網站「最新情報」列表、
+# 也能被 AI 問答查到（RAG 檢索不套用這個過濾）。
 # 目前用於 Reddit r/projectors：內容多為使用者求助／討論帖，不算產業市場情報，
-# 但仍是一線使用者訊號，保留在列表中供瀏覽。
+# 不適合寫進正式報告，但仍是一線使用者訊號，可供瀏覽與查詢。
 EXCLUDED_FROM_REPORTS = ("Reddit r/projectors",)
 
 
@@ -113,7 +114,8 @@ def _relevance_filter_sql() -> str:
 
 
 def _report_source_filter_sql() -> str:
-    """回傳排除「只在列表顯示、不進報告/問答」來源的 SQL 條件片段（見 EXCLUDED_FROM_REPORTS）。"""
+    """回傳排除「不進週報/月報/年報」來源的 SQL 條件片段（見 EXCLUDED_FROM_REPORTS）。
+    只給報告用；RAG（AI 問答）檢索不套用。"""
     placeholders = ", ".join("?" for _ in EXCLUDED_FROM_REPORTS)
     return f"source_name NOT IN ({placeholders})"
 
@@ -324,11 +326,12 @@ def get_unembedded_articles(limit: int = 200) -> list[dict]:
     """取出已完成 Gemini 摘要處理、但尚未產生 embedding 的文章。"""
     with get_conn() as conn:
         rows = conn.execute(
-            """SELECT id, title_zh, summary_zh, category, mentioned_brands, keywords
+            f"""SELECT id, title_zh, summary_zh, category, mentioned_brands, keywords
                FROM articles
                WHERE processed_at IS NOT NULL AND embedding IS NULL
+                     AND {_relevance_filter_sql()}
                LIMIT ?""",
-            (limit,),
+            (*EXCLUDED_RELEVANCE, limit),
         ).fetchall()
     return [_embed_row(r) for r in rows]
 
@@ -345,9 +348,8 @@ def get_articles_for_reembed() -> list[dict]:
                FROM articles
                WHERE processed_at IS NOT NULL
                      AND title_zh IS NOT NULL
-                     AND {_relevance_filter_sql()}
-                     AND {_report_source_filter_sql()}""",
-            (*EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
+                     AND {_relevance_filter_sql()}""",
+            EXCLUDED_RELEVANCE,
         ).fetchall()
     return [_embed_row(r) for r in rows]
 
@@ -377,9 +379,8 @@ def get_all_embedded_articles() -> list[dict]:
                       importance, url, publish_date, embedding, link_status
                FROM articles
                WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}
-                     AND {_report_source_filter_sql()}
                ORDER BY id""",
-            (*EXCLUDED_RELEVANCE, *EXCLUDED_FROM_REPORTS),
+            EXCLUDED_RELEVANCE,
         ).fetchall()
 
     articles = []
