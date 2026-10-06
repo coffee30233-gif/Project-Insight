@@ -1,5 +1,375 @@
 [
   {
+    "id": 1856,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：尋找適合明亮客廳且預算有限的投影機與布幕配置建議",
+    "summary_zh": "這是一篇來自Reddit論壇用戶的求助文章，詢問在預算加幣2500元以下，於具備大面窗戶的明亮客廳中，如何規劃投射距離約17呎、最大140吋的家用投影機與布幕配置。文中提及考慮Epson Home Cinema 3800等機型，並尋求社群的選購建議與可行性評估。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wycs4f/help_need_some_advice/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "家用投影機",
+      "預算規劃",
+      "布幕配置",
+      "明亮客廳"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1854,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion Pro 2 投影機關機後自動重啟問題探討",
+    "summary_zh": "有使用者反映 Valerion Pro 2 投影機在透過 HDMI 連接 Mac 進行遊戲後，關機時會發生自動重啟的異常狀況。雖然拔除 HDMI 線可暫時解決，但此現象顯示 HDMI 訊號控制可能存在相容性瑕疵，影響用戶日常體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wye751/valerion_pro_2_wont_turn_off/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "Valerion Pro 2",
+      "投影機故障",
+      "HDMI連線",
+      "自動開機"
+    ],
+    "mentioned_brands": [
+      "Valerion",
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1852,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新公寓投影機安裝尺寸與距離諮詢",
+    "summary_zh": "有使用者因新公寓格局不適合放置電視，計畫安裝120吋天花板下拉式銀幕與投影機，詢問4公尺觀看距離是否合適，以及3公尺投影距離與2.65公尺挑高下的機型推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wyfbx9/need_help/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "投影機安裝",
+      "投影幕",
+      "觀看距離",
+      "家用投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1849,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "歐洲地區投影機幕選購求助與 Optoma PH31 搭配詢問",
+    "summary_zh": "本篇為 Reddit 論壇使用者的實務求助文章，尋找適用於歐洲地區購買的 Elite Screens CineGrey 5D 抗光幕，並搭配 Optoma PH31 投影機在明亮空間使用，反映出終端消費者在特定區域尋找特定投影幕產品的尋找難題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wygnr3/screen_help_europe_optoma_ph31/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "投影幕",
+      "Elite Screens",
+      "CineGrey 5D",
+      "Optoma PH31",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Elite Screens",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1848,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生投影機偏光片問題與自行維修探討",
+    "summary_zh": "一名使用者在Reddit論壇分享其Epson EH-TW650投影機亮度不足及色彩異常的經驗。透過相機偏光濾鏡測試發現藍色通道有明顯變化，懷疑是內部偏光片故障，並詢問自行拆解維修光學元件的可行性與風險。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wyj2dy/epson_ehtw_650_inverted_polarizer/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "Epson EH-TW650",
+      "偏光片",
+      "投影機維修",
+      "亮度衰減",
+      "光學元件"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Byintek"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1846,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "初學者在度假小屋使用便攜式布幕搭配投影機的選購諮詢",
+    "summary_zh": "本文為投影機新手在論壇發文求助，探討在度假小屋的戶外環境下，使用約一百吋的便攜式布幕搭配如Optoma PK31等中階投影機是否會浪費，並尋求布幕畫質與設備搭配的實用建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wyga0f/is_it_a_waste_to_get_a_decent_projector_if_im/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "便攜式布幕",
+      "戶外投影",
+      "新手選購",
+      "Optoma"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Amazon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1845,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "英國Sony投影機用戶尋求維修管道與經驗分享",
+    "summary_zh": "一名英國Sony投影機用戶發文求助，指出其VW270ES機型出現嚴重畫質衰退問題，包含對比度下降與色彩失真。由於原廠維修費用高昂，用戶正尋找第三方維修商，並詢問英國Wells Electronics的評價，探討是否有其他經濟實惠的維修方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wymm3l/anyone_used_wells_electronics_uk_for_a_projector/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "Sony VW270ES",
+      "投影機維修",
+      "第三方維修",
+      "畫質衰退"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Wells Electronics"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1844,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求電動布幕遙控開關建議",
+    "summary_zh": "有使用者在論壇上發文求助，尋找適合大型Da-Lite電動投影幕的配線與附帶遙控功能的開關推薦，屬於一般消費者的使用經驗與周邊配件詢問，並未涉及產業趨勢或重大技術。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wyno4v/i_have_a_big_dalite_electric_screen_that_i_am/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "投影幕",
+      "Da-Lite",
+      "遙控開關",
+      "周邊配件"
+    ],
+    "mentioned_brands": [
+      "Da-Lite"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1843,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "800歐元以下的最佳4K投影機推薦與選購討論",
+    "summary_zh": "本文為Reddit論壇上的消費者討論，尋找預算800歐元以內、支援4K解析度、投射距離四公尺且畫面大小約110吋的新款投影機，並偏好LED或雷射光源以延長壽命，同時提及Optoma特定機型作為選購參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wypgif/best_4k_projector_under_800_110_4m_throw_distance/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "4K投影機",
+      "預算",
+      "投射距離",
+      "LED光源"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1842,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 投影機畫面抖動問題求助",
+    "summary_zh": "有用戶反應極米 Titan Noir Max 投影機在播放各種解析度內容時，皆出現明顯的畫面抖動現象。在排除外在環境氣流與支架震動等因素後，更新最新韌體仍無法解決內部光學鏡片或顯示模組導致的影像抖動問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wypjfl/image_wobbling_issue_xgimi_titan_noir_max/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "極米",
+      "Titan Noir Max",
+      "畫面抖動",
+      "投影機故障",
+      "韌體更新"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1837,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "電視還是投影機：使用者討論畫面尺寸與性價比的抉擇",
+    "summary_zh": "本文為Reddit論壇上的使用者討論，探討究竟應該選擇傳統電視還是投影機。內容指出投影機在具備較低成本的同時，能夠提供更大的畫面尺寸，但相對地需要在畫質表現上做出部分妥協，引發社群關於兩者優劣的廣泛交流。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wypzh1/television_o_un_proyector/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "投影機",
+      "電視",
+      "性價比",
+      "畫面尺寸"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1836,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 PT1 超短焦投影機百吋白牆投影心得",
+    "summary_zh": "本文為 Reddit 用戶分享海信 PT1 超短焦投影機的實際使用體驗。作者在收到抗光幕前，先將畫面投射至一般白牆上，其呈現的大尺寸畫面與清晰度令其驚艷，並指出網路影片與評測無法完全體現其實際視覺震撼力。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wyepn0/hisense_pt1_projecting_at_100_before_i_got_my_alr/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "超短焦投影機",
+      "海信",
+      "PT1",
+      "抗光幕",
+      "使用者心得"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1835,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "ProjectorScreen推出全新免費家庭劇院計算器工具套件並招募測試人員",
+    "summary_zh": "知名通路商ProjectorScreen推出一套全新的免費家庭劇院線上計算工具，整合空間、螢幕尺寸、觀看距離、亮度模擬、投影距離與機型比較等多項功能。該工具目前處於公開測試階段，開發團隊正積極收集用戶反饋以優化資料庫與介面設計。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wypjs1/we_built_a_new_free_home_theater_calculator_suite/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "ProjectorScreen",
+      "家庭劇院",
+      "計算工具",
+      "投影機",
+      "測試版"
+    ],
+    "mentioned_brands": [
+      "ProjectorScreen.com"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1858,
+    "source_name": "AV Network",
+    "title_zh": "專業影音新訊：Neat、Sony、AVer與Extron等品牌的產品升級與動態",
+    "summary_zh": "本文彙整了專業影音產業的最新動態，包含Neat、Sony、AVer與Extron等多家指標性廠牌的產品功能升級與技術更新，展現出專業影音市場在軟硬體整合上的最新發展趨勢與企業應用解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.avnetwork.com/business/pro-av-newsmakers-product-enhancements-and-updates-from-neat-sony-aver-extron-and-more",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "專業影音",
+      "Sony",
+      "AVer",
+      "Extron",
+      "Neat",
+      "產品升級"
+    ],
+    "mentioned_brands": [
+      "Neat",
+      "Sony",
+      "AVer",
+      "Extron"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1855,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "現實最糟情況：超短焦投影機搭配抗光幕在明亮客廳中可行嗎？",
+    "summary_zh": "本文為論壇用戶針對極端明亮採光環境下的家庭劇院配置請益。使用者計畫在小型客廳安裝80至100吋的超短焦投影機與抗光幕，並以XGIMI Aura 3 Max為例，探討在早晨強光直射的惡劣採光條件下，搭配適當預算是否能維持良好觀影品質，引發社群關於超短焦與抗光幕實際效能的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wy837o/realistic_worst_case_scenario_would_a_bright_room/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "超短焦投影機",
+      "抗光幕",
+      "UST",
+      "ALR screen",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1851,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 Pro 投影畫面異常詢問",
+    "summary_zh": "本文為 Reddit 用戶發文詢問關於極米 Horizon 20 Pro 投影機在播放時產生的畫面瑕疵或異常現象，屬於單一消費者的使用故障求助與心得分享，並未涉及產業市調、重大技術革新或供應鏈動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wy9mz1/xgimi_horizon_20_pro_artefacts/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "極米",
+      "Horizon 20 Pro",
+      "畫面異常",
+      "故障排查"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1850,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合特定空間配置與智慧功能的家庭劇院投影機建議",
+    "summary_zh": "Reddit使用者發文尋求投影機選購建議，希望能升級具備應用程式功能的智慧型投影機。文中詳細說明現有空間的擺放限制，包含投影機置於地面矮櫃、投射距離約125英吋以及特定的螢幕尺寸與高度，並搭配Denon擴大機與Orbi網通設備。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wy9ngm/looking_for_home_theatre_advice/",
+    "publish_date": "2026-10-05",
+    "keywords": [
+      "智慧投影機",
+      "家庭劇院",
+      "投影距離",
+      "空間配置"
+    ],
+    "mentioned_brands": [
+      "Denon",
+      "Orbi"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1834,
     "source_name": "IT之家",
     "title_zh": "海信 Vidda 推出大眼睛 M2 Pro 旗艦版投影機：1800 CVIA 亮度，售價 5499 元",
@@ -22852,6 +23222,51 @@
       "中關村線上"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1860,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-WW3101現貨緊俏，辦公教學投影行情",
+    "summary_zh": "松下推出PT-WW3101辦公教學投影機，目前在市場通路展開特價促銷活動。該機型主打商務與教育應用場景，具備穩定的投影性能與性價比優勢，吸引有採購需求的消費者關注，顯示出常規商教機種的市場流通動態。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1192/11928427.html",
+    "publish_date": "2026-06-04",
+    "keywords": [
+      "松下",
+      "PT-WW3101",
+      "商用投影",
+      "教學投影",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1859,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-WZ4001 投影機北京促銷價 8399 元",
+    "summary_zh": "知名投影機品牌松下推出 PT-WZ4001 家用投影機特惠活動，目前在北京經銷商處以優惠價 8399 元促銷中。該款機種主打家用市場，並具備 3LCD 顯示技術與雙頻 Wi-Fi 功能，吸引消費者關注。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1192/11928423.html",
+    "publish_date": "2026-06-04",
+    "keywords": [
+      "松下",
+      "PT-WZ4001",
+      "家用投影機",
+      "3LCD",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
   },
   {
     "id": 1612,
