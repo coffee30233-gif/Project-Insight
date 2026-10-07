@@ -64,6 +64,29 @@ def test_rag_includes_reddit_but_not_unrelated(temp_db):
     assert "論壇求助帖" in {a["title_zh"] for a in db.get_articles_for_reembed()}
 
 
+def test_make_rag_excerpt_cleans_html_and_skips_short():
+    long_html = ("<!-- SC_OFF --><div class=\"md\"><p>&nbsp;&nbsp;Hello&amp;world</p> "
+                 + "<p>" + "內容" * 150 + "</p></div>")
+    out = db.make_rag_excerpt(long_html)
+    assert "<" not in out and "&nbsp;" not in out and "SC_OFF" not in out
+    assert out.startswith("Hello&world")
+    assert len(out) <= db.RAG_EXCERPT_CHARS
+    # 清完不到門檻的（RSS 一句話、Credit: xxx）不放
+    assert db.make_rag_excerpt("Credit: Michael Lee") == ""
+    assert db.make_rag_excerpt(None) == ""
+    # 很長的原文只取前 RAG_EXCERPT_CHARS 字
+    assert len(db.make_rag_excerpt("字" * 10000)) == db.RAG_EXCERPT_CHARS
+
+
+def test_rag_rows_carry_excerpt(temp_db):
+    with db.get_conn() as conn:
+        conn.execute("UPDATE articles SET embedding = ?", (json.dumps([0.1, 0.2]),))
+        conn.execute("UPDATE articles SET raw_content = ? WHERE url = 'u1'", ("長文" * 200,))
+    rows = {a["title_zh"]: a for a in db.get_all_embedded_articles()}
+    assert rows["正常文章 A"]["excerpt"].startswith("長文")
+    assert rows["正常文章 B"]["excerpt"] == ""   # 原文只有 "raw"，太短不放
+
+
 def test_list_articles_still_includes_reddit(temp_db):
     # 「最新情報」列表要照常顯示 Reddit（只是不進報告）
     res = db.list_articles(source="Reddit r/projectors")

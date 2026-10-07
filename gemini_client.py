@@ -192,7 +192,9 @@ SYSTEM_PROMPT_A = """\
 轉換成結構化的繁體中文摘要資料，供後續資料庫儲存與月報彙整使用。
 
 規則：
-1. 摘要必須是你自己的改寫，不可整段抄錄原文，控制在 80-150 字。
+1. 摘要必須是你自己的改寫，不可整段抄錄原文，控制在 150-250 字。盡量保留原文
+   中的具體資訊（型號、規格、數字、價格、日期、人名/公司名），不要只寫概括性的
+   描述；原文本身很短（只有一兩句話）時，摘要不必硬湊到字數下限，不可無中生有。
 2. 分類只能從下列四類中選一個最貼切的：
    - 市場數據（出貨量、市佔率、零售通路數據等統計性內容）
    - 新品發布（新機型、新規格、新品牌動態）
@@ -230,7 +232,7 @@ SYSTEM_PROMPT_A = """\
 
 class ArticleAnalysis(BaseModel):
     title_zh: str = Field(description="繁體中文標題，若原文非中文需翻譯")
-    summary_zh: str = Field(description="80-150字繁體中文摘要")
+    summary_zh: str = Field(description="150-250字繁體中文摘要（原文很短時可更短）")
     category: Literal["市場數據", "新品發布", "技術動態", "供應鏈"]
     importance: int = Field(ge=1, le=5)
     original_language: str = Field(description="例如 zh-CN, zh-TW, en")

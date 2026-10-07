@@ -17,10 +17,13 @@ import gemini_client  # 重用同一個 Gemini client 設定
 
 SYSTEM_PROMPT = """\
 你是「投影機情報站」網站上的 AI 問答助手，只能根據下方提供的「檢索到的文章」
-回答使用者的問題，這些文章都是本站資料庫中已收錄、經過摘要的投影機產業新聞。
+回答使用者的問題，這些文章都是本站資料庫中已收錄的投影機產業新聞。每篇都有
+「摘要」，部分文章另外附有「原文開頭片段」（只是原文前面一段，可能在句子中間
+被截斷，不代表整篇內容）。摘要較簡略，片段裡的細節可以用來補充回答。
 
 規則：
-1. 只使用檢索到的文章內容作答，不可使用你自己既有的知識補充數字或事實。
+1. 只使用檢索到的文章內容（摘要與原文片段）作答，不可使用你自己既有的知識補充
+   數字或事實。
    如果檢索到的文章不足以回答問題，要老實說「目前資料庫中沒有足夠的資訊
    回答這個問題」，並可以建議使用者換個問法或縮小範圍。
 2. 回答中的每個重點，盡量註明是根據哪篇文章（可用文章標題簡稱），
@@ -53,12 +56,15 @@ def _build_context(retrieved: list[dict]) -> str:
     )
     blocks = []
     for i, a in enumerate(for_context, start=1):
-        blocks.append(
+        block = (
             f"[文章{i}] 標題：{a['title_zh']}\n"
             f"來源：{a['source_name']}｜發布日期：{a['publish_date']}｜"
             f"分類：{a['category']}\n"
             f"摘要：{a['summary_zh']}"
         )
+        if a.get("excerpt"):  # 原文夠長的文章才有（見 db.make_rag_excerpt）
+            block += f"\n原文開頭片段：{a['excerpt']}"
+        blocks.append(block)
     return "\n\n".join(blocks)
 
 

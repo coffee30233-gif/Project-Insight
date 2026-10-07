@@ -4,7 +4,9 @@ db.py
 （欄位設計相同，改用 psycopg2 / SQLAlchemy 即可）。
 """
 
+import html
 import os
+import re
 import sqlite3
 import json
 from contextlib import contextmanager
@@ -367,6 +369,27 @@ def _load_rag_jsonl() -> list[dict]:
     return out
 
 
+# AI 問答除了摘要，也把原文開頭一段交給模型參考（摘要只有一百多字，細節常被概括掉）。
+RAG_EXCERPT_CHARS = 2000
+# 清掉 HTML 之後不到這個字數的原文，多半只是 RSS 給的一句話或「Credit: xxx」之類，
+# 沒有比摘要更多的資訊，放進去只會浪費 token，所以不放。
+RAG_EXCERPT_MIN_CHARS = 200
+
+
+def make_rag_excerpt(raw_content: str | None) -> str:
+    """把原文清成純文字（去 HTML 標籤與註解、還原 &nbsp; 等實體、壓縮空白），
+    取前 RAG_EXCERPT_CHARS 字。清完太短就回空字串。"""
+    if not raw_content:
+        return ""
+    text = re.sub(r"<!--.*?-->", " ", raw_content, flags=re.S)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html.unescape(text).replace("\xa0", " ")
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) < RAG_EXCERPT_MIN_CHARS:
+        return ""
+    return text[:RAG_EXCERPT_CHARS]
+
+
 def get_all_embedded_articles() -> list[dict]:
     """取出所有已產生 embedding 的文章，供 RAG 檢索時載入記憶體做相似度計算。"""
     if IS_VERCEL:
@@ -376,7 +399,8 @@ def get_all_embedded_articles() -> list[dict]:
     with get_conn() as conn:
         rows = conn.execute(
             f"""SELECT id, source_name, title_zh, summary_zh, category,
-                      importance, url, publish_date, embedding, link_status
+                      importance, url, publish_date, embedding, link_status,
+                      raw_content
                FROM articles
                WHERE embedding IS NOT NULL AND {_relevance_filter_sql()}
                ORDER BY id""",
@@ -390,6 +414,7 @@ def get_all_embedded_articles() -> list[dict]:
             "source_name": r["source_name"],
             "title_zh": r["title_zh"],
             "summary_zh": r["summary_zh"],
+            "excerpt": make_rag_excerpt(r["raw_content"]),
             "category": r["category"],
             "importance": r["importance"],
             "url": r["url"],
