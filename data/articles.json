@@ -1,5 +1,378 @@
 [
   {
+    "id": 1882,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：JVC投影機畫面出現藍色色偏與黑屏問題",
+    "summary_zh": "一名用戶在Reddit發文求助，指出其擁有的JVC DLA RS-400U投影機在開機約15分鐘後，會開始出現藍色色偏並伴隨閃爍，幾分鐘後最終變成全黑。該燈泡使用時數僅約900小時，但燈泡年份已達9年左右。用戶已排除HDMI線材與輸入設備的問題，確認故障源於投影機本身，尋求社群協助解決此故障狀況。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz81rv/help_with_jvc_projector_turning_blue_tint/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "JVC",
+      "DLA RS-400U",
+      "投影機故障",
+      "色偏",
+      "燈泡壽命"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1881,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手 SONY VPL-HW55ES 對決 Epson EH-TW7000 純觀影需求討論",
+    "summary_zh": "網友在 Reddit 討論區發文尋求購買建議，其 Epson EH-TW5000 故障後，正考慮在相同預算下購入二手 Sony VPL-HW55ES 或 Epson EH-TW7000。使用情境為全黑環境專門觀賞電影、藝術片、老電影及動畫等 1080p 高碼率影片，投影幕寬 2.1 公尺（約 95 吋）、投射距離 3.6 公尺。抉擇點在於 Sony 的原生對比與黑位表現，以及 Epson 的亮度、4K 增強與 HDMI 2.0 規格。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz927f/used_sony_vplhw55es_vs_hp_tw7000_for_filmonly/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "SONY VPL-HW55ES",
+      "Epson EH-TW7000",
+      "二手投影機",
+      "對比度",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1875,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信PX3 Pro是否可以側向或垂直安裝的討論",
+    "summary_zh": "Reddit論壇用戶發文詢問海信PX3 Pro超短焦雷射投影機是否能夠以側向或垂直方式安裝使用，並表示曾聯繫海信官方但未獲得回應，引發社群關於投影機安裝角度限制的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzf2go/guys_is_it_possible_to_install_px3pro/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "海信",
+      "PX3 Pro",
+      "安裝方式",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "海信"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1874,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手詢問是否適合在特定空間安裝海信PL2超短焦投影機",
+    "summary_zh": "一名剛接觸投影機領域的Reddit用戶發文詢問，計畫在特定居家空間安裝海信Hisense PL2超短焦UST投影機，並尋求社群使用建議與評估這樣做是否合適。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz767c/looking_to_put_a_ust_projector_here_the_hisense/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "海信",
+      "PL2",
+      "超短焦投影機",
+      "UST"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1872,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機畫面模糊與殘影問題求助",
+    "summary_zh": "一名用戶在Reddit論壇發文求助，表示剛購入的wzacto yuva vibe pro投影機整體表現尚可，但在黑色背景下會出現影像模糊與殘影現象，並詢問是否有解決方案。這是一篇來自消費者的單一產品使用心得與故障求助討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz86pq/image_smudging/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "wzacto yuva vibe pro",
+      "影像模糊",
+      "投影機故障",
+      "使用者心得"
+    ],
+    "mentioned_brands": [
+      "wzacto"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1871,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson EMP-811 投影機購買諮詢與評價",
+    "summary_zh": "有用戶在 Reddit 論壇發文詢問關於二手 Epson EMP-811 投影機的購買建議。該機型在 eBay 標價 30 歐元，發問者缺乏相關知識，希望了解這是否為一筆划算的交易，以及該設備是否適合用於簡單的電影播放和遊戲娛樂用途。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz8xbb/epson_emp811/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "Epson",
+      "EMP-811",
+      "二手投影機",
+      "eBay"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1870,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "攜帶Elfin Flip 4K旅行的便攜性討論與AR眼鏡比較",
+    "summary_zh": "Reddit用戶發文詢問關於可攜式投影機Elfin Flip 4K在搭機旅行時的實際便攜性，探討包含充電器與收納包後的體積與重量負擔。同時，文中也將其與Viture Beast等AR智慧眼鏡進行比較，分析眼鏡產品在邊緣模糊、長時間配戴舒適度以及生產力應用上的侷限，凸顯投影機能提供真正大畫面且不需配戴在臉上的優勢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wziafo/how_portable_is_the_elfin_flip_4k_for_travelling/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "Elfin Flip 4K",
+      "便攜投影機",
+      "旅行",
+      "Viture Beast",
+      "AR眼鏡"
+    ],
+    "mentioned_brands": [
+      "Viture"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1869,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Flip 4K 與 Nebula Cosmos 4K SE 比較討論",
+    "summary_zh": "有用戶在 Reddit 詢問關於初次購買投影機的選擇建議，比較對象為極米 Xgimi Flip 4K 與 Anker 旗下的 Nebula Cosmos 4K SE。發文者指出兩者皆以可攜性聞名，Nebula 亮度似乎略高，而他對極米的外型設計感興趣，但對近期密集釋出的開箱評論持保留態度。使用環境主要為暗室、夜間或拉上窗簾的狀況，並向社群徵求實際使用心得與選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzabot/xgimi_flip_4k_vs_nebula_cosmos_4k_se/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "Xgimi Flip 4K",
+      "Nebula Cosmos 4K SE",
+      "可攜式投影機",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Nebula",
+      "Anker"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1868,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "請協助評估我的地下室投影機設置方案",
+    "summary_zh": "一名Reddit用戶正計劃在其14乘11英尺的地下室裝設投影機，考慮選用極短焦（UST）的極米XGIMI Aura 3，預算控制在加幣3000元以內包含投影機與螢幕。目前空間距離約13英尺，光線可透過遮光簾控制，用戶正在猶豫該選擇100吋還是120吋螢幕，以及是否該採用極短焦而非標準投射比，並尋求社群建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzi8zm/help_me_decide_on_my_basement_projector_setup/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "地下室投影機",
+      "極短焦",
+      "XGIMI Aura 3",
+      "投影螢幕尺寸"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1866,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機銀幕挑選建議",
+    "summary_zh": "Reddit 用戶在討論區發文尋求投影機銀幕的挑選建議，原文內容極短，僅包含連結與留言討論區入口，未提供任何具體的投影機品牌、型號、規格、尺寸或價格等詳細資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wznowx/screen_suggestion/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "投影機銀幕",
+      "挑選建議",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1864,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Aura 3 Max 開箱影片與規格亮點分享",
+    "summary_zh": "Reddit 用戶分享了極米 XGIMI Aura 3 Max 超短焦投影機的開箱影片，並揭露其核心硬體規格。該機搭載 SST DMD 晶片、雙光圈與雙 DMD 控制器，支援 4K 120Hz 輸出，透過更快的色輪循環降低彩虹效應（RBE），並具備更高亮度與良好的韌體支援。測試環境將搭配 120 吋菲涅爾 ALR 抗光幕以及 XY SoundMax 4K 透聲幕進行深度評測。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzo8jr/xgimi_aura_3_max_unboxing_video/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "XGIMI Aura 3 Max",
+      "超短焦投影機",
+      "DMD晶片",
+      "4K 120Hz",
+      "UST"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1863,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 Optoma HD27 投影機疑似 DMD 芯片問題求助",
+    "summary_zh": "有用戶在 Reddit 論壇發文求助，表示剛購入二手 Optoma HD27 投影機，發現在畫面失焦時，整個畫面會出現大量微小的白點，對焦後雖較不顯眼但仍存在。新手用戶發文詢問這是否為 DMD 晶片故障或瑕疵所導致的問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzc95w/optoma_hd27_dmd_chip_issue/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "Optoma HD27",
+      "DMD晶片",
+      "二手投影機",
+      "故障排查"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1862,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：Optoma PK31以400美元購買是否划算？",
+    "summary_zh": "有用戶在Reddit詢問Optoma PK31投影機售價400美元是否值得購買。文中同時比較了多款市面上的全新機種價格，包含售價600美元的PH31與BenQ 575i，以及售價500美元的Viewsonic PX700HDH，並提到Propix 860已在市場上難以尋覓，引發網友對幾款入門投影機性價比的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzfky4/pk31_worth_it_at_400usd/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "Optoma PK31",
+      "BenQ 575i",
+      "Viewsonic PX700HDH",
+      "投影機價格",
+      "性價比"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "BenQ",
+      "Viewsonic",
+      "Propix"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1861,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合戶外志工活動使用的平價投影機推薦求助",
+    "summary_zh": "有用戶在Reddit發文尋求適合志工計畫使用的戶外投影機，需求為價格盡量便宜且在微光環境下可用。主要使用時間約在下午5至6點日落前，目前考慮的機型包含Nebula P3I、Epson Epiqvision Flex CO1以及Capsule 3，但對於P3I與Capsule 3在日落前的亮度是否足夠感到疑慮，因此發文向社群徵求選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wzp5yt/need_help_looking_for_a_projector_for_outdoor_use/",
+    "publish_date": "2026-10-07",
+    "keywords": [
+      "戶外投影機",
+      "Nebula P3I",
+      "Epiqvision Flex CO1",
+      "Capsule 3",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [
+      "Nebula",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1886,
+    "source_name": "AV Network",
+    "title_zh": "願景相遇投影：認識創意團隊",
+    "summary_zh": "本文探討視覺藝術與投影技術的結合，並介紹背後的專業創意團隊及其在相關專案中的實際應用與合作經驗。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.avnetwork.com/installations/vision-meets-projection-meet-the-creative-team",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "投影技術",
+      "創意團隊",
+      "視覺藝術",
+      "AV Network"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1883,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合 60 至 100 人商用培訓的投影機推薦",
+    "summary_zh": "Reddit 用戶發文尋求預算在 1000 美元以內的商用投影機推薦，主要用於 60 至 100 人的外地培訓場合。需求包含具備便攜性、內建良好揚聲器，並對 Capsule III 機型的亮度是否足夠產生疑問。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz5oac/looking_for_recommendations/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "商用投影機",
+      "便攜投影機",
+      "培訓設備",
+      "預算1000美元"
+    ],
+    "mentioned_brands": [
+      "Capsule"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1873,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "3LCD與雷射DLP技術比較：針對閃爍與抖色敏感使用者的投影機選擇探討",
+    "summary_zh": "一名對顯示器畫面閃爍、抖色（dithering）及色彩快速閃動極度敏感的新手使用者，在Reddit論壇發文尋求建議。由於傳統螢幕會引發嚴重眼睛疲勞，他轉而考慮投影機，並在3LCD技術（如Epson LS800、LS6000）與單晶片雷射DLP技術（如海信PX4、極米Aura 3）之間猶豫。內文探討了色彩採樣、更新率、脈衝寬度調變（PWM）調光等規格，希望藉由社群討論釐清哪種顯示技術最適合敏感體質。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1wz24hf/3lcd_vs_laser_dlp_flicker_and_dithering/",
+    "publish_date": "2026-10-06",
+    "keywords": [
+      "3LCD",
+      "DLP",
+      "顯示閃爍",
+      "抖色",
+      "Epson",
+      "LS800",
+      "LS6000"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Hisense",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1856,
     "source_name": "Reddit r/projectors",
     "title_zh": "求助：尋找適合明亮客廳且預算有限的投影機與布幕配置建議",
@@ -2198,6 +2571,39 @@
     "link_status": "blocked"
   },
   {
+    "id": 1887,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson 攜手 AVSForum 於紐約舉辦投影機畫質對比與技術交流會",
+    "summary_zh": "Epson 於 9 月 24 日在曼哈頓與 AHT Global 及 AVSForum 社群舉辦投影機技術交流會，由 Epson 美國技術客戶經理 Rob Brennan 主講。活動現場展示多款重量級機種對比，包括 Epson QB1000 對決 Sony BRAVIA Projector 7，以及 Epson QL3000、QL7000 與 Sony BRAVIA Projector 8、JVC NZ800 的同場較勁，同時亮相 LS6000、LS7500 與 Hisense C2 Ultra 等新機。會中深入探討高亮度在 HDR 影片與明亮環境觀看美式足球等多元應用中的優勢，並針對暗部表現、色域及動態對應（tone mapping）等技術細節交換意見。",
+    "category": "技術動態",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-and-avsforum-bring-the-projector-debate-to-new-york",
+    "publish_date": "2026-09-28",
+    "keywords": [
+      "Epson",
+      "Sony",
+      "JVC",
+      "Hisense",
+      "QB1000",
+      "QL3000",
+      "QL7000",
+      "NZ800",
+      "亮度",
+      "HDR",
+      "動態對應"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "AVSForum",
+      "Sony",
+      "JVC",
+      "Hisense",
+      "Stewart"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1746,
     "source_name": "ZOL投影機頻道",
     "title_zh": "大眼橙R3 Ultra旗艦版在家打造巨幕影院促銷中",
@@ -3954,6 +4360,29 @@
     "link_status": "blocked"
   },
   {
+    "id": 1888,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson LS6000 投影機評測：售價2,199.99美元，具備3400流明與優秀亮場表現",
+    "summary_zh": "知名投影機評測網站ProjectorScreen發布Epson LS6000 4K雷射投影機首發評測，售價為2,199.99美元。該機採用3LCD雷射磷光體光源與像素位移技術，色彩與白色亮度均達3,400流明。評測指出其畫面表現銳利平滑且無彩虹效應，在觀賞運動賽事、電視及明亮遊戲場景時表現如同電視般出色；但缺點在於深黑色與暗影表現較弱。硬體方面搭載1.62倍手動光學變焦、±59%垂直與±21%水平鏡頭位移，配備兩組HDMI（含HDMI 2支援eARC/ARC）與LAN網路控制埠，未內建串流作業系統。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-ls6000-projector-first-look-review",
+    "publish_date": "2026-09-22",
+    "keywords": [
+      "Epson",
+      "LS6000",
+      "3LCD",
+      "雷射投影機",
+      "4K投影機",
+      "評測"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1535,
     "source_name": "AV Network",
     "title_zh": "2026年影音資訊產業趨勢：ViewSonic專訪前言",
@@ -5067,6 +5496,30 @@
       "Nintendo"
     ],
     "link_status": "blocked"
+  },
+  {
+    "id": 1889,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信PX4 Pro投影機預告10月迎來重大韌體更新，加入動態光圈與彩虹效應抑制",
+    "summary_zh": "海信（Hisense）預計於2026年10月為PX4 Pro 4K三色雷射超短焦投影機推出Q0917版韌體更新。本次更新重點包含全新「動態光圈（Dynamic Iris）」功能，可依畫面平均亮度自動調節光圈以提升對比度與暗部表現，並提供更強的彩虹效應（RBE）抑制設定。此外，更新亦新增動態灰階、改善暗場對比、減少暗場泛紅與亮度閃爍等優化。不過動態光圈與強效RBE抑制功能彼此衝突無法同時開啟，且啟用強效RBE時會增加運作噪音。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-px4-pro-update-adds-dynamic-iris-and-stronger-anti-rbe",
+    "publish_date": "2026-09-18",
+    "keywords": [
+      "Hisense",
+      "PX4 Pro",
+      "韌體更新",
+      "動態光圈",
+      "彩虹效應",
+      "雷射投影機",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
   },
   {
     "id": 1435,
@@ -6295,6 +6748,29 @@
       "BenQ"
     ],
     "link_status": "blocked"
+  },
+  {
+    "id": 1890,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Focal Mu-so Hekla 一體式 Dolby Atmos 音響系統評測",
+    "summary_zh": "Focal 與 Naim 合作推出 Mu-so Hekla 一體式沉浸式音響系統，售價 3,600 美元。該產品內建 15 個單體、660 瓦擴大機功率，支援 Dolby Atmos、高解析串流與雙空間音訊引擎，具備 7.1.2 聲道播放配置。其設計適合放置於壁掛式電視或投影幕下方，需搭配對稱空間以發揮反射音效。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Indirect",
+    "url": "https://www.projectorscreen.com/blogs/insights/focal-mu-so-hekla-sound-system-review",
+    "publish_date": "2026-09-15",
+    "keywords": [
+      "Focal",
+      "Naim",
+      "Mu-so Hekla",
+      "Dolby Atmos",
+      "音響系統"
+    ],
+    "mentioned_brands": [
+      "Focal",
+      "Naim"
+    ],
+    "link_status": null
   },
   {
     "id": 1336,
@@ -10837,6 +11313,54 @@
     "link_status": "ok"
   },
   {
+    "id": 1892,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信C3系列投影機比較：C3 Pro、C3 Ultra 與 C3 Ultra Max",
+    "summary_zh": "海信推出全新的C3系列4K RGB三色雷射智慧投影機，包含C3 Pro、C3 Ultra與C3 Ultra Max三款型號。三者皆支援65至300吋投影畫面、118% BT.2020色域、杜比視界、IMAX Enhanced及高達240Hz遊戲更新率。主要差異在於亮度與光學鏡頭規格：C3 Pro提供3000 ANSI流明與1.6倍光學變焦；C3 Ultra提升至4000 ANSI流明；頂規的C3 Ultra Max則具備5000 ANSI流明、2倍光學變焦以及更彈性的鏡頭位移範圍。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-c3-series-compared-c3-pro-vs-c3-ultra-vs-c3-ultra-max",
+    "publish_date": "2026-08-28",
+    "keywords": [
+      "Hisense",
+      "C3 Pro",
+      "C3 Ultra",
+      "C3 Ultra Max",
+      "4K",
+      "RGB三色雷射",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1891,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信發表全新 L9Q Pro 5500流明超短焦雷射投影機",
+    "summary_zh": "海信推出全新旗艦款 L9Q Pro（亦寫作 L9QPRO 或 L9Q-Pro）三色雷射超短焦投影機。該機型採用 RGB 三色雷射光源，具備 5500 ANSI 流明的高亮度，支援 80 吋至 200 吋的超大畫面投影，投射比為 0.18:1。色彩表現方面，提供 118% BT.2020 色彩體積並可顯示 10.7 億種色彩。此外，內建 7 級可調式光圈與兩種預設模式，對比度最高可達 6000:1，並搭載 Dolby Vision、Google TV 以及 116W 功率的 Devialet 調音音響系統。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/new-hisense-l9q-pro-5-500-lumen-ultra-short-throw-ust-projector",
+    "publish_date": "2026-08-28",
+    "keywords": [
+      "Hisense L9Q Pro",
+      "超短焦投影機",
+      "雷射投影機",
+      "三色雷射",
+      "5500流明",
+      "海信"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Devialet"
+    ],
+    "link_status": null
+  },
+  {
     "id": 848,
     "source_name": "ProjectorCentral",
     "title_zh": "極米攜手 AWALL 針對美國市場推出全新高端品牌 XWALL by XGIMI",
@@ -11359,6 +11883,30 @@
     "link_status": "ok"
   },
   {
+    "id": 1893,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 PX4 Pro 4K 三雷射超短焦投影機評測：原廠精準度高且設計靈活",
+    "summary_zh": "ProjectorScreen發布海信PX4 Pro 4K三雷射超短焦投影機評測。相較於前代PX3 Pro，PX4 Pro在亮度、對比度、對焦清晰度與風扇靜音表現上皆有顯著升級，建議售價為3,997.97美元（原價4,497.97美元）。該機型具備3,500 ANSI流明，支援80至200吋投影畫面，並搭載三色雷射光源、杜比視界（Dolby Vision）與固定式光圈。測試顯示其原廠劇院模式色彩精準，動態範圍與黑位表現優異，能同時兼顧暗室劇院與明亮客廳的多功能使用需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-px4-pro-4k-triple-laser-ust-projector-review-accurate-by-default-adaptable-by-design",
+    "publish_date": "2026-08-19",
+    "keywords": [
+      "Hisense",
+      "PX4 Pro",
+      "UST Projector",
+      "4K",
+      "Triple-Laser",
+      "Dolby Vision",
+      "ProjectorReview"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
     "id": 781,
     "source_name": "ZOL投影機頻道",
     "title_zh": "日立 TCP-D1070U 工程投影機特價清庫存 雙燈熱切換高亮工程利器",
@@ -11492,6 +12040,31 @@
       "Panasonic"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1894,
+    "source_name": "ProjectorScreen",
+    "title_zh": "極米發表 AURA 3 Max 旗艦超短焦投影機：具備 5700 ISO 流明、三色雷射與 4K/120 遊戲規格",
+    "summary_zh": "極米（XGIMI）宣布將於 2026 年透過 Kickstarter 推出全新旗艦超短焦投影機 AURA 3 Max。該機採用 RGB 三色雷射光源與 0.47 吋 DMD 晶片，搭載雙 DLPC 8545 控制器，成為首款支援 4K/120Hz 播放的 DLP 超短焦投影機。其亮度高達 5,700 ISO 流明，原生對比度上看 8,000:1，並配備雙光圈系統與動態黑色增強技術。投射比為 0.163:1，距離牆面 8 英吋即可投出 120 吋大畫面。此外，該機支援 HDMI 2.1、VRR、ALLM、Dolby Vision Gaming，以及 1080p/240Hz 與最低 1 毫秒的輸入延遲，全面搶攻客廳大畫面與高階遊戲市場。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/xgimi-aura-3-max-ust-projector-announced",
+    "publish_date": "2026-08-18",
+    "keywords": [
+      "XGIMI",
+      "AURA 3 Max",
+      "超短焦投影機",
+      "UST",
+      "雷射投影機",
+      "4K/120Hz",
+      "RGB三色雷射"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 772,
@@ -22573,6 +23146,29 @@
     "link_status": "ok"
   },
   {
+    "id": 1918,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L630U特價促銷歡迎來電諮詢",
+    "summary_zh": "愛普生旗下的CB-L630U投影機產品，近日於北京商家「北京合眾聯鑫」展開特價促銷活動，採價格面議方式銷售。商家位於北京市海澱區中關村中科大廈9層，提供有興趣的消費者前往現場或透過電話諮詢相關優惠與購買資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1203/12039547.html",
+    "publish_date": "2026-06-23",
+    "keywords": [
+      "愛普生",
+      "CB-L630U",
+      "投影機",
+      "促銷",
+      "北京合眾聯鑫"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1744,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-2255U投影機特價促銷中",
@@ -22728,6 +23324,30 @@
       "當貝"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1895,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Kaleidescape推出Strato K旗艦播放器：支援原生8K與全新4K Cinematic格式",
+    "summary_zh": "Kaleidescape發表成立25年來最具歷史意義的新款旗艦電影播放器Strato K，首度支援原生8K HDR10播放，並引入全新的4K Cinematic視訊格式。該格式採用8K級處理效能，提供高達4:4:4的完整色度與更高位元率，相較於傳統UHD Blu-ray的4:2:0色度抽樣，能顯著提升色彩解析度、邊緣細節與飽和高光表現，對大型投影幕等高階顯示設備是一大升級。硬體方面搭載HDMI 2.1與1TB內建SSD，支援無損環繞音效，且功耗較以往機型更低。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/kaleidescape-strato-k-native-8k-a-new-4k-cinematic-format-and-the-biggest-leap-in-25-years",
+    "publish_date": "2026-06-18",
+    "keywords": [
+      "Kaleidescape",
+      "Strato K",
+      "8K",
+      "4K Cinematic",
+      "電影播放器",
+      "4:4:4",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Kaleidescape"
+    ],
+    "link_status": null
   },
   {
     "id": 1051,
@@ -23355,6 +23975,30 @@
     "link_status": "ok"
   },
   {
+    "id": 1897,
+    "source_name": "ProjectorScreen",
+    "title_zh": "JVC NZ700/RS2200 雷射 D-ILA 原生 4K 投影機評測",
+    "summary_zh": "JVC推出售價9,999美元的全新NZ700（RS2200）原生4K雷射投影機，搭載0.69吋D-ILA晶片與BLU-Escent單藍光雷射源，壽命超過2万小時。官方標示亮度為2300流明，實際測試顯示亮度比入門款NZ500高出約25%。原生對比度達80,000:1，並具備全新Deep Black音調控制與逐格動態色調對應功能。機身採用全新輕巧設計，改進前後散熱系統與80mm鏡頭，提供優異的角落清晰度與更安靜的運作表現。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/jvc-nz700-rs2200-laser-d-ila-native-4k-projector-review",
+    "publish_date": "2026-06-02",
+    "keywords": [
+      "JVC",
+      "NZ700",
+      "RS2200",
+      "D-ILA",
+      "4K",
+      "雷射投影機",
+      "投影機評測"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
     "id": 493,
     "source_name": "ZOL投影機頻道",
     "title_zh": "飛利浦NPX125投影機與投影幕布一體套裝",
@@ -23865,6 +24509,32 @@
     "link_status": "ok"
   },
   {
+    "id": 1899,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Soundcore Nebula X1 Pro 移動式劇院工作站深度評測",
+    "summary_zh": "本文評測了 Anker 旗下的 Soundcore Nebula X1 Pro 移動式劇院投影機系統。該機基於 Nebula X1 平台打造，具備 4K 解析度、高亮度、廣色域、HDR 與動態光圈等強悍投影性能。不同於標準版，X1 Pro 整合了滾動式機箱設計，兼具重低音音箱、無線揚聲器充電座、卡拉OK麥克風收納、遙控器與電源收納功能，並隨附 200 吋靜音充氣投影幕與無線音訊系統，為戶外與大型聚會提供一體化的沉浸式大銀幕劇院體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/soundcore-nebula-x1-pro-mobile-theater-station-review",
+    "publish_date": "2026-05-20",
+    "keywords": [
+      "Soundcore",
+      "Nebula X1 Pro",
+      "4K投影機",
+      "三雷射投影機",
+      "行動劇院",
+      "充氣投影幕",
+      "Anker"
+    ],
+    "mentioned_brands": [
+      "Soundcore",
+      "Anker",
+      "Nebula"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1447,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-2255U投影機特價促銷中",
@@ -23906,6 +24576,33 @@
       "愛普生"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1900,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 Hisense XR10 4K 三雷射智慧投影機深度評測：高亮度與跨界應用的新選擇",
+    "summary_zh": "本文評測海信旗艦款 4K 三雷射智慧投影機 Hisense XR10，搭載 TriChroma RGB 三雷射光源與 LPU 3.0 數位雷射引擎，具備高達 6,000 ANSI 流明亮度及 0.84-2.0:1 的短至標準焦距投射彈性。該機支援 Dolby Vision、HDR10+、HDMI 2.1 與 Wi-Fi 7，兼顧家庭劇院與客廳娛樂需求。實測顯示其劇院模式色彩準確且亮度表現優異，但受限於 RGB 雷射實現方式，在飽和 HDR 色彩體積上仍有物理極限。總體而言，XR10 以其高亮度、安裝靈活性與智慧功能，成為市場上相當具吸引力的高階前投選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-xr10-4k-triple-laser-smart-projector-review",
+    "publish_date": "2026-05-19",
+    "keywords": [
+      "Hisense",
+      "XR10",
+      "4K投影機",
+      "三雷射",
+      "6000流明",
+      "RGB雷射",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "JVC",
+      "Sony",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 1577,
@@ -24902,6 +25599,32 @@
     "link_status": "ok"
   },
   {
+    "id": 1901,
+    "source_name": "ProjectorScreen",
+    "title_zh": "堅果推出 N3 Ultimate 三色雷射 4K 智慧投影機：規格、表現與實測速覽",
+    "summary_zh": "堅果（JMGO）發表最新旗艦生活風格投影機 N3 Ultimate，搭載三色雷射引擎與 4K 解析度，預計 2026 年第二季上市，建議售價 3,599 美元。該機標榜高達 5,800 ISO 流明，實測動態模式下甚至超過 6,000 流明，但實際校準模式下的真實亮度約為 3,000 流明。其具備 110% BT.2020 色域覆蓋、無損光學變焦（0.88–1.7:1 投射比）以及電動雲台與鏡頭位移功能，原生對比度約在 1500:1 至 1700:1 之間，並內建 Google TV 系統。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/jmgo-n3-ultimate-a-high-performance-laser-projector-built-for-flexibility-first-look-review",
+    "publish_date": "2026-04-23",
+    "keywords": [
+      "JMGO N3 Ultimate",
+      "堅果投影機",
+      "三色雷射投影機",
+      "4K投影機",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "堅果",
+      "Sony",
+      "JVC",
+      "Stewart"
+    ],
+    "link_status": null
+  },
+  {
     "id": 957,
     "source_name": "ZOL投影機頻道",
     "title_zh": "ROLY RL-A6U 投影機北京經銷商特價 32,200 元",
@@ -24943,6 +25666,27 @@
       "易仁科技"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1917,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L690U 投影機特價促銷中",
+    "summary_zh": "愛普生推出 CB-L690U 投影機特價促銷活動，由北京經銷商「北京合眾聯鑫」進行銷售，價格採面議方式。該機型主打三大產品亮點：亮度恆定輸出、迅速開機以及清晰的影像畫質。提供給有需求的消費者前往位於北京海淀區中關村的據點進行洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1169/11695171.html",
+    "publish_date": "2026-04-22",
+    "keywords": [
+      "愛普生",
+      "CB-L690U",
+      "投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
   },
   {
     "id": 1479,
@@ -25030,6 +25774,29 @@
       "愛普生"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1902,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson Lifestudio Grand Plus 超短焦投影機評測",
+    "summary_zh": "Epson推出的Lifestudio Grand Plus是一款採用3-chip 3LCD設計與藍色雷射磷光光源的高階4K超短焦雷射電視，售價3,799美元。其具備4,000流明的高亮度、支援4K/120Hz輸出、內建Google TV與Bose音響，且0.16:1的投射比適應多數客廳環境。相較於單晶片DLP機種，該機無彩虹效應與雷射斑點，影像更具電影感；但缺點為未支援Dolby Vision與自動對焦，且色域範圍較三色雷射機種窄。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-lifestudio-grand-plus-ust-projector-review",
+    "publish_date": "2026-04-21",
+    "keywords": [
+      "Epson",
+      "Lifestudio Grand Plus",
+      "超短焦投影機",
+      "3LCD",
+      "4K/120Hz"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Bose"
+    ],
+    "link_status": null
   },
   {
     "id": 1668,
@@ -25795,6 +26562,31 @@
     "link_status": "ok"
   },
   {
+    "id": 1903,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson Lifestudio Grand Plus UST 投影機首發評測",
+    "summary_zh": "Epson 推出旗艦級 Lifestudio Grand Plus 超短焦雷射投影機，採用 3 晶片 3LCD 設計，具備 4000 流明亮度並徹底消除彩虹偽影。其投射比僅 0.16，可在 11.2 吋距離內投出 150 吋畫面，適應一般電視櫃與居家空間。搭載 4K 顯示技術、內建 Google TV 與 Gemini AI 以及 Bose 調音 2.1 聲道，HDMI 2.1 支援 4K/120Hz 遊戲功能。不過其色域較窄、對比度較低且為手動對焦。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-lifestudio-grand-plus-first-look",
+    "publish_date": "2026-03-26",
+    "keywords": [
+      "Epson",
+      "Lifestudio Grand Plus",
+      "UST",
+      "3LCD",
+      "4K",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Bose",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
     "id": 954,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下PT-BHZ611C投影機特價促銷訊息",
@@ -25857,6 +26649,54 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1905,
+    "source_name": "ProjectorScreen",
+    "title_zh": "愛普生Q系列投影機亮相ProjectorScreen展示會，強調高亮度為HDR與遊戲核心",
+    "summary_zh": "在ProjectorScreen舉辦的愛普生投影機展示會中，愛普生代表Rob Brennan指出，新一代高階家用投影機的核心在於高亮度、優異的HDR表現及多功能應用。隨著百吋電視普及，投影機必須透過高亮度與大畫面優勢突圍。展示活動採用135吋Stewart布幕進行實機對比，並公布Q系列各型號表現：QB1000亮度達3300流明（約272尼特）、QL3000達6000流明（約494尼特）、QL7000則高達10000流明（約823尼特），能在大尺寸螢幕下完美呈現HDR效果，滿足明亮客廳、觀賞球賽及遊戲的需求。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-s-q-series-puts-brightness-first-for-hdr-sports-and-gaming",
+    "publish_date": "2026-03-25",
+    "keywords": [
+      "Epson Q-Series",
+      "QB1000",
+      "QL3000",
+      "QL7000",
+      "HDR",
+      "高亮度投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "ProjectorScreen",
+      "Stewart Filmscreen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1904,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Devialet Phantom Ultimate 98 dB 無線揚聲器評測：小巧體積釋放強悍音效",
+    "summary_zh": "本文評測了 Devialet Phantom Ultimate 98 dB 無線揚聲器，單顆售價 1,900 美元，Opéra de Paris 特別版售價 2,400 美元。每顆喇叭提供 98 dB SPL 輸出、18Hz-25kHz 頻率響應及 400W 擴大功率。該系統體積小巧卻具備全音域表現，文中特別測試其作為投影機音訊的應用，透過光纖輸入支援雙聲道劇院設定，雖然缺乏 HDMI eARC 與多聲道支援，但對於追求簡潔高音質的投影機玩家而言是一個優質的立體聲音響選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.projectorscreen.com/blogs/insights/devialet-phantom-ultimate-98-db-review-big-sound-from-a-tiny-stereo-system",
+    "publish_date": "2026-03-25",
+    "keywords": [
+      "Devialet",
+      "Phantom Ultimate",
+      "無線揚聲器",
+      "投影機音訊",
+      "立體聲系統"
+    ],
+    "mentioned_brands": [
+      "Devialet",
+      "Apple"
+    ],
+    "link_status": null
   },
   {
     "id": 1306,
@@ -26729,6 +27569,28 @@
     "link_status": "blocked"
   },
   {
+    "id": 1906,
+    "source_name": "ProjectorScreen",
+    "title_zh": "極米 XGIMI Horizon 20 Max 4K 智慧投影機評測",
+    "summary_zh": "極米推出的 Horizon 20 Max 是一款高階 4K 智慧生活投影機，建議售價 2,999 美元。其雷射光源壽命超過 20,000 小時，在 D65 白平衡下實測亮度超過 3,500 流明。搭載「動態黑階增強器」，對比度可提升至 20,000:1 以上，並支援 Dolby Vision、HDR10+、IMAX Enhanced 等規格。遊戲效能方面支援 4K 120Hz 與 1080P 240Hz，具備 VRR 與 ALLM。內建 Google TV 系統與多角度支架，提供優異的色彩表現與智慧娛樂體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/xgimi-horizon-20-max-4k-lifestyle-projector-review",
+    "publish_date": "2026-02-06",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20 Max",
+      "4K投影機",
+      "雷射投影機",
+      "Google TV"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 152,
     "source_name": "ZNDS投影頻道",
     "title_zh": "2025年中國萬元以上超高端投影銷量翻倍，DMD晶片商用化帶動DLP陣營",
@@ -26777,6 +27639,100 @@
       "飛利浦"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1908,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson Pro Cinema LS9000 4K HDR 3LCD 雷射投影機評測",
+    "summary_zh": "ProjectorScreen 網站針對 Epson Pro Cinema LS9000 4K HDR 3LCD 雷射投影機進行了詳細評測。該款新機型在效能、功能與使用便利性等方面皆獲得高分評價，展現出色的 4K 影像畫質與先進的雷射光源技術，為家庭劇院市場提供優質的高階投影選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-pro-cinema-ls9000-4k-hdr-3lcd-laser-projector-review",
+    "publish_date": "2026-01-20",
+    "keywords": [
+      "Epson",
+      "Pro Cinema LS9000",
+      "4K HDR",
+      "3LCD",
+      "雷射投影機",
+      "投影機評測"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1907,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 PT1 三色雷射超短焦投影機專業評測",
+    "summary_zh": "ProjectorScreen 發布海信全新 PT1 三色雷射超短焦投影機評測，建議售價為 2,999 美元。該機具備 2,500 流明亮度、超過 25,000 小時雷射壽命，實測對比度超過原廠宣稱的 3,000:1。搭載 LPU 數位雷射引擎 2.0，支援 Dolby Vision、Dolby Atmos、HDR10+ 及 IMAX Enhanced。系統採用 Google TV，運行流暢且應用程式豐富。遊戲表現方面，支援 HDMI 2.1、1080P/120Hz 下輸入延遲僅 12ms，並具備遊戲側邊欄功能，整體影音與遊戲表現優異。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-pt1-ust-triple-laser-review",
+    "publish_date": "2026-01-20",
+    "keywords": [
+      "Hisense PT1",
+      "超短焦投影機",
+      "三色雷射",
+      "Google TV",
+      "HDMI 2.1"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1910,
+    "source_name": "ProjectorScreen",
+    "title_zh": "NexiGo 於 CES 2026 展出 Aurora Pro MKIII 4K 超短焦投影機、Nova Mini 可攜式投影機與 Eclipse 雷射電視櫃",
+    "summary_zh": "NexiGo 在 CES 2026 亮相多款重量級新品，包含主打 1,200 流明雷射光源、內建 Google TV 與 Scene Adapt 引擎的 Nova Mini 可攜式投影機，以及目標亮度達 3,000 流明的旗艦款 Aurora Pro MKIII 4K 超短焦投影機。同步展示的亮點包含具備「虛擬遮罩（Virtual Masking）」技術的 Eclipse 雷射電視系統，可將 2.35:1 寬螢幕內容上下平移以消除黑邊；此外也推出 150 吋、1.5 增益的菲涅爾抗光幕，預計於今年陸續上市。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/nexigo-at-ces-2026-aurora-pro-mkiii-4k-ust-nova-mini-portable-projector-eclipse-laser-tv-cabinet",
+    "publish_date": "2026-01-16",
+    "keywords": [
+      "NexiGo",
+      "CES 2026",
+      "Aurora Pro MKIII",
+      "Nova Mini",
+      "雷射投影機",
+      "超短焦投影機",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "NexiGo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1909,
+    "source_name": "ProjectorScreen",
+    "title_zh": "極米 XGIMI Titan 4K 雙雷射投影機深度評測",
+    "summary_zh": "本文評測了極米（XGIMI）首款專業級家庭劇院投影機 Titan，該機打破以往可攜式設計，採用 11.5 公斤的重型長方形機身，專為固定安裝與高階視聽室打造。Titan 搭載德州儀器最新的 0.78 吋 DMD 晶片，其反射面積為 0.47 吋晶片的 2.8 倍，可承受極高光通量。官方宣稱其亮度達 5,000 流明，在畫面上可呈現約 600 尼特的亮度，支援 100 至 250 吋的超大畫面投影，提供優異的 4K 解析度與 HDR 動態範圍表現。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/xgimi-titan-4k-dual-laser-projector-review",
+    "publish_date": "2026-01-16",
+    "keywords": [
+      "XGIMI Titan",
+      "4K投影機",
+      "雙雷射",
+      "0.78吋DMD",
+      "5000流明",
+      "德州儀器"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Texas Instruments",
+      "MondoProjos"
+    ],
+    "link_status": null
   },
   {
     "id": 173,
@@ -26933,6 +27889,79 @@
     "link_status": "ok"
   },
   {
+    "id": 1913,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信發表 XR10 旗艦生活雷射投影機：具備 6000 流明與業界首創液冷技術",
+    "summary_zh": "海信在 CES 2026 亮相全新旗艦級生活雷射投影機 XR10，目前已開放預購，提供 700 美元折扣並贈送 HT Saturn 家庭劇院喇叭系統，預計 2026 年 4 月下旬出貨。XR10 搭載業界首創的微通道液冷散熱系統，能以極低噪音運行並提供高達 6,000 ANSI 流明的亮度。核心採用 LPU 3.0 數位雷射引擎與純 RGB 三色雷射光源（TriChroma），超越 BT.2020 色域。硬體配置方面，具備 7 段 IRIS 鏡頭光圈系統以實現 6,000:1 對比度，並搭載 17 片全玻璃鏡頭、±130% 垂直與 ±46% 水平鏡頭位移、0.84–2.0:1 光學變焦。此外，該機支援 AI 四鏡頭與雙 ToF 感測器進行自動對焦與幾何校正，並具備 240Hz 更新率與 Control4 認證，最大可投射 300 吋畫面。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-unveils-xr10-flagship-lifestyle-laser-projector-6-000-lumens-and-industry-first-liquid-cooling",
+    "publish_date": "2025-12-23",
+    "keywords": [
+      "Hisense",
+      "XR10",
+      "雷射投影機",
+      "液冷散熱",
+      "6000流明",
+      "三色雷射",
+      "CES 2026"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1912,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信發表 PX4-PRO 次世代超短焦雷射投影機：具備 3500 流明與先進光圈鏡頭系統",
+    "summary_zh": "海信於 CES 2026 正式發表新一代旗艦超短焦雷射投影機 PX4-PRO，支援高達 200 吋的 4K 畫面投影，並具備 0.20 投射比。該機搭載全新先進 IRIS 硬體光圈鏡頭系統與 3,500 ANSI 流明亮度，對比度達 6,000:1。核心採用 TriChroma 三色雷射引擎，涵蓋 110% BT.2020 色域並獲 IMAX Enhanced 認證。此外，更首度整合 V homeOS 系統、支援 Xbox 雲端遊戲應用程式，以及全球首創的 FreeSync VRR 與 2K/240Hz（1毫秒反應時間）或 4K/120Hz 遊戲規格。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-announces-px4-pro-next-gen-ust-projector-featuring-3500-lumens-advanced-iris-lens-system",
+    "publish_date": "2025-12-23",
+    "keywords": [
+      "海信",
+      "PX4-PRO",
+      "超短焦投影機",
+      "雷射投影機",
+      "IRIS鏡頭系統",
+      "TriChroma",
+      "CES 2026"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Xbox"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1911,
+    "source_name": "ProjectorScreen",
+    "title_zh": "峰米發布 Theater Ultra 超短焦投影機，搭載 3,500 ISO 流明與 ALPD 5.0 技術",
+    "summary_zh": "峰米（Formovie）近日宣布推出全新旗艦超短焦投影機 Formovie Theater Ultra，延續該系列在家庭劇院市場的優異口碑。根據目前釋出的初步資訊，該款新機預計將搭載 3,500 ISO 流明亮度以及先進的 ALPD 5.0 光源技術，旨在為追求極致畫質的家庭劇院愛好者提供更具沉浸感的「雷射電視」體驗。詳細的完整規格與功能預計將於新的一年正式公布，備受市場期待。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/formovie-announces-theater-ultra-ust-projector-3-500-iso-lumens-and-alpd-5-0-technology",
+    "publish_date": "2025-12-23",
+    "keywords": [
+      "Formovie",
+      "Theater Ultra",
+      "UST",
+      "超短焦投影機",
+      "雷射電視",
+      "ALPD 5.0",
+      "峰米"
+    ],
+    "mentioned_brands": [
+      "Formovie"
+    ],
+    "link_status": null
+  },
+  {
     "id": 169,
     "source_name": "Hisense USA",
     "title_zh": "海信預告CES 2026新旗艦雷射電視XR10，6000流明液冷散熱",
@@ -26993,6 +28022,34 @@
       "明基"
     ],
     "link_status": "blocked"
+  },
+  {
+    "id": 1914,
+    "source_name": "ProjectorScreen",
+    "title_zh": "第四屆年度超短焦投影機大對決結果公布：ProjectorScreen.com 評測概況",
+    "summary_zh": "ProjectorScreen.com 舉辦第四屆年度超短焦投影機大對決（UST Projector Showdown），由 ProjectorReviews 負責人 Phil Jones 監督評測。所有參賽機型均直接取自零售庫存，排除特製樣機。各品牌多數親自參與調校，唯 Epson 交由 Phil Jones 依經驗設定。此外，Nexigo Aurora MKII 因賽前夕遭遇硬體與韌體雷射光源異常問題，其評分最終遭到撤回。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/the-2025-ust-projector-showdown-results",
+    "publish_date": "2025-11-19",
+    "keywords": [
+      "超短焦投影機",
+      "UST Projector Showdown",
+      "ProjectorScreen",
+      "ProjectorReviews",
+      "Epson",
+      "Nexigo Aurora MKII"
+    ],
+    "mentioned_brands": [
+      "ProjectorScreen",
+      "ProjectorReviews",
+      "Spectra Projection",
+      "Kaleidescape",
+      "Epson",
+      "Nexigo"
+    ],
+    "link_status": null
   },
   {
     "id": 1033,
@@ -27109,6 +28166,28 @@
     "link_status": "ok"
   },
   {
+    "id": 1915,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 L9Q 三雷射超短焦投影機評測",
+    "summary_zh": "ProjectorScreen 網站發布了海信 Hisense L9Q 三雷射超短焦（UST）投影機的專業評測。該機型在性能表現與功能配置上皆獲得高度評價，其中效能獲得 4.5 顆星、功能獲得 5 顆星的優異分數，展現出三雷射光源在色彩與亮度上的強悍實力，為高階超短焦投影市場提供了一款備受矚目的新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-l9q-triple-laser-ultra-short-throw-ust-projector-review",
+    "publish_date": "2025-09-27",
+    "keywords": [
+      "Hisense",
+      "L9Q",
+      "UST",
+      "Triple Laser",
+      "Projector Review"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
     "id": 149,
     "source_name": "洛图科技RUNTO",
     "title_zh": "2025年上半年全球投影機出貨900.3萬台，年減4.2%",
@@ -27149,6 +28228,27 @@
       "XGIMI"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1916,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Sony Bravia Projector 7 VPL-XW5100ES 專業評測",
+    "summary_zh": "ProjectorScreen網站針對Sony Bravia Projector 7（型號VPL-XW5100ES）進行了詳細評測。該款投影機在效能與功能表現上皆獲得高分評價，展現出Sony在家庭劇院投影技術上的優異水準，提供消費者關於畫質、規格與實際運作表現的深度參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/sony-bravia-projector-7-vpl-xw5100es-review",
+    "publish_date": "2025-09-09",
+    "keywords": [
+      "Sony",
+      "VPL-XW5100ES",
+      "Bravia Projector 7",
+      "投影機評測"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ],
+    "link_status": null
   },
   {
     "id": 1034,
