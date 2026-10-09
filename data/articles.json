@@ -1,5 +1,235 @@
 [
   {
+    "id": 1963,
+    "source_name": "DigiTimes",
+    "title_zh": "應用材料與英特爾深化EPIC中心合作，聚焦AI晶片互連與Foveros 3D先進封裝",
+    "summary_zh": "應用材料（Applied Materials）與英特爾（Intel）宣佈深化雙方在EPIC中心的合作，重點鎖定電晶體、互連技術以及Foveros 3D先進封裝等創新研發，以突破人工智慧晶片製造的效能瓶頸。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "應用材料",
+      "英特爾",
+      "先進封裝",
+      "Foveros 3D",
+      "AI晶片"
+    ],
+    "mentioned_brands": [
+      "Applied Materials",
+      "Intel"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1960,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Putrims P66 投影機畫面尺寸調整問題",
+    "summary_zh": "有用戶在 Reddit 發文反映，新購入的 Putrims P66 投影機在投影距離約 11 英尺的情況下，無法順利將畫面尺寸縮放至符合大約 72 吋的平面煙囪壁。使用者嘗試調整畫面時，遇到調整幅度受限且畫面會異常跳動的問題，因此上網尋求是否有其他用戶遭遇類似狀況或解決方法。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x0wd96/putrims_p66_screen_size_issues/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "Putrims P66",
+      "投影尺寸",
+      "畫面調整",
+      "用戶問題"
+    ],
+    "mentioned_brands": [
+      "Putrims"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1956,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：Life studio grand plus投影機在暗室與100吋ALR幕的表現",
+    "summary_zh": "有用戶在Reddit的projectors討論板發文詢問，關於Life studio grand plus投影機在具備20分貝低噪音的專屬暗室環境中，搭配100吋ALR抗光幕使用時，當亮度設定在60%或70%、運作噪音保持在30%以下的情況下，是否能展現出良好的影像畫質與效能表現。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x10zt8/life_studio_grand_plus_pièce_sombre/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "Life studio grand plus",
+      "ALR幕",
+      "暗室",
+      "投影機噪音"
+    ],
+    "mentioned_brands": [
+      "Life studio"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1955,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "黑五最佳預算投影機推薦詢問",
+    "summary_zh": "Reddit論壇用戶發文尋求黑色星期五購物節的最佳預算投影機推薦。需求包含控制預算、重視畫質與亮度，主要用途非遊戲但若具備遊戲功能為佳，同時希望機能支援投射至天花板。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x131rw/best_budget_projector_for_black_friday/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "預算投影機",
+      "黑五購物節",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1953,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Nexigo PJ20 風扇更換討論",
+    "summary_zh": "Reddit 用戶發文詢問關於 Nexigo PJ20 投影機的風扇更換問題，屬於個人的維修與硬體保養經驗交流，並無涉及整體產業動態、新品發表或重大技術突破。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x14ckl/nexigo_pj20_fan_replacement/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "Nexigo PJ20",
+      "風扇更換",
+      "投影機維修"
+    ],
+    "mentioned_brands": [
+      "Nexigo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1950,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三星二代The Freestyle投影機郵寄維修經驗與費用詢問",
+    "summary_zh": "一名用戶在Reddit討論區發文，分享其摔落三星第二代The Freestyle投影機導致塑膠鏡片脫落的維修經驗。由於當地維修店拒絕收件，官方報出262美元的標準郵寄維修費，用戶擔憂後續追加費用將超越產品本身市價，因而尋求網友對於三星郵寄維修服務的實際經驗與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x18b3s/samsung_projector_mailin_repair/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "三星",
+      "The Freestyle",
+      "投影機維修",
+      "售後服務"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1949,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 PX3 Pro 投影機適合搭配哪種布幕？",
+    "summary_zh": "一名 Reddit 用戶在討論區發文，尋求海信 PX3 Pro 超短焦雷射投影機合適的固定框幕搭配建議。文中提及正在尋找品質可靠、具備抗光屏（CLR）且增益值為 0.8 的投影幕選項，以搭配該款投影機使用，引發網友討論與經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x19ld7/hisense_px3_pro_which_screen/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "海信",
+      "PX3 Pro",
+      "抗光幕",
+      "固定框幕",
+      "增益"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "海信"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1948,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "急需小型投影機推薦：用於藝術創作投影與特定規格需求",
+    "summary_zh": "一名網民在Reddit的投影機討論版發文尋求小型投影機推薦。其主要用途是將影片投影到藝術作品上，放置於吊頂安裝，預算在100至600美元之間。核心需求包括尺寸小巧、支援USB-C充電、內建電池續航力至少5到8小時、具備一定抗環境光能力，以及畫面品質達標即可，並需對應24x50吋的畫框尺寸。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x15x30/mini_projector_suggestion_asap_please/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "微型投影機",
+      "便攜投影機",
+      "抗環境光",
+      "電池續航"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1946,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新購入投影機鏡頭內出現髒污或模糊斑點求助",
+    "summary_zh": "一名消費者在亞馬遜購買新投影機後，設定時發現畫面出現髒污斑點。由於調整對焦時該斑點會跟著變焦，懷疑是內部鏡頭卡有灰塵或棉絮，並詢問是否應自行清潔或直接辦理退貨。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1d539/dirtyfuzz_spot/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "投影機",
+      "鏡頭清潔",
+      "故障排除",
+      "對焦"
+    ],
+    "mentioned_brands": [
+      "Amazon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1945,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "開啟3D模式時畫面出現藍色偏色問題",
+    "summary_zh": "有用戶在Reddit討論區發文求助，指出其使用的海信Hisense PL2投影機在切換至3D顯示模式時，畫面會出現嚴重的藍色偏色現象，並詢問其他社群成員是否有解決此問題的調整方法或修復建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x12slx/blue_tint_when_in_3d_mode/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "Hisense PL2",
+      "3D模式",
+      "偏色",
+      "藍色調"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1944,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米確認於10月12日發表Horizon 30新品",
+    "summary_zh": "根據Reddit討論串及極米美國官方網站頁面資訊，極米（Xgimi）預計於2026年10月12日正式舉辦新品發表會，推出新款的Horizon 30投影機系列。這項消息引起投影機社群用戶的關注與討論，具體規格與售價將於發表會當日揭曉。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x0xryv/xgimi_horizon_30_october_12_announce_date/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "極米",
+      "Xgimi",
+      "Horizon 30",
+      "新品發布",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1943,
     "source_name": "ZOL投影機頻道",
     "title_zh": "愛普生CB-2255U投影機特價促銷 支援WUXGA解析度與3LCD技術",
@@ -24057,6 +24287,29 @@
       "極米"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1964,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 V10 Ultra 投影機行情暴漲且一機難求，特價促銷7599元",
+    "summary_zh": "根據中關村線上報導，大眼橙 V10 Ultra 智慧投影機近日在核心合作夥伴「易仁科技」進行特價促銷，優惠價為人民幣 7599 元。該款產品主打超大記憶體、輕薄小巧及高清畫質等亮點，目前市場呈現行情暴漲、一機難求的熱銷態勢，吸引消費者關注。",
+    "category": "市場數據",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1196/11963181.html",
+    "publish_date": "2026-06-10",
+    "keywords": [
+      "大眼橙",
+      "V10 Ultra",
+      "投影機行情",
+      "特價促銷",
+      "易仁科技"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "易仁科技"
+    ],
+    "link_status": null
   },
   {
     "id": 828,
