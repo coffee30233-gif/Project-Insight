@@ -1,5 +1,284 @@
 [
   {
+    "id": 1983,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 L9Q Pro 實機初探：對比度提升、黑色表現更佳",
+    "summary_zh": "投影機專業評測網站 ProjectorScreen 搶先披露海信（Hisense）L9Q Pro 超短焦雷射投影機的初步測試數據。相較於前代 L9Q，Pro 版本大幅強化原生對比度，在未開啟動態雷射調光下，Vivid 模式測得 3,984:1，SDR Filmmaker 模式約 2,800:1。該機新增具備八段靜態設定的實體光圈，在設定五時對比度可推升至 4,843:1。評測者指出，透過 Calman 色彩校正軟體進行白平衡微調後，平均色彩誤差 ΔE2000 從 7.82 降至 3.08，整體暗部表現與畫質均有顯著升級。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-l9q-pro-first-look",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Hisense L9Q Pro",
+      "超短焦投影機",
+      "UST",
+      "雷射投影機",
+      "原生對比度",
+      "Calman"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Portrait Displays"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1977,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 XR10 投影機 Dolby Vision 播放時自動變暗問題探討",
+    "summary_zh": "有用戶在 Reddit 反映海信 Hisense XR10 投影機在播放 Dolby Vision（杜比視界）內容時，畫面會無預警在場景中途自動變暗，且會一直保持昏暗狀態，直到手動切換影像模式後才會恢復正常亮度。該問題在韌體版本 V01.09.09V.Q0317、內建 Apple TV App 播放《Mayday》等影片時皆會發生，即便關閉所有自動化增強設定仍無法解決。此狀況指向投影機內部的處理機制缺陷，此前專業媒體與同系列產品也曾指出類似的動態亮度波動問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1r2lb/hisense_xr10_picture_autodims_midscene_in_dolby/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Hisense XR10",
+      "Dolby Vision",
+      "自動變暗",
+      "韌體",
+      "投影機災情"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1976,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找約400歐元預算的二手或整新投影機推薦",
+    "summary_zh": "一名用戶正在規劃客廳家庭劇院，尋求預算約300至400歐元的投影機升級方案。考量性價比，該用戶傾向購買二手或整新機，並已注意到BenQ W1070這款舊機型，同時希望社群推薦同等價位帶的替代或同級產品。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1u0sk/projector_for_400_refurbished_and_second_hand/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "BenQ W1070",
+      "二手投影機",
+      "家庭劇院",
+      "預算"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1973,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機聲音無法輸出至外接音響求助",
+    "summary_zh": "一名Reddit用戶發文求助，表示搬入新家後發現留有投影機與音響系統，但使用音源線連接投影機的音訊輸出埠至音響時，聲音仍從投影機發出，且外接喇叭會產生低頻雜音與嗡嗡聲。此篇為單一用戶的設備操作求助文，無具體產業數據或技術分析。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1qm0m/speakers_wont_capture_sound_from_projector/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "投影機",
+      "音響系統",
+      "音訊輸出",
+      "故障排除"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1972,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "「密封式光機」真的完全密封嗎？使用者質疑防塵效果",
+    "summary_zh": "一名Reddit使用者在r/projectors討論版發文，質疑市面上號稱「密封式光機」的投影機在實際長期使用後，灰塵仍會滲入機身內部。原PO認為所謂的密封光機防塵效果相當有限，並發起討論尋求其他投影機使用者的看法與經驗分享。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x23lnp/are_sealed_optical_engines_actually_sealed/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "密封光機",
+      "防塵",
+      "投影機維護",
+      "使用者討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1971,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony BRAVIA Projector 8 (VPL-XW6100ES) 出現重大折扣引發討論",
+    "summary_zh": "Reddit 用戶發文詢問關於 Sony BRAVIA Projector 8（型號 VPL-XW6100ES）出現高達 4,000 美元大幅折扣的原因。該款高階投影機屬於 Sony 在 2026 年 9 月 CEDIA 展會中展示的 7、8、9 系列之一。目前市場上尚未有明顯的後繼機型消息，這讓預算在 15,000 美元左右的消費者猶豫是否該趁此降價時機入手，還是等到明年初再做打算。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1vw3k/sony_bravia_projector_8_vplxw6100es/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Sony",
+      "BRAVIA Projector 8",
+      "VPL-XW6100ES",
+      "CEDIA 2026",
+      "投影機折扣"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1970,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 Hisense C1 投影機二手交易諮詢",
+    "summary_zh": "有使用者在 Reddit 論壇詢問關於二手海信 Hisense C1 投影機的購買建議。該賣家開價 850 美元，且產品外觀與功能狀況良好。發文者主要尋求社群意見，評估此交易是否划算，並詢問在購買二手投影機時應特別檢查哪些關鍵項目，以確保設備運作正常。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x249rx/hisense_c1/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Hisense",
+      "C1",
+      "二手投影機",
+      "交易建議"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1968,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 L9Q Pro 初步評測：黑階表現提升與更大的雄心",
+    "summary_zh": "本文為海信全新雷射電視機型 L9Q Pro 的初步外觀與性能評測分享，重點聚焦於其黑階表現的提升以及品牌在家庭劇院市場的企圖心，展現出高階超短焦投影技術的最新進展。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1zdj5/hisense_l9q_pro_first_look_better_blacks_bigger/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Hisense",
+      "L9Q Pro",
+      "雷射電視",
+      "超短焦投影",
+      "黑階表現"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1966,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "DIY 150吋 Formovie Theater 投影幕：UST專用漆與碳黑牆面應用",
+    "summary_zh": "一名用戶分享了其自行打造150吋投影牆的經驗，專為Formovie Theater超短焦（UST）投影機設計。該專案採用兩層Paint on Screen品牌的UST-ALR灰色專用漆作為投影表面，周圍牆面則選用BEHR PRO Carbon N520-7消光黑漆，並以黑色植絨膠帶作為邊框。此分享旨在提供給計畫進行DIY UST投影幕的用戶參考，展示了透過特定塗料與牆面處理，即可實現大尺寸投影效果的實作過程。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x26r3v/diy_150_formovie_theater_screen_ust_paint_carbon/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Formovie Theater",
+      "超短焦投影機",
+      "UST-ALR",
+      "DIY投影幕",
+      "投影漆"
+    ],
+    "mentioned_brands": [
+      "Formovie",
+      "Paint on Screen",
+      "BEHR"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1965,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "以1500美元入手Valerion Max投影機的用戶開箱心得",
+    "summary_zh": "一名Reddit用戶分享他以1500美元的超值價格，意外購得全新未拆封的Valerion Max投影機。原本他僅將預算放在Pro 2機型，且需煩惱投影對齊與鏡頭位移問題，如今升級至Max機型後免去了這些擔憂。他在白牆投影測試中未察覺明顯的雷射斑點（RBE speckle），並在文章中向社群請教是否仍需搭配編織透聲幕來改善畫質。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x23aon/valerion_max_for_1500/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Valerion Max",
+      "投影機開箱",
+      "雷射斑點",
+      "鏡頭位移"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1985,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-E6U北京促銷價42000元",
+    "summary_zh": "根據中關村在線報導，ROLY RL-E6U投影機近日於北京商家「偉業投影」進行特價促銷，優惠價格為人民幣42000元。該款投影機主打超高亮度、高效實用與輕巧便攜等產品亮點，銷售據點位於北京市海澱區中成大廈，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1257/12578336.html",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "ROLY RL-E6U",
+      "投影機行情",
+      "促銷價",
+      "偉業投影"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1975,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "數位投影機非常有趣：探討畫素偏移技術與背投電視的興替",
+    "summary_zh": "Reddit論壇用戶分享了一部關於投影機畫素偏移（wobulation）技術的趣味影片，並邀請專業人士深入討論該技術的運作原理。同時，貼文也探討了過去的背投電視為何會迅速被LED電視取代的歷史原因，引發社群關於顯示技術演進的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1noy7/digital_projectors_are_wicked_interesting/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "畫素偏移",
+      "wobulation",
+      "背投電視",
+      "LED",
+      "投影機技術"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1967,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "40美元超短焦投影機DIY自動化抽屜分享",
+    "summary_zh": "國外網友分享以40美元成本製作超短焦投影機的DIY自動化抽屜，使用SONOFF S60ZB智慧插座、HAKIWO MINI 200mm線性致動器與Zigbee智慧開關等零件，並提及3D列印零件雖非絕對必要但能簡化製作流程，未來計畫推出第二版改進並釋出3D列印檔案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x1hfn6/40_diy_automated_drawer_for_ust_projector/",
+    "publish_date": "2026-10-09",
+    "keywords": [
+      "DIY",
+      "超短焦投影機",
+      "自動化抽屜",
+      "線性致動器",
+      "Zigbee"
+    ],
+    "mentioned_brands": [
+      "SONOFF"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1963,
     "source_name": "DigiTimes",
     "title_zh": "應用材料與英特爾深化EPIC中心合作，聚焦AI晶片互連與Foveros 3D先進封裝",
@@ -226,6 +505,30 @@
     ],
     "mentioned_brands": [
       "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1981,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技將於10月12日發表HORIZON 30系列4K三色雷射投影機",
+    "summary_zh": "極米科技（XGIMI）宣布其2026年旗艦投影機「HORIZON 30系列」將於10月12日正式上市並開放預購，同步推出首發優惠價格。該系列包含HORIZON 30 Pro、HORIZON 30 Max與HORIZON 30 Ultra Max等三款4K投影機，皆採用RGB三色雷射光源、支援4K 120Hz高更新率並搭載雙智慧光圈。配合新機發表，官方同步舉辦訂閱抽獎活動，提供HORIZON 30 Pro及Vibe One攜帶型投影機作為獎品，中獎名單預計於2026年10月28日公布。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/xgimi-horizon-30-series-launch",
+    "publish_date": "2026-10-08",
+    "keywords": [
+      "XGIMI",
+      "HORIZON 30系列",
+      "4K投影機",
+      "RGB三色雷射",
+      "4K 120Hz",
+      "新品發表"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
     ],
     "link_status": null
   },
@@ -25405,6 +25708,30 @@
       "愛普生"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 1984,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麗訊 DU9057Z 雙色激光工程投影機中關村在線特價促銷438900元",
+    "summary_zh": "麗訊（Vivitek）DU9057Z 工程激光投影機近日於經銷商易仁科技展開特價促銷，優惠價格為人民幣438900元。該機型主打超高亮度與雙激光技術，具備高對比度畫質表現，屬於定位高階的工程投影機產品。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1180/11800768.html",
+    "publish_date": "2026-05-12",
+    "keywords": [
+      "麗訊",
+      "DU9057Z",
+      "激光投影機",
+      "工程投影機",
+      "雙色激光"
+    ],
+    "mentioned_brands": [
+      "麗訊",
+      "Vivitek",
+      "易仁科技"
+    ],
+    "link_status": null
   },
   {
     "id": 1446,
