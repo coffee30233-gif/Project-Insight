@@ -1,5 +1,354 @@
 [
   {
+    "id": 2006,
+    "source_name": "IT之家",
+    "title_zh": "行業首款八千元檔4K 120Hz投影堅果N5S Turbo高刷版亮相，支援小米米家生態聯動",
+    "summary_zh": "堅果投影正式官宣推出新品投影機堅果N5S Turbo高刷版，主打行業首款八千元檔4K 120Hz規格，並採用萬元旗艦同款高刷架構。該產品搭載全新QuaLas 42雷射器，具備3600 CVIA流明亮度、5000:1原生對比度，支援VRR可變刷新率、雙向無損大範圍移軸、0.98-1.4:1無損光學變焦，以及小米米家生態聯動功能。新品預計於10月12日晚間8點全面上線開賣。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.ithome.com/1/011/566.htm",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "堅果N5S Turbo",
+      "堅果投影",
+      "4K投影機",
+      "120Hz",
+      "雷射投影機",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "堅果",
+      "小米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2002,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "大學生預算有限，發文詢問Temu上售價低於25美元的平價智慧投影機是否值得購買",
+    "summary_zh": "一名大學生在Reddit論壇發文求助，表示因預算極度有限，注意到電商平台Temu上有售價低於25美元、標榜可直接下載應用程式的智慧投影機。由於擔憂YouTube上的開箱評測多為業配而缺乏信任，發文者詢問社群網友是否有實際使用經驗，並尋求30美元以下的優質平價投影機替代方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2l56i/need_help_on_what_budget_projector_to_buy/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "預算投影機",
+      "平價投影機",
+      "Temu",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "Temu"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1997,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生LS9000與TW9400投影機實機表現與3D功能比較請益",
+    "summary_zh": "國外網友在Reddit論壇發文徵求Epson LS9000與TW9400兩款投影機的實際使用經驗與對比評價。提問者在考慮購買二手的TW9400或直接入手LS9000，並提及升級後可能捨棄偶爾使用的3D功能，同時希望討論聚焦於真實體驗而非原生4K規格之爭。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2mlvr/anyone_got_or_tested_the_ls9000_and_have_any/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "Epson",
+      "LS9000",
+      "TW9400",
+      "投影機",
+      "3D功能"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1993,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "300至500美元預算投影機選購諮詢",
+    "summary_zh": "一名Reddit用戶發文表示計畫放棄傳統電視，轉而尋找預算在300至500美元之間的投影機。由於房間備有遮光窗簾，環境光線昏暗，因此發文向社群尋求適合的入門機型與選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2qgys/300500_budget/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "預算",
+      "入門投影機",
+      "選購建議"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 1992,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Nexigo p140投影機使用一年後出現異常狀況求助",
+    "summary_zh": "Reddit論壇用戶發文求助，其購入約一年的Nexigo p140投影機近期開始出現不明異常狀況。用戶表示這是其第一台投影機，對於品牌與定價缺乏經驗，並希望社群能提供有建設性的技術排查建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2rrz1/does_anyone_know_why_this_has_started_to_happen/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "Nexigo p140",
+      "投影機故障",
+      "用戶求助"
+    ],
+    "mentioned_brands": [
+      "Nexigo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1991,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生投影機更新Google TV後遙控器亮度鍵失靈問題",
+    "summary_zh": "有用戶在Reddit社群反應，其使用的愛普生（Epson）投影機在進行Google TV系統更新後，出現無法透過遙控器按鈕直接調整畫麵亮度的異常狀況，並詢問其他使用者是否也遇到相同問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2sd4e/google_tv_update_remote_brightness_button_issue/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "Google TV",
+      "韌體更新",
+      "遙控器",
+      "亮度調整"
+    ],
+    "mentioned_brands": [
+      "Google",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1988,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：極米 Elfin Flip 4K 在 ROG Ally X 上是否支援 VRR",
+    "summary_zh": "有用戶在 Reddit 發文尋求協助，詢問極米旗下的 Elfin Flip 4K 投影機在搭配 ROG Ally X 手持遊戲機時，是否支援可變更新率（VRR）功能。這是一則來自論壇的單一用戶使用疑問與技術支援需求，未涉及全面的產業數據或重大技術突破。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2vsr7/xgimi_elfin_flip_4k_vrr_suport_on_rog_ally_x_need/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "極米",
+      "Elfin Flip 4K",
+      "ROG Ally X",
+      "VRR",
+      "可變更新率"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米",
+      "ASUS",
+      "ROG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1987,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 PK31 投影機使用心得",
+    "summary_zh": "Reddit 用戶發文分享奧圖碼（Optoma）PK31 微型投影機的使用心得，認為該款產品表現相當出色，但未提供具體的規格數據或深度評測內容。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2xhrh/optoma_pk31_is_awesome/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "Optoma",
+      "PK31",
+      "微型投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2008,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "如何為薩爾達與GTA等開放世界遊戲設置遊戲投影機：當貝完整指南",
+    "summary_zh": "當貝官方發布指南，探討如何利用遊戲投影機提升如《薩爾達傳說》與《GTA》等開放世界遊戲的沈浸感。文章以旗下「當貝 N3 Max」為例，該款投影機具備原生1080P解析度、1000 ISO流明亮度、專屬低延遲遊戲模式，並搭載可180度旋轉的支架與HDMI 2.0連接埠，支援最高150吋大畫面投影。文中同時列出選購遊戲投影機時的核心要點，包括輸入延遲、解析度與更新率、亮度、設置便利性及連接性能，提供玩家打造個人家庭劇院的實用步驟。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/how-to-set-up-a-gaming-projector-for-open-world-games-like-zelda-amp-gta-complete-guide",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "當貝",
+      "Dangbei N3 Max",
+      "遊戲投影機",
+      "開放世界遊戲",
+      "低延遲",
+      "1080P"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2007,
+    "source_name": "XGIMI官方",
+    "title_zh": "雷射電視投影機架設指南：真實客廳中的銀幕尺寸、投影距離與環境光處理",
+    "summary_zh": "本文探討雷射電視投影機在真實客廳環境中的架設要點，包含銀幕尺寸、投影距離與環境光應對。以XGIMI AURA 3系列為例，說明超短焦（UST）投影機的特性。文章詳細比較了標準、短焦與超短焦投影機的投射比差異，並指出AURA 3 Max具備0.163:1的超短投射比，僅需距離牆面8英吋即可投射出120吋大畫面。同時提醒消費者在擺放時需注意電視櫃的穩固性與深度，因為機身微幅移動就會對畫面尺寸造成顯著影響，是選購與安裝的重要參考指標。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/laser-tv-projector-setup-in-living-room",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "XGIMI AURA 3",
+      "超短焦投影機",
+      "雷射電視",
+      "投射比",
+      "投影距離",
+      "銀幕尺寸"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2005,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算150歐元以下的家用投影機推薦詢問",
+    "summary_zh": "Reddit論壇用戶發文尋求預算在150歐元以下的平價家用投影機推薦，主要用於暗室或微光環境下的休閒電影之夜與影片串流。核心需求包含支援Apple AirPlay手機直接投影，以及透過HDMI或無線方式連接筆記型電腦，希望尋找具備良好畫質與穩定連線能力的特定平價機型或品牌。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2b4s7/budget_projector/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "預算投影機",
+      "家用投影機",
+      "AirPlay",
+      "HDMI"
+    ],
+    "mentioned_brands": [
+      "Apple"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2003,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找奧圖碼 Optoma Photon Life PH31 投影機的吊裝安裝協助",
+    "summary_zh": "一名用戶在 Reddit 論壇上發文詢問關於奧圖碼 Optoma Photon Life PH31 投影機的吊裝方式。該用戶目前將投影機放置於相機三腳架上，希望改為天花板吊裝，但對於如何固定安裝支架產生疑問。說明書提及需使用 M4 螺絲，但機身僅看到中央的 1/4 吋三腳架螺絲孔，因此尋求有經驗的網友提供安裝建議與支架選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2c9d4/looking_for_help_mounting_the_optoma_photon_life/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Optoma",
+      "Photon Life PH31",
+      "投影機吊裝",
+      "安裝支架"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "奧圖碼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2001,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機無法識別USB隨身碟內的影片格式問題",
+    "summary_zh": "有用戶在Reddit論壇發文求助，指出其使用的EPSON PowerLite 1771W投影機無法順利識別並播放32GB容量、FAT32格式的USB 2.0隨身碟內所儲存的影片檔案格式，引發關於投影機內建多媒體播放支援能力與檔案相容性的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2dg1b/projector_not_recognizing_video_format_on_usb/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "EPSON",
+      "PowerLite 1771W",
+      "USB",
+      "影片格式",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "EPSON"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1999,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "短距離與明亮房間的投影機與布幕配置請益",
+    "summary_zh": "一名國外Reddit網友發文尋求將傳統電視更換為投影機的配置建議。其預算約為2000歐元，使用需求包含休閒遊戲與影視觀賞。由於投影機需吊裝且投射距離約2至3公尺，加上螢幕正對大片窗戶且夕陽會從背面照射，使用者初步考慮搭配BenQ的TK705STI短焦機型，以及110吋具備黑背的電動張力布幕，並詢問社群此方案的可行性與其他建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2efh6/projectorscreen_setup_for_short_rangebright_room/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "短焦投影機",
+      "電動張力幕",
+      "BenQ",
+      "家用投影機",
+      "投影機布幕配置"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1998,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從 Epson 5040UB 升級至 LS11000 的實際使用體驗詢問",
+    "summary_zh": "一名 Epson 5040UB 投影機用戶因機器出現間歇性垂直紫線問題，正考慮升級更換為 Epson LS11000 機型。他注意到規格紙面上 5040UB 的對比度表現似乎較好，因此在 Reddit 論壇上發文，尋求實際從 5040UB 升級到 LS11000 用戶的真實使用經驗分享。其家庭劇院環境為小型全遮光空間，投影距離 12 英尺，搭配 92 吋白銀幕布，主要用於觀賞電影與電視節目。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2gse2/5040ub_to_ls11000/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "Epson 5040UB",
+      "Epson LS11000",
+      "升級",
+      "家庭劇院",
+      "對比度"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 1996,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我們何時能看到三片式真實4K且售價低於3000美元的投影機？",
+    "summary_zh": "Reddit論壇用戶發文討論投影機市場現況，期盼未來能出現具備三片式顯示晶片與真實4K解析度、且價格低於3000美元的家用投影機。貼文指出，目前市場上的廠商競爭焦點大多集中在提高流明亮度，而非消除三色雷射的副作用並實現真正的4K畫質，引發消費者對高畫質與合理定價的反思。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x2c9om/will_we_ever_see_a_true_4k_projectors_with_three/",
+    "publish_date": "2026-10-10",
+    "keywords": [
+      "4K投影機",
+      "三片式晶片",
+      "雷射光源",
+      "價格"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 1983,
     "source_name": "ProjectorScreen",
     "title_zh": "海信 L9Q Pro 實機初探：對比度提升、黑色表現更佳",
@@ -25529,6 +25878,29 @@
     "link_status": "ok"
   },
   {
+    "id": 2011,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L530U投影機北京促銷價14000元",
+    "summary_zh": "根據中關村線上報導，愛普生CB-L530U雷射投影機目前在北京地區的經銷商「偉業投影」進行特價促銷，優惠價格為人民幣14000元。店家地址位於北京市海澱區中成大廈7層，提供有意採購商務或教育投影設備的消費者參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1183/11839461.html",
+    "publish_date": "2026-05-19",
+    "keywords": [
+      "愛普生",
+      "CB-L530U",
+      "投影機行情",
+      "雷射投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1900,
     "source_name": "ProjectorScreen",
     "title_zh": "海信 Hisense XR10 4K 三雷射智慧投影機深度評測：高亮度與跨界應用的新選擇",
@@ -25862,6 +26234,28 @@
       "大眼橙"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2010,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-X49北京促銷熱賣",
+    "summary_zh": "愛普生CB-X49投影機近日於北京地區展開特價促銷活動，經銷商「愛普生麗訊理光投影專案」提供價格面議優惠。有意購買的消費者可前往北京市昌平區珠江摩爾3號樓2單元516洽詢詳細的促銷方案與價格資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1179/11796690.html",
+    "publish_date": "2026-05-11",
+    "keywords": [
+      "愛普生",
+      "CB-X49",
+      "投影機行情",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "理光"
+    ],
+    "link_status": null
   },
   {
     "id": 1179,
