@@ -6,6 +6,18 @@
       "months": [
         {
           "year": 2026,
+          "month": 10,
+          "monthly": null,
+          "weekly": [
+            {
+              "file": "2026-W41.md",
+              "hasSlides": true,
+              "hasPdf": true
+            }
+          ]
+        },
+        {
+          "year": 2026,
           "month": 9,
           "monthly": {
             "file": "2026-09.md",
