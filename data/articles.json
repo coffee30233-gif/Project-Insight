@@ -1,5 +1,307 @@
 [
   {
+    "id": 2032,
+    "source_name": "DigiTimes",
+    "title_zh": "矽格與欣詮結盟推動光學測試，因應AI需求轉向連線技術",
+    "summary_zh": "矽格與欣詮展開合作，共同推動光學測試解決方案，以因應人工智慧需求轉向資料傳輸與連線技術的趨勢。此舉旨在滿足市場對高速光通訊與相關測試服務日益增長的半導體後段封測需求。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261012PD205/testing-communications-sigurd-demand-winstek.html",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "矽格",
+      "欣詮",
+      "光學測試",
+      "AI",
+      "連線技術",
+      "半導體封測"
+    ],
+    "mentioned_brands": [
+      "Sigurd",
+      "Winstek"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2029,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "EPSON CO-FH02與極米Elfin flip Plus及TCL A1S之居家投影機選購諮詢",
+    "summary_zh": "有用戶在Reddit論壇發文尋求居家投影機推薦，主要比較EPSON CO-FH02、極米XGIMI Elfin flip Plus以及TCL A1S三款機型。需求包含居家觀賞、運作噪音低、具備HDMI連接PlayStation遊戲機，以及良好的畫質表現。文中也提到先前使用的投影機出現了黃斑老化現象。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3cnk8/epson_cofh02_o_xgimi_elfin_flip_plus/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "EPSON CO-FH02",
+      "XGIMI Elfin flip Plus",
+      "TCL A1S",
+      "居家投影機",
+      "黃斑問題"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "XGIMI",
+      "TCL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2028,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 CO-FH02 與極米 Elfin flip Plus 選擇比較",
+    "summary_zh": "本文為 Reddit 用戶針對 Epson CO-FH02 與 XGIMI Elfin flip Plus 兩款投影機進行的詢問與討論，內容主要涉及消費者的實際產品選購與規格比較需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3co21/epson_cofh02_o_xgimi_elfin_flip_plus/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "Epson",
+      "CO-FH02",
+      "XGIMI",
+      "Elfin flip Plus",
+      "投影機比較"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2023,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH671ST投影機出現線條與黑點故障詢問",
+    "summary_zh": "用戶在Reddit發文詢問關於BenQ TH671ST投影機的故障問題。開機時畫面會出現線條與黑色小點，預熱後線條雖然會消失，但黑點依然存在，發文者質疑是否為DMD晶片故障或其他零組件問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3lgx3/failing_dmd_chip_or_something_else_benq_th671st/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "BenQ",
+      "TH671ST",
+      "DMD晶片",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2022,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 MoGo Pro 2 新舊版本規格差異與選購討論",
+    "summary_zh": "有消費者在Reddit論壇發文詢問極米Xgimi MoGo Pro 2新舊版本的選購差異。舊款支援3D功能但無4K解碼，新款則新增4K解碼與遊戲模式，預算約為270英鎊。原PO主要用於觀看電影及搭配PS5進行偶爾的遊戲，因此尋求網友的使用經驗分享與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3n8ii/xgimi_mogo_pro_2_old_vs_xgimi_mogo_pro_2_new/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "Xgimi",
+      "MoGo Pro 2",
+      "投影機選購",
+      "4K解碼",
+      "3D功能"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2021,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "購買前的理性檢查：海信PX3-PRO與120吋抗光幕組合請益",
+    "summary_zh": "一名剛接觸投影機領域的用戶在Reddit社群發文，詢問關於海信PX3-PRO超短焦投影機搭配120吋地拉式抗光幕的購買組合是否合適。該用戶的主要用途為遊戲與觀影，觀賞距離約10呎，使用環境雖非全黑但無直接日照，希望藉此配置在開燈環境下仍能維持良好的投影體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3g4kt/sanity_check_before_i_shop/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "Hisense PX3-PRO",
+      "UST Projector",
+      "ALR screen",
+      "Gaming",
+      "120 inch"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2016,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Panasonic PT-MZ770LB 雷射投影機二手出售包含吊架與遙控器",
+    "summary_zh": "有使用者在 Reddit 論壇上出售一台 Panasonic PT-MZ770LB 商用雷射投影機，規格包含 8,000 流明、WUXGA 1920x1200 解析度及 3LCD 雷射顯示技術。該機器目前時數極低，雷射僅使用 1,816 小時，狀態顯示無錯誤，並附帶 Chief 吊架與遙控器，原始未含鏡頭之建議售價為 14,599 美元，目前位於舊金山灣區。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3rwqx/for_sale_panasonic_ptmz770lb_laser_projector/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "Panasonic",
+      "PT-MZ770LB",
+      "雷射投影機",
+      "二手買賣",
+      "3LCD"
+    ],
+    "mentioned_brands": [
+      "Panasonic",
+      "Chief"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2013,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：考慮將海信C2 Ultra更換為極米Titan Noir Pro以提升對比度",
+    "summary_zh": "一名Reddit用戶發文表示，儘管已透過遮光窗簾與將天花板漆成黑色來打造全暗觀影環境，但對於海信Hisense C2 Ultra投影機的整體對比度與黑位表現仍感到不滿意。該用戶正考慮是否值得將其更換為極米Xgimi Titan Noir Pro，並詢問是否能在對比度上有顯著的改善與差異。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3t4xl/titan_noir_pro_to_replace_hisense_c2_ultra/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "海信",
+      "C2 Ultra",
+      "極米",
+      "Titan Noir Pro",
+      "對比度",
+      "黑位表現"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2012,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "剛入手幾天的極米 Xgimi Flip 4K 出現持續紅斑問題",
+    "summary_zh": "有消費者在 Reddit 論壇發文表示，自己購入僅幾天的極米 Xgimi Flip 4K 投影機出現了紅斑色偏問題。起初情況偶發，但現在紅斑已經持續存在無法消退，尋求社群使用者的協助與解答。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3u9x3/just_got_my_xgimi_flip_4k_a_few_days_ago/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "Xgimi",
+      "Flip 4K",
+      "投影機故障",
+      "紅斑色偏"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2030,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找寬度超過60吋且類似Milliskin的DIY透聲布幕材質",
+    "summary_zh": "一名Reddit用戶正在規劃其第二間家用劇院，預計使用極米XGIMI 20 Max投影機，並考慮未來升級至30系列，投射距離為14英尺。為了實現150吋16:9的大畫面並將前置喇叭置於幕後，尋找寬度大於60吋、能拉伸至80吋且不影響增益的DIY透聲布幕替代方案，同時探討改用2.35:1比例的可行性。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x38xqm/looking_for_a_diy_at_fabric_like_milliskin_that/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "透聲布幕",
+      "DIY投影幕",
+      "家用劇院",
+      "投射距離",
+      "螢幕增益"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米",
+      "Milliskin"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2027,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求1000至1500英鎊預算之家用投影機選購建議",
+    "summary_zh": "一名英國Reddit用戶發文尋求預算在1000至1500英鎊之間的家用投影機選購建議，欲從BenQ TK710（1400英鎊）、Horizon 20（1249英鎊）以及Epson TW7100（1000英鎊）三款型號中擇一升級現有的Yaber K2S。使用情境為全暗室、120吋投影幕、鏡頭至螢幕距離3.8公尺，主要需求包含PS5遊戲遊玩及ROKU 4K電影播放。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x33uf4/buying_advice_needed/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "BenQ TK710",
+      "Horizon 20",
+      "Epson TW7100",
+      "家用投影機",
+      "選購建議"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Epson",
+      "Yaber",
+      "Horizon",
+      "ROKU"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2025,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "購入展示機 Optoma UHZ65LV 的使用者心得分享",
+    "summary_zh": "一名 Reddit 用戶分享其以 30,000 南非蘭特購入展示機 Optoma UHZ65LV 的經驗，該雷射投影機已累積 3,000 小時使用時數。此次升級是為了替換使用六年的舊款展示機 Optoma UHD50，並期望這台新機同樣能穩定運作至少六年。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x35cjw/got_me_a_demo_optoma_uhz65lv/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "Optoma",
+      "UHZ65LV",
+      "UHD50",
+      "雷射投影機",
+      "展示機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2019,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "NexiGo Aurora Mark 2 投影機搭配 PC 遊戲出現動態對比與光暈問題求助",
+    "summary_zh": "一名用戶在 Reddit 論壇發文求助，指出其使用 Windows PC（搭載 RTX 4070 顯示卡）透過 8 公尺光纖 HDMI 2.1 線材連接 NexiGo Aurora Pro MkII 雷射投影機遊玩遊戲時，畫面暗部與亮部交界處出現明顯的光暈與動態對比異常問題。用戶表示儘管已關閉投影機內建的動態對比、場景適應引擎等所有動態增強設定，且調整過 Windows 的 HDR 與 NVIDIA 顯示設定，問題依舊存在。此狀況在桌面顯示器上並未發生，引發用戶對於是投影機動態處理機制或遊戲引擎成像問題的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3aqgk/help_haloingcontrast_issue_nexigo_aurora_mark_2/",
+    "publish_date": "2026-10-11",
+    "keywords": [
+      "NexiGo Aurora Mark 2",
+      "光暈",
+      "動態對比",
+      "超短焦投影機",
+      "遊戲畫面異常"
+    ],
+    "mentioned_brands": [
+      "NexiGo",
+      "NVIDIA",
+      "Samsung",
+      "AMD"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2006,
     "source_name": "IT之家",
     "title_zh": "行業首款八千元檔4K 120Hz投影堅果N5S Turbo高刷版亮相，支援小米米家生態聯動",
@@ -26369,6 +26671,29 @@
       "當貝"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2034,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-982W投影機北京商家特價促銷",
+    "summary_zh": "愛普生CB-982W商用投影機近日於北京通路「北京合眾聯鑫」展開特價促銷活動，具體售價採價格面議方式。商家位於北京市海澱區中關村中科大廈9層，提供有興趣採購的消費者前往現場或透過電話諮詢詳細優惠資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1177/11771576.html",
+    "publish_date": "2026-05-08",
+    "keywords": [
+      "愛普生",
+      "CB-982W",
+      "投影機",
+      "促銷",
+      "北京合眾聯鑫"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 962,
