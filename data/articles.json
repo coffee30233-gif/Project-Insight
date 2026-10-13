@@ -1,5 +1,226 @@
 [
   {
+    "id": 2051,
+    "source_name": "DigiTimes",
+    "title_zh": "博通與英特爾執行長警告 資金恐成為AI最大瓶頸",
+    "summary_zh": "博通與英特爾執行長公開警告，隨著人工智慧基礎設施持續擴建，龐大的資金需求可能成為未來AI產業發展的最大瓶頸。該報導探討半導體與高科技硬體建設的融資挑戰，凸顯AI硬體供應鏈在擴產過程中所面臨的資本壓力。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261013VL208/broadcom-intel-financing-hardware-infrastructure.html",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "博通",
+      "英特爾",
+      "AI基礎設施",
+      "半導體資金"
+    ],
+    "mentioned_brands": [
+      "Broadcom",
+      "Intel"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2045,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "升級MoGo 4以迎接GTA 6與Switch 2：極米AURA 3對比Horizon 30系列",
+    "summary_zh": "Reddit論壇用戶討論從極米MoGo 4投影機升級的方案，探討搭配次世代遊戲主機如GTA 6與Switch 2時，應選擇極米AURA 3超短焦雷射投影機或Horizon 30系列投影機，反映出玩家針對遊戲娛樂需求進行顯示設備升級的討論方向。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x46414/upgrading_mogo_4_for_gta_6_switch_2_xgimi_aura_3/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "極米",
+      "AURA 3",
+      "Horizon 30",
+      "MoGo 4",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2043,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Elfin Flip 4K 投影機無法播放特定音訊格式問題",
+    "summary_zh": "根據使用者在 Reddit 討論區的回報，極米（Xgimi）推出的 Elfin Flip 4K 投影機在透過 Stremio 播放電影時，無法正常支援並播放 E-AC3 與 AC3 兩種音訊格式的音軌。這反映出該款 4K 投影機在特定串流軟體或音訊解碼相容性上可能存在限制，為有意購入或使用該機型的消費者提供重要的產品相容性參考資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4d81n/xgimi_elfin_flip_4k/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "Xgimi Elfin Flip 4K",
+      "投影機",
+      "音訊解碼",
+      "Stremio",
+      "E-AC3"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2041,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極低預算獨立抗斑點裝置DIY分享",
+    "summary_zh": "有國外用戶在Reddit分享利用總成本約29歐元的低成本零件，自製用於消除雷射投影機斑點（Speckle）的抗斑點振動裝置。該裝置搭配其使用的Horizon 20投影機，選用了Hailege ICL8038 DDS訊號產生器、TPA 3110 XH-A232擴大機及Oumefar 8歐姆5瓦換能器，並結合現有12V電源供應器。透過讓布幕產生微幅振動來消除雷射光源帶來的視覺斑點現象。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x46i3v/absolute_minimum_budget_standalone_antispeckle/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "抗斑點",
+      "雷射散斑",
+      "DIY",
+      "投影機布幕",
+      "換能器"
+    ],
+    "mentioned_brands": [
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2040,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Xgimi Elfin Flip 4K 投影機音訊播放問題討論",
+    "summary_zh": "有用戶在 Reddit 發文指出，極米 Xgimi Elfin Flip 4K 投影機在透過 Stremio 播放電影時，無法正常播放 E-AC3 與 AC3 格式的音訊軌道。文章詢問是否能透過軟體修復此問題，並提到若外接電視盒則可恢復正常播放。此篇為用戶實際使用心得與災情回報。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4dgfd/xgimi_elfin_flip_4k/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "Xgimi Elfin Flip 4K",
+      "極米",
+      "投影機",
+      "音訊問題",
+      "Stremio"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2039,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 與 Horizon 30 Ultra Max 規格比較與性價比討論",
+    "summary_zh": "Reddit 網友針對極米（XGIMI）旗下兩款高階投影機 Titan Noir Pro 與 Horizon 30 Ultra Max 的規格與定價策略展開討論。兩者價差高達 1500 美元，但規格相近。Titan 搭載稍快的 MT9679 晶片且無內建 Google TV 以保留全運算能力作影像處理；而 Horizon 則支援 4K 120Hz 並內建 Google TV。討論指出兩者在動態對比等核心規格上無顯著差異，引發對其產品線定價合理性的質疑。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x47ka2/xgimi_titan_noir_max_vs_horizon_30_ultra_max/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "XGIMI",
+      "Titan Noir Max",
+      "Horizon 30 Ultra Max",
+      "MT9679",
+      "Google TV",
+      "4K 120Hz"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2038,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "正確使用方式：短焦投影機在陽光下依然清晰",
+    "summary_zh": "使用者分享了一張短焦投影機的實際使用照片，並指出該設備在有陽光直射的情況下，畫面依然保持清晰。這是一則來自Reddit論壇的單一用戶使用心得與經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4lrxj/correct_usage/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "短焦投影機",
+      "使用心得",
+      "畫質表現",
+      "陽光下投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2036,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米科技正式發布 HORIZON 30 系列投影機，預購活動現已展開",
+    "summary_zh": "極米科技（XGIMI）正式推出全新 HORIZON 30 系列投影機，包含 Pro、Max 及旗艦款 Ultra Max 三種機型。全系列支援 4K 120Hz 高刷新率，亮度範圍介於 4,800 至 6,000 ISO 流明，並透過雙智慧光圈技術實現 8,000:1 至 10,000:1 的原生對比度。針對遊戲體驗，該系列具備 1.9ms 低延遲，並支援 VRR、ALLM 及 AMD FreeSync 技術。預購活動自 2026 年 10 月 12 日起至 10 月 31 日止，正式開賣日期為 11 月 1 日。各型號預購價格分別為 1,899 美元、2,499 美元及 2,999 美元，早鳥預購可享包含腳架、吊架及 3D 眼鏡等配件組合優惠。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x48jyf/xgimi_horizon_30_series_announced_preorders_open/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "HORIZON 30",
+      "4K投影機",
+      "高刷新率",
+      "新品發布"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "AMD"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2050,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "全新極米 Horizon 20 出現鏡頭異音、角落褐斑與梯形校正故障疑慮",
+    "summary_zh": "有用戶在 Reddit 論壇發文反映剛購入的極米 XGIMI Horizon 20 投影機出現多項硬體瑕疵，包含鏡頭運作時的喀喀異音、畫面頂部角落出現棕色色偏，以及梯形校正功能失效，詢問其他網友是否買到瑕疵機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3usj3/brand_new_xgimi_horizon_20_lens_clicking_noise/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20",
+      "投影機瑕疵",
+      "鏡頭異音",
+      "梯形校正"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2046,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Titan Noir Max 與 AURA 3 Max 投影機畫質比較與諮詢",
+    "summary_zh": "一名準備購買人生第一台投影機的消費者在 Reddit 論壇發文，探討即將上市的中國機型 X30 Ultra（Horizon 30 Ultra），並詢問在 120Hz 更新率之外，Titan Noir Max 與 AURA 3 Max 等機型在實際畫質表現上是否存在明顯差異。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x3yos6/titan_noir_max_vs_aura_3_max/",
+    "publish_date": "2026-10-12",
+    "keywords": [
+      "Titan Noir Max",
+      "AURA 3 Max",
+      "Horizon 30 Ultra",
+      "120Hz"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2032,
     "source_name": "DigiTimes",
     "title_zh": "矽格與欣詮結盟推動光學測試，因應AI需求轉向連線技術",
@@ -25575,6 +25796,27 @@
       "飛利浦"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2054,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-LC46DHW 北京促銷價 11550 元",
+    "summary_zh": "索諾克 SNP-LC46DHW 投影機近日於北京商家「偉業投影」進行特價促銷，優惠價格為人民幣 11550 元。店家位於海淀區中成大廈 7 層，提供實機洽詢服務，適合有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1191/11913574.html",
+    "publish_date": "2026-06-01",
+    "keywords": [
+      "索諾克",
+      "SNP-LC46DHW",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "索諾克"
+    ],
+    "link_status": null
   },
   {
     "id": 1509,
