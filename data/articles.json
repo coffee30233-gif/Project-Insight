@@ -1,5 +1,501 @@
 [
   {
+    "id": 2088,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙R3 Ultra旗艦版家用投影機促銷特價2776元",
+    "summary_zh": "大眼橙R3 Ultra旗艦版家用投影機近日在通路商「易仁科技」展開特價促銷活動，優惠售價為人民幣2776元。該產品主打高清畫質、超大內存以及高對比度等核心規格亮點，提供有採購需求的消費者一個高性價比的入手選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12602161.html",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra旗艦版",
+      "家用投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2081,
+    "source_name": "DigiTimes",
+    "title_zh": "前英特爾執行長Pat Gelsinger看好記憶體與光纖互連硬體復興",
+    "summary_zh": "前英特爾執行長Pat Gelsinger在最新訪談中指出，隨著運算需求的快速成長，硬體設計領域正在迎來全新的復興浪潮，特別是在記憶體技術與光纖互連等關鍵基礎設施上。他強調這些領域的突破將是推動未來資料中心與AI運算效能升級的關鍵核心。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261013PD250/pat-gelsinger-hardware-design-intel-ceo.html",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "Pat Gelsinger",
+      "英特爾",
+      "記憶體",
+      "光纖互連",
+      "硬體設計"
+    ],
+    "mentioned_brands": [
+      "Intel"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2079,
+    "source_name": "DigiTimes",
+    "title_zh": "記憶體瓶頸驅動HBM轉向8層堆疊架構",
+    "summary_zh": "受到記憶體頻寬與效能瓶頸的影響，高頻寬記憶體（HBM）供應鏈正積極推動技術轉型，加速轉向8層堆疊（8-layer stacks）架構的生產與應用，以因應未來市場對高階運算的需求。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261014PD220/hbm-capacity-demand-2027-supply-chain.html",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "HBM",
+      "記憶體",
+      "供應鏈",
+      "堆疊技術"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2078,
+    "source_name": "DigiTimes",
+    "title_zh": "思科與輝達鎖定具4倍USFP密度的高速光學互連技術",
+    "summary_zh": "思科與輝達正合作開發具備4倍USFP密度的高速光學互連技術，旨在提升資料傳輸頻寬與系統設計效能。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261014PD205/cisco-nvidia-2026-bandwidth-design.html",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "Cisco",
+      "Nvidia",
+      "光學互連",
+      "USFP",
+      "頻寬設計"
+    ],
+    "mentioned_brands": [
+      "Cisco",
+      "Nvidia"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2076,
+    "source_name": "投影時代",
+    "title_zh": "愛普生推廣綠色打印與投影體驗店，全台佈局覆蓋30省116城提供一站式服務",
+    "summary_zh": "愛普生積極推廣線下「綠色打印・投影體驗店」模式，截至目前已在全國30個省級地區、116座城市佈局117家體驗店與84家綠色體驗角。針對家庭與中小企業用戶痛點，店內提供產品實機操作、銷售與售修全鏈路服務。其中，投影機展區主打搭載3LCD技術的明星產品CB-FH08，具備3600流明高亮度與無彩虹紋特性，滿足小型會議與家庭大屏護眼觀影需求，透過體驗型消費模式提供消費者可靠的選購依據。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/242119111748.shtml",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "愛普生",
+      "體驗店",
+      "投影機",
+      "3LCD",
+      "CB-FH08",
+      "線下通路"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2068,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用者發問：擁有Epson EH-LS11000W專用劇院室應選白色還是灰色幕？",
+    "summary_zh": "Reddit使用者發文詢問，其擁有Epson EH-LS11000W投影機，並已建置100%全黑的專用視聽室，空間足夠容納120吋投影幕。由於追求類似OLED的深沉黑色表現，正在猶豫應選擇灰色抗光幕提升黑階，或是透過進一步處理周圍牆面與天花板的遮光來解決。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x53zvx/which_type_of_screen_white_or_grey/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "Epson EH-LS11000W",
+      "投影幕",
+      "白色幕",
+      "灰色幕",
+      "黑階表現"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2067,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度市場雷射投影機詢問與極米 MoGo 4 Laser 評價",
+    "summary_zh": "一名位於印度的 Reddit 用戶發文尋求預算在 8 萬至 10 萬印度盧比之間的雷射投影機推薦，並特別詢問了極米 XGIMI MoGo 4 Laser 這款機型的表現。該討論反映出印度消費市場對於可攜式雷射投影機的實際需求與產品詢問度。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x54nnl/laser_projectors_in_india/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "印度市場",
+      "雷射投影機",
+      "XGIMI MoGo 4 Laser",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2065,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合極短焦投影機的平價抗光幕討論",
+    "summary_zh": "一名Reddit用戶在r/projectors板上發文詢問，針對計畫購入的極短焦投影機XGIMI Aura 3 Max，尋找尺寸在120吋至150吋之間、價格比市面上3,000至5,000美元便宜的平價抗光幕（ALR Screen）。由於客廳有自然採光且牆面為白色，觀看距離約15英尺，主要用於每週觀看2至3次3D電影，希望能推薦具備實際抗光效果且性價比高的投影幕選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x561we/best_budget_alr_screen/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "抗光幕",
+      "ALR screen",
+      "極短焦投影機",
+      "UST projector",
+      "投影幕"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2064,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何修復這台投影機？畫面出現半邊黃綠色問題",
+    "summary_zh": "有一位Reddit用戶發文求助，其使用的ivolum LED beamer hbp 3000投影機出現了畫面半邊顯示黃色或綠色的故障狀況，並附上照片詢問維修方式。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x57x4f/how_to_repair_this_projector/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "投影機故障",
+      "ivolum",
+      "LED beamer hbp 3000",
+      "維修"
+    ],
+    "mentioned_brands": [
+      "ivolum"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2063,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "商務與教會投影機選購諮詢與四款型號規格比較",
+    "summary_zh": "一名用戶在Reddit發文詢問適用於教會與商務環境的投影機選購建議，並列出四款候選型號進行規格與價格比較。包含售價299.99英鎊的Philips Propix PRX650/INT（WXGA、9600流明）、售價369.99英鎊的Acer X1329（WXGA、4800流明）、售價399.99英鎊的Optoma H190X（HD-Ready、3900流明，據悉已停產）以及售價299.99英鎊的Acer X119H（SVGA、4800流明）。用戶考量舊筆電僅支援VGA連接埠，且使用場地為明亮大廳並直接投射於米色牆面上，尋求社群協助評估最佳選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x57z84/buying_a_projector_for_business_purposes/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "Philips Propix PRX650/INT",
+      "Acer X1329",
+      "Optoma H190X",
+      "Acer X119H",
+      "投影機選購",
+      "商務投影機"
+    ],
+    "mentioned_brands": [
+      "Philips",
+      "Acer",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2061,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 AURA 3 Max 搭配 Vividstorm Berlin 電視櫃與 100 吋螢幕之安裝相容性討論",
+    "summary_zh": "有用戶在 Reddit 發文詢問，計劃將極米 XGIMI AURA 3 Max 超短焦投影機與 100 吋地昇螢幕，放入原本為徠卡 Leica Cine 1 設計的 Vividstorm Berlin 電視櫃中。根據規格，AURA 3 Max 投射 100 吋畫面需要距離螢幕約 5.04 吋，且該機型無光學鏡頭位移，實體擺放位置相當關鍵。用戶擔憂櫃內平台尺寸雖然放得下，但投影距離、高度以及櫃體邊緣是否會遮擋投影光束仍有待確認。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x53o6x/xgimi_aura_3_max_with_vividstorm_berlin_cabinet/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "XGIMI AURA 3 Max",
+      "Vividstorm Berlin",
+      "超短焦投影機",
+      "安裝相容性"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Vividstorm",
+      "Leica"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2060,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算有限下選 HDFury Vertex 還是 Arcana 來實現 LLDV 轉 HDR10 投影機？",
+    "summary_zh": "一名即將購入 Epson TW9400 投影機與 Apple TV 4K 訊源的用戶在 Reddit 發文詢問，針對僅需將 LLDV 轉換為 HDR10 格式以提升畫質的使用需求，且訊號鏈為 Apple TV 接至 Yamaha 擴大機後再輸出至投影機，究竟應選擇 HDFury Vertex 還是 Arcana。由於僅專注於 LLDV 轉換功能，且一代 Arcana 在新品與二手市場價格皆較便宜，發文者探討這兩款設備在此特定應用下是否可以互換。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x5ajyi/which_is_better_on_a_budget_or_are_they_equal_for/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "LLDV",
+      "HDR10",
+      "HDFury",
+      "Vertex",
+      "Arcana",
+      "TW9400"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Apple",
+      "Yamaha",
+      "HDFury"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2059,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手 BenQ X300i 投影機價格與價值詢問",
+    "summary_zh": "Reddit 用戶發文詢問以 750 美元購入使用時數達 6,500 小時的 BenQ X300i 二手投影機是否划算。該用戶的使用情境為 50% 電影與 50% 遊戲，預計在全黑的地下室家庭劇院搭配 120 吋固定螢幕使用，並徵求社群是否應購買此機型或其他替代方案的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x5g61v/benq_x300i_used_opinion/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "BenQ",
+      "X300i",
+      "二手投影機",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2058,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人用過全球速賣通上那些銀幕品牌的編織/透聲幕替代品嗎？",
+    "summary_zh": "一名Reddit網友在r/projectors發文詢問，是否有人嘗試過全球速賣通（AliExpress）上販售的120吋編織透聲幕，作為Silver-Ticket等知名品牌的平價替代品。經過查看賣家提供的包裝與照片後，原PO推測該產品應為XY Screens的產品或仿冒品，並決定下單嘗試，預計在兩到三週後更新使用心得。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x53nlx/has_anyone_tried_those_wovenacoustic_silverticket/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "投影幕",
+      "透聲幕",
+      "編織幕",
+      "速賣通",
+      "XY Screens",
+      "Silver-Ticket"
+    ],
+    "mentioned_brands": [
+      "Silver-Ticket",
+      "AliExpress",
+      "XY Screens"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2057,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機縮短投射距離能否解決周邊雜光問題？",
+    "summary_zh": "一名用戶在Reddit發文詢問關於Valerion Vision Pro 2投影機的安裝問題。該機型目前採吊裝方式，距離100吋螢幕約11.5英尺。雖然透過梯形校正後畫面大小符合100吋，但在暗場畫面時，周邊會出現形似120吋的溢出雜光，雖然不至於無法使用，但仍造成困擾。用戶因而詢問是否因物理距離過遠，需將投影機向前移動來改善。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x5h221/move_projector_closer/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "Valerion Vision Pro 2",
+      "投影距離",
+      "梯形校正",
+      "雜光溢出"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2056,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "終於完成家庭劇院架設！使用 BenQ TK705i 投影機與舊款擴大機配置",
+    "summary_zh": "Reddit 用戶分享其最新完成的家庭劇院安裝經驗。核心投影設備採用 BenQ TK705i 4LED 投影機，搭配 Marantz SR7500 擴大機、PSB 聲道喇叭與超低音，以及 Bose Cube 環繞喇叭。由於擴大機為舊型號，作者透過投影機的 P2 音源線成功連接，實現 5.1 頻道環繞音效，整體建置成本僅需添購投影機與電壓轉換器，成果令作者十分滿意。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x59ey8/home_theater_setup_done_finally/",
+    "publish_date": "2026-10-14",
+    "keywords": [
+      "BenQ TK705i",
+      "4LED投影機",
+      "家庭劇院",
+      "Marantz",
+      "PSB喇叭"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Marantz",
+      "PSB",
+      "Bose"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2075,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度2.5萬盧比以下投影機推薦與電商大促詢問",
+    "summary_zh": "印度Reddit網友在BBD大促與亞馬遜特賣期間尋求25k預算內的投影機推薦。文中提及Pixpagold Ray Remastered（27k）、Xgmi Vibe One等多款型號，並特別針對Xgmi Vibe One的鏡頭防塵性能提出選購疑問。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4tuw3/best_projectors_under_25k_in_india_bbd_sale_and/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "印度投影機",
+      "電商促銷",
+      "入門投影機",
+      "Xgmi Vibe One"
+    ],
+    "mentioned_brands": [
+      "Pixpagold",
+      "Xgmi",
+      "Wazcto"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2072,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 M2 Pro 對決極米 Horizon 20：歐陸市場 4K 投影機選購評估",
+    "summary_zh": "有用戶在 Reddit 詢問第一台 4K 投影機的選購建議，比較海信 M2 Pro 與極米 Horizon 20。海信售價約 860 歐元，極米則高達 1350 歐元。主要用途為夜間觀賞電影與影集，需在客廳與臥室間移動，偶爾投射天花板，遊戲需求不高。用戶主要關注極米是否值得多出 500 多歐元的差價，或是海信能提供相近的性價比體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4vevs/hisense_m2_pro_vs_xgimi_horizon_20/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "4K投影機",
+      "海信M2 Pro",
+      "極米Horizon 20",
+      "價格比較",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2071,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我的投影機畫面上出現不明線條是什麼問題？",
+    "summary_zh": "一名用戶在Reddit發文求助，表示他購買兩個月、價格約135歐元的平價投影機在觀看電影時，畫面上突然出現兩條線。儘管他多次清潔鏡頭，且確認問題並非出在牆面上，但線條依然存在。這類問題通常可能涉及內部的光機元件受損或面板故障，屬一般用戶的使用心得與故障求助。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4xzwe/whats_this_on_my_projector/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "故障排除",
+      "平價投影機",
+      "畫質問題"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2070,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horizon 20 投影機的天花板吊裝相容性討論",
+    "summary_zh": "Reddit 用戶發文詢問關於升級至 Horizon 20 投影機時，現有的天花板吊架是否相容。文中提到原廠吊架價格為 120 英鎊，因此希望確認是否能沿用舊吊架，並尋求社群使用經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4zf3i/horizon_20_ceiling_mounting/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "Horizon 20",
+      "ceiling mount",
+      "projector mount",
+      "吊架"
+    ],
+    "mentioned_brands": [
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2066,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦雷射投影機的斑點抑制布幕選擇討論",
+    "summary_zh": "一名Reddit用戶分享其將Optoma D2更換為Hisense PX4超短焦雷射投影機後，搭配原有的Vividstorm電動地拉抗光幕出現了嚴重的雷射斑點現象，導致畫面難以觀看。為了改善此問題並保留PX4顯著提升的畫質，該用戶正尋求其他布幕解決方案，並考慮 Spectra Vantage UST、Spectra Shadowscape、Silver Ticket WAB 以及 Valerion Pure Vision 等替代布幕選項，探討超短焦投影機與抗光幕搭配的相容性。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4w4df/screens_that_manage_speckle_for_ust/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "超短焦投影機",
+      "雷射斑點",
+      "抗光幕",
+      "Hisense PX4",
+      "Optoma D2",
+      "Vividstorm"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Hisense",
+      "Vividstorm",
+      "Spectra",
+      "Silver Ticket",
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2062,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機螢幕斑點與材質選擇討論",
+    "summary_zh": "Reddit論壇用戶發文尋求投影機布幕搭配建議。發文者天花板安裝了VisionMaster Pro 2機型，目前使用電動抗光幕（ALR），但在眾多品牌、軟白、軟灰與編織布等材質之間難以抉擇，並擔憂黑階表現等畫質損失，因此向社群詢問實際使用經驗與推薦的布幕品牌及材質。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x4rzwy/projector_screen_speckles/",
+    "publish_date": "2026-10-13",
+    "keywords": [
+      "VisionMaster Pro 2",
+      "投影機布幕",
+      "抗光幕",
+      "ALR",
+      "投影機配件"
+    ],
+    "mentioned_brands": [
+      "VisionMaster"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2051,
     "source_name": "DigiTimes",
     "title_zh": "博通與英特爾執行長警告 資金恐成為AI最大瓶頸",
@@ -25552,6 +26048,27 @@
     "link_status": "ok"
   },
   {
+    "id": 2083,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-LMW380C北京促銷價19599元",
+    "summary_zh": "根據中關村線上行情報導，松下PT-LMW380C投影機近日於北京商家「易仁科技」展開特價促銷活動，優惠售價為人民幣19599元。該款投影機具備WXGA解析度、3800流明亮度以及雷射光源等產品亮點，提供有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1195/11955415.html",
+    "publish_date": "2026-06-08",
+    "keywords": [
+      "松下",
+      "PT-LMW380C",
+      "雷射投影機",
+      "零售行情"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1743,
     "source_name": "ZOL投影機頻道",
     "title_zh": "2026年熱門松下LMZ425NC高畫質雷射投影機促銷行情",
@@ -27533,6 +28050,30 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2082,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技攜手寶視來工程投影機，助力山西汾酒城打造沉浸式光影展廳",
+    "summary_zh": "近日，易仁科技攜手寶視來，為山西汾酒城打造沉浸式文化空間。專案採用5台寶視來高效能工程投影機XN8866為核心設備，並搭配0.8短焦鏡頭，成功將千年酒文化與現代光影科技結合，呈現沉浸式視覺體驗，展現投影技術在文旅展館應用中的實際案例。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1169/11699977.html",
+    "publish_date": "2026-04-23",
+    "keywords": [
+      "工程投影機",
+      "寶視來",
+      "易仁科技",
+      "山西汾酒城",
+      "沉浸式展廳",
+      "短焦鏡頭"
+    ],
+    "mentioned_brands": [
+      "寶視來",
+      "易仁科技"
+    ],
+    "link_status": null
   },
   {
     "id": 1901,
