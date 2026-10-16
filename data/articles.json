@@ -1,5 +1,500 @@
 [
   {
+    "id": 2185,
+    "source_name": "投影時代",
+    "title_zh": "2026年上半年中國家用投影市場分析：九連降背后的換擋與轉型",
+    "summary_zh": "根據洛圖科技數據，2026年上半年中國智能投影市場全渠道銷量205.6萬台，同比下降26.0%，銷售額33.4億元，下滑27.0%，面臨連續九個季度下滑。壓力來自宏觀環境、電視分流及存儲芯片漲價。然而市場結構正朝高質量發展，三色激光渗透率大幅提升，4K與變焦產品銷量佔比增長，AI大模型與高亮度機型成為標配。品牌格局加速洗牌，CR4集中度提高，極米、堅果、Vidda、當貝、大眼橙等头部企業各據山頭。同時，海外市場持續增長，中國企業在全球激光顯示出貨量佔比超五成，行業正從價格競爭轉向價值進化。",
+    "category": "市場數據",
+    "importance": 5,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/242428339619.shtml",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "洛圖科技",
+      "智能投影",
+      "三色激光",
+      "市場數據",
+      "極米",
+      "堅果",
+      "Vidda",
+      "出貨量"
+    ],
+    "mentioned_brands": [
+      "洛圖科技",
+      "極米",
+      "堅果",
+      "Vidda",
+      "當貝",
+      "大眼橙",
+      "康佳",
+      "海信"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2184,
+    "source_name": "投影時代",
+    "title_zh": "極米科技於2026年雙十一推出三大系列八款投影與激光電視新品",
+    "summary_zh": "極米科技在2026年雙十一檔期推出三大系列共八款新品，涵蓋Z7X 4K激光版、RS30旗艦系列及行業首款4K 120Hz激光電視AURA3。Z7X 4K激光版將4K解析度與三色激光帶入兩千價位段；RS30系列提供六款機型，最高達5700 CVIA峰值亮度與4K 120Hz全链路高刷；AURA3激光電視則主打0.16:1超短焦與7000:1原生對比度。此外，同場亦開售MemoMind One AI顯示眼鏡。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/262137137433.shtml",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "極米",
+      "4K投影機",
+      "激光電視",
+      "高刷",
+      "雙十一",
+      "Z7X",
+      "RS30",
+      "AURA3"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "MemoMind"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2183,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找能從任意距離投影並完美對齊螢幕的投影機推薦",
+    "summary_zh": "一名Reddit用戶在r/projectors板發文尋求建議，詢問市面上是否有能夠從任意距離進行投影、完美對齊布幕，且具備強大縮放能力的投影機。該用戶表示其投影機架距離布幕約13英尺，先前購買的機型僅支援縮放到80%，畫面依然大於布幕尺寸，因此希望獲得符合該安裝距離的產品推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6q46t/projector_that_can_project_from_any_distance/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "投影距離",
+      "畫面縮放",
+      "安裝建議",
+      "投射比"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2178,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vivitek D55BA 投影機無法顯示筆電畫面疑難排解",
+    "summary_zh": "有用戶在 Reddit 發文求助，指出其 Vivitek D55BA 投影機無法正常投射筆電畫面。儘管筆電能識別投影機為顯示器，投影機也能偵測到電腦且其他功能正常，但更換多條連接線、不同作業系統與電腦，甚至調整複製畫面與解析度後問題依舊。該筆電僅配備 VGA 連接埠，尋求社群協助解決此故障。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6r4lu/no_image_from_laptop/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "Vivitek",
+      "D55BA",
+      "VGA",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Vivitek"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2174,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sanyo多媒體投影機偏光片維修與替換材料求助",
+    "summary_zh": "有用戶在Reddit討論區發文求助，指出其擁有的舊款Sanyo多媒體投影機出現畫面起泡與漩渦狀瑕疵，判定為偏光片損壞。目前正嘗試拆除舊的偏光膜進行更換，並向社群尋求適合的偏光膜替換材料建議。這類DIY維修討論反映出老舊3LCD投影機常見的偏光板老化問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6uz9a/polarizer_repair/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "偏光片",
+      "維修",
+      "Sanyo",
+      "投影機維修",
+      "偏光膜"
+    ],
+    "mentioned_brands": [
+      "Sanyo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2173,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 PT1 投影機白色畫面出現紫色色塊疑慮",
+    "summary_zh": "有用戶在 Reddit 討論區發文指出，剛購入的全新海信 Hisense PT1 投影機在白色背景下，投影方向出現了紫色的污漬或色塊。該用戶詢問這是否是因為未使用投影布幕所導致的正常現象，還是屬於產品本身的硬體瑕疵，引發關於該型號畫質表現的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6xsc6/hisense_pt1_purple_hue/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "Hisense PT1",
+      "投影機瑕疵",
+      "紫色色塊",
+      "畫質問題"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2172,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH575i 投影機限時特價 46,000 盧比討論",
+    "summary_zh": "Reddit 用戶發文詢問關於 BenQ TH575i 投影機的限時特價優惠，價格為 46,000 印度盧比（約合 486 美元），並尋求是否該入手此優惠或是否有其他同價位更好的投影機選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6sfru/flash_sale_of_benq_th575i_at_46k_486_shall_i_take/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "BenQ",
+      "TH575i",
+      "特價",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2171,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Optoma奧圖碼PH31投影機畫面傾斜問題求助",
+    "summary_zh": "Reddit用戶發文求助，表示其設置的Optoma奧圖碼PH31投影機距離牆面4.2公尺，符合計算機建議，但投影畫面出現20毫米的傾斜歪斜，一側比另一側高出20毫米，嘗試多種方法仍無法將畫面調整為正方形，因而尋求網友提供對齊與校正的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6yap2/optoma_projector_ph31_image_scewed/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "Optoma",
+      "PH31",
+      "畫面校正",
+      "投影機設置"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2169,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我該選擇雷射超短焦投影機嗎？",
+    "summary_zh": "一名網友在Reddit論壇發文詢問是否該在客廳組建雷射超短焦投影機系統，其客廳投影距離約250至280公分，目標搭配約100吋銀幕並連接PC使用，同時點名考慮Jgmo O3 Ultra機型。文章主要探討超短焦投影機的選購考量、適合的抗光布幕類型、與傳統吊裝投影機的優缺點比較，以及特定機型的色彩與黑位表現，反映出消費者在建置家用超短焦投影系統時的實際疑問與幕布搭配需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6ugl4/should_i_go_laser_ust/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "雷射投影機",
+      "超短焦投影機",
+      "UST",
+      "Jgmo O3 Ultra",
+      "投影幕"
+    ],
+    "mentioned_brands": [
+      "Jgmo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2167,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：是否值得在Alibaba購買便宜40%的亞洲版XGIMI投影機",
+    "summary_zh": "一名網友在Reddit發文請益，表示正考慮購買高階投影機XGIMI Noir Max，但發現在阿里巴巴上有販售針對亞洲市場、規格相似的XGIMI X50 Ultra Max，價格便宜約40%。他猶豫是否應承擔風險透過跨境電商購買以節省預算，並詢問其他用戶在阿里巴巴購物的經驗與付款保障。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6x70j/titan_noir_max/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "XGIMI",
+      "Noir Max",
+      "X50 Ultra Max",
+      "Alibaba",
+      "跨境購物"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2199,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BMZ62C 投影機 6800流明促銷行情",
+    "summary_zh": "松下 PT-BMZ62C 投影機近期在經銷商「格林德益」展開特價促銷活動，具體售價採價格面議。該款投影機具備 6800 流明亮度，主打輕鬆安裝、靈活適配以及節能環保等產品亮點。商家地址位於北京市海淀區中關村東路 66 號，提供有採購需求的消費者前往洽詢。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606013.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "投影機",
+      "促銷",
+      "6800流明"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2198,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-GMZ510C 激光超短焦投影機特價 22,999 人民幣",
+    "summary_zh": "松下推出 PT-GMZ510C 激光投影機，具備 5000 流明亮度與 WUXGA 解析度，主打超短焦投影功能，即使在白天開窗環境下也能直接投射清晰畫面。目前該款新機於北京經銷商「格林德益」展開特價促銷，優惠售價為 22,999 元人民幣，提供有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606012.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "松下",
+      "PT-GMZ510C",
+      "激光投影機",
+      "超短焦",
+      "WUXGA"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2197,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-NMZ600C 投影機 6300流明短焦促銷價 36960 元",
+    "summary_zh": "松下 PT-NMZ600C 投影機近日在經銷商「格林德益」展開特價促銷，優惠價格為人民幣 36960 元。該款投影機具備 6300 流明亮度、短焦投影能力以及高對比度等產品亮點，主打靈活高效的應用表現，目前在北京市海淀區中關村提供銷售與諮詢服務。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606011.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "松下",
+      "PT-NMZ600C",
+      "短焦投影機",
+      "6300流明",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2196,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰AL-MK530P雷射4K辦公投影機中關村特價促銷",
+    "summary_zh": "光峰科技推出AL-MK530P辦公投影機，近日於北京中關村商家進行特價促銷，價格採面議方式。該機型具備多項核心產品亮點，包含採用雷射光源技術、提供4K超清解析度，以及支援九點校正功能，主要面向商務辦公市場，有需求的消費者可前往北京市海淀區中關村東路實體店面洽詢。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606010.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "光峰",
+      "AL-MK530P",
+      "雷射投影機",
+      "4K投影機",
+      "商用投影"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2195,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰MU530投影機5200流明高清辦公投影促銷",
+    "summary_zh": "光峰科技推出的AL-MU530雷射辦公投影機近日在通路商「格林德益」進行特價促銷活動，價格採面議方式。該機型主打5200流明高亮度、4K超清解析度以及豐富的色彩表現，採用雷射光源技術，鎖定商務辦公市場。感興趣的買家可直接前往位於北京市海淀區中關村東路66號的實體店鋪洽詢選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606009.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "光峰",
+      "AL-MU530",
+      "雷射投影機",
+      "商用投影機",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "格林德益"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2194,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰MU630投影機6500流明高清激光光源促銷中",
+    "summary_zh": "光峰科技旗下的AL-MU630雷射投影機近日在經銷商「格林德益」展開特價促銷，具體售價採面議方式。該款投影機主打6500流明高亮度、雷射光源技術，並具備豐富色彩表現與4K超高畫質。商家位於北京市海淀區中關村東路66號，提供有意採購高階工程或商用投影設備的用戶前往洽詢選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606008.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "光峰",
+      "AL-MU630",
+      "雷射投影機",
+      "4K",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2193,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰AL-W320雷射投影機促銷優惠價4521元",
+    "summary_zh": "光峰科技推出AL-W320雷射投影機，具備3600流明亮度，主打無線同屏、輕薄便攜與超長光源壽命。目前在北京商家格林德益進行特價促銷，優惠售價為4521元人民幣，提供給有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606006.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "光峰",
+      "AL-W320",
+      "雷射投影機",
+      "3600流明",
+      "促銷價格"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2192,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-W360 投影機特價促銷優惠 4940 元",
+    "summary_zh": "光峰推出 AL-W360 雷射投影機，主打輕薄便携與高亮度設計，具備 3800 流明亮度及雷射光源系統。目前該機型於北京經銷商處展開特價促銷活動，優惠售價為新台幣換算約 4940 元人民幣，提供有需求的消費者採購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606004.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "光峰",
+      "AL-W360",
+      "雷射投影機",
+      "3800流明",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2191,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼EX575商務投影機特價促銷6699元",
+    "summary_zh": "根據中關村線上報導，索尼EX575商務辦公投影機近日在商家「格林德益」展開特價促銷活動，優惠售價為6699元人民幣。該款投影機主要亮點包含採用3LCD投影技術、搭載超高壓汞燈光源以及支援手動變焦功能，提供有辦公投影需求的消費者選購參考。實體店面位於北京市海淀區中關村東。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1260/12606000.html",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "索尼",
+      "EX575",
+      "商務投影機",
+      "3LCD",
+      "超高壓汞燈",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "格林德益"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2181,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "LG Cinebeam S 4K UST 投影機自動梯形校正強制聯網引發抱怨",
+    "summary_zh": "Reddit 用戶發文抱怨其擁有的 LG Cinebeam S 4K UST 投影機，在沒有網際網路連線的情況下，竟然無法執行自動梯形校正或任何自動化設定功能。此限制引起用戶不滿，並指出手動調整的範圍又不足以滿足需求，因而上網發文宣洩並尋求替代解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6l2gn/internet_connection_mandatory_for_autokeystone/",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "LG",
+      "Cinebeam S 4K",
+      "自動梯形校正",
+      "連線限制",
+      "使用者體驗"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2180,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "獨立音響系統對投影機觀影的重要性探討",
+    "summary_zh": "一名用戶在Reddit發文詢問，計劃搭配celexon pearlstone 90吋布幕與極米Xgimi Horizon 20標準焦距投影機，是否需要額外購買獨立音響系統。由於預算已達上限，他猶豫是否應使用內建喇叭。朋友警告聲音從後方傳來會導致觀影怪異甚至暈眩，引發關於投影機內建音效表現與外接音響必要性的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6mp1f/how_important_is_a_dedicated_soundsystem/",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "Xgimi Horizon 20",
+      "celexon pearlstone",
+      "內建喇叭",
+      "獨立音響系統"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "celexon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2165,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 HORIZON 30 系列投影機開放預購，通路商推出專屬優惠與折價",
+    "summary_zh": "通路商 ProjectorScreen.com 宣佈極米全新的 HORIZON 30 投影機系列開放預購，活動持續至 10 月 31 日。預購售價分別為 Ultra Max 2,999 美元、Max 2,499 美元與 Pro 1,899 美元。預購可享免費吊架或落地支架、3D 眼鏡及最高 100 美元現金回饋。針對搭配的投影幕，Ultra Max 可享 Spectra Element Gray 固定框幕 50% 折扣或 Shadowscape ALR 20% 折扣，Max 則享 25% 或 10% 折扣。訂金為 50 美元且可隨時全額退款。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x6mu1n/horizon_30_preorders_are_up_xgimi_dropped_their/",
+    "publish_date": "2026-10-15",
+    "keywords": [
+      "XGIMI",
+      "HORIZON 30",
+      "ProjectorScreen.com",
+      "預購",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "ProjectorScreen.com"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2163,
     "source_name": "ZNDS投影頻道",
     "title_zh": "百元投影儀推薦小光盒R1：620CVIA高亮加原生1080P，售價699元",
@@ -26335,6 +26830,29 @@
     "link_status": "ok"
   },
   {
+    "id": 2190,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BAZ612C特價促銷歡迎來電諮詢",
+    "summary_zh": "松下PT-BAZ612C高亮投影機近期於北京商家「北京合眾聯鑫」展開特價促銷活動，價格採面議方式。該產品主要特色為高亮投影，實體店面位於北京市海澱區中關村中科大廈9層，提供有興趣的消費者前往現場洽詢採購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1207/12073362.html",
+    "publish_date": "2026-06-29",
+    "keywords": [
+      "松下",
+      "PT-BAZ612C",
+      "投影機",
+      "特價促銷",
+      "高亮投影"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1712,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下 PT-BAZ712C 投影機特價促銷資訊",
@@ -26600,6 +27118,29 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2189,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L570U 投影機特價促銷活動展開",
+    "summary_zh": "經銷商北京合眾聯鑫針對愛普生 CB-L570U 投影機推出特價促銷活動，採價格面議方式進行，販售地點位於北京市海淀區中關村中科大廈9層。該款機型為愛普生旗下投影產品，此次通路特價提供有興趣的採購者進行諮詢與選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1203/12039552.html",
+    "publish_date": "2026-06-23",
+    "keywords": [
+      "愛普生",
+      "CB-L570U",
+      "投影機",
+      "促銷",
+      "中關村"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 1918,
