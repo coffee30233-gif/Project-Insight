@@ -1,5 +1,331 @@
 [
   {
+    "id": 2214,
+    "source_name": "投影時代",
+    "title_zh": "工程案例：光峰科技工程投影機落地中國國家博物館三場重量級展覽",
+    "summary_zh": "光峰科技工程投影機近期再度應用於中國國家博物館，參與三大主題展覽的數位光影展項建設。在巴西藝術家波爾蒂納里特展中，採用8台光峰S Smart 4K工程投影機打造沉浸式環幕投影；在《聊斋图说》文獻展中，部署5台光峰D Pro與F系列工程投影機建構多樣化紗幕投影；而在長征勝利90週年紀念展中，則運用5台光峰D Pro工程投影機呈現三折幕與牆面互動投影，透過多元顯示技術展現沉浸式觀展體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/262856315357.shtml",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "光峰科技",
+      "工程投影機",
+      "中國國家博物館",
+      "環幕投影",
+      "紗幕投影",
+      "互動投影"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2206,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找預算600美元以下、支援智慧家庭自動化開機的特效投影機討論",
+    "summary_zh": "一名用戶在Reddit發文尋找適合在迪士尼主題客房使用的特效投影機，預算在600美元以下。主要需求包含投射距離約11英尺、投射比約1.4至1.5，用來在樂高城堡背景牆上投射煙火特效。核心技術需求為必須能透過Home Assistant智慧家庭系統自動開機，支援直接通電開機（Direct Power On）、HDMI-CEC喚醒或網路喚醒功能，搭配Raspberry Pi Zero 2 W作為訊號源。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7o87v/small_projector_for_a_fireworks_over_a_lego/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "特效投影機",
+      "Home Assistant",
+      "投射比",
+      "自動開機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2202,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三星 The Freestyle 第一代投影機綠屏與光源維修求助",
+    "summary_zh": "一名 Reddit 用戶發文求助，表示其獲得的三星 The Freestyle 第一代微型投影機出現畫面變綠且亮度減弱的故障。官方報價高達 4000 維修費，比買新機還貴。用戶嘗試自行檢測電路板但無法找出問題，尋求社群是否有更換 LED 或光機零件的維修建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7x3d2/projetor_samsung_free_style/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "Samsung",
+      "The Freestyle",
+      "微型投影機",
+      "投影機維修",
+      "光機故障"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2201,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用極米Aura系列投影機進行商業演出是否可行？",
+    "summary_zh": "一名身兼VJ與DJ的用戶在Reddit社群發文詢問，考慮使用極米Aura系列超短焦投影機來進行行動式的視覺內容展示與商業演出是否合適，並向社群尋求專業建議與可行性評估。這反映出部分影音工作者嘗試將消費級或家用旗艦投影機應用於可攜式商用與展演場景的趨勢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7ybri/am_i_stupid_for_thinking_about_using_the_aura/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "極米",
+      "Aura",
+      "超短焦投影機",
+      "VJ",
+      "商業演出"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2200,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何設定 Murango 投影機進行手機與電腦的投影？",
+    "summary_zh": "有一位 Reddit 用戶在討論區發文求助，詢問如何將 Murango 投影機與各種電子設備（包含電視、筆記型電腦與桌上型電腦）進行連接，並使用 Chromecast 投影或螢幕鏡像功能進行投放。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x80zv9/projector/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "Murango",
+      "投影機設定",
+      "Chromecast",
+      "鏡像投放"
+    ],
+    "mentioned_brands": [
+      "Murango"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2217,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "當貝發布美國市場平價投影機選購指南與型號對比",
+    "summary_zh": "當貝官方針對美國市場發布平價投影機選購指南，聚焦500美元以下的1080p LED/LCD機型，並列出具體型號對比。文章納入了NexiGo PJ40 Pro（約400美元）、TCL C1（約250美元）以及當貝自身的N3 Max（約450美元、具備一體式雲台與較高ISO亮度）。指南強調平衡總成本、室內環境與串流需求，並對比製造商宣稱數據與獨立評測。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/best-budget-projectors-compare-your-options-before-you-buy",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "平價投影機",
+      "美國市場",
+      "Dangbei N3 Max",
+      "NexiGo PJ40 Pro",
+      "TCL C1"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "NexiGo",
+      "TCL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2215,
+    "source_name": "DigiTimes",
+    "title_zh": "三星與SK海力士擬以zHBM與HBF緩解AI記憶體瓶頸",
+    "summary_zh": "三星電子與SK海力士正積極開發zHBM與HBF等新型記憶體技術，旨在解決人工智慧運算市場所面臨的資料容量與頻寬瓶頸問題，以滿足下一代高效能運算的需求。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "zHBM",
+      "HBF",
+      "AI記憶體",
+      "三星",
+      "SK海力士"
+    ],
+    "mentioned_brands": [
+      "Samsung",
+      "SK Hynix"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2213,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "嚴重沮喪：Toptro X9 Pro 投影機無法正常使用 Prime 影音",
+    "summary_zh": "用戶在 Reddit 發文求助，表示使用 Toptro X9 Pro 投影機時，透過內建應用程式無法順利觀看 Prime 影音，系統會導向手機或電腦；若改用內建瀏覽器播放影片則會導致投影機當機，反映出平價智慧投影機在串流軟體相容性與系統穩定度上的常見痛點。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x77zo3/seriously_frustrated/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "Toptro X9 Pro",
+      "智慧投影機",
+      "串流影音",
+      "當機",
+      "用戶求助"
+    ],
+    "mentioned_brands": [
+      "Toptro"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2212,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明基 TH575i 印度買家保固期限疑問：究竟是兩年還是三年？",
+    "summary_zh": "印度明基投影機 TH575i 的消費者在網路上詢問保固期限的矛盾現象。根據電商平台 Flipkart 上的商品資訊顯示該機型提供兩年保固，然而明基印度官方客服人員卻告知此款投影機實際享有三年保固，引發購買者的疑惑，尋求其他印度買家的實際經驗以確認正確的售後服務期限。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x79u08/benq_th575i_buyers_in_india_did_you_get_a_2year/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "BenQ",
+      "TH575i",
+      "保固",
+      "印度市場",
+      "Flipkart"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Flipkart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2211,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機投射牆面出現黑圈問題求助",
+    "summary_zh": "Reddit論壇用戶發文求助，表示其使用Vankyo品牌的首款投影機時，投射到牆面上出現了異常的暗色圓環，希望獲得其他用戶的排查建議與解決幫助。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7ael3/dark_ring_in_my_wall_from_projector/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "投影機故障",
+      "黑圈",
+      "Vankyo"
+    ],
+    "mentioned_brands": [
+      "Vankyo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2210,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三星 The Freestyle 投影機真偽辨識請益",
+    "summary_zh": "有用戶在 Reddit 討論區發文，上傳圖片詢問三星 The Freestyle 攜帶式投影機是否為正版原廠產品，尋求社群協助進行真偽辨識。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7c9r9/samsung_freestyle_legit_check/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "Samsung The Freestyle",
+      "投影機",
+      "真偽辨識"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2209,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH575i 投影機在 Flipkart 平台的優惠價格引發討論",
+    "summary_zh": "有 Reddit 用戶在 r/projectors 討論區發文，分享明基 BenQ TH575i 便攜式投影機在印度 Flipkart 電商平台上的驚人折扣。該款擁有 3800 流明亮度、內建單喇叭與遙控器的機種，折扣後的價格降至 46,000 印度盧比，由於優惠幅度極大，讓用戶直呼難以置信，並提及該商品並未享有平台官方的 fAssured 認證標章。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7dbds/the_offer_is_too_good_to_be_true/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "BenQ",
+      "TH575i",
+      "Flipkart",
+      "投影機",
+      "優惠價格"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Flipkart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2208,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH585 投影機維修與升級建議諮詢",
+    "summary_zh": "一名用戶在 Reddit 論壇詢問關於 BenQ TH585 投影機的維修與升級問題。該用戶表示獲贈一台 TH585，但使用時發現畫質顯得暗淡且色彩蒼白，且在環境光較強的空間下表現不佳。近期該機台出現電源指示燈閃爍紅燈後自動關機的現象，懷疑是燈泡壽命耗盡。用戶目前正評估該更換燈泡進行維修，還是直接升級至新款機型。此討論反映了消費者對於舊款入門級投影機在燈泡老化後的維護成本與畫質表現的疑慮，以及對該機型在明亮環境下實際性能的認知落差。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7hmjf/repair_or_upgrade_benq_th585/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "BenQ",
+      "TH585",
+      "投影機維修",
+      "燈泡壽命",
+      "畫質表現"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2207,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "遊戲主機投影機推薦詢問",
+    "summary_zh": "Reddit論壇用戶發文尋求適用於遊戲主機的投影機推薦，原文內容極短僅包含標題與基本連結，未提及具體型號、規格、預算或技術細節。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7i3bc/projector_for_console_recommendation/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "遊戲主機",
+      "投影機推薦",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2204,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手投影機選購求助：Epson 5020UB、Epson 2150 與 BenQ HT2050 比較",
+    "summary_zh": "一名Reddit用戶正考慮購買二手投影機，並在文中列出三款候選機型進行詢價與性價比評估：Epson 5020UB（售價430美元）、Epson 2150（售價約330美元）以及BenQ HT2050（售價435美元）。原預算為350美元，但願意視情況捏預算，同時也尋求其他同價位帶的優質二手投影機推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x7jhvh/i_think_ive_narrowed_it_down_to_3_options_would/",
+    "publish_date": "2026-10-16",
+    "keywords": [
+      "二手投影機",
+      "Epson 5020UB",
+      "Epson 2150",
+      "BenQ HT2050",
+      "性價比"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2185,
     "source_name": "投影時代",
     "title_zh": "2026年上半年中國家用投影市場分析：九連降背后的換擋與轉型",
