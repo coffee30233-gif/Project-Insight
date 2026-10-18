@@ -1,5 +1,303 @@
 [
   {
+    "id": 2241,
+    "source_name": "ZNDS投影頻道",
+    "title_zh": "租房投影儀推薦小光盒R1：免安裝白牆直投，1.18kg隨手拎走的大屏",
+    "summary_zh": "針對租房族群痛點，市場推出定價699元的小光盒R1投影儀。該機型具備620 CVIA高亮度與原生1080P解析度，搭載當貝OS無廣告系統及京东方屏幕。主打免安裝、白牆直投與1.18公斤的輕巧機身，強調不佔空間且不毀損牆面，成為租房族添購大畫面設備的高性價比新選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://news.znds.com/article/69658.html",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "小光盒R1",
+      "投影儀",
+      "租房投影",
+      "當貝OS",
+      "京東方"
+    ],
+    "mentioned_brands": [
+      "小光盒",
+      "當貝",
+      "京東方"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2227,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Strong MIRA1投影機評價請益",
+    "summary_zh": "有用戶在Reddit論壇詢問關於Strong MIRA1投影機的評價。使用者尋找預算在300歐元以下、適合戶外電影夜的平價機型，並受限於馬丁尼克當地的二手市場與網購運費問題，尋求社群對於該款投影機的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8o82y/strong_mira1/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "Strong MIRA1",
+      "戶外投影機",
+      "平價投影機"
+    ],
+    "mentioned_brands": [
+      "Strong"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2226,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Betec b920 投影機系統損壞求助",
+    "summary_zh": "Reddit 用戶發文求助，指出其擁有的 Betec b920 投影機發生系統損壞問題，開機時卡在 Android 圖標的無限讀取畫面，詢問是否有修復或恢復系統的方法。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8itf7/sistema_corrompido_betec_b920/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "Betec b920",
+      "系統損壞",
+      "Android系統",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Betec"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2225,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aura 3 Max 組合包發布討論",
+    "summary_zh": "Reddit 論壇用戶分享關於 Aura 3 Max 投影機組合包的最新發布消息，並針對其中的產品組合內容與選項發起討論，詢問社群成員的看法與使用心得。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8e32z/aura_3_max_bundles_released_thoughts/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "Aura 3 Max",
+      "組合包",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Aura"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2223,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：Fudoni gc888a 投影機電源轉接器選擇",
+    "summary_zh": "一名英國使用者購買了首台投影機 Fudoni gc888a，但隨附的是美國兩腳插頭。由於該投影機規格為 80 瓦、240 伏特，而英國市電為 230 伏特，發文詢問適合且安全的電源轉接器建議，以避免電器受損。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8lqz5/help_with_adaptor/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "Fudoni gc888a",
+      "電源轉接器",
+      "規格",
+      "英國插頭"
+    ],
+    "mentioned_brands": [
+      "Fudoni"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2222,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手架設 150 吋超短焦投影機、電動布幕與 Dolby Atmos 音效之常見問題與規劃討論",
+    "summary_zh": "本文為 Reddit 投影機論壇上一位新手用戶針對 150 吋以上超短焦投影機架設、電動布幕搭配以及 Dolby Atmos 音效配置的請益討論。文中提及預算約 6,000 美元，目標為 4K 60fps 與環繞音效，並點名討論了 XGIMI AURA 3 投影機的性價比。討論範圍涵蓋超短焦平整度需求、無線傳輸可行性、張拉抗光幕選擇、音響擺位及牆面風口干擾等實際安裝痛點。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8muys/first_projector_setup_questions_150_in_ust/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "電動布幕",
+      "Dolby Atmos",
+      "XGIMI AURA 3",
+      "4K投影"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2221,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Ak700ST的投影畫面尺寸討論",
+    "summary_zh": "Reddit論壇用戶針對特定型號投影機Ak700ST發起關於投影畫面尺寸的詢問與討論，主要涉及設備的投射距離與實際成像大小，屬於消費者的個人使用心得與安裝設定諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8r2uo/screen_size_with_ak700st/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "Ak700ST",
+      "投影尺寸",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2219,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "中國市場推出全新 RS 30 系列旗艦投影機，主打高階規格與高性價比",
+    "summary_zh": "中國市場近期推出全新 RS 30 旗艦系列投影機，被視為 Horizon 30 的同級對手。該系列在中國本地的發表售價約為 7,199 人民幣（約 1,010 美元），具備極高的性價比。官方公布的主要規格包含 4,500 CVIA 亮度、8,000:1 順序對比度、雙片式 DynaEye 連續可調光圈，並支援 4K UHD 解析度與 120Hz 更新率。核心硬體採用聯發科 MediaTek MT9681 處理器，搭配 QuaLas42 RGB 三色雷射光源系統與 X-Vision 影像處理技術。光學方面則提供 1.2 至 1.5:1 的光學變焦投射比，以及垂直 130% 與水平 50% 的鏡頭位移功能，吸引海外消費者透過跨境管道尋求入手。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8je7q/looks_like_china_just_released_their_horizon_30/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "RS 30系列",
+      "Horizon 30",
+      "4K投影機",
+      "三色雷射",
+      "CVIA亮度",
+      "聯發科MT9681"
+    ],
+    "mentioned_brands": [
+      "MediaTek",
+      "QuaLas42"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2237,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "消費者分享在Flipkart向高風險賣家購買BenQ TH575i投影機的驗貨與防詐計畫",
+    "summary_zh": "一名消費者在Reddit論壇分享其於印度電商平台Flipkart以4.6萬盧比（約485美元）向評價風險較高的賣家購買BenQ TH575i投影機後的詳細驗貨計畫。文中列出八大步驟，包含事先與外送員溝通並提供小費以爭取驗貨時間、檢查外箱製造日期與序號、上官網驗證保固、比對開箱影片中的隨附Google TV棒與配件、開機檢查燈泡時數與序號是否一致、全程錄影存證，甚至準備好若有疑慮將送至加爾各答的BenQ授權服務中心進行專業真偽鑑定，藉此防範網購詐欺風險。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x82idk/ive_ordered_benq_th575i_from_a_risky_seller_on/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "BenQ",
+      "TH575i",
+      "Flipkart",
+      "投影機驗貨",
+      "網購防詐"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Flipkart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2234,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "針對遊戲應用的透聲幕文字清晰度討論",
+    "summary_zh": "Reddit論壇用戶發起討論，關注投影機在各種透聲幕布（Acoustic screens）上的遊戲文字清晰度表現，並尋求社群成員提供實際使用照片以供參考。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x87jh5/for_gaming_specifically_interested_in/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "透聲幕",
+      "遊戲應用",
+      "文字清晰度",
+      "投影幕"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2231,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合觀看電影的平價投影機請益",
+    "summary_zh": "有用戶在 Reddit 討論區發文尋找適合白牆投影、預算有限的平價電影投影機，並詢問價格皆為 100 歐元的二手 Philips NeoPix 250 與 Wando T6 Max 兩款機型該如何選擇。文中提到 Wando T6 Max 額外需要購買電視棒才能觀看 HBO 等串流影音，同時也需要尋找合適的支架來固定設備。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8bgf9/cheap_projector_for_movie_nights/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "Philips NeoPix 250",
+      "Wando T6 Max",
+      "平價投影機",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "Philips",
+      "Wando"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2230,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "VAVA Chroma 投影機故障維修請益",
+    "summary_zh": "有用戶在 Reddit 討論區發文尋求協助，表示有機會以低價購入一台 VAVA Chroma 雷射投影機，但從賣家提供的影片截圖判斷，畫面異常極有可能是 DLP 晶片損壞所致。原發文者詢問社群成員，更換 DLP 晶片是否能有效解決此影像異常問題，或是可能存在其他更深層的硬體故障。此討論反映出高階雷射電視在過保或二手市場上的常見維修評估與硬體故障排查情況。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8cbh5/vava_chroma_repair/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "VAVA Chroma",
+      "DLP晶片",
+      "投影機維修",
+      "硬體故障"
+    ],
+    "mentioned_brands": [
+      "VAVA"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2229,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "教師尋找預算500美元內短焦投影機的選購諮詢",
+    "summary_zh": "一名教師在Reddit論壇發文尋求教學用投影機推薦。需求包括預算在500美元以內、具備抗環境光的亮度、適合狹窄空間的短焦投影能力，以及便於頻繁移動與快速設定免校正的功能。此討論反映出教育市場對平價、便攜且高效能短焦投影機的實際應用需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x89ywi/best_projector_for_a_teacher/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "投影機推薦",
+      "短焦投影機",
+      "教育市場",
+      "預算500美元"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2220,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米XGIMI AURA 3 Max 4K 120Hz超短焦投影機的真實評價與討論",
+    "summary_zh": "Reddit論壇用戶發文探討極米（XGIMI）最新推出的AURA 3 Max超短焦（UST）投影機，規格主打4K解析度與120Hz更新率，引起社群成員對於其實際性能表現與市場宣傳熱度的真實討論與評價。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x888jq/honest_thoughts_on_the_xgimi_aura_3_max_ust/",
+    "publish_date": "2026-10-17",
+    "keywords": [
+      "XGIMI",
+      "AURA 3 Max",
+      "UST projector",
+      "4K 120Hz",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2214,
     "source_name": "投影時代",
     "title_zh": "工程案例：光峰科技工程投影機落地中國國家博物館三場重量級展覽",
@@ -27046,6 +27344,28 @@
     "link_status": "ok"
   },
   {
+    "id": 2240,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-P630HZ 特價促銷歡迎來電諮詢",
+    "summary_zh": "索尼 VPL-P630HZ 投影機近日於北京商家「北京合眾聯鑫」展開特價促銷活動，實際價格採面議方式。該款投影機具備 WUXGA 解析度、7000 流明中心亮度以及鏡頭位移等產品亮點，有意入手的消費者可直接前往位於北京市海澱區中關村的商家店面洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1207/12077093.html",
+    "publish_date": "2026-06-30",
+    "keywords": [
+      "索尼",
+      "VPL-P630HZ",
+      "投影機",
+      "特價促銷",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ],
+    "link_status": null
+  },
+  {
     "id": 944,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-F540HZ 投影機經銷商特價促銷",
@@ -28340,6 +28660,29 @@
       "Vidda"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2239,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-WX3401辦公投影機特價促銷2999元",
+    "summary_zh": "松下PT-WX3401辦公投影機近日在商家「易仁科技」展開特價促銷活動，優惠價格為2999元人民幣。該機型具備雙HDMI等完整接口配置，適合作為辦公投影優選。商家地址位於北京市海淀區知春路111號理想大廈，提供實地諮詢服務。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1192/11923168.html",
+    "publish_date": "2026-06-03",
+    "keywords": [
+      "松下",
+      "PT-WX3401",
+      "辦公投影機",
+      "促銷價",
+      "雙HDMI"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
   },
   {
     "id": 1102,
