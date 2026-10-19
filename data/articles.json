@@ -1,5 +1,243 @@
 [
   {
+    "id": 2252,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "小米L1投影機韌體更新後網頁端無法播放1080p影片求助",
+    "summary_zh": "一名用戶在Reddit發文求助，指出其購買八個月的小米L1投影機在進行系統更新後出現異常。雖然透過Amazon、YouTube與Netflix等串流應用程式仍可正常開啟1080p影片，但透過瀏覽器播放時卻無法正常運作。用戶嘗試多種方法未果，送修後維修中心亦判定符合原廠標準並退回，因而發文詢問解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9a2ov/xiaomi_l1_projector_doesnt_work_on_1080_p_videos/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "小米L1投影機",
+      "韌體更新",
+      "1080p影片",
+      "瀏覽器播放異常"
+    ],
+    "mentioned_brands": [
+      "小米",
+      "Xiaomi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2250,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "灰色布幕與編織布幕之影像畫質比較與使用者討論",
+    "summary_zh": "有用戶發文討論搭配 Titan noir pro 投影機與 Silver Ticket 灰色布幕時，在觀看部分內容會出現明顯的 RGB 散斑（speckle）現象，但在 4K 新片表現滿意。為了解決此問題，使用者正考慮更換為編織布幕（如 Silver Ticket WAB 或 WVS 系列），但對於編織布幕可能帶來的銳利度下降與畫質差異感到猶豫，尋求社群建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9de64/grey_vs_woven_screen_image_quality/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "投影幕",
+      "灰色布幕",
+      "編織布幕",
+      "RGB散斑",
+      "畫質"
+    ],
+    "mentioned_brands": [
+      "Titan",
+      "Silver Ticket"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2249,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求購買建議：適合白天與客廳、預算加幣2000元以下的投影機以取代電視",
+    "summary_zh": "一名Reddit用戶因不想讓兩歲小孩過度接觸電視，決定將電視撤下，並計劃改用投影機與電動升降布幕方案。其安裝空間可容納約71吋寬的布幕，投影距離約13至14呎，可放置於層架或吊掛天花板，預算希望控制在加幣2000元以下，因此在討論區發文尋求適合客廳與白天的投影機選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9f440/buying_advice_wanted_daytimeliving_room_projector/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "客廳投影機",
+      "購買建議",
+      "電動布幕",
+      "預算",
+      "家用投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2247,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony VPL-VW600ES二手投影機升級諮詢",
+    "summary_zh": "Reddit論壇用戶發文詢問，若將使用六年的Optoma UHD50投影機，更換為售價800美元的二手Sony VPL-VW600ES（原文筆誤為vx600es），是否能獲得顯著的畫質升級？抑或是應該考慮價格更高的高階中國品牌投影機。此討論反映出消費者在選購二手高階投影機與新興品牌時的權衡考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9j0bi/sony_vpl_vx600es/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "Sony VPL-VW600ES",
+      "Optoma UHD50",
+      "二手投影機",
+      "升級"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2246,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Aura 3 與 Horizon 30 投影機比較討論",
+    "summary_zh": "有消費者在 Reddit 論壇發文詢問極米旗下的 XGIMI Aura 3 與 Horizon 30 兩款投影機在畫質與規格上的差異，並提及 Aura 3 的預購優惠方案在社群中討論度極高，而 Horizon 30 的相關討論相對較少。這反映出消費者對於極米超短焦與標準長焦機種的規格定位與實際表現抱持高度關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9lcda/xgimi_aura_3_vs_horizon_30/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "XGIMI",
+      "Aura 3",
+      "Horizon 30",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2245,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 GT2000HDR 投影機出現無色彩與畫面偏綠問題求助",
+    "summary_zh": "有用戶在Amazon轉售平台購入Optoma GT2000HDR投影機後，發現機器出現畫面亮度極低且全部顯示為綠色調的問題。由於畫面過暗且呈現倒置狀態，導致設定選單無法讀取，發文求助是否為操作設定問題或節能模式所致，並考慮在30天退貨期限內辦理退貨。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9n6th/optoma_gt2000hdr_no_color/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "Optoma",
+      "GT2000HDR",
+      "故障排查",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Amazon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2244,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "這是什麼MVC 3D？",
+    "summary_zh": "一名Reddit用戶發文求助，表示他將投影機連接Android電視盒後，內建播放器雖然提供多種2D與3D顯示模式選項，但實際操作時卻無法正常運作，詢問關於MVC 3D格式的相關設定與使用問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9ju7d/what_is_this_mvc_3d/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "MVC 3D",
+      "Android box",
+      "投影機",
+      "3D模式"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2256,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L520U投影機北京促銷價12000元",
+    "summary_zh": "愛普生CB-L520U投影機近日在北京經銷商「偉業投影」展開特價促銷活動，優惠售價為人民幣12000元。商家地址位於海淀區海淀19-1號中成大廈7層，提供給有採購需求的消費者參考諮詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1261/12613924.html",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "愛普生",
+      "CB-L520U",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2254,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson QS100 對比極米 Aura 3 Max 投影機選購討論",
+    "summary_zh": "一名 Reddit 用戶發文詢問是否值得將現有的 Epson QS100 投影機升級更換為即將推出的極米 Aura 3 Max。該用戶目前搭配 CLR3 抗光幕使用，主要觀看暗色調的驚悚或恐怖電影，同時也有高度的遊戲需求，因此在 3LCD 技術與新款投影機之間尋求社群建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9039m/epson_qs100_vs_xgimi_aura_3_max/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "Epson QS100",
+      "Xgimi Aura 3 Max",
+      "3LCD",
+      "CLR3幕",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2253,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "詢問特定投影機投射比計算網站的準確度經驗",
+    "summary_zh": "一名Reddit用戶在r/projectors板上發文詢問關於Spykevision網站所提供的XGIMI Aura 3超短焦投影機投射比計算數據是否準確。由於安裝空間相當緊湊，且用戶希望保留現有的電視櫃，因而尋求其他網友對於該計算工具的實際使用經驗與準確度回饋。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x91ehs/experience_with_this_throw_calculation_website/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "投影機",
+      "投射比",
+      "計算工具",
+      "極短焦",
+      "XGIMI Aura 3"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Spykevision"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2248,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "DIY 220度馬蹄形飛行模擬器投影幕與投影機材質求助",
+    "summary_zh": "有用戶在Reddit論壇發文尋求協助，計劃自行DIY製作一個220度馬蹄形環形投影幕，用於飛行模擬器設置，以替代價格高達16,000美元的Sim on Solution專業成品。發文者正在尋找合適的螢幕結構材料、採購管道，並詢問該商業套件所使用的三台4K UHD投影機型號，希望獲得社群建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x8wkxa/diy_220_horseshoe_screen_for_flight_simulator/",
+    "publish_date": "2026-10-18",
+    "keywords": [
+      "DIY投影幕",
+      "飛行模擬器",
+      "220度環形幕",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "Sim on Solution"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2241,
     "source_name": "ZNDS投影頻道",
     "title_zh": "租房投影儀推薦小光盒R1：免安裝白牆直投，1.18kg隨手拎走的大屏",
@@ -27653,6 +27891,27 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2255,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CH-TZ3000投影機特價促銷中",
+    "summary_zh": "愛普生CH-TZ3000投影機近日於北京商家「北京合眾聯鑫」展開特價促銷活動，價格採面議方式。有興趣的消費者可前往北京市海澱區中關村中科大廈9層進行現場諮詢，掌握詳細的優惠資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1204/12043531.html",
+    "publish_date": "2026-06-24",
+    "keywords": [
+      "愛普生",
+      "CH-TZ3000",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
   },
   {
     "id": 1399,
