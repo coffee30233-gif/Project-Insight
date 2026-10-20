@@ -1,5 +1,278 @@
 [
   {
+    "id": 2278,
+    "source_name": "DigiTimes",
+    "title_zh": "研究：南韓、台灣、新加坡再生能源瓶頸，拖慢記憶體晶片商RE100進展",
+    "summary_zh": "根據研究指出，南韓、台灣與新加坡等地區在再生能源的取得上面臨瓶頸，導致當地記憶體晶片製造商在實現RE100（100%使用綠電）的進度上有所放緩。這反映了半導體與記憶體上游供應鏈在淨零碳排與綠電供應匹配上的實際挑戰，可能間接影響相關電子零組件的生產成本與永續指標。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261019PD237/renewable-energy-electricity-re100-taiwan-manufacturing.html",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "RE100",
+      "再生能源",
+      "記憶體晶片",
+      "南韓",
+      "台灣",
+      "新加坡",
+      "半導體供應鏈"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2276,
+    "source_name": "DigiTimes",
+    "title_zh": "AI基板瓶頸從設計轉向製造",
+    "summary_zh": "DIGITIMES報導指出，AI基板的瓶頸正從設計階段轉移至製造與封裝產能，這反映出高階加速器晶片在製造端面臨的挑戰。文章探討了相關基板與封裝產能的最新動態，但內容主要聚焦於人工智慧加速器晶片與高階封裝基板的供應鏈狀況，並未直接提及投影機產業或相關光學零組件。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261020PD226/substrate-packaging-manufacturing-accelerator-capacity.html",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "AI基板",
+      "封裝",
+      "製造瓶頸",
+      "加速器產能"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2272,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影距離與光學變焦的疑問",
+    "summary_zh": "一名用戶在Reddit論壇發文詢問關於投影機最大投射距離與光學變焦的運作方式。內文提及參考了Valerion pro投影機的安裝影片，探討最大投射距離是否有助於在最小亮度損失下獲得最佳對比度。用戶對於如何透過光學變焦功能在較遠距離投射出100吋畫面，以及變焦與梯形校正對畫質的影響提出疑問與討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xa2l0n/throw_distance/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "投射距離",
+      "光學變焦",
+      "Valerion pro",
+      "對比度",
+      "亮度損失"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2270,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Philips NeoPix 150 (NPX150) 投影機維修與拆解求助",
+    "summary_zh": "有用戶在 Reddit 發文求助關於 Philips NeoPix 150 (NPX150) 投影機的故障排除與拆解經驗。該機器插電後完全無過電跡象，用戶已嘗試更換電源線與插座、以及長按電源鍵十秒等組合重啟方式均無效。由於外觀無明顯螺絲，推測機身由卡榫緊密固定，尋求拆機維修建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xa3ou8/philips_neopix_150_projector_npx150/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "Philips",
+      "NeoPix 150",
+      "NPX150",
+      "故障排除",
+      "投影機維修"
+    ],
+    "mentioned_brands": [
+      "Philips"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2269,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合角落投影且預算在400至500歐元內的平價投影機推薦",
+    "summary_zh": "一名Reddit用戶在r/projectors板上發文尋求協助，希望能找到能在客廳角落進行斜向投影、投射距離超過三公尺且預算在400至500歐元之間的平價電影投影機。該用戶的主要需求包括連接藍光播放器、支援手機與筆電無線投屏，並希望能在遮光良好的環境下觀賞電影。由於市面上符合角落投影與預算限制的機型較少，因此發文向社群徵求實際產品推薦與解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xa3tlt/the_best_budget_friendly_projectors_that_can/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "投影機推薦",
+      "預算型投影機",
+      "角落投影",
+      "家用投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2267,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "PX3-PRO 投影機角落對焦模糊問題討論",
+    "summary_zh": "使用者反映新購入的投影機出現左上角對焦不清晰、與其他角落對比有落差的問題，並詢問其他擁有者透過更換新機是否能解決此狀況，或是此為通病。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xa6zhq/px3_tuk_corner_sharpness/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "PX3",
+      "對焦",
+      "畫質",
+      "投影機瑕疵"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2263,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機的透鏡式抗光幕安裝角度與微結構探討",
+    "summary_zh": "Reddit論壇用戶針對超短焦投影機搭配的固定式透鏡抗光幕（ALR screen）提出技術疑問。討論聚焦於鋸齒狀微結構如何反射投影機光源並吸收環境光，同時探討因不同超短焦機型（如極米Xgimi Aura 3）的投射距離與入射角差異，為何市面上的抗光幕多數未明確標示適用的投影機型號或角度限制，推測可能與微結構設計容許一定角度範圍有關。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xa3dip/lenticular_alr_screen_angle_for_ust_projectors/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "ALR screen",
+      "UST projector",
+      "lenticular screen",
+      "抗光幕",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2261,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機觀賞距離與尺寸推薦詢問",
+    "summary_zh": "一名Reddit用戶在r/projectors發文詢問關於超短焦投影機與電動布幕的尺寸選擇。使用者計劃在客廳安裝，投影機放置在廚房牆側，沙發位於車庫牆側，猶豫應選擇100吋還是120吋，擔心120吋對於觀賞距離而言可能過大，因而向社群徵求建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xafahu/ust_viewing_distance_recommendation/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "投影布幕",
+      "觀賞距離",
+      "投影尺寸"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2257,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI AURA 3 投影機抽獎活動正在 ProjectorScreen.com 舉辦",
+    "summary_zh": "通路商 ProjectorScreen.com 的代表 Brian 在 Reddit 討論板發文宣布，目前正在舉辦極米 XGIMI AURA 3 投影機的免費贈送抽獎活動。詳細的參與規則、活動期限與辦法已公布於指定的活動網頁上，並開放網友在討論串中提問互動。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xa9v7j/xgimi_aura_3_giveaway_going_on_over/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "XGIMI",
+      "AURA 3",
+      "ProjectorScreen.com",
+      "抽獎活動",
+      "雷射電視"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "ProjectorScreen.com"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2275,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手BenQ W1070投影機售價200歐元是否划算？",
+    "summary_zh": "有消費者在論壇詢問購買二手BenQ W1070投影機的評價，該機器售價200歐元，燈泡使用時數僅300小時，外觀狀況良好，主要用於客廳觀看電影與遊玩電子遊戲。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9pwif/benq_w1070_at_200/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "BenQ W1070",
+      "二手投影機",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2273,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "英國輕巧便攜內建電池短焦投影機推薦詢問",
+    "summary_zh": "英國用戶在Reddit發文尋求輕量、便攜且內建充電電池的短焦投影機推薦，主要用於簡報、測驗與偶爾的家庭娛樂。要求重量低於3公斤、具備一定亮度與清晰畫質，並支援HDMI連接筆電。考量品牌包含Epson、XGIMI與Anker Nebula，同時也接受翻新機或二手高CP值舊機，目前正尋求實際使用經驗與性價比高的口袋名單。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9sm03/recommendations_for_a_lightweight_portable/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "短焦投影機",
+      "便攜投影機",
+      "內建電池",
+      "英國市場"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "XGIMI",
+      "Anker Nebula"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2264,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Xy screens SoundMax 4K 投影幕出現波紋問題",
+    "summary_zh": "有用戶在 Reddit 論壇發文反映，其新組裝的 Xy screens SoundMax 4K 投影幕在單側及大半區域出現永久性波紋。該用戶已嘗試拆卸重組三次並調整彈簧位置，但波紋仍無法消除，因此上網詢問是否能透過熨燙或熱風槍解決，或是屬於產品瑕疵。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9zp3h/xy_screens_soundmax_4k_ripples_in_screen/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "投影幕",
+      "SoundMax 4K",
+      "Xy screens",
+      "螢幕波紋"
+    ],
+    "mentioned_brands": [
+      "Xy screens"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2262,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找桌面升降式投影機支架而非天花板下降式",
+    "summary_zh": "有用戶在網路論壇發文尋找一款電動升降架，能將其奧圖碼（Optoma）UHZ66投影機從桌面向上提升約50公分（20吋）。由於市面上多數為天花板吊隱式下降支架，該用戶正尋求將天花板支架倒置使用或尋找適合的桌面升降替代方案與經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1x9u1hf/looking_for_a_projector_lift_that_raises_from_a/",
+    "publish_date": "2026-10-19",
+    "keywords": [
+      "投影機升降架",
+      "電動升降",
+      "Optoma UHZ66",
+      "桌面安裝"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2252,
     "source_name": "Reddit r/projectors",
     "title_zh": "小米L1投影機韌體更新後網頁端無法播放1080p影片求助",
@@ -29292,6 +29565,27 @@
     "link_status": "ok"
   },
   {
+    "id": 2282,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-D72UB 投影機市場熱銷推出優惠促銷價",
+    "summary_zh": "易仁科技推出 YR-D72UB 投影機，近日於核心經銷商處展開特價促銷活動，優惠價為人民幣 349,000 元。該機型主打三大產品亮點，包含模組化雷射光源、HSG 色彩微調功能以及智慧控制開關機，憑藉其硬核性能在市場上獲得不錯的詢問度與口碑反應。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1187/11873148.html",
+    "publish_date": "2026-05-25",
+    "keywords": [
+      "YR-D72UB",
+      "易仁科技",
+      "雷射光源",
+      "HSG色彩微調"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1594,
     "source_name": "ZOL投影機頻道",
     "title_zh": "微果C1臥室投影機天貓特惠直降92元",
@@ -29992,6 +30286,29 @@
       "大眼橙"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2281,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L890U北京促銷熱賣",
+    "summary_zh": "愛普生CB-L890U投影機於北京通路展開特價促銷活動，價格採面議方式。該產品主打清晰影像畫質、雷射光源技術以及迅速開機等核心功能亮點，提供有採購需求的消費者參考，詳細方案可前往北京市昌平區的指定經銷商洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1179/11796679.html",
+    "publish_date": "2026-05-11",
+    "keywords": [
+      "愛普生",
+      "CB-L890U",
+      "雷射投影機",
+      "通路促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "丽讯",
+      "理光"
+    ],
+    "link_status": null
   },
   {
     "id": 2010,
