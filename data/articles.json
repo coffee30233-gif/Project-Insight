@@ -1,5 +1,457 @@
 [
   {
+    "id": 2309,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米在Kickstarter推出AURA 3 Max與Pro系列雷射電視，公布早鳥價格與多款套裝",
+    "summary_zh": "極米（XGIMI）於2026年10月20日在Kickstarter正式推出AURA 3系列超短焦雷射電視，包含AURA 3 Max與AURA 3 Pro兩款新機。該系列採用RGB三色雷射技術與雙動態光圈系統，亮度最高達5,700 ISO流明，原生對比度達8,000:1，並支援4K 120Hz、Google TV及杜比視界。在集資期間，AURA 3 Max早鳥價為2,399美元（建議售價4,999美元），Pro版為2,199美元（建議售價3,999美元），並提供多款抗光幕與升降櫃套裝組合，預計於2026年12月起陸續出貨。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/back-aura-30-series-on-kickstarter-price-bundle-faq",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "XGIMI",
+      "AURA 3 Max",
+      "AURA 3 Pro",
+      "Kickstarter",
+      "雷射電視",
+      "超短焦投影機",
+      "4K 120Hz",
+      "RGB三色雷射"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Kickstarter",
+      "Harman Kardon",
+      "Dolby"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2308,
+    "source_name": "IT之家",
+    "title_zh": "松下加速光伏建材商業進程，2029年4月量產玻璃型鈣鈦礦太陽能電池",
+    "summary_zh": "松下宣布將玻璃型鈣鈦礦太陽能電池的量產時間從2030財年提前至2029年4月。該公司已於今年9月開始銷售由大阪府守口市研發基地生產的先行量產型號，為滋賀縣長濱市的正式量產鋪路。此產品結合專有材料、噴墨塗層與激光加工技術，鎖定城市建築的窗戶與牆壁等空間，兼具發電效能與建材所需的透明度及設計自由度。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.ithome.com/1/015/789.htm",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "松下",
+      "鈣鈦礦太陽能電池",
+      "光伏建材",
+      "量產",
+      "玻璃型"
+    ],
+    "mentioned_brands": [
+      "Panasonic",
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2305,
+    "source_name": "投影時代",
+    "title_zh": "巴可投影機助力浙江省運會開幕式「禮城」立體舞台展現光影美學",
+    "summary_zh": "在浙江省運會開幕式中，導演團隊捨棄傳統LED屏，以巴可投影機打造立體「禮城」舞台。現場共採用161台巴可投影機，包含140台QDX-4K45負責立面與地面呈現，以及21台I600-4K15補充結構陰影，透過高達7至10層的畫面疊加技術，成功克服視差與光影融合挑戰。巴可QDX-4K45具備45,000 ISO流明亮度、Rec.709全色域與DuraOptix光學抗衰變技術，精準還原色彩並確保大型演出的穩定性，成為本次全投影方案的關鍵硬體支撐。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/312026405166.shtml",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "巴可",
+      "QDX-4K45",
+      "I600-4K15",
+      "工程投影機",
+      "浙江省運會",
+      "立體投影"
+    ],
+    "mentioned_brands": [
+      "巴可",
+      "Barco",
+      "華奧傳媒"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2299,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼Optoma HD142x用戶詢問應更換燈泡還是直接升級投影機",
+    "summary_zh": "一名Reddit用戶發文詢問關於Optoma HD142x投影機的升級建議。該機型燈泡已使用2790小時，安裝於地下室14英尺遠、投射123吋1.0增益幕布。用戶對畫質大致滿意，但覺得亮度不足，且希望運動畫面更流暢，預算上限為1000美元。考量投影技術未有劇烈變革，目前正評估僅更換燈泡或直接購買新機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xaw95t/upgrade_projector_or_just_bulb/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Optoma HD142x",
+      "燈泡更換",
+      "投影機升級",
+      "預算"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2298,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找支援 120Hz 刷新率的遊戲投影機",
+    "summary_zh": "Reddit 用戶發文尋找支援 120Hz 刷新率的遊戲投影機，解析度 1080p 即可，預算偏好在 500 美元以下，但可視情況提高。發文者表示在亞馬遜上搜尋時，發現許多產品規格未明確標示刷新率，因此上網尋求推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xawi0c/looking_for_a_120hz_gaming_projector/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "遊戲投影機",
+      "120Hz",
+      "1080p",
+      "預算"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2297,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "XGIMI Aura 3 Max 與 Titan Noir Max 旗艦投影機實測預告",
+    "summary_zh": "有消費者在 Reddit 討論區分享，自己成功以早期贊助者身分搶下全新 XGIMI Aura 3 Max 的預購，並計畫在今年 12 月產品出貨後，將其與現有的 Titan Noir Max 進行正面對決。測試場景將使用 135 吋 Silver Ticket 編織布幕，重點關注 XGIMI 宣稱能有效降低散斑的全新光機引擎表現。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xazraa/aura_3_max_backer_3_titan_noir_max_gets_a_sibling/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "XGIMI",
+      "Aura 3 Max",
+      "Titan Noir Max",
+      "雷射投影機",
+      "散斑"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Silver Ticket"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2296,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算600美元以下且可在Best Buy購買的最佳投影機推薦請益",
+    "summary_zh": "一名消費者計畫用投影機取代55吋電視，尋找預算在600美元以下、可在美國通路Best Buy購買的機型。需求包含支援1080p以上畫質與60fps遊戲體驗，並能在臥室（微光、8呎投射距離）與客廳（白天採光佳、6呎投射距離、需搭配捲軸布幕）之間移動使用。此貼文為論壇用戶的個人購買諮詢與使用情境討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb1o4x/best_option_under_600_available_at_best_buy/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Best Buy",
+      "家用投影機",
+      "購買諮詢",
+      "600美元以下"
+    ],
+    "mentioned_brands": [
+      "Best Buy"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2294,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用投影機縮放功能在2.4:1寬幕上維持垂直畫面高度的可行性探討",
+    "summary_zh": "有Reddit網友發文探討，若購買2.4:1的超寬投影幕，並透過調整投影機的縮放功能來維持垂直畫面高度，是否為可行的家庭劇院方案。具體做法是以廣角對應2.4:1比例內容，並在播放傳統16:9內容時手動放大畫面以填滿垂直高度，藉此提升電影院般的觀影沉浸感。文章主要在討論這種操作方式的實際執行可行性，以及每次切換影片比例時頻繁調整設定是否會造成操作上的困擾。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xax8p2/using_zoom_to_maintain_vertical_size/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "投影幕",
+      "縮放功能",
+      "2.4:1",
+      "16:9",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2293,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "飛利浦 NeoPix 550 用戶抱怨 Screeneo Innovation 售後與保固維修極差",
+    "summary_zh": "一名消費者在 Reddit 發文分享其購買飛利浦 Philips NeoPix 550 投影機的不良體驗。該設備因隨機自動關機而送修，代理商 Screeneo Innovation SA 在消費者尋求瑞士消費者保護組織協助後才同意承擔運費。然而投影機送回後問題依舊，且客服隨後相應不理，讓用戶求助無門，呼籲其他消費者在購買該品牌產品時三思。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xawg6m/terrible_experience_with_screeneo_innovation_sa/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Philips NeoPix 550",
+      "Screeneo Innovation SA",
+      "保固維修",
+      "售後服務"
+    ],
+    "mentioned_brands": [
+      "Philips",
+      "Screeneo Innovation SA"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2292,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找高階露營投影機的完美平衡：亮度、可攜性、電源與預算討論",
+    "summary_zh": "一名用戶在Reddit討論區尋找適合戶外露營的高階投影機，預算在1,000美元以內，需搭配120吋戶外布幕與外部1800W電池。文中探討了BenQ TH671ST的短焦與高亮度優勢，並比較了Anker Nebula系列及Samsung The Freestyle等可攜式機型，同時關注自動對焦、低延遲及HDMI HDCP相容性等露營實際需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb6471/best_of_all_worlds_for_a_premium_camp_projector/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "露營投影機",
+      "可攜式投影機",
+      "短焦投影",
+      "戶外投影",
+      "BenQ",
+      "Anker Nebula",
+      "Samsung Freestyle"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Anker",
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2290,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米Ascend地升抗光幕與Aura 3 Max投影機組合討論",
+    "summary_zh": "有消費者在Reddit論壇發文詢問極米推出包含Ascend地升式投影幕與Aura 3 Max超短焦雷射投影機的組合包價值。發文者指出客廳牆面受限於壁爐與落地窗，偏好可收納的地升幕以便平時擺放藝術品，並對內建雙聲霸的設計感興趣，因此向社群徵詢關於該升降抗光幕的實際使用評價與性價比。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb2o55/xgimi_ascend/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "極米",
+      "Xgimi",
+      "Aura 3 Max",
+      "Ascend",
+      "地升幕",
+      "ALR抗光幕"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2289,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Panasonic PT-RZ470 的最後韌體版本詢問",
+    "summary_zh": "Reddit 使用者詢問關於 Panasonic PT-RZ470 投影機的最後韌體版本資訊，屬於單一用戶的使用經驗與技術支援討論，未涉及重大產業數據、新品或供應鏈變動。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb9s53/last_firmware_for_panasonic_ptrz470/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Panasonic",
+      "PT-RZ470",
+      "韌體",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2285,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 AURA 3 Max 與 Ascend 抗光幕組合之聲道整合與規格提問",
+    "summary_zh": "網友在 Reddit 討論極米售價 4,999 美元的 AURA 3 Max 超短焦投影機與 120 吋 Ascend 升降布幕組合包。其關注焦點在於如何將內建 Harman Kardon 音響的投影機或布幕，與現有的 Denon AVR-X3700H 擴大機及 Dolby Atmos 環繞系統整合，並詢問是否能作為獨立中置聲道使用。同時，文中也針對 Ascend 布幕的詳細尺寸規格、連接埠與內建平台設計提出疑問，尋求官方解答。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb2v7g/aura_3_max_ascend_ust_center_channel_with_an_avr/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "AURA 3 Max",
+      "Ascend UST",
+      "極米",
+      "XGIMI",
+      "超短焦投影機",
+      "聲道整合",
+      "Harman Kardon"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Denon",
+      "Klipsch"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2284,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 AURA 3 超短焦投影機引發 Reddit 用戶討論與規格關注",
+    "summary_zh": "Reddit 論壇上有用戶發起討論，關注極米（XGIMI）最新推出的 AURA 3 系列超短焦投影機。討論內容聚焦於消費者在選購超短焦投影機時最在意的核心要素，包含亮度表現、遊戲效能、環境光下的畫質表現以及安裝設定，同時也探討是否需要搭配專用抗光幕（ALR screen）以提升觀影體驗。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbcz3j/anyone_considering_the_new_xgimi_aura_3_what_are/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "XGIMI",
+      "AURA 3",
+      "超短焦投影機",
+      "UST",
+      "ALR幕"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2283,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ HT3550 開箱直接投影至牆面的驚豔效果分享",
+    "summary_zh": "Reddit 用戶分享了 BenQ HT3550 投影機在未經調校、直接開箱投影至牆面上的實際畫面表現，並給予令人驚豔的高評價。這是一則來自消費者的單一使用心得與產品展示，並未涉及深入的產業數據、新技術或供應鏈動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb860g/ht3550_straight_out_of_the_box_projecting_onto_a/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "BenQ",
+      "HT3550",
+      "家用投影機",
+      "開箱心得"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2303,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Elfin Flip Plus 投影機實際體驗評價：畫質令人失望",
+    "summary_zh": "一名消費者分享了購入極米 XGIMI Elfin Flip Plus 投影機的真實負面體驗。他表示在正確且無遮蔽的臥室環境下，連續兩台機器都出現影像極度模糊且無法透過自動或手動對焦改善的問題。相較之下，他先前使用的三星 Samsung Freestyle Gen 1 在更差的擺放條件下投影效果依然清晰。目前該用戶已聯繫官方要求退貨，並考慮換回三星產品。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xappf0/am_i_crazy_or_is_the_xgimi_elfin_flip_plus/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "XGIMI",
+      "Elfin Flip Plus",
+      "Samsung Freestyle",
+      "投影機評價",
+      "畫質模糊"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2302,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：愛普生 Epson LS12000 與 Valerian Vision Master Max 投影機在明亮客廳環境下的選購抉擇",
+    "summary_zh": "一名英國用戶在 Reddit 發文尋求建議，猶豫是否該購買 Epson LS12000 或 Valerian Vision Master Max 投影機。使用環境為非全黑化的客廳，搭配 92 吋 1.0 增益電動幕與 5.2.4 音響系統。VM Max 在英國的售價約為 Epson LS12000 的 75%，可省下約 1000 英鎊，但面臨投射距離與無法實機試用的困擾，希望尋求有實際經驗者的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xapq0q/help_me_break_the_decision_stalemate_between_the/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "Epson LS12000",
+      "Valerian Vision Master Max",
+      "家用投影機",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Valerian",
+      "Sony",
+      "Yamaha",
+      "Monitor Audio"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2300,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人在灰幕上使用投影機並比白幕更喜歡嗎？",
+    "summary_zh": "本文為 Reddit 論壇使用者的討論貼文，主要探討投影機搭配灰色布幕與白色布幕的實際觀影體驗差異，並徵詢社群成員對於灰幕表現的真實感受與偏好。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xaljkj/did_anyone_use_their_projector_on_a_grey_screen/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "投影幕",
+      "灰幕",
+      "白幕",
+      "畫質對比"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2295,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 AURA 3 Max 未搭配投影幕之使用效果諮詢",
+    "summary_zh": "Reddit 用戶發文詢問考慮購買極米 XGIMI Aura 3 Max 超短焦雷射投影機，並在其中等環境光控制的房間內直接投射於帶有橘皮紋理的白牆上，探討在無抗光幕的情況下，畫質究竟會受到多大的折損與影響。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xakhhn/xgimi_aura_3_max_no_screen/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "XGIMI",
+      "Aura 3 Max",
+      "超短焦投影機",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2288,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何在購買投影機時決定預算？消費者的選購困惑與討論",
+    "summary_zh": "一名網友在Reddit發文詢問如何在黑色星期五前決定投影機預算，猶豫是否該花500美元還是拉高到1000美元的上限。文中提及關注N1S 4K這款輕巧機型，適合臥室與偶爾客廳使用，主要用於觀看電影與串流影音；同時也提到友人推薦體積較大、價格超出預算的Epson 5050UB。該討論反映出一般消費者在有限預算與追求畫質之間的權衡心態。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xalnan/how_do_you_figure_out_how_much_to_spend_on_a/",
+    "publish_date": "2026-10-20",
+    "keywords": [
+      "投影機預算",
+      "N1S 4K",
+      "Epson 5050UB",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2278,
     "source_name": "DigiTimes",
     "title_zh": "研究：南韓、台灣、新加坡再生能源瓶頸，拖慢記憶體晶片商RE100進展",
@@ -28571,6 +29023,29 @@
     "link_status": "ok"
   },
   {
+    "id": 2312,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-MU530 激光工程投影機中關村線上促銷報導",
+    "summary_zh": "光峰科技旗下的 AL-MU530 激光工程投影機近日於中關村線上展開特價促銷活動，由商家「格林德益」提供價格面議優惠。該款投影機主打激光光源技術，具備豐富的色彩表現與 4K 超清解析度，適合有高畫質工程投影需求的買家前往北京市海淀區中關村東路 66 號的實體店面洽詢選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1200/12004162.html",
+    "publish_date": "2026-06-17",
+    "keywords": [
+      "光峰",
+      "AL-MU530",
+      "激光投影機",
+      "工程投影機",
+      "中關村線上"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "格林德益"
+    ],
+    "link_status": null
+  },
+  {
     "id": 1613,
     "source_name": "ZOL投影機頻道",
     "title_zh": "明基MX560投影機北京促銷價3199元",
@@ -28790,6 +29265,27 @@
       "索尼"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2311,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 REV9178 家庭劇院投影機行情火爆促銷價 19999 元",
+    "summary_zh": "奧圖碼 REV9178 家庭劇院投影機近日在通路商易仁科技展開特價促銷，優惠價格為 19999 元人民幣。該機型定位於家庭影院市場，目前市場行情熱絡且供不應求。實體店面位於北京市海淀區知春路 111 號理想大廈，提供消費者前往現場諮詢與選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1199/11996224.html",
+    "publish_date": "2026-06-15",
+    "keywords": [
+      "奧圖碼",
+      "REV9178",
+      "家庭劇院投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "奧圖碼"
+    ],
+    "link_status": null
   },
   {
     "id": 1257,
@@ -29563,6 +30059,28 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2310,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-972 投影機北京特價促銷中",
+    "summary_zh": "愛普生（Epson）CB-972 投影機目前正於北京經銷商「北京合眾聯鑫」進行特價促銷活動，採價格面議方式銷售。商家位於北京市海淀區中關村中科大廈9層，提供有興趣的消費者前往現場或透過電話洽詢詳細優惠資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1185/11859642.html",
+    "publish_date": "2026-05-25",
+    "keywords": [
+      "愛普生",
+      "CB-972",
+      "投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 2282,
