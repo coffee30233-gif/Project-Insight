@@ -1,5 +1,633 @@
 [
   {
+    "id": 2346,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-E6U 北京特價 42000 元",
+    "summary_zh": "ROLY 投影機型號 RL-E6U 近日在北京經銷商「偉業投影」展開特價促銷活動，優惠價格為人民幣 42000 元。該產品主打超高亮度、高效實用與輕巧便攜等亮點特色。商家位於北京市海澱區海澱 19-1 號中成大廈，提供給有需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633682.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "ROLY",
+      "RL-E6U",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2345,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-A6U投影機北京特價促銷33000元",
+    "summary_zh": "根據中關村在線報導，ROLY RL-A6U投影機近日在北京經銷商「偉業投影」展開特價促銷活動，優惠售價為人民幣33000元。該款產品主打簡約造型、輕巧設計以及真實色彩表現，實體店面位於北京市海澱區海澱19-1號中成大廈，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633681.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "ROLY",
+      "RL-A6U",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2344,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-AC40LU 北京促銷價 12530 元",
+    "summary_zh": "根據中關村線上報導，索諾克（Sonnoc）SNP-AC40LU 投影機近日於北京經銷商「偉業投影」進行特價促銷，優惠售價為人民幣 12530 元。商家地址位於北京市海澱區中成大廈 7 層，提供有意購買的消費者前往現場洽詢相關優惠資訊。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633680.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "索諾克",
+      "SNP-AC40LU",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2343,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基 EH6834 投影機北京促銷價 6800 元",
+    "summary_zh": "明基 EH6834 智慧投影機近日在北京經銷商「偉業投影」展開特價促銷活動，優惠售價為人民幣 6800 元。該款產品主打豐富色彩、畫面清晰以及智慧省電等功能亮點。商家店面位於北京市海淀區海淀 19-1 號中成大廈，提供有興趣的消費者直接前往選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633679.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "明基",
+      "EH6834",
+      "投影機",
+      "促銷",
+      "價格"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2342,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L530U北京促銷價14000元",
+    "summary_zh": "愛普生CB-L530U投影機近日在北京經銷商「偉業投影」進行特價促銷，優惠價格為人民幣14000元。商家地址位於北京市海淀區海淀19-1號中成大厦7層，提供相關促銷資訊與實機詳詢，對於有採購需求的消費者提供了一項具吸引力的優惠選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633678.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "愛普生",
+      "CB-L530U",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "偉業投影"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2341,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L690U投影機北京促銷價21000元",
+    "summary_zh": "愛普生CB-L690U雷射投影機近日在北京經銷商「偉業投影」展開特價促銷，優惠售價為人民幣21000元。該款投影機主打恆定光輸出、迅速開機以及清晰的影像畫質等產品亮點，實體店家位於北京市海淀區海淀19-1號，提供有採購需求的消費者前往選購。",
+    "category": "市場數據",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633677.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "愛普生",
+      "CB-L690U",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2340,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BMZ62C投影機北京特價促銷12000元",
+    "summary_zh": "松下PT-BMZ62C投影機於北京通路「偉業投影」進行特價促銷活動，優惠價格為人民幣12000元。該機型主打輕鬆安裝、靈活適配以及節能環保等產品亮點，經銷商地址位於北京市海澱區海澱19-1號，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633676.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2339,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-LZ45C投影機北京特價促銷7000元",
+    "summary_zh": "松下PT-LZ45C投影機在北京地區的經銷商「偉業投影」進行特價促銷活動，優惠價格為人民幣7000元。該款投影機具備多項產品亮點，包含內建揚聲器、1.2倍變焦能力，以及支援WUXGA全高清解析度。有興趣的消費者可直接前往位於北京市海澱區海澱19-1的實體店面參觀選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12633675.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "松下",
+      "PT-LZ45C",
+      "投影機行情",
+      "促銷價格",
+      "WUXGA"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2335,
+    "source_name": "DigiTimes",
+    "title_zh": "欣興電子、星科金朋與緯創因應AI系統整合中的先進封裝瓶頸",
+    "summary_zh": "DIGITIMES報導指出，欣興電子、星科金朋與緯創等大廠針對AI系統整合過程中所面臨的先進封裝瓶頸進行探討與因應，涉及載板與面板級封裝等關鍵技術環節。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261021PD252/wistron-stats-chippac-unimicron-packaging-substrate-panel.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "先進封裝",
+      "欣興電子",
+      "星科金朋",
+      "緯創",
+      "AI系統整合"
+    ],
+    "mentioned_brands": [
+      "Unimicron",
+      "STATS ChipPAC",
+      "Wistron"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2334,
+    "source_name": "DigiTimes",
+    "title_zh": "中國IC設計商超越DDR5，擴展至AI伺服器記憶體互連領域",
+    "summary_zh": "根據DIGITIMES報導，中國的IC設計廠商正積極將業務版圖從傳統的DDR5記憶體，擴展至人工智慧（AI）伺服器所需的記憶體互連技術領域。此舉反映出當地半導體設計業者因應AI運算需求成長，正逐步提升高階晶片與資料傳輸技術的研發能量。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261022PD222/ddr5-growth-ic-profit-chips.html",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "IC設計",
+      "AI伺服器",
+      "記憶體互連",
+      "DDR5",
+      "半導體"
+    ],
+    "mentioned_brands": [
+      "Montage"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2333,
+    "source_name": "投影時代",
+    "title_zh": "極米一周三連擊：AURA 3眾籌破1500萬美元，跨足AI眼鏡與機器人",
+    "summary_zh": "極米科技近期動作頻繁，其新款AURA 3系列4K RGB激光電視在Kickstarter平台展開海外眾籌，僅23小時便募得超過1500萬美元，創下該平台最快紀錄。該系列包含Pro與Max兩款，採用三色激光光源，具備4K解像度與超短焦投射能力。除了投影本業，極米積極開拓第二曲線，不僅旗下AI眼鏡MemoMind One在國內開售並發表AI記憶手環，更於10月20日參股成立深圳马克先生科技有限公司，持股20%跨足智能機器人領域。在主業面臨壓力之際，極米正透過高端化、全球化策略以及多元AI穿戴與車載光學佈局，轉型為多場景智能硬件平台。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/322038149959.shtml",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "極米科技",
+      "AURA 3",
+      "激光電視",
+      "Kickstarter",
+      "眾籌",
+      "AI眼鏡",
+      "智慧機器人",
+      "第二曲線"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "MemoMind",
+      "問界",
+      "蔡司",
+      "哈曼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2326,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人能幫忙嗎？",
+    "summary_zh": "Reddit論壇用戶發文尋求協助，內文僅附上一張圖片連結，未提供具體的投影機型號、規格或技術問題等詳細資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbz2g3/can_anyone_help/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "Reddit",
+      "求助",
+      "用戶討論"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2323,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "LG HU80SW 投影機垂直條紋故障求助",
+    "summary_zh": "一名德國用戶在 Reddit 發文求助，其 LG HU80SW 投影機先前因主機板故障（藍畫面）更換了相容電視的主機板後，雖能正常開機運作，但畫面卻出現數像素寬的錯位垂直條紋。更換兩張主機板皆有此問題，目前尚未找到 DMD 驅動板的替換品，正尋求社群協助以釐清是否為 DMD 晶片故障或有其他解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbwuct/lg_hu80sw_vertical_stripes/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "LG HU80SW",
+      "垂直條紋",
+      "DMD晶片",
+      "主機板故障",
+      "維修"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2319,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "資深投影機迷感嘆市場走向廉價化與隨意使用",
+    "summary_zh": "一名自2000年起便熱愛投影機的資深玩家在Reddit論壇發文，感嘆早期由Barco、Sony和JVC主導的專業家庭劇院熱情逐漸消退。現今市場與社群多半追求極低價格，許多用戶甚至不使用專業銀幕。他認為與其購買容易過時的超短焦產品，不如入手使用時數低、已過保但性能良好的中古機種，並搭配高品質的Stewart銀幕進行正確校正，才能真正展現投影機觀賞電影的價值。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xc75xp/el_cheapo_all_the_way/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "家庭劇院",
+      "中古投影機",
+      "超短焦投影機",
+      "投影幕",
+      "玩家心得"
+    ],
+    "mentioned_brands": [
+      "Barco",
+      "Sony",
+      "JVC",
+      "Stewart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2317,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon Ultra 德國售價近期顯著上漲之討論",
+    "summary_zh": "有德國消費者在 Reddit 論壇發文詢問，極米（XGIMI）Horizon Ultra 投影機在德國的售價近期出現明顯漲幅。幾週前的入手價格約為 1,000 歐元，但目前能找到的最低售價已攀升至約 1,400 歐元。發文者同時探討該型號價格是否會回落，以及是否值得等待黑色星期五購物節以尋求更好的促銷優惠。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbyhzz/xgimi_horizon_ultra/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "XGIMI",
+      "Horizon Ultra",
+      "德國市場",
+      "零售價格",
+      "黑色星期五"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2316,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Elfin Flip 4K 投影機 DBLE 設定無法保持開啟之用戶疑問",
+    "summary_zh": "有用戶反映購入兩週的極米 XGIMI Elfin Flip 4K 投影機出現異常狀況。在韌體為最新版本且雷射亮度設定為10的情況下，將 DBLE 功能開啟，但每次重啟投影機後，DBLE 設定會自動關閉。用戶在 Reddit 發文詢問這究竟是軟體臭蟲還是原廠設計的預設功能，並尋求其他使用者是否有類似經驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xc49ig/elfin_flip_4k_dble_not_staying_on_bug_or_feature/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "XGIMI",
+      "Elfin Flip 4K",
+      "DBLE",
+      "投影機故障",
+      "韌體"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2315,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦抗光投影幕使用心得與選購請益",
+    "summary_zh": "有用戶在Reddit社群發文詢問關於超短焦抗光投影幕的使用經驗與評價。發文者提到自己最近入手了一台Elite MosicGo 3合1超短焦投影機，目前正在尋找適合的超短焦投影幕，並在網購平台上發現了相關產品，因此希望徵求其他使用者的實際心得與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xc1d8p/ust_alr_projector_screen_thoughts/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "UST",
+      "ALR screen",
+      "超短焦投影機",
+      "抗光幕",
+      "Elite MosicGo"
+    ],
+    "mentioned_brands": [
+      "Elite"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2313,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "詢問近期訂購 Iris 投影機的出貨與運送時間",
+    "summary_zh": "一名用戶在 Reddit 論壇發文詢問近期訂購 Iris 系列投影機的實際運送時間。由於該系列顯示本週出貨，原PO正在考慮下單，並在 Iris 與預計 11 月中旬出貨的 Horizon 30 之間做抉擇，希望能趕在下個月休假期間完成安裝，因此想了解近期下單是否已能取得追蹤號碼。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xc8t7h/anyone_ordered_an_iris_recently_how_long_did/",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "Iris",
+      "Horizon 30",
+      "投影機",
+      "出貨時間",
+      "預購"
+    ],
+    "mentioned_brands": [
+      "Iris",
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2337,
+    "source_name": "AV Network",
+    "title_zh": "Extron 為 AVoIP 引入單線 USB-C 連接技術",
+    "summary_zh": "Extron 宣佈將單線 USB-C 連接功能導入其 AVoIP 系統中，提供更簡便的影音訊號傳輸與設備整合方案，進一步提升專業影音與會議室環境的連接效率。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.avnetwork.com/products/connectivity-infrastructure/extron-brings-single-cable-usb-c-connectivity-to-avoip",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Extron",
+      "USB-C",
+      "AVoIP",
+      "影音傳輸"
+    ],
+    "mentioned_brands": [
+      "Extron"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2336,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技 AURA 3 Max 與 Pro 系列在 Kickstarter 展開群眾募資，公布價格與規格",
+    "summary_zh": "極米科技（XGIMI）於2026年10月20日在Kickstarter推出全新 AURA 3 系列超短焦雷射電視，包含 Max 與 Pro 兩款機型。AURA 3 Max 採用 RGB 三色雷射技術，具備高達 5,700 ISO 流明亮度、8,000:1 原生對比度，支援 4K 120Hz 遊戲更新率、Google TV 及雙動態光圈系統。Kickstarter 早鳥優惠價分別為：AURA 3 Max 售價 2,399 美元（建議售價 4,999 美元）、AURA 3 Pro 售價 2,199 美元（建議售價 3,999 美元），並提供多種抗光幕（ALR）組合與升降櫃配件，預計於 2026 年 12 月起陸續出貨。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/back-aura-3-series-on-kickstarter-price-bundle-faq",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "XGIMI",
+      "AURA 3 Max",
+      "AURA 3 Pro",
+      "雷射電視",
+      "超短焦投影機",
+      "Kickstarter",
+      "4K 120Hz"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Harman Kardon",
+      "Kickstarter"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2332,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Xgimi Aura Max 3與Hisense PX4超短焦投影機規格比較與價格探討",
+    "summary_zh": "Reddit論壇用戶發文探討升級超短焦投影機的選擇，在Xgimi Aura Max 3與Hisense PX4之間猶豫不決。用戶提到Hisense PX4報價為3150加幣，而Xgimi Aura Max 3透過群募早鳥優惠加完稅後會再貴200至300加幣。現有環境為地下室搭配Telon 120吋抗光幕，訊源包含Apple TV 4K與PS5 Pro，主要用於夜間觀賞電影，並重視eARC音訊回傳功能以對應Sonos音響系統。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xb8ajv/xigmi_aura_max_3_vs_hisense_px4/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Xgimi Aura Max 3",
+      "Hisense PX4",
+      "UST",
+      "超短焦投影機",
+      "ALR抗光幕"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Hisense",
+      "Optoma",
+      "AWOL Vision",
+      "Sonos"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2331,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "當貝 N3 max 投影機耳機輸出音量過低問題探討",
+    "summary_zh": "有使用者反映其使用的當貝 Dangbei N3 max 投影機在連接有線耳機輸出時，即使將音量調至 100% 仍顯得非常小聲，且部分藍牙音訊裝置也無法達到中等以上的音量，因此在論壇發文尋求其他用戶的比較與協助。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbeptn/dangbei_n3_max_projector_low_output_on_headphones/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Dangbei N3 max",
+      "投影機",
+      "音量過低",
+      "藍牙耳機"
+    ],
+    "mentioned_brands": [
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2330,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Lumio Arc 5 對比 XGIMI Vibe One（印度市場）",
+    "summary_zh": "Reddit 用戶發文詢問關於 Lumio Arc 5 與 XGIMI Vibe One 兩款投影機在印度市場的比較與選購建議，原文僅有簡短求助內容，未提供具體規格、價格或深入的技術與市場分析數據。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbfkvn/lumio_arc_5_vs_xgimi_vibe_one_india/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Lumio Arc 5",
+      "XGIMI Vibe One",
+      "印度市場",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Lumio",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2329,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horizon 20 與 30 系列投影機的散熱通風空間討論",
+    "summary_zh": "一名用戶在 Reddit 論壇發文詢問，其預購的 Horizon 30 Pro 投影機機身深度為 19 公分，若放置在深度 28 公分的懸浮層板上，與牆壁之間僅剩最大 9 公分的間距。由於官方建議後方需保留 10 至 15 公分的散熱空間，使用者擔憂此安裝配置是否會影響通風與散熱效能並引發過熱問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbiq87/ventilation_on_horizon_20_30_models/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Horizon 30 Pro",
+      "Horizon 20",
+      "散熱",
+      "通風",
+      "安裝"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2327,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "非智慧型可攜式投影機推薦尋求",
+    "summary_zh": "Reddit 用戶尋找宏碁 Acer C250i DLP 投影機的替代品，需求包含非智慧型系統（無 Google TV）、支援 1080p 解析度、內建電池、亮度至少 300 流明、可投影至天花板且具備角度調整功能。主要用於觀賞電視與藝術臨摹，預算在 600 英鎊以內，並強調不希望有會自動更新的作業系統。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xblc4c/nonsmart_portable_projector_recommendations/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "可攜式投影機",
+      "非智慧投影機",
+      "DLP",
+      "1080p",
+      "Acer C250i"
+    ],
+    "mentioned_brands": [
+      "Acer"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2325,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找高亮度且黑階表現佳的中國品牌雷射投影機討論",
+    "summary_zh": "有用戶在網路論壇發文尋求具備極佳黑階表現與高對比度的沉浸式投影機方案，預算考量下將目光投向Flyin或SMX等中國品牌。規格需求鎖定3000至7000流明、雷射光源，以及Full HD或相近解析度的機型，以用於特殊沉浸式安裝環境。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbk8f5/30007000_lumens_chinese_projectors_with_the_best/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "中國投影機",
+      "雷射光源",
+      "高對比度",
+      "黑階表現",
+      "沉浸式安裝"
+    ],
+    "mentioned_brands": [
+      "Flyin",
+      "SMX"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2324,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 Optoma Photon Go 用戶心得與評價分享",
+    "summary_zh": "有用戶發文分享奧圖碼 Optoma Photon Go 微型投影機的使用心得，以 650 加幣的優惠價格購入全新機台。該用戶表示其色彩鮮豔、對比度表現令人驚豔且機身小巧，但主要缺點為風扇或 DLP 鏡頭偏移產生的嗡嗡噪音。文中亦提及自己同時擁有 Horizon 20 max 主投影機及 pk31可攜式 4K 投影機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbq2u3/any_other_optoma_photon_go_owners_in_here/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "Optoma",
+      "Photon Go",
+      "微型投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2314,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "180吋戶外電影之夜與使用心得",
+    "summary_zh": "有使用者分享在戶外進行180吋大畫面電影之夜的實際體驗，使用極米Horizon S Max投影機搭配價格不到100美元的平價180吋布幕，即使在如此大的尺寸下，對於整體的投影畫質表現仍感到十分驚艷，展現出家用智慧投影機在大尺寸戶外觀影情境下的實用性與效果。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xbhrd5/180_outdoor_movie_night/",
+    "publish_date": "2026-10-21",
+    "keywords": [
+      "戶外電影",
+      "投影機心得",
+      "大畫面",
+      "投影布幕"
+    ],
+    "mentioned_brands": [
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2309,
     "source_name": "XGIMI官方",
     "title_zh": "極米在Kickstarter推出AURA 3 Max與Pro系列雷射電視，公布早鳥價格與多款套裝",
@@ -30804,6 +31432,29 @@
       "大眼橙"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2338,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L690E北京促銷熱賣",
+    "summary_zh": "愛普生CB-L690E投影機近日於北京經銷商「愛普生麗訊理光投影方案」展開特價促銷活動，價格採面議方式。該款產品主打恒定輸出、迅速開機及清晰的圖像表現，提供有意採購顯示設備的消費者一項市場新選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1179/11796678.html",
+    "publish_date": "2026-05-11",
+    "keywords": [
+      "愛普生",
+      "CB-L690E",
+      "投影機",
+      "促銷",
+      "北京行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "理光"
+    ],
+    "link_status": null
   },
   {
     "id": 2281,
