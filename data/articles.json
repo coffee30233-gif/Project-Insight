@@ -1,5 +1,205 @@
 [
   {
+    "id": 2359,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機畫面過暗問題求助",
+    "summary_zh": "有用戶在Reddit發文求助，指出其使用的Optoma UHD35投影機投影畫面明顯過暗，亮度僅有其BenQ 700sti的一半，且鏡頭內帶有 brunâtre（ brunâtre/棕色）色調，目前燈泡使用時數為1500小時，詢問可能的原因與解決方法。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xcp958/image_very_dark/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Optoma UHD35",
+      "BenQ 700sti",
+      "畫面亮度",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "Optoma",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2355,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "飛利浦 NeoPix 550 投影機保固維修不善與客服失聯之用戶負面體驗",
+    "summary_zh": "Reddit 用戶發文抱怨 Screeneo Innovation SA 的售後服務，指出其針對飛利浦 NeoPix 550 投影機的保固維修過程出現嚴重失誤，且官方長期無回應，引發消費者對該品牌售後品質的質疑。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xcwmhs/terrible_experience_with_screeneo_innovation_sa/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Philips NeoPix 550",
+      "Screeneo Innovation SA",
+      "售後服務",
+      "保固維修"
+    ],
+    "mentioned_brands": [
+      "Philips",
+      "Screeneo Innovation SA"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2354,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：尋找平價Vamvo中國製投影機的韌體更新以支援exFAT格式",
+    "summary_zh": "一名Reddit用戶在論壇發文求助，尋找一款五年前在Amazon.de購買的平價Vamvo可攜式投影機（解析度1280x720）之韌體更新。該非Android系統投影機目前出廠韌體版本為1.1.7.11，支援NTFS與FAT32格式，但缺乏exFAT支援，造成跨裝置使用隨身碟的困擾。用戶希望尋找包含新韌體或具備相同硬體且支援exFAT的新型號，以解決大容量影片檔案的檔案系統相容性問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xcypu3/firmware_update_exfat_for_cheap_vamvo_mstar/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Vamvo",
+      "MStar",
+      "韌體更新",
+      "exFAT",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "Vamvo",
+      "MStar",
+      "Realtek"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2353,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於極米 Horizon 20 系列與 RS30 系列投影機的規格比較與購買諮詢",
+    "summary_zh": "本文為 Reddit 用戶在購買首台投影機時，針對極米（XGIMI）Horizon 20 Pro 與中國國內版 RS30 Pro Max 的規格差異、水貨進口價差以及影像表現進行的公開討論。文中提及預算約 1200 至 1500 歐元，主要用於暗室觀看 100 吋電影，並尋求其他高性價比的替代機型建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xcwb5a/questions_about_xgimi_horizon_20_vs_rs30_series/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "極米",
+      "Horizon 20 Pro",
+      "RS30 Pro Max",
+      "投影機選購",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2350,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人能解決這個問題嗎？",
+    "summary_zh": "Reddit論壇用戶發布了一則關於投影機使用問題的求助貼文，附帶圖片詢問故障排除方法，但原文未提供具體的投影機型號、規格或詳細故障描述。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd1vae/can_anyone_solve_this/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Reddit",
+      "故障排除",
+      "投影機求助"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2349,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新購買的Optoma PH31投影機出現閃爍問題",
+    "summary_zh": "一名用戶發文求助其新買的Optoma PH31投影機出現畫面閃爍問題。用戶已嘗試更換不同HDMI線材與連接埠、調整至60Hz更新率，以及更換電源插座，但情況依舊。目前已聯繫客服，並期待這可能只是已知的軟體問題。儘管有閃爍瑕疵，用戶對該機的畫質與音效表現仍感到驚豔。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xcq9yc/newly_bought_optoma_ph31_flickers/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Optoma PH31",
+      "畫面閃爍",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2348,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶發文詢問Valerion Visionmaster Max投影機是否出現雷射斑紋",
+    "summary_zh": "用戶發文反映新購買的Valerion Visionmaster Max投影機搭配Silver Ticket WAB 135吋編織透聲幕時，畫面出現令人困擾的顆粒感，調整設定後仍無法解決。用戶懷疑這是雷射光源產生的斑紋或影像品質不佳，並考慮改買採用3LCD雷射技術、經評價確認無雷射斑紋的Epson LS11000。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd300x/is_this_laser_speckle/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "雷射斑紋",
+      "雷射投影機",
+      "投影幕",
+      "畫質"
+    ],
+    "mentioned_brands": [
+      "Valerion",
+      "Silver Ticket",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2347,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "PixPaq Edge 超短焦投影機數月使用心得與評測",
+    "summary_zh": "用戶分享使用PixPaq Edge超短焦投影機數月的心得。優點包含暗室畫質優異、內建音效水準如Soundbar、支援HDMI與AirPlay且自動對焦可靠；缺點則為自動梯形修正不佳、內建Google TV色彩表現與系統體驗不理想（改用Fire TV Stick可解決），且遊戲輸入延遲明顯、抗環境光能力普通。結論認為其適合暗室或臥室使用，不建議在亮室替代電視或用於競技遊戲。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xcxlxc/pixpaq_edge_ust_projector_my_thoughts_after_a_few/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "PixPaq Edge",
+      "超短焦投影機",
+      "使用者心得",
+      "UST projector",
+      "Google TV"
+    ],
+    "mentioned_brands": [
+      "PixPaq",
+      "Google",
+      "Amazon",
+      "Philips"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2363,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "露營投影機指南：在星空下規劃完美電影之夜",
+    "summary_zh": "當貝Dangbei官方發布戶外露營投影機使用指南，探討如何在露營時打造舒適的星空電影之夜。文章指出戶外投影機的核心需求包含原生1080p解析度、450 ISO流明亮度、超過90% DCI-P3色域，以及60至100吋的畫面尺寸。此外，具備自動對焦、自動梯形校正、內建電池及減少線材干擾等智慧功能，能有效縮短架設時間，讓使用者在戶外享受便利的觀影體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/camping-projector-movie-night-under-the-stars-dangbei",
+    "publish_date": "2026-10-22",
+    "keywords": [
+      "露營投影機",
+      "當貝",
+      "ISO流明",
+      "自動對焦",
+      "戶外娛樂"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2346,
     "source_name": "ZOL投影機頻道",
     "title_zh": "ROLY RL-E6U 北京特價 42000 元",
@@ -30844,6 +31044,27 @@
       "Electronic Arts"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2364,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "鴻合HT-K502UA北京地區特價促銷57321元",
+    "summary_zh": "根據中關村線上報導，鴻合HT-K502UA投影機近日在北京授權核心代理商「富日廣通」進行特價促銷活動，優惠售價為人民幣57321元。有興趣的消費者可前往北京市海淀區海淀中街16號中關村公館F809洽詢購買。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1184/11849673.html",
+    "publish_date": "2026-05-22",
+    "keywords": [
+      "鴻合",
+      "HT-K502UA",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "鴻合"
+    ],
+    "link_status": null
   },
   {
     "id": 1935,
