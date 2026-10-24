@@ -1,5 +1,574 @@
 [
   {
+    "id": 2389,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-YP7803 激光 3LCD 高亮投影機工程大屏優選",
+    "summary_zh": "易仁科技推出的 YR-YP7803 投影機近日在中關村在線商家展開特價促銷。該款投影機搭載激光固態光源，具備出色的成像層次表現，並支援原生 WUXGA 高清解析度，主要鎖定工程大屏應用市場，提供高亮與高畫質的投影解決方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12637674.html",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "易仁科技",
+      "YR-YP7803",
+      "激光投影機",
+      "3LCD",
+      "工程投影機",
+      "WUXGA"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2388,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-L50UB 激光 3LCD 商務投影機促銷 辦公教學實用利器",
+    "summary_zh": "易仁科技推出的 YR-L50UB 商務投影機目前在中關村線上商家進行特價促銷。該機型採用了雷射固態光源技術，具備優秀的畫面對比度表現，主要定位於辦公與教學等實用場景。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12637673.html",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "易仁科技",
+      "YR-L50UB",
+      "激光投影機",
+      "商務投影",
+      "3LCD"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2387,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙R3 Ultra家用投影機特惠 家庭影音遊戲一步到位",
+    "summary_zh": "大眼橙R3 Ultra家用投影機近日在中關村在線商家「易仁科技」展開特價促銷活動。該款投影機搭載旗艦級處理芯片，並配備大容量記憶體以確保系統運行流暢，主打家庭影音與遊戲娛樂功能，能為用戶提供一步到位的優質大屏視聽體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12637672.html",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra",
+      "投影機",
+      "促銷",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "中關村在線"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2386,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙C3 Max便攜家用投影機特惠促銷，全封閉光機耐用性佳",
+    "summary_zh": "大眼橙C3 Max便攜家用投影機近日於中關村在線商家「易仁科技」展開特價促銷活動。該款投影機主打居家多用途，採用全封閉式光機設計以提升整機的耐用性表現，並具備原生高清解析度，提供良好的視覺體驗與實用性，適合一般家庭娛樂使用。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12637671.html",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "大眼橙",
+      "C3 Max",
+      "家用投影機",
+      "全封閉光機",
+      "特惠促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2385,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BME700C 雷射工程投影機特價：高亮工程顯示實力派",
+    "summary_zh": "松下 PT-BME700C 激光工程投影機於中關村線上商家進行特價促銷。該機型主打緊湊型設計，兼具小巧機身與高亮度表現，適應各類工程顯示應用需求，詳細優惠資訊可洽詢核心合作夥伴易仁科技。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12637670.html",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "松下",
+      "PT-BME700C",
+      "激光工程投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2384,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼UHZ616雷射投影機特惠，4K雷射家庭影院優選",
+    "summary_zh": "奧圖碼UHZ616投影機近期於中關村線上商家進行特價促銷。該款產品定位為4K雷射家庭影院優選，具備4K解析度與雷射DLP投影技術，並搭載專業DMD晶片及BrilliantColor色彩技術，提供優異的影像表現，適合追求高品質家庭劇院的消費者選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1254/12546851.html",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "奧圖碼",
+      "UHZ616",
+      "4K投影機",
+      "雷射投影機",
+      "DLP"
+    ],
+    "mentioned_brands": [
+      "奧圖碼",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2373,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人嘗試用 Claude 修改 Lumos 投影機的介面嗎？",
+    "summary_zh": "Reddit 用戶發文詢問是否有人成功利用 Claude Code 工具來修改 Lumos 投影機的主畫面內容，探討將人工智慧輔助編程應用於投影機系統介面改造的可行性。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdnkrv/has_anyone_tried_to_claude_your_way_into_your/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "Lumos",
+      "投影機",
+      "Claude Code",
+      "介面修改"
+    ],
+    "mentioned_brands": [
+      "Lumos",
+      "Claude"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2372,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Halo+ 與明基 TH575i 該如何選擇？",
+    "summary_zh": "有用戶在 Reddit 論壇上發文詢問，指出在特價期間極米 XGIMI Halo+ 與明基 BenQ TH575i 的售價相同，因此難以抉擇。發文者主要用於觀看電影、電視節目以及偶爾的遊戲，希望獲得關於畫質、亮度、對比度、遊戲效能及整體性價比的選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdnx1m/xgimi_halo_vs_benq_th575i_which_one_should_i_buy/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "XGIMI Halo+",
+      "BenQ TH575i",
+      "投影機選購",
+      "極米",
+      "明基"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2371,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合帳篷露營的便攜式USB-C投影機推薦（2026年）",
+    "summary_zh": "有Reddit用戶在論壇發文尋求2026年適合帳篷露營使用的輕巧型投影機建議。需求為機能輕便、可透過65W USB-C行動電源直接供電，且便於在帳篷內調整投射角度至牆面或天花板。此為一般消費者的產品諮詢與討論，並未提及具體品牌或新機規格。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xds6j4/best_compact_usbc_projector_for_inside_a_tent_2026/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "可攜式投影機",
+      "USB-C",
+      "行動電源",
+      "露營投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2370,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aura 3 Max 吊裝相關討論",
+    "summary_zh": "本文為 Reddit 用戶針對極米 Aura 3 Max 投影機的吊裝安裝方式進行的短篇討論與連結分享，屬於一般消費者的使用心得與安裝詢問。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdtirl/aura_3_max_ceiling_mount/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "Aura 3 Max",
+      "吊裝",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2369,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我的 Valerion Max 投影機發出高頻噪音正常嗎？RBE 減弱功能已關閉",
+    "summary_zh": "Reddit 用戶反映其 Valerion Max 投影機在運作時會發出異常的高頻噪音，並詢問這是否為正常現象，同時提及該機型的彩虹效應（RBE）減弱功能目前處於關閉狀態。此篇為單一用戶的使用問題求助討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xduite/my_valerion_max_is_making_a_highpitched_noise_its/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "Valerion Max",
+      "高頻噪音",
+      "RBE",
+      "投影機災情"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2368,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ AK700ST 投影機 HDMI 1 埠故障問題討論",
+    "summary_zh": "有用戶在 Reddit 發文求助，指出明基 BenQ AK700ST 投影機的 HDMI 1 埠出現異常。該埠透過 HDMI 轉 DisplayPort 轉接器連接 PC 時可正常運作，但直接連接任何 HDMI 訊號源（如筆電或 PC）則無法顯示；而 HDMI 2 埠使用一般 HDMI 線直接連接訊號源則完全正常。目前正尋求解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdv2ja/benq_ak700st_hdmi_1_issue/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "BenQ",
+      "AK700ST",
+      "HDMI",
+      "投影機故障",
+      "連接問題"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2367,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir 與 Aura 3 Max 及 OLED 電視之選購比較討論",
+    "summary_zh": "一名具備12年家庭劇院安裝經驗的用戶，因近期頻繁搬遷需求，在Reddit論壇上發起討論，評估三種顯示設備方案：適合未來規劃但目前空間擺放較為尷尬的標準投影機極米XGIMI Titan Noir（Pro或Max版本）、適合現階段客廳預售使用的超短焦投影機極米XGIMI Aura 3 Max，以及能提供極致黑階但尺寸較小的OLED電視，尋求社群使用者的選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdms3f/xgimi_titan_noir_vs_xgimi_aura_3_max_vs_oled_tv/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "XGIMI Titan Noir",
+      "XGIMI Aura 3 Max",
+      "OLED電視",
+      "家用投影機",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2394,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BMZ62C 6500流明激光工程投影機促銷價 15599 元",
+    "summary_zh": "松下推出 PT-BMZ62C 高清激光工程投影機，具備 6500 流明亮度，主打輕鬆安裝、靈活適配與節能環保等產品亮點。目前該款投影機正透過授權核心代理商富日廣通進行特價促銷，優惠價格為人民幣 15599 元，提供給有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12638060.html",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "激光工程投影機",
+      "6500流明",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2393,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "寶視來DLP雷射工程機BK75CN促銷價69,860元",
+    "summary_zh": "寶視來推出DLP雷射工程機BK75CN，目前於北京授權核心代理商「富日廣通」進行特價促銷，優惠價為69,860元人民幣。該款投影機主打7500流明亮度、雷射光源技術，並具備四角校正與豔麗色彩等產品亮點，提供商用及工程投影市場一項新的採購選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12638059.html",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "寶視來",
+      "BK75CN",
+      "雷射工程機",
+      "DLP投影機",
+      "7500流明"
+    ],
+    "mentioned_brands": [
+      "寶視來",
+      "富日廣通"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2392,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "麥克賽爾 J3701U 3700流明高清激光投影機特價促銷",
+    "summary_zh": "麥克賽爾 MMP-J3701U 雷射高清投影機近日於北京授權核心代理商「富日廣通」進行特價促銷，優惠售價為人民幣11899元。該機具備3700流明亮度，商家店面位於北京市海淀區海淀中街16號中關村公館F809，提供有興趣的消費者前往詳詢與選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12638058.html",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "麥克賽爾",
+      "MMP-J3701U",
+      "雷射投影機",
+      "特價促銷",
+      "3700流明"
+    ],
+    "mentioned_brands": [
+      "麥克賽爾",
+      "Maxell"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2391,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基MH560商教投影機促銷優惠價5999元",
+    "summary_zh": "根據中關村線上報導，明基BenQ旗下的MH560商教投影機近日於北京授權核心代理商「富日广通」展開特價促銷活動，優惠售價為新台幣換算約5999元人民幣。該款投影機主打便攜、商務、教學及會議室應用等核心亮點，提供有採購需求的消費者與企業用戶參考。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12638057.html",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "明基",
+      "MH560",
+      "商教投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2390,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "三星雷射超短焦電視 SP9 三色雷射4K超清促銷49999元",
+    "summary_zh": "三星SP-LSP9TFAXXZ雷射超投電視近日於授權核心代理商「富日广通」進行特價促銷，優惠售價為新台幣換算約49999元人民幣。該機型搭載三色雷射光源並具備4K超高清解析度，商家地址位於北京市海淀區中關村公館F809，提供消費者前往現場詳詢選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1263/12638042.html",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "三星",
+      "激光電視",
+      "SP-LSP9TFAXXZ",
+      "三色激光",
+      "4K投影機"
+    ],
+    "mentioned_brands": [
+      "三星"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2382,
+    "source_name": "AV Network",
+    "title_zh": "四個展演、同一個空間：L-Acoustics 如何在 2026 年迪士尼 Upfront 連結視覺與聽覺",
+    "summary_zh": "本文探討 L-Acoustics 在 2026 年迪士尼 Upfront 活動中，如何透過先進的音響系統在單一空間內同時支援四場不同的展演活動，實現完美的視聽整合效果，展現專業影音工程與空間應用的整合實力。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.avnetwork.com/installations/sports-entertainment/four-shows-one-room-how-l-acoustics-made-eyes-and-ears-connect-at-disneys-upfront-2026",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "L-Acoustics",
+      "迪士尼",
+      "Upfront",
+      "視聽整合",
+      "空間音效"
+    ],
+    "mentioned_brands": [
+      "L-Acoustics",
+      "Disney"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2381,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從 JVC X35 升級至 Photon Life PK32 投影機之討論",
+    "summary_zh": "Reddit 論壇用戶發起關於將舊款 JVC X35 投影機升級更換為 Photon Life PK32 機型的諮詢討論，探討兩款產品在規格與畫質表現上的差異與升級價值。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd6gnh/uppgradering_jvc_x35_to_photon_life_pk32/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "JVC X35",
+      "Photon Life PK32",
+      "投影機升級"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "Photon Life"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2380,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "升級 JVC X-35 至 Photon Life PK32 4K 投影機是否合適？",
+    "summary_zh": "Reddit 論壇用戶發起討論，詢問是否應該將舊款 JVC X-35 投影機升級為 Photon Life PK32 4K 機型。這是一篇來自消費者的個人設備升級評估與選購詢問，主要探討兩款不同世代投影機在畫質與規格上的差異，屬於個人使用心得與購買決策諮詢性質，未包含大規模的市場數據、新品官方發表、深度技術分析或供應鏈動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd6j14/upgrade_jvc_x35_to_photon_life_pk32_4k/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "JVC X-35",
+      "Photon Life PK32 4K",
+      "投影機升級",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "Photon Life"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2379,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Wimius P62 pro 投影機畫面無法對焦均勻問題求助",
+    "summary_zh": "用戶在 Reddit 發文反映，其使用的 Wimius P62 pro 投影機在套用梯形校正後，畫面一側清晰而另一側模糊。由於擺放位置有些許角度，導致畫面無法像前一台 aurzen Eazze 投影機那樣容忍角度偏差，必須極為正對牆面才能獲得清晰畫面，因而詢問是否有解決辦法。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd949n/cant_get_an_even_picture_wimius_p62_pro/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Wimius P62 pro",
+      "梯形校正",
+      "對焦",
+      "畫面模糊"
+    ],
+    "mentioned_brands": [
+      "Wimius",
+      "aurzen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2378,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vision Master Pro 2 用戶發文詢問高亮度場景過亮問題",
+    "summary_zh": "一名 Reddit 用戶發文求助，表示在微暗的房間中使用 Vision Master Pro 2 投影機搭配 106 吋 0.8 增益的編織幕時，播放到高亮度場景畫面顯得過亮，嘗試網路上的各種設定仍無法解決，因此詢問其他擁有相同設備的用戶是否有類似問題及解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd6m9o/question_i_have_a_vision_master_pro_2_a_woven_106/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Vision Master Pro 2",
+      "投影機設定",
+      "亮度調整",
+      "投影幕"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2377,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "三星 Freestyle 第二代投影機 Tizen 系統：如何清除內建臃腫軟體與廣告",
+    "summary_zh": "三星 Freestyle 第二代微型投影機用戶在 Reddit 論壇尋求如何清理 Tizen 9 系統主畫面的方法。該作業系統內建許多無法移除的預裝應用程式、廣告、贊助內容與推薦服務，用戶希望透過開發者模式、SDB 指令、開源腳本或第三方啟動器等社群破解技巧，移除三星 TV Plus 等無用服務，打造一個乾淨且無廣告的極簡投影機主畫面。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xd7d68/samsung_freestyle_2nd_gen_tizen_os_removing/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Samsung Freestyle 2nd Gen",
+      "Tizen OS",
+      "微型投影機",
+      "系統優化",
+      "去廣告"
+    ],
+    "mentioned_brands": [
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2376,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Cameo TS 200 FC LED投影機顯示異常求助",
+    "summary_zh": "一名使用者在Reddit發文求助，指出其使用一年半的Cameo TS 200 FC LED舞台投影燈發生顯示異常問題。機身內建的小螢幕僅顯示方塊圖案，且按下選單、確認與上下鍵等按鈕皆無反應，詢問是否有其他社群成員曾遇過類似狀況並能提供解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdfbgd/problème_affichage_projecteur_led_cameo/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Cameo TS 200 FC",
+      "LED投影機",
+      "故障排查",
+      "顯示異常"
+    ],
+    "mentioned_brands": [
+      "Cameo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2374,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion Visionmaster Pro 1 投影機的市場討論與性價比分析",
+    "summary_zh": "有用戶在 Reddit 討論區分享 Valerion Visionmaster Pro 1 投影機的使用心得，指出 Pro 1 比 Pro 2 便宜約 700 美元（英國約 500 英鎊），兩者除外殼顏色與有 500 流明的亮度差異外，記憶體、處理器、鏡頭、喇叭與軟體等規格皆相同。該用戶認為日常在 100 吋螢幕上僅需 60% 雷射亮度，Pro 2 的額外亮度並無必要，因此對 Pro 1 少人討論與評測的現象感到不解，認為其性價比表現相當出色。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xdbdk5/no_love_for_the_valerion_visionmaster_pro_1/",
+    "publish_date": "2026-10-23",
+    "keywords": [
+      "Valerion",
+      "Visionmaster Pro 1",
+      "Visionmaster Pro 2",
+      "雷射投影機",
+      "性價比"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2359,
     "source_name": "Reddit r/projectors",
     "title_zh": "投影機畫面過暗問題求助",
@@ -30407,6 +30976,28 @@
       "中關村線上"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2383,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "2026年健康顯示大會推薦產品：大眼橙 R3 Ultra",
+    "summary_zh": "2026年6月4日，第三屆健康顯示大會以「顯示無界•健康同行」為主題正式召開。本次大會由中國電子視像行業協會指導，並由瑞物評測室、中關村在線及中國電子技術標準化研究院聯合主辦。會中針對健康顯示領域進行了深入探討與評選，其中大眼橙旗下的投影機型號 R3 Ultra 獲得推薦，成為大會推廣的重點產品之一，展現了該品牌在健康顯示技術與用戶體驗上的市場定位。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1188/11887713.html",
+    "publish_date": "2026-06-04",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra",
+      "健康顯示",
+      "投影機",
+      "顯示技術"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ],
+    "link_status": null
   },
   {
     "id": 1860,
