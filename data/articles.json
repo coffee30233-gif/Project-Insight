@@ -1,5 +1,351 @@
 [
   {
+    "id": 2407,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求300 AED以下且支援藍牙耳機的投影機推薦",
+    "summary_zh": "一名用戶在Reddit發文尋求預算低於300 AED的投影機推薦。由於居住環境為隔間房，觀看電影時必須連接藍牙耳機以避免打擾鄰居，因此特別希望該投影機能具備藍牙音訊輸出功能。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xeek8r/projector_recommendation_under_aed_300_with/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "投影機推薦",
+      "藍牙耳機",
+      "預算型投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2406,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 Home Cinema 3200 投影機透過 AUX 連接 Soundbar 音訊中斷問題",
+    "summary_zh": "有用戶在 Reddit 反應，使用 Epson Home Cinema 3200（對應型號 EH-TW7000）投影機透過 AUX 音源線連接 Vizio soundbar 播放時，偶爾會出現短暫的靜音中斷現象。用戶質疑是否為投影機運算能力不足導致音訊傳輸受影響或為已知災情。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xeg48y/aux_sound_is_interrupted/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "Epson Home Cinema 3200",
+      "EH-TW7000",
+      "AUX音訊",
+      "音訊中斷"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Vizio"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2404,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "臥室投影機布幕尺寸與手動/電動布幕選擇討論",
+    "summary_zh": "一名Reddit用戶在r/projectors發文尋求臥室投影機布幕尺寸建議。其臥室牆面寬度為10.8英尺、高度約9英尺，希望追求沉浸式觀影體驗並覆蓋整面牆，但同時面臨必須使用手動或電動捲簾式布幕以方便開啟衣櫃的空間限制。此貼文反映出消費者在居家空間規劃中，對投影布幕尺寸與實用機能兼顧的需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xej2gd/projector_screen_sizing/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "投影布幕",
+      "電動布幕",
+      "手動布幕",
+      "居家劇院",
+      "布幕尺寸"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2403,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機遊戲應用中可變更新率(VRR)的重要性探討",
+    "summary_zh": "有消費者分享購買Epson QB1000投影機搭配PS5 Pro使用時，發現規格標示支援VRR（可變更新率）但在實際安裝後卻顯示不支援。該用戶在Reddit論壇發文詢問，在投影機支援其他PS5 Pro的核心最高輸出與各項功能的情況下，缺少VRR功能對實際遊戲體驗的影響是否明顯，引發關於家用投影機遊戲性能的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xee6d7/how_important_is_vrr_on_a_projector_for_gaming/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "VRR",
+      "PS5 Pro",
+      "Epson QB1000",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2402,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sainellor X30PRO 投影機開機卡在載入畫面求助",
+    "summary_zh": "Reddit 用戶發文求助關於 Sainellor X30PRO 投影機的問題。該用戶表示設備僅開機測試一次並連接 Fire Stick 後，便一直卡在載入畫面無法正常啟動。雖嘗試過長按電源鍵 15 秒重啟及拔插電源等方法，但問題依舊未解決，並詢問社群是否有進入管理員模式或強制重置系統的方法。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xek5xo/sainellor_x30pro_issue/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "Sainellor X30PRO",
+      "投影機故障",
+      "開機卡死"
+    ],
+    "mentioned_brands": [
+      "Sainellor",
+      "Fire Stick"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2400,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手 BenQ AH700ST 投影機出售資訊",
+    "summary_zh": "Reddit 用戶在論壇上發布二手投影機出售貼文，出售型號為 2026 年 2 月購入的 BenQ AH700ST，使用時數僅 54 小時且保留原廠外盒。賣方因已升級購入同系列 4K 機型 AK700ST（當時購入價 2,300 美元），故以 1,700 美元加上美國境內運費的價格出售此高爾夫模擬器專用短焦投影機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xem9lb/for_sale_benq_ah700st_projector/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "BenQ",
+      "AH700ST",
+      "AK700ST",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2399,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ HT2060 投影機開機數秒後自動關機並亮起紅色燈號",
+    "summary_zh": "一名用戶在 Reddit 論壇反應其 BenQ HT2060 投影機在開機數秒顯示標誌後即關閉，並亮起紅色 LIGHT 指示燈，重置無效但偶爾能正常使用。該 LED 光源僅使用約 300 小時，因剛過保固期原廠不提供免費維修，用戶正尋求解決方案。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xep1mv/benq_ht2060_shuts_off_after_a_few_seconds_and/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "BenQ",
+      "HT2060",
+      "故障排除",
+      "LED光源",
+      "紅色燈號"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2398,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：60吋牆面與10呎投影距離是否適合極米Horizon 30 Pro？",
+    "summary_zh": "一名Reddit用戶發文詢問關於極米Horizon 30 Pro投影機的適用性。其房間條件為牆面寬度僅60吋，且投影距離固定在10呎遠的層架上，用戶希望能追求最佳畫質並搭配下拉式布幕，但不希望安裝電視。他擔憂10呎的投射距離會導致畫面遠大於60吋牆面，因此尋求是否有解決方案或更適合的投影機推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xeiz4t/best_image_quality_however_only_60_wide_wall_and/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "Xgimi",
+      "Horizon 30 Pro",
+      "投影距離",
+      "家用投影機",
+      "畫質"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2397,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶詢問是否該以949美元購買附5年保固的Hisense M2 Pro投影機",
+    "summary_zh": "一名Reddit用戶發文詢問，是否該在Costco以949美元的價格購買包含5年保固的Hisense M2 Pro投影機，並提及預計投射126吋牆面、安裝距離約140吋，主要用於觀看電影，且正在猶豫是否該改選Nexigo Tri Vision Ultra。文章同時提及未來計劃攜帶該設備前往印度。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xerk88/should_i_buy_hisense_m2_pro_for_949_5_year/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "Hisense M2 Pro",
+      "Nexigo Tri Vision Ultra",
+      "Costco",
+      "投影機選購",
+      "保固"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Nexigo",
+      "Costco"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2396,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Halo+ 2026年新款討論",
+    "summary_zh": "Reddit論壇用戶發起關於極米科技（XGIMI）Halo+系列 2026年新款投影機的討論串，原文內容極為簡短，僅包含連結與用戶名稱，未提及具體規格、價格或上市日期等詳細資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xetaeu/xgimi_halo_new_2026/",
+    "publish_date": "2026-10-25",
+    "keywords": [
+      "XGIMI",
+      "Halo+",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2417,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：LG CineBeam S 用於臥室偶爾觀看的實際表現",
+    "summary_zh": "有用戶在 Reddit 發文詢問 LG CineBeam S 超短焦投影機的實際表現，探討其在臥室部分採光環境下、投射 40 至 50 吋偏白牆面的亮度是否足夠。使用者主要考量其機身輕巧、價格合理，適合偶爾觀看如 NBA 季後賽等需求，並具備移動至其他房間使用的彈性。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xe75v0/lg_cinebeam_s_occasional_use_and_bedroom/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "LG CineBeam S",
+      "超短焦投影機",
+      "UST projector",
+      "臥室投影",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2415,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH575i 對決 NexiGo PJ40 Pro：入門投影機選購請益",
+    "summary_zh": "一名初次購買投影機的用戶在 Reddit 發文尋求建議，其預算為 400 至 600 美元，投影距離約 3.5 公尺，使用場景為半暗室內白牆投影，主要用於觀看電影及休遊玩俠盜獵車手 6、火箭聯盟等休閒遊戲。目前他在 BenQ TH575i、NexiGo PJ40 Pro 與 Photon Life PH31 三款型號中猶豫，考量到 PH31 輸入延遲較高且 PJ40 亮度不足，目前較傾向選擇 BenQ，並詢問社群是否有更好的替代方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xe462m/benq_th575i_vs_nexigo_pj40_pro/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "BenQ TH575i",
+      "NexiGo PJ40 Pro",
+      "Photon Life PH31",
+      "入門投影機",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "NexiGo",
+      "Photon Life"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2413,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "華碩 Asus P3B 微型投影機出現雪花雜訊故障",
+    "summary_zh": "華碩 Asus P3B LED投影機在長期穩定運作後，於萬聖節垂直投影應用中突然出現類似雜訊雪花的嚴重像素化失真畫面。即使用戶拔除所有訊號源、無任何外接裝置時，開機狀態下的內部選單與全畫面依然呈現嚴重扭曲，且投影機本身對按鍵指令仍有反應。這引發用戶對於硬體故障與是否具有維修價值的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xe8mqb/asus_p3b_snow_like_image/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "Asus P3B",
+      "LED投影機",
+      "畫面故障",
+      "雪花雜訊"
+    ],
+    "mentioned_brands": [
+      "ASUS"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2412,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20/30 系列黑色星期五優惠詢問",
+    "summary_zh": "有消費者在 Reddit 討論區發文，探討極米（Xgimi）以及通路商 Projectorscreen 針對旗下 Horizon 20 系列與 30 系列投影機，在即將到來的黑色星期五購物節是否會推出相關的促銷折扣活動，引發網友關注。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xe1v5r/xgimi_horizon_2030_series_black_friday_deals/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "Xgimi",
+      "Horizon 20",
+      "Horizon 30",
+      "Black Friday",
+      "Projectorscreen"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2410,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Elfin Flip 4K 投影機縫隙是否正常？",
+    "summary_zh": "Reddit 用戶發文詢問關於極米 XGIMI Elfin Flip 4K 投影機的機身縫隙問題。該用戶表示投影機曾不慎向前傾倒碰撞，雖然影像、縮放與對焦功能皆正常，但檢查時發現機身出現縫隙，因而發文詢問其他用戶此縫隙是否為原本設計或因碰撞產生。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xebyqd/is_this_gap_normal_on_the_xgimi_elfin_flip_4k/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "XGIMI",
+      "Elfin Flip 4K",
+      "投影機",
+      "機身縫隙"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2408,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找1,000美元以下的最佳投影機推薦",
+    "summary_zh": "有用戶在Reddit發文尋求預算1,000美元以內的投影機推薦，主要用途為觀看電影、電視節目及連接PlayStation遊戲機。其設置環境為臥室、白色牆面、多在暗室使用，投影距離與觀賞距離約3公尺，預計投射100至110吋畫面。用戶曾使用三星The Freestyle第一代，亦曾關注極米產品，目前正徵求具備良好畫質與低輸入延遲的機型建議，並詢問添購投影幕是否能明顯提升畫質。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xe8qv1/best_projector_under_1000/",
+    "publish_date": "2026-10-24",
+    "keywords": [
+      "投影機推薦",
+      "家用投影機",
+      "低輸入延遲",
+      "預算1000美元",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "Samsung",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2389,
     "source_name": "ZOL投影機頻道",
     "title_zh": "易仁科技 YR-YP7803 激光 3LCD 高亮投影機工程大屏優選",

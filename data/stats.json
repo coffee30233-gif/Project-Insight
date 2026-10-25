@@ -1,8 +1,8 @@
 {
-  "total_articles": 1644,
+  "total_articles": 1660,
   "total_sources": 35,
   "by_source": {
-    "Reddit r/projectors": 616,
+    "Reddit r/projectors": 632,
     "ZOL投影機頻道": 592,
     "ProjectorReviews": 120,
     "ProjectorCentral": 71,
@@ -40,17 +40,17 @@
   },
   "by_category": {
     "供應鏈": 27,
-    "市場數據": 170,
-    "技術動態": 198,
-    "新品發布": 1249
+    "市場數據": 171,
+    "技術動態": 201,
+    "新品發布": 1261
   },
-  "latest_publish_date": "2026-10-24",
+  "latest_publish_date": "2026-10-25",
   "link_check": {
     "by_status": {
       "blocked": 651,
       "dead": 6,
       "ok": 972,
-      "unchecked": 648
+      "unchecked": 674
     },
     "last_checked_at": "2026-10-01T07:21:50.171791+00:00"
   }
