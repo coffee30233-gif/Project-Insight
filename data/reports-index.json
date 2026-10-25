@@ -10,6 +10,11 @@
           "monthly": null,
           "weekly": [
             {
+              "file": "2026-W43.md",
+              "hasSlides": true,
+              "hasPdf": true
+            },
+            {
               "file": "2026-W42.md",
               "hasSlides": true,
               "hasPdf": true
