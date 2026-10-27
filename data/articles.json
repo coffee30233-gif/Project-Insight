@@ -1,5 +1,263 @@
 [
   {
+    "id": 2476,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "雙11投影機精選推薦：優派LX720-4KC Ultra兼顧電影與遊戲需求",
+    "summary_zh": "針對雙11購物節檔期，本文推薦適合家庭娛樂的多功能投影機優派LX720-4KC Ultra。該機型主打能同時滿足電影愛好者的大屏沉浸感需求，以及PC與主機遊戲玩家對於高畫質清晰度與快速操作響應的要求，展現出多用途兼顧的市場定位。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1265/12655052.html",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "雙11",
+      "優派",
+      "LX720-4KC Ultra",
+      "家庭娛樂",
+      "遊戲投影機"
+    ],
+    "mentioned_brands": [
+      "優派",
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2465,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony OLED 55XR80M2 與 LG CineBeam Q /S 雷射投影機的選購比較",
+    "summary_zh": "有用戶在 Reddit 發文詢問，糾結於購買 Sony OLED 55XR80M2 電視或 LG CineBeam Q /S 4K 雷射投影機。該用戶主要觀看電影與影集，並提及對 OLED 純黑表現的渴望，同時又想在大型露台牆面上享受投影大畫面，徵求 2026 年現狀下的購買建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xg2zk5/sony_oled_55xr80m2_vs_lg_cinebeam_q_s_laser/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "Sony OLED 55XR80M2",
+      "LG CineBeam Q /S",
+      "雷射投影機",
+      "OLED電視"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2463,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "EPSON CO-W01 用戶詢問投影畫面周圍多餘光框的消除方式",
+    "summary_zh": "一名初次架設投影機的 Reddit 用戶發文求助，指出在使用 EPSON CO-W01 投影機時，畫面周圍出現了一圈額外的方框光暈，詢問社群是否有方法可以將其消除。這類問題通常與 DLP 或 3LCD 投影機的光學鏡頭漏光、面板原生解析度邊緣或是梯形校正產生的邊框有關。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xg874o/square_around_the_screen/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "EPSON",
+      "CO-W01",
+      "投影畫面",
+      "光框",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "EPSON"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2461,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horizon 30 Pro 最佳電動下拉布幕推薦詢問",
+    "summary_zh": "一名用戶在 Reddit 發文詢問，針對新訂購的 Horizon 30 Pro 投影機尋找適合的電動下拉式銀幕。文中指出預計安裝 100 吋或 120 吋的尺寸，由於室內光線控制良好，挑選重點放在減少雷射散斑，而非抗光幕（ALR）功能，並希望能具備微透聲特性，展現消費者在實際搭配雷射投影機時的配件選購需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xg3dz2/best_ceiling_drop_down_screen_for_horizon_30/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "Horizon 30 Pro",
+      "電動下拉布幕",
+      "雷射散斑",
+      "投影銀幕"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2460,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手高階家用投影機選購求助：JVC與Sony機型比較",
+    "summary_zh": "一名網友在Reddit論壇尋求二手家用投影機的選購建議。他曾擁有BenQ HT2050A並留下良好印象，隨後因預算購買廉價中國白牌投影機卻遭遇品質災難。目前預算僅有400美元，鎖定二手市場尋求高畫質、優異黑階表現及支援3D功能的機型。候選名單包含JVC DLA-X55R（具極佳黑階但3D亮度可能不足）、Sony VPL-HW55ES（對比與3D亮度佳但燈泡將耗盡且有面板老化風險）、Sony VPL-HW40ES（使用時數極低幾近全新但黑階較差）以及Sony VPL-HW45ES（支援RF 3D但黑階表現一般）。發文者陷入抉擇困境，希望能獲得社群的專業評估與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xg3f6x/need_help_to_make_the_right_choice/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "二手投影機",
+      "JVC",
+      "Sony",
+      "黑階表現",
+      "3D投影"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "JVC",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2456,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "PX4-Pro 自動幾何校正功能嚴重失準求助",
+    "summary_zh": "使用者反映其使用的PX4-Pro投影機在進行自動幾何校正時，連續五次均出現嚴重傾斜歪曲的問題。嘗試使用手動模式調整時，畫面仍無法完美貼合，且在左下角與右下角的調整幅度碰觸到極限，令人擔憂設備是否存在更深層的硬體或韌體瑕疵。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xghsxt/px4pro_auto_geometric_correction_way_off/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "PX4-Pro",
+      "自動幾何校正",
+      "手動調整",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "PX4-Pro"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2471,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合特殊空間配置的投影機建議",
+    "summary_zh": "一名Reddit用戶發文尋求投影機推薦，其目前使用Nexigo PJ20，投距約4米需將桌子拉近沙發。由於天花板較低且牆面不便鑽孔，不考慮吊裝。考慮改用超短焦投影機以便收納於櫃中，同時希望具備自動設定功能與內建串流應用程式，且不排除等待黑色星期五特賣或尋找二手商品，搭配2x2米銀幕在晚間遮光環境下使用。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xfsvtj/looking_for_a_good_projector_for_my_situation/",
+    "publish_date": "2026-10-26",
+    "keywords": [
+      "Nexigo PJ20",
+      "超短焦投影機",
+      "家用投影機",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [
+      "Nexigo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2469,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "義大利論壇用戶尋求投影機安裝與周邊設備設置建議",
+    "summary_zh": "一名剛進入投影機領域的用戶分享了他以88歐元購入2019年製造、燈泡時數300小時的Acer H6517ABD使用心得。文章主要探討投影機擺位與校正困難、三腳架投影幕材質差異（如玻璃纖維正背面投影與全黑背面的光線反射表現），以及搭配PS4與藍牙喇叭播放藍光電影時遭遇的音量動態過大問題，並尋求經濟實惠的音響設備與清潔保養建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xfv1a2/consigli_setup/",
+    "publish_date": "2026-10-26",
+    "keywords": [
+      "Acer H6517ABD",
+      "投影機安裝",
+      "投影幕",
+      "藍牙喇叭",
+      "PS4"
+    ],
+    "mentioned_brands": [
+      "Acer",
+      "Ultimate Ears"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2468,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson CO-FH02投影機出現異常彩色斑點與亮點問題求助",
+    "summary_zh": "Reddit論壇用戶發文求助，其使用的Epson CO-FH02投影機在累積約570小時（皆使用Eco模式）後，投影畫面的特定位置出現異常斑點。該斑點在綠色背景下呈現黑斑，白色背景下呈紫紅色，紅色背景下消失，全黑背景則顯示為一個亮點，且將鏡頭失焦時斑點會完全消失，詢問可能的原因與解決方式。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xfxmp8/epson_cofh02_what_could_this_be/",
+    "publish_date": "2026-10-26",
+    "keywords": [
+      "Epson CO-FH02",
+      "投影機故障",
+      "畫面斑點",
+      "用戶求助"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2466,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：尋找高性價比100吋固定框投影幕與使用BenQ TH575i的建議",
+    "summary_zh": "一名Reddit用戶在r/projectors發文尋求關於某品牌100吋16:9白塑固定框投影幕的使用評價。該產品在亞馬遜售價7,000，相較當地最低13,000的價格便宜許多。用戶提到先前曾購買Moiz三腳架布幕因側視有波紋而退貨，因對畫面變形敏感而轉尋求固定框產品，並搭配BenQ TH575i投影機在10至12英尺距離使用。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xfztin/need_advice_regarding_this_projector_screen/",
+    "publish_date": "2026-10-26",
+    "keywords": [
+      "投影幕",
+      "固定框幕",
+      "100吋",
+      "BenQ TH575i"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Moiz"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2462,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "可攜式投影機設置與離線影音播放系統的推薦諮詢",
+    "summary_zh": "一名Reddit用戶發文尋求建立一套完整可攜式投影機系統的購買建議。需求包含具備內建喇叭與HDMI連接埠以支援遊戲機的便攜投影機，並搭配可離線播放影音的媒體播放器以及USB隨身碟或行動固態硬碟等外接儲存設備。由於網路環境不穩定，整體建置核心強調完全不需要Wi-Fi或手機熱點，透過預先下載影音內容來實現純離線的觀影體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xfzkpa/portable_projector_setup_recommendations/",
+    "publish_date": "2026-10-26",
+    "keywords": [
+      "可攜式投影機",
+      "離線播放",
+      "媒體播放器",
+      "外接儲存",
+      "HDMI"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2458,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "每次觀看都要架設投影幕會不會很麻煩？",
+    "summary_zh": "一名使用者分享其使用N1S 4K投影機直接投射在白牆上的經驗，目前採用隨用隨拿的方式。由於空間有限無法固定安裝投影幕，因此考慮購買預算約200美元、尺寸約100吋且可收納的攜帶型投影幕。文中發問者詢問了三腳架幕與地拉幕的實際使用體驗，包含收納後的體積、重量以及單人架設的便利性等細節。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xfqhtu/how_annoying_is_it_to_set_up_a_screen_every_time/",
+    "publish_date": "2026-10-26",
+    "keywords": [
+      "N1S 4K",
+      "投影幕",
+      "三腳架幕",
+      "地拉幕",
+      "便攜投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 2454,
     "source_name": "ZOL投影機頻道",
     "title_zh": "易仁 YR-L50UB 高清激光投影火熱開售",
@@ -30569,6 +30827,29 @@
     "link_status": "ok"
   },
   {
+    "id": 2475,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-F755HZ 投影機特價促銷活動",
+    "summary_zh": "根據中關村線上報導，索尼 VPL-F755HZ 工程雷射投影機近期在經銷商「北京合眾聯鑫」展開特價促銷活動，具體售價採價格面議方式。該款投影機主要定位於辦公與中大型會議等商用場景，有需求的買家可直接前往位於北京海淀的實體店面洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1207/12077075.html",
+    "publish_date": "2026-06-30",
+    "keywords": [
+      "索尼",
+      "VPL-F755HZ",
+      "工程投影機",
+      "雷射投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "北京合眾聯鑫"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2240,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-P630HZ 特價促銷歡迎來電諮詢",
@@ -33001,6 +33282,28 @@
       "愛普生"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2474,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 C3 Ultra 投影機特價 2199 元促銷登場",
+    "summary_zh": "通路消息指出，大眼橙 C3 Ultra 投影機近日在商家易仁科技展開特價促銷活動，優惠價為 2199 元人民幣。該款產品主打觀影娛樂功能，並具備高效散熱與運行安靜等產品亮點，目前於北京地區進行特賣，吸引有需求的消費者關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1180/11800785.html",
+    "publish_date": "2026-05-12",
+    "keywords": [
+      "大眼橙",
+      "C3 Ultra",
+      "投影機行情",
+      "促銷價",
+      "易仁科技"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ],
+    "link_status": null
   },
   {
     "id": 1984,
