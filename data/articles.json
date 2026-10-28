@@ -1,5 +1,407 @@
 [
   {
+    "id": 2509,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "雙11大屏娛樂怎麼選？優派LX720-4KC Ultra三色激光4K投影值得關注",
+    "summary_zh": "每年雙11購物節期間，投影機向來是消費者升級家庭娛樂體驗的熱門品類。許多民眾希望藉此在客廳打造大螢幕觀影環境、追求更具沉浸感的高畫質遊戲體驗，或希望單一設備能同時兼顧電影播放、體育賽事與日常娛樂需求。針對市場上眾多不同亮度與規格的產品，優派（ViewSonic）推出的LX720-4KC Ultra三色激光4K投影機成為備受矚目的焦點選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1265/12655086.html",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "雙11",
+      "優派",
+      "三色激光",
+      "4K投影機",
+      "家庭娛樂"
+    ],
+    "mentioned_brands": [
+      "優派",
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2504,
+    "source_name": "DigiTimes",
+    "title_zh": "從超導體到光學：六家矽谷新創將AI瓶頸解決方案帶給台灣",
+    "summary_zh": "本文探討六家矽谷新創公司如何將超導體與光學等前沿技術帶至台灣，以解決人工智慧發展所面臨的傳輸與運算瓶頸。報導主要聚焦於AI硬體架構、光學通訊以及先進封裝等半導體與運算基礎設施領域，尋求與台灣產業鏈的深度合作。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261027PD247/silicon-valley-venture-capital-technology-taiwan-packaging.html",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "矽谷新創",
+      "光學技術",
+      "AI瓶頸",
+      "台灣供應鏈",
+      "先進封裝"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2502,
+    "source_name": "DigiTimes",
+    "title_zh": "半導體設備並非AI晶片成長的最大瓶頸",
+    "summary_zh": "DIGITIMES報導指出，半導體設備並非當前AI晶片成長面臨的最大瓶頸。文章探討了半導體供應鏈在AI晶片需求激增下的實際挑戰，分析影響產能與成長的關鍵因素，幫助業界釐清供應鏈的真實狀況。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261027PD224/equipment-demand-ai-chip-growth-supply-chain.html",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "半導體設備",
+      "AI晶片",
+      "供應鏈",
+      "DIGITIMES"
+    ],
+    "mentioned_brands": [
+      "DIGITIMES"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2500,
+    "source_name": "投影時代",
+    "title_zh": "索諾克航海家系列工程投影機賦能沂水水幕夜遊盛宴",
+    "summary_zh": "索諾克（Sonnoc）航海家系列激光工程投影機近日落戶山東沂水，作為核心成像設備賦能大型戶外水幕光影秀。針對河畔高濕度、戶外環境光干擾、動態水霧介質變形及多機拼接等四大挑戰，該系列投影機憑藉強勁激光光源、精準曲面調整、靈巧的360度自由安裝與優異的整機穩定性成功破局，在浮動水幕上呈現清晰震撼的文旅夜遊視覺盛宴，助力當地激活夜間文旅經濟。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/382039407361.shtml",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "索諾克",
+      "Sonnoc",
+      "工程投影機",
+      "激光投影",
+      "水幕投影",
+      "文旅夜遊"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2495,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明基二手會議投影機BenQ LK952是否適合家用?",
+    "summary_zh": "有用戶在本地尋獲一台二手BenQ LK952投影機並附帶下拉式投影幕，開價1800美元且有議價空間，該機型當初零售價高達5000美元。買家主要疑惑在於，這類舊款高亮度商用會議投影機，在黑暗房間中觀賞電影或進行遊戲時，其表現是否會被價格相近的新款家用投影機超越，且暗室環境也讓商用機的高亮度優勢無用武之地。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh1085/benq_conference_projector_used/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "BenQ",
+      "LK952",
+      "二手投影機",
+      "商用投影機",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2493,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於極米 Horizon S Pro 投影機關閉 Dolby Vision 的用戶求助",
+    "summary_zh": "一名 Reddit 用戶發文表示，他最近購入一台二手的極米 Horizon S Pro 投影機，該設備運行 Android TV 系統。用戶對 SDR 與 HDR 內容的畫面表現感到滿意，但非常不喜歡 Dolby Vision 的顯示效果，因此發文詢問是否以及如何將 Dolby Vision 功能關閉。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh27de/dolby_vision/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "Dolby Vision",
+      "極米",
+      "Horizon S Pro",
+      "Android TV",
+      "HDR"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2492,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於投影機色彩設定中Warm 2與Warm 1的使用體驗討論",
+    "summary_zh": "本篇原文為Reddit論壇上的用戶討論，主要探討在投影機與顯示設備上使用色彩設定「Warm 2」相較於「Warm 1」的接受度與實際效果。討論內容並延伸關注杜比視界（Dolby Vision）的Warm 2模式是否更貼近導演的創作原意與色彩標準，屬於用戶個人使用心得與畫質調整的交流。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xgwscn/what_is_peoples_uptake_on_using_warm_2_instead_of/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "Warm 2",
+      "Warm 1",
+      "Dolby Vision",
+      "畫質調整",
+      "色彩設定"
+    ],
+    "mentioned_brands": [
+      "Dolby"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2490,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony VPL-CS1投影機燈泡故障疑難排解",
+    "summary_zh": "Reddit用戶詢問關於Sony VPL-CS1液晶投影機的燈泡狀況。該燈泡經測試後顯示無電阻且無法正常投射影像，使用者正尋求確認燈泡是否已燒毀或是否有其他零件需要維修。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh5dj7/is_it_blown/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "Sony VPL-CS1",
+      "燈泡故障",
+      "投影機維修",
+      "LCD投影機"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2489,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 投影機相關問題討論",
+    "summary_zh": "本篇原文為 Reddit 論壇 r/projectors 與 r/xgimi 上的短篇討論串，主要提及極米（XGIMI）品牌旗下 Horizon 20 投影機產品遭遇相關技術或操作問題。由於原文內容極為簡短，僅包含用戶發文標題與外部連結，並未透露具體的故障細節、規格數據或解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh5rgk/horizon_20_issues/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "極米",
+      "Horizon 20",
+      "投影機故障",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2488,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用投影機進行辦公室工作，對眼睛疲勞的改善是否比電視更好？",
+    "summary_zh": "Reddit論壇用戶發文詢問，使用投影機進行長時間的辦公室日常工作，在減少眼睛疲勞（eyestrain）的效果上，是否會比傳統電視來得更好，並徵求社群成員的實際使用經驗與見解。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh059m/using_a_projector_for_office_work_will_it_be_much/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "投影機",
+      "電視",
+      "眼睛疲勞",
+      "辦公應用"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2487,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "日光室超短焦投影機與視聽室配置請益與方案評估",
+    "summary_zh": "有新手屋主計畫將多窗的日光室改造成兼具遊戲與電影的視聽室，尋求超短焦（UST）投影機與抗光幕配置建議。空間尺寸約12x12英尺，觀影距離11英尺，預計搭配100至120吋螢幕與聲霸、Switch 2及PS5主機。投影機預算在3000美元以下，考慮Hisense PX3-PRO或Epson EpiqVision Ultra LS65等雷射機型；幕面則考慮約600美元的落地升降抗光幕。文中也提及對雷射光源亮度、彩虹效應及偏頭痛敏感度等技術細節的考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh0d4y/ust_projector_for_sunroom_gaming_and_movie_night/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "雷射投影機",
+      "抗光幕",
+      "Hisense PX3-PRO",
+      "Epson EpiqVision Ultra LS65"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Epson",
+      "Switch",
+      "Sony",
+      "Povison"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2484,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "開發者打造互動式 3D WebGL 投影機模擬器，提供即時投射距離、照度與鏡頭位移計算",
+    "summary_zh": "一名開發者因不滿傳統靜態2D投影機投射計算器無法呈現實際房間幾路，自行打造了一款免費且免登入的網頁版3D WebGL投影模擬器。該工具支援即時3D房間與光錐模擬、內建超過20款熱門機型（包含Epson、BenQ、Sony、JVC等品牌），並可計算即時Lux、Foot-Lamberts等光度數據，協助使用者評估光學鏡頭位移與實際安裝距離。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhaw7q/i_got_tired_of_2d_throw_calculators_that_dont/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "投影機計算器",
+      "WebGL",
+      "3D模擬器",
+      "投射距離",
+      "鏡頭位移",
+      "Lux"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "BenQ",
+      "Formovie",
+      "Hisense",
+      "Sony",
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2482,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "如何安全地在戶外使用投影機？極米 Horizon Ultra 戶外投影疑慮探討",
+    "summary_zh": "一名 Reddit 用戶發文詢問關於在戶外萬聖節活動中安全使用極米 Xgimi Horizon Ultra 投影機的可行性。由於氣溫預報為 8 至 9 度，低於該機型標示的 0 至 40 度運作範圍下限附近，且用戶擔憂夜間戶外凝露問題，因此尋求防範建議，並計劃在投影機移回室內後放置隔夜回溫再開機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh3wvn/how_to_safely_project_outside/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "戶外投影",
+      "凝露",
+      "運作溫度"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2481,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "PH31投影機售價350歐元是否值得購買？",
+    "summary_zh": "使用者在Reddit論壇發起討論，詢問型號為PH31的投影機標價350歐元是否具有購買價值。原文內容極短，僅包含提問與轉發連結，未提及具體的品牌、硬體規格或光學技術參數。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhcqhb/ph31_worth_for_350eur/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "PH31",
+      "二手投影機",
+      "價格評估"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2480,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit 用戶尋求 4K 雷射投影機推薦：聚焦極米 Horizon 20 與海信 C3",
+    "summary_zh": "一名 Reddit 用戶發文尋求投影機選購建議。因重視畫質與遊戲反應時間，決定選擇雷射投影機，但因價格考量排除超短焦（UST）機種。主要需求包含 4K 解析度、內建智慧功能與 Wi-Fi、支援遊戲、支援 100-150 吋投影尺寸，以及可進行天花板吊裝。使用環境為可完全遮光的第二客廳，投影距離約 5-6 公尺。目前在預算內初步篩選出極米 Horizon 20 與海信 C3 兩款機型，並徵求社群其他推薦與意見。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xh7xh8/what_to_choose/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "雷射投影機",
+      "4K",
+      "遊戲投影機",
+      "極米",
+      "海信"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2499,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion Plus 2 用戶發文詢問彩虹效應與LCD替代方案",
+    "summary_zh": "一名剛購入 Valerion Plus 2 投影機的用戶在 Reddit 發文表示，自己從 LCD 陣營轉投該機後，遇到嚴重的彩虹效應問題，並詢問內建防彩虹功能是否需要手動開啟或調整設定。同時，該用戶因難以找到兼具藍牙音訊、良好內建音效及 Wi-Fi 智慧功能的 LCD 投影機，向社群尋求其他產品推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xglid9/valerion_plus_2_users/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "Valerion Plus 2",
+      "彩虹效應",
+      "DLP投影機",
+      "LCD投影機",
+      "使用者心得"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2496,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於Epson LS800投影機鏡頭位移、藍光及PC連接的用戶提問",
+    "summary_zh": "有用戶在Reddit發文詢問關於Epson LS800超短焦投影機的幾個技術細節。內容主要探討Rtings評測中該機型表現出的較高藍光比例是否會影響色彩平衡與飽和度，並引用LTT Podcast對於投影機鏡頭位移技術（Lens Shift）重要性的看法，擔憂移動式小桌台放置會導致對焦與調整困難。此外，該用戶也關心此款投影機連接PC時，在1080p解析度下的小字體可讀性表現。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xgre72/question_about_lens_shift_and_blue_light_on_epson/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "Epson LS800",
+      "鏡頭位移",
+      "藍光",
+      "色彩校正",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2485,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 30 系列投影機評論與期待",
+    "summary_zh": "國外網友在 Reddit 討論區發文表達對極米 Xgimi Horizon 30 系列投影機的期待，並希望知名評論頻道 thehookup 能在週五前發布實測評測。同時，討論中也提及該系列將與堅果 JMGO ultra iris 投影機進行效能比較，吸引不少消費者觀望。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xgrgv1/reviews_for_the_xgimi_horizon_30_series_projectors/",
+    "publish_date": "2026-10-27",
+    "keywords": [
+      "Xgimi Horizon 30",
+      "極米",
+      "JMGO",
+      "堅果",
+      "投影機評論"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "JMGO"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2476,
     "source_name": "ZOL投影機頻道",
     "title_zh": "雙11投影機精選推薦：優派LX720-4KC Ultra兼顧電影與遊戲需求",
@@ -31787,6 +32189,29 @@
       "NEC"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2508,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰AL-MU500雷射投影機促銷價16399元",
+    "summary_zh": "光峰科技旗下的AL-MU500雷射投影機目前於經銷商「格林德益」展開特價促銷，優惠售價為人民幣16399元。該機型具備5000流明亮度、WUXGA高畫質解析度，採用獨家的ALPD雷射光源技術，並支援360度自由安裝特性，適合各類商用與工程應用環境。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1200/12000953.html",
+    "publish_date": "2026-06-16",
+    "keywords": [
+      "光峰",
+      "AL-MU500",
+      "雷射投影機",
+      "ALPD",
+      "5000流明"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "格林德益"
+    ],
+    "link_status": null
   },
   {
     "id": 2114,
