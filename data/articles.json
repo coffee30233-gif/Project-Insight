@@ -1,5 +1,311 @@
 [
   {
+    "id": 2530,
+    "source_name": "投影時代",
+    "title_zh": "科視Christie與贏康於深圳舉辦全感沉浸體驗會，展示前沿投影技術與應用",
+    "summary_zh": "科視Christie與贏康科技於10月27日在深圳舉辦「無界之巔，萬象臻境」全感沉浸體驗會，展現雙方在主題樂園與光影項目的深度合作。會中透過九大光影展項，重點呈現科視1DLP、3DLP與6DLP及RGB純激光投影技術。亮點產品包含擁有30,000流明與20,000,000:1對比度的Eclipse G3 6DLP投影機、搭載0.8吋HEP DMD晶片的4K1000-KS，以及具備25,300流明亮度的M 4K+25 RGB投影機。活動結合7thSense媒體伺服器，全方位展示應用於天文館、博物館、主題公園與演藝秀場等場景的沉浸式顯示系統與客製化解決方案。",
+    "category": "新品發布",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/382634164549.shtml",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "科視Christie",
+      "贏康科技",
+      "RGB純激光投影",
+      "Eclipse G3",
+      "6DLP",
+      "投影機",
+      "沉浸式體驗",
+      "7thSense"
+    ],
+    "mentioned_brands": [
+      "科視",
+      "贏康",
+      "7thSense",
+      "華納兄弟",
+      "環球",
+      "迪士尼",
+      "樂高"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2523,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aetherion Pro 與 Max 投影機型號比較諮詢",
+    "summary_zh": "Reddit 用戶發文詢問 Aetherion Pro 與 Max 兩款投影機型號之間的差異，特別針對 Max 版本高出 1000 美元以上的售價是否值得，以及多出 700 流明的亮度在實際使用場景中的表現。文中尋找相關評測與討論連結，希望能獲得實際購買建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhtfji/aetherion_pro_vs_max/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Aetherion Pro",
+      "Aetherion Max",
+      "亮度",
+      "流明"
+    ],
+    "mentioned_brands": [
+      "Aetherion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2522,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：室內外多功能投影機選購與預算考量",
+    "summary_zh": "一名Reddit網友發文尋求室內外兩用投影機的選購建議，其90%時間在室內使用、投射120吋畫面，9%在戶外後院，1%用於飯店度假。使用者考量購買Horizon 30或改買預算較低的N1S，同時擔憂戶外潮濕環境可能造成的冷凝問題，並詢問是否值得投入這筆資金或購買兩台不同的投影機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhwg5l/should_i_just_keep_my_money_im_looking_for_a/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Horizon 30",
+      "N1S",
+      "戶外投影",
+      "投影機選購",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2517,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信PX3-Pro投影機在綠色與白色畫面底部出現陰影問題",
+    "summary_zh": "一名用戶在Reddit討論區反映，其使用的海信Hisense PX3-Pro超短焦投影機搭配ALR抗光幕時，在顯示綠色與白色場景的畫面底部，會出現三個由投影機向上延伸的「V」型陰影問題，並尋求社群協助解決此故障。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xi5j8u/shadow_issue/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Hisense PX3-Pro",
+      "ALR screen",
+      "shadow issue",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "海信"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2516,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "預算5000美元、適用於小型專用劇院的最佳投影機選購請益",
+    "summary_zh": "國外網友在Reddit論壇發文請益，尋找預算約5,000美元、適合13x10英尺且無窗的小型專用家庭劇院投影機。投射距離為11.5英尺，搭配8英尺觀賞距離預計採用100吋銀幕。目前正於eBay上的Titan Noir Max與Sony VPL-XW5000ES之間做抉擇，主要用途為觀賞電影，並詢問是否有其他更高預算的替代方案可供參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhuujw/best_projector_5000_for_a_small_dedicated_ht/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "家庭劇院",
+      "Titan Noir Max",
+      "Sony VPL-XW5000ES",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Titan"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2515,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合自訂系統櫃的電動投影幕方案",
+    "summary_zh": "一名Reddit用戶在r/projectors發文詢問關於超短焦（UST）投影機的自訂安裝需求。由於空間限制無法使用電視，該用戶計劃訂製一個櫥櫃，並將電動投影幕整合至櫃體中。然而，市面上常見的電動投影幕多為天花板下拉式或地面升起式，且櫃體頂部到天花板僅有約5英尺的高度限制，因此尋求是否有專為此類特殊安裝情境設計的電動投影幕產品。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xi8as6/motorized_screen_for_custom_build/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "超短焦投影機",
+      "電動投影幕",
+      "自訂櫃體",
+      "安裝空間"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2514,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ X3100i 與 Hisense C2 Ultra 投影機選購諮詢",
+    "summary_zh": "一名德國 Reddit 用戶發文尋求 4K 投影機選購建議，預算落在 BenQ X3100i 與 Hisense C2 Ultra 之間，訴求為 4K 解析度、低延遲與優秀色彩表現。文中亦提及曾考慮 Xgimi Horizon 20 系列，但擔憂品質穩定度與售後客服問題，因此在兩款主流機型間猶豫不決，徵求社群使用經驗與推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xi8vla/welcher_beamer_benqx3100i_oder_hisense_c2_ultra/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "BenQ X3100i",
+      "Hisense C2 Ultra",
+      "Xgimi Horizon",
+      "4K投影機",
+      "選購指南"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Hisense",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2513,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶開箱 Nexigo Nova Mini Lite 預購投影機",
+    "summary_zh": "Reddit 用戶分享剛收到預購的 Nexigo Nova Mini Lite 投影機，運送僅花費數天。該用戶表示，在參考了 YouTube 頻道 The Hook Up 的最新評測影片後，認為該機型憑藉著小巧的尺寸與出色的影像品質，將成為理想的隨身攜帶伴侶。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhtyue/just_recieved_my_nexigo_nova_mini_lite_pre_order/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Nexigo Nova Mini Lite",
+      "投影機開箱",
+      "隨身投影機",
+      "預購"
+    ],
+    "mentioned_brands": [
+      "Nexigo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2512,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "現在購買 Horizon 30 Pro 還是再等等？",
+    "summary_zh": "一名消費者在 Reddit 論壇詢問，對於正在預購優惠中的 Horizon 30 Pro 投影機是否該立即下手。由於他預計在 4 到 5 個月後搬家才能真正開始使用該設備，因此猶豫是否該趁折扣購買，或是等待未來推出更新的機型或更多優惠。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xi2e24/buy_horizon_30_pro_now_or_hold_out_for_later/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Horizon 30 Pro",
+      "預購",
+      "投影機購買建議"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2510,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horizon 30系列投影機評測分享",
+    "summary_zh": "本文分享了關於Horizon 30系列投影機的詳細影音評測內容，提供消費者在選擇投影機時的實機表現參考與開箱評價。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhwckn/horizon_30_series_review_the_hook_up/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Horizon 30",
+      "投影機評測",
+      "The Hook Up"
+    ],
+    "mentioned_brands": [
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2535,
+    "source_name": "AV Network",
+    "title_zh": "Legrand | AV 如何重新構想連網影音管理",
+    "summary_zh": "本文探討 Legrand | AV 如何針對連網影音系統管理進行創新與重新構想，內容涉及影音設備整合與遠端管理方案的發展趨勢。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.avnetwork.com/products/how-legrand-av-reimagines-connected-av-management",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "Legrand | AV",
+      "AV Management",
+      "連網影音"
+    ],
+    "mentioned_brands": [
+      "Legrand | AV"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2529,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "有人也在考慮購入 Aura 3 投影機嗎？",
+    "summary_zh": "一名Reddit網友討論即將購入Aura 3投影機，這將是他的第一台投影機，主要吸引點在於支援4K 120Hz規格。不過他發現該款機種不支援1440p解析度，雖然不算重大缺憾仍令人感到失望。使用者提及官方設有意見回饋社群頁面供用戶投票建議功能，他已提交1440p支援的需求，並將在留言處分享投票連結供其他用戶參與。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhogze/anyone_else_looking_to_get_the_aura_3/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "Aura 3",
+      "4K120",
+      "1440p",
+      "投影機",
+      "用戶討論"
+    ],
+    "mentioned_brands": [
+      "Aura"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2526,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Xgimi Vibe 投影機缺少 Google Play 商店引發用戶疑問",
+    "summary_zh": "有消費者以 200 歐元購入極米 Xgimi Vibe 投影機後，發現該機型似乎缺少 Google Play 商店，無法安裝地區限定的影音應用程式 Videoland。這反映出部分低價或特定定位的投影機產品可能未內建完整 Google 認證系統，導致用戶在擴充串流應用時遇到困難，引發對於產品規格與應用支援的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhh0rq/xgimi_vibe_one_missing_google_playstore/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "Xgimi",
+      "Vibe",
+      "Google Play Store",
+      "智慧投影機",
+      "串流應用"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2520,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合極米XGIMI Aura Max 3的120吋地拉幕推薦",
+    "summary_zh": "Reddit論壇用戶發文尋求搭配新型極米XGIMI Aura Max 3超短焦投影機的120吋地拉幕（floor rising screen）建議。使用環境為客廳、白色牆面，主要在夜間且具備良好的光線控制。使用者提到目前似乎缺乏菲涅爾（Fresnel）抗光幕選項，詢問是否可考慮0.8增益的替代方案，並指出自身觀影距離約3公尺、正對螢幕中心。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xhnhul/best_120_floor_rising_screen_for_use_with_new/",
+    "publish_date": "2026-10-28",
+    "keywords": [
+      "地拉幕",
+      "超短焦投影機",
+      "抗光幕",
+      "增益",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2509,
     "source_name": "ZOL投影機頻道",
     "title_zh": "雙11大屏娛樂怎麼選？優派LX720-4KC Ultra三色激光4K投影值得關注",
