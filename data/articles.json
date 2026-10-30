@@ -1,5 +1,444 @@
 [
   {
+    "id": 2556,
+    "source_name": "DigiTimes",
+    "title_zh": "台虹與元太加速開發AI連線材料PTFE",
+    "summary_zh": "台虹科技與元太科技正加速開發用於AI連線材料的PTFE相關技術與產品，以因應高速傳輸與AI應用的材料需求。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261029PD224/materials-taiflex-development-e-ink-fccl.html",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "台虹科技",
+      "元太",
+      "PTFE",
+      "AI連線材料"
+    ],
+    "mentioned_brands": [
+      "Taiflex",
+      "E Ink"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2555,
+    "source_name": "DigiTimes",
+    "title_zh": "CoreIntelligence預估2027年車載投影需求將大幅成長60%至70%",
+    "summary_zh": "根據DIGITIMES報導，研究機構CoreIntelligence指出，隨著車載顯示技術持續升級，預估2027年車載投影與相關應用需求將出現60%至70%的顯著跳躍成長。此趨勢顯示車用投影顯示市場正迎來高度擴張期，相關供應鏈與品牌廠正積極布局高階車載投影解決方案，未來幾年在車用市場的滲透率備受期待。",
+    "category": "市場數據",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "https://www.digitimes.com/news/a20261029PD232/demand-2027-shipments-revenue-high-end.html",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "CoreIntelligence",
+      "車載投影",
+      "市場需求",
+      "車用顯示"
+    ],
+    "mentioned_brands": [
+      "CoreIntelligence"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2548,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Max 投影機的裝潢天花板吊裝方式討論",
+    "summary_zh": "一名用戶在 Reddit 詢問關於極米 Titan Noir Max 投影機在隔音天花板上的吊裝固定方法。由於該款投影機原廠吊架原本是針對混凝土設計，用戶面臨兩種安裝方案：一是透過干擾夾與帽子骨架使用 RSIC-1 背襯與鋼軌固定，二是利用稍前方的四層主樑結構並加上間隔塊。討論焦點在於如何確保投影機能夠抵抗上方腳步聲與室內音響引起的震動，維持結構剛性。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xisms1/mounting_xgimi_titan_noir_max_to_ceiling/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "Titan Noir Max",
+      "極米",
+      "投影機吊裝",
+      "天花板安裝",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2546,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：飛利浦 NeoPix 760 Smart 投影機特價 300 歐元是否值得購買？",
+    "summary_zh": "有用戶在 Reddit 論壇發文詢問關於飛利浦 NeoPix 760 Smart 智慧投影機的評價與規格表現。該款產品原價為 700 歐元，目前有 300 歐元的特價優惠，發文者因找不到相關評測，希望社群能協助評估其規格與性價比是否適合購買給父親使用。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xitw90/i_have_a_good_deal_on_a_projector_to_offer_my/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "NeoPix 760 Smart",
+      "飛利浦",
+      "投影機",
+      "規格評估"
+    ],
+    "mentioned_brands": [
+      "Philips",
+      "飛利浦"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2545,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 30 Pro 現在買還是等黑色星期五？",
+    "summary_zh": "Reddit 用戶發文詢問關於極米投影機型號 Horizon 30 Pro 的購買時機，猶豫應該現在入手還是等待黑色星期五促銷。此篇為論壇網友的消費決策討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xio3ob/horizon_30_pro_now_or_black_friday/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "Horizon 30 Pro",
+      "購買時機",
+      "黑色星期五",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2544,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 EF-21 與 Lifestudio Pop Plus (EF-62) 投影機規格與價格比較",
+    "summary_zh": "墨西哥市場用戶尋求比較愛普生兩款可攜式投影機，分別為售價約 450 美元的 Epson EF-21W（EpiqVision Mini）與售價約 650 美元的 Epson EF-62B（Lifestudio Pop Plus）。使用者主要用途為黑暗房間內的夜間電影觀賞，預計搭配抗光幕投影 100 至 120 吋畫面，並外接獨立音響，正徵求社群意見以評估價差是否值得升級。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xizq8z/epson_ef21_vs_epson_lifestudio_pop_plus_ef62/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "Epson EF-21",
+      "Epson EF-62",
+      "EpiqVision Mini",
+      "Lifestudio Pop Plus",
+      "可攜式投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2543,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "頂樓小型家庭劇院選購困擾：尋求投影機推薦",
+    "summary_zh": "一名網友正在家中閣樓/工作室打造小型家庭劇院，房間可完全遮光，音響系統計劃搭配Sony Bravia Quad與SA SW 9重低音。目前缺少的投影機與100至110吋投影幕讓作者陷入猶豫，預算在2000至4500美元之間，考慮的機型包含XGIMI 30 Pro、Titan Noir、二手Sony XW5000ES以及二手JVC NZ500等。主要用途為觀賞電影與搭配PS5進行單人遊戲，電影畫質為首要考量，並同步尋求木樑天花板吊裝的相關建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xiujn4/which_projector/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "家庭劇院",
+      "投影機選購",
+      "XGIMI",
+      "Sony",
+      "JVC"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "XGIMI",
+      "JVC",
+      "Titan"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2542,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "震動會影響投影機畫面嗎？",
+    "summary_zh": "有用戶計畫在地下室打造家庭劇院與遊戲室，並將投影機安裝在天花板的地板托樑上。他擔憂當樓上有人走動時，產生的震動是否會影響投影機的畫面表現，因此在論壇發文詢問投影機對震動的敏感程度與實際影響。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xj57dn/vibration_effects_picture/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "投影機安裝",
+      "天花板吊掛",
+      "震動影響",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2541,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ TH671ST 投影機鏡頭蓋替換零件尋求協助",
+    "summary_zh": "Reddit 用戶發文尋找 BenQ TH671ST 投影機的鏡頭蓋替代品。文中指出該投影機的鏡頭蓋卡榫（pegs）已經斷裂，且在網路上找不到官方或對應的替換零件，因此向社群尋求購買管道或解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xj58kf/lens_cap_replacement_benq_th671st/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "BenQ",
+      "TH671ST",
+      "鏡頭蓋",
+      "配件替換"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2540,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度家庭劇院黑色與灰色牆面漆推薦詢問",
+    "summary_zh": "一名位於印度的用戶正在籌備家庭劇院，尋求適合投影機使用的抗反光牆面漆建議。由於當地較難買到完全無光澤的霧面黑或深灰色漆，發文者希望能找到來自 Asian Paints、Berger 或 Nerolac 等印度當地品牌的特定產品名稱、色號或霧面塗料，以減少光線反射並提升觀影體驗。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xj5zvq/blackgrey_walls_suggestions/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "家庭劇院",
+      "牆面漆",
+      "抗反光",
+      "霧面黑",
+      "深灰色"
+    ],
+    "mentioned_brands": [
+      "Asian Paints",
+      "Berger",
+      "Nerolac"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2539,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "擁有一台好電視與好投影機的使用者，你們平時使用哪一個最多？",
+    "summary_zh": "這是一篇來自Reddit論壇的討論文章，探討同時擁有優質電視與投影機的使用者其實際使用習慣。發文者目前擁有55吋Mini-LED電視，計畫升級77吋OLED，同時考慮購入預算約2000歐元的極米Xgimi Horizon 30 pro投影機，用於觀賞影集及搭配PS5 Pro遊戲，並希望享受隨處投影的彈性。文章反映出消費者在雙顯示設備間的抉擇、空間配置與音響擺放等實際考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xixhba/people_that_have_a_good_tv_and_a_good_projector/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "Xgimi Horizon 30 pro",
+      "投影機與電視",
+      "PS5 Pro",
+      "消費使用心得"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2538,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "將家中電視更換為Horizon 20 Pro投影機的用戶心得",
+    "summary_zh": "國外用戶在Reddit論壇分享將家中傳統電視替換為Horizon 20 Pro投影機的使用心得，表示對此轉換感到非常滿意。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xj72pq/changed_our_tv_for_a_horizon_20_pro_very_happy/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "Horizon 20 Pro",
+      "家用投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2536,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "以6美元在二手店買到Epson投影機並連接Xbox 360",
+    "summary_zh": "有用戶在Goodwill二手店以僅僅6美元的超低價格，幸運買下一台Epson投影機。該用戶將其透過VGA連接埠接上Xbox 360主機，並搭配外接喇叭成功運行《搖滾樂團3豪華版》（Rock Band 3 deluxe），分享了極具性價比的復古遊戲娛樂體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xiyrs9/scored_this_epson_projector_at_goodwill_for_6/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "Epson",
+      "二手投影機",
+      "Xbox 360",
+      "VGA連接"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Microsoft"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2560,
+    "source_name": "AV Network",
+    "title_zh": "MSolutions 為現代會議室串聯 USB-C 與 HDMI 連線能力",
+    "summary_zh": "MSolutions 推出全新連接解決方案，旨在彌合現代會議室中 USB-C 與 HDMI 訊號源之間的鴻溝，提升協作效率與設備相容性。此項技術能有效整合多種影音設備，提供流暢的訊號轉換，滿足當前企業會議室對於多元連接介面的需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.avnetwork.com/products/connectivity-infrastructure/msolutions-bridges-usb-c-and-hdmi-connectivity-for-modern-meeting-rooms",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "MSolutions",
+      "USB-C",
+      "HDMI",
+      "會議室",
+      "影音連接"
+    ],
+    "mentioned_brands": [
+      "MSolutions"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2559,
+    "source_name": "Epson官方",
+    "title_zh": "Epson首度參展IAAPA Expo，展示景點與娛樂場域之投影及POS解決方案",
+    "summary_zh": "Epson宣布將首度參加針對主題娛樂產業的年度盛會IAAPA Expo，展出專為沉浸式景點與娛樂場域設計的投影技術與POS銷售點解決方案。此次參展重點在於透過先進的投影設備，結合流暢的訪客互動體驗，全面展示投影技術在娛樂產業中的創新應用與市場布局。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://news.epson.com/news/IAAPA-expo-4k-projectors-pos",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Epson",
+      "IAAPA Expo",
+      "沉浸式投影",
+      "娛樂應用",
+      "POS解決方案"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2558,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "動漫投影機：在家享受大銀幕觀影體驗",
+    "summary_zh": "當貝官方探討如何透過家用投影機營造沉浸式動漫觀影體驗，強調大畫面能完美呈現背景美術與角色細節。文章指出實務挑選關鍵包含字幕清晰度、投影機投射比與觀賞距離的搭配，並提醒應維持原始畫面比例，避免拉伸變形。同時提及動態流暢度設定不需過度干預，以還原動畫原汁原味的節奏。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/anime-projector-big-screen-viewing-at-home",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "當貝",
+      "動漫投影機",
+      "家庭劇院",
+      "投影比",
+      "字幕清晰度"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2554,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "聯繫 Weilio 處理故障投影機的保固問題",
+    "summary_zh": "一名英國消費者在 Amazon UK 購買了 Weilio AE211B 投影機，使用十多次後突然故障。由於該產品享有兩年保固，消費者透過官方網站提供的電子郵件聯繫客服兩次均未獲得回覆，因此在論壇詢問如何聯繫該品牌以履行保固承諾，或是否能透過亞馬遜管道獲得售後救濟。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xii5ww/contacting_weilio_over_faulty_projector/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Weilio",
+      "AE211B",
+      "投影機故障",
+      "售後保固",
+      "Amazon UK"
+    ],
+    "mentioned_brands": [
+      "Weilio",
+      "Amazon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2551,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Horizon 20 Max 投影機的 DLP 更新問題與購買管道諮詢",
+    "summary_zh": "有用戶在 Reddit 論壇詢問關於極米 XGIMI 旗下 Horizon 20 Max 投影機的 DLP 韌體更新問題，指出部分使用者在更新過程中遭遇機器變磚的情況。同時，該用戶也關注新出廠的 Horizon 20 系列機型是否已預先安裝該更新，並尋求應透過亞馬遜或極米官方網站購買的建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xijlgx/horizon_20_max_dlp_update/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Horizon 20 Max",
+      "DLP update",
+      "韌體更新",
+      "XGIMI"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Amazon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2550,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "DLP投影機適用的銀幕挑選與建議",
+    "summary_zh": "一名海信 Hisense C2 Ultra 投影機用戶在 Reddit 發文尋求銀幕選購建議。他目前在暗色牆面、可控制環境光的空間中使用，投影寬度達 265 公分。訴求為手動捲軸式、低增益灰幕以提升對比度，並列舉了 Spacetronik 與 Celexon 等品牌型號進行比較，反映出消費者在規格與預算之間的抉擇難題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xilpig/proper_screen_for_dlpbeamer/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Hisense C2 Ultra",
+      "投影幕",
+      "DLP投影機",
+      "手動捲軸銀幕",
+      "低增益灰幕"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Spacetronik",
+      "Celexon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2549,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 C3 Ultra 對決 Valerion Pro 2：消費者選購比較討論",
+    "summary_zh": "加拿大消費者在 Reddit 論壇發文求助，尋求海信 C3 Ultra 與 Valerion VisionMaster Pro 2 兩款投影機的選購建議。在加拿大市場中，海信 C3 Ultra 售價約 3,500 加幣，具備更高亮度、鏡頭位移與雲台設計；而 Valerion Pro 2 售價約 2,800 加幣，在黑位表現、對比度與 HDR 效能上備受好評。發文者主要用於 120 至 150 吋的電影與電視播放，並考慮偶爾移動房間，目前正猶豫規格紙面數據較佳的海信，還是評價較好的 Valerion。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xiiqh5/hisense_c3_ultra_vs_valerion_pro_2_which_would/",
+    "publish_date": "2026-10-29",
+    "keywords": [
+      "Hisense C3 Ultra",
+      "Valerion VisionMaster Pro 2",
+      "投影機比較",
+      "規格評比"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2530,
     "source_name": "投影時代",
     "title_zh": "科視Christie與贏康於深圳舉辦全感沉浸體驗會，展示前沿投影技術與應用",
@@ -32022,6 +32461,28 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2561,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 R3 Ultra 高亮版特價促銷優惠價 2705 元",
+    "summary_zh": "大眼橙旗下 R3 Ultra 高亮版投影機近日於經銷商「易仁科技」展開特價促銷活動，優惠價格為 2705 元人民幣。該機型主打高清畫質、超大內存以及高對比度等產品亮點，吸引市場關注並掀起搶購熱潮，展現出極高的性價比優勢，適合有高畫質與高性價比需求的消費者入手。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1204/12041516.html",
+    "publish_date": "2026-06-23",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra 高亮版",
+      "投影機行情",
+      "促銷優惠"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "易仁科技"
+    ],
+    "link_status": null
   },
   {
     "id": 2189,
