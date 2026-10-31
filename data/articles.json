@@ -1,5 +1,392 @@
 [
   {
+    "id": 2582,
+    "source_name": "ZNDS投影頻道",
+    "title_zh": "極米在日本推出Elfin Flip Pro（New）：搭載三色激光與1000 ISO流明",
+    "summary_zh": "極米於10月30日在日本正式開售Elfin Flip Pro（New）投影機，市場標價為99,800日元。該機型採用三色激光光源，具備1000 ISO流明的亮度表現，並內建Google TV系統。硬體設計上保留了全高清分辨率以及便利的150度旋轉支架，官方推薦的投影尺寸介於60至120英寸之間，主打靈活的多角度投射與智慧串流體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://news.znds.com/article/69734.html",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "極米",
+      "Elfin Flip Pro",
+      "三色激光",
+      "智慧投影機",
+      "Google TV"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2581,
+    "source_name": "ProjectorScreen",
+    "title_zh": "CINÈST於紐約發表會展示電動超短焦投影機櫃與120吋抗光幕整合方案",
+    "summary_zh": "CINÈST在紐約發表會中展示了針對超短焦投影機設置痛點的解決方案，結合家具品牌POVISON推出電動超短焦投影機櫃CINÈST Core E1。現場透過兩間展間對比：一間採用傳統桌面放置Hisense L9Q投影於白牆，另一間主展間則將Hisense L9Q收納於Core E1電動升降槽內，搭配120吋Spectra Projection Phoenix電動地升式抗光幕與KLH Model Seven喇叭，完美解決超短焦投影機位移與畫面校正的難題。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hands-on-cinest-nyc-press-event-core-e1-motorized-ust-console",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "CINÈST",
+      "POVISON",
+      "Core E1",
+      "Hisense L9Q",
+      "Spectra Projection Phoenix",
+      "超短焦投影機",
+      "電動投影機櫃",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "CINÈST",
+      "POVISON",
+      "Hisense",
+      "Spectra Projection",
+      "KLH"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2578,
+    "source_name": "投影時代",
+    "title_zh": "極米、光峰、安克創新等11家上市公司發布2026年三季報，投影產業分化加劇",
+    "summary_zh": "本文彙整了極米科技、光峰科技、安克創新與聯合光電等11家半導體顯示與投影產業上市公司2026年前三季財報。極米受惠海外市場強勁增長，Q3營收增19.9%、扣非淨利翻倍，並於IFA展出AURA 3系列4K雷射電視；光峰主動收縮車載與C端規模以聚焦上游核心器件，營收下滑但虧損收縮；安克創新前三季營收261.4億元，海外發售Nebula X1S 4K三色雷射投影；聯合光電前三季度扭虧為盈，並加速推進新型投影鏡頭與Micro-LED光機量產。",
+    "category": "市場數據",
+    "importance": 5,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/10/393134216518.shtml",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "三季報",
+      "極米科技",
+      "光峰科技",
+      "安克創新",
+      "聯合光電",
+      "海外市場",
+      "雷射投影",
+      "財務表現"
+    ],
+    "mentioned_brands": [
+      "极米",
+      "光峰",
+      "安克创新",
+      "联合光电",
+      "福光股份",
+      "欧菲光",
+      "晶晨股份",
+      "豪威集团",
+      "联创电子",
+      "士兰微",
+      "中微公司",
+      "Anker",
+      "Nebula",
+      "宝马",
+      "奥迪",
+      "大众",
+      "丰田",
+      "本田",
+      "比亚迪",
+      "吉利",
+      "长安",
+      "长城",
+      "上汽",
+      "零跑"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2572,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "遊戲投影機 120Hz 與 60Hz 規格取捨討論",
+    "summary_zh": "Reddit 用戶在預算 400 美元的情況下，探討連接 PC 時應選擇支援 120Hz 高更新率但安裝彈性較差的遊戲投影機，還是具備鏡頭縮放與短焦等便利安裝特性但僅支援 60Hz 的機型。用戶主要遊玩模擬器與 3A 大作而非競技類遊戲，因此發文徵詢是否值得為了 120Hz 而犧牲安裝便利性。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjz474/120hz_vs_60hz_projector_for_gaming/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "120Hz",
+      "60Hz",
+      "遊戲投影機",
+      "預算",
+      "更新率"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2571,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 H30 Pro、海信 C2 Ultra 與明基 W2720i 投影機選購比較討論",
+    "summary_zh": "Reddit 用戶發起討論，尋求在明亮房間使用、搭配 70 吋小螢幕與桌面擺放的第一台投影機建議，比較機型包含極米 H30 Pro、海信 C2 Ultra 與明基 W2720i。該用戶主要搭配 PS5 Pro 進行單人遊戲，追求類似 OLED 的有機色彩表現，並尋求其他潛在的購買推薦。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjpg2t/xgimi_h30_pro_vs_hisense_c2_ultra_vs_benq_w2720i/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "極米 H30 Pro",
+      "海信 C2 Ultra",
+      "明基 W2720i",
+      "投影機選購",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Hisense",
+      "BenQ",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2570,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 C2 Ultra 投影機的布幕推薦與畫質提升討論",
+    "summary_zh": "一名用戶在 Reddit 發文表示，自己購入了海信 C2 Ultra 投影機，目前在臥室的白牆上投射影像，並詢問是否值得購買布幕來極大化影像品質。由於其臥室環境黑暗且身處公寓，不希望安裝永久固定的壁掛布幕，因此尋求預算友善且能實質提升畫質的非固定式布幕推薦方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjkc46/screen_recommendations/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "海信 C2 Ultra",
+      "投影機布幕",
+      "畫質提升",
+      "預算布幕"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2569,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "為何專用燈泡網站的 Epson ELPLP97 燈泡售價比原廠官網還要貴？",
+    "summary_zh": "有 Reddit 用戶在討論區發文指出，長期使用的 Epson Home Cinema 1060 投影機需要更換 ELPLP97/ELPLP96 燈泡。令人疑惑的是，透過 Epson 官網或 B&H Photo Video 購買原廠燈泡價格為 76 美元，但知名的投影機燈泡經銷商 Purelandsupply 與 MyProjectorLamps 卻標價 117 美元，貴了約 40 美元。這顛覆了過去原廠售價通常較高的印象，引發網友探討這些通路商定價較高的原因。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjvjju/why_does_purelandsupply_lamp_cost_more_than/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "ELPLP97",
+      "ELPLP96",
+      "投影機燈泡",
+      "Purelandsupply",
+      "Epson",
+      "零售價格"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Purelandsupply",
+      "Myprojectorlamps",
+      "BHPhotoVideo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2566,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "澳洲消費者尋求預算兩千澳幣以內投影機：BenQ GP520 與 Hisense M2 Pro 比較",
+    "summary_zh": "澳洲消費者在Reddit發文尋求預算2000澳幣以內的4K投影機建議，主要在BenQ GP520與Hisense M2 Pro之間做選擇。使用者預計投射100吋螢幕，無環境光但牆面為白色，主要用途為觀看電影、動畫及遊戲，並希望能改善現有Viewsonic PX728-4K運轉噪音過大的問題，同時具備自動色彩校準功能。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjz0tt/gp520_or_hisense_m2_pro_australia/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "BenQ GP520",
+      "Hisense M2 Pro",
+      "4K投影機",
+      "澳洲市場"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Hisense",
+      "XGIMI",
+      "Viewsonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2564,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "H30發布後H20的價格會下降嗎？",
+    "summary_zh": "Reddit論壇用戶發文詢問，在新款投影機H30即將推出之際，現有的H20型號是否會在新品上市後出現價格調降的趨勢。該用戶表示H20的規格已符合其需求，因而關注後續的價格變化。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xk1qgk/will_h20_price_go_down_after_h30_releases/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "H20",
+      "H30",
+      "價格走勢",
+      "投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2563,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：如何清除Vamvo VF320投影機內部的灰塵",
+    "summary_zh": "一名用戶在Reddit發文求助，詢問如何清理Vamvo VF320投影機內部的灰塵。由於找不到該型號的操作說明書，且嘗試使用氣壓罐與小型電腦吸塵器皆無明顯改善，螢幕上出現的黑點已嚴重影響觀看體驗。用戶嘗試拆卸機身前蓋未果，擔心施力不當導致損壞，因此尋求社群協助。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjp5dl/can_anybody_tell_me_how_to_clean_the_dust_out_of/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "Vamvo VF320",
+      "投影機清潔",
+      "灰塵",
+      "維護"
+    ],
+    "mentioned_brands": [
+      "Vamvo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2562,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "網友詢問極光3組合與Horizon 30 Ultra Max投影機選購比較",
+    "summary_zh": "一名Reddit網友在專用視聽室預算約五千美元的情況下，正猶豫是否購買極光3投影機搭配120吋Ascend螢幕與內建音響的套裝組合，或是選擇Horizon 30 Ultra Max標準投影機並外接投影幕與音響系統。該網友主要用途為電影與4K 120Hz遊戲，空間條件為牆到牆137吋，考量到空間便利性與預算控制，傾向選擇極光3套裝方案，但也同時徵求選擇後者的優勢與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjznwg/horizon_30_ultra_max_or_the_aura_3_wascend_bundle/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "Aura 3",
+      "Horizon 30 Ultra Max",
+      "Ascend",
+      "UST projector",
+      "4K 120Hz"
+    ],
+    "mentioned_brands": [
+      "Aura",
+      "Horizon"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2580,
+    "source_name": "AV Network",
+    "title_zh": "C2G擴展連接產品線：重點解析",
+    "summary_zh": "C2G宣布擴展其連接解決方案產品組合，推出多款全新線纜與連接器產品。這些新品旨在提升影音系統的傳輸穩定性與相容性，滿足現代商業與教育環境中日益複雜的設備連接需求，包含投影機及顯示器等設備的整合應用。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.avnetwork.com/products/cables-connectors/c2g-expands-connectivity-portfolio-heres-what-to-know",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "C2G",
+      "連接器",
+      "影音線纜",
+      "影音整合"
+    ],
+    "mentioned_brands": [
+      "C2G"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2579,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "如何在投影機上遊玩 PS4：HDMI、音訊與大螢幕設定指南",
+    "summary_zh": "當貝官方發布指南，介紹如何將 PS4 或 PS4 Pro 連接到投影機以打造大螢幕遊戲體驗。文章詳細說明透過 HDMI 線連接主機與投影機的基本步驟、確認訊號源與輸入埠的方法，並提醒玩家標準 PS4 與 PS4 Pro 的解析度差異（如 1080p 與 4K 支援），以及如何調整影像輸出設定與音訊配置，確保畫面穩定與音效輸出正常。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/playing-ps4-on-a-projector-hdmi-sound-and-a-better-big-screen-setup",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "PS4",
+      "PS4 Pro",
+      "投影機連接",
+      "HDMI",
+      "大螢幕遊戲",
+      "解析度設定"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei",
+      "Sony",
+      "PlayStation"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2577,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "藝術學生詢問用於戶外大型投影與步行隧道的投影機推薦與預算",
+    "summary_zh": "一名藝術系學生在Reddit論壇發文詢問，尋找適合進行戶外大型建築投影（數層樓高）及步行隧道展示動畫的投影機方案，並希望預算能控制在1000美元以內或更低。這反映出非專業用戶對低成本、高流明戶外大型投影設備的實際需求與預算限制。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xj8roz/art_studentinstall_inquiry_for_larger_format/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "戶外投影",
+      "大型投影",
+      "投影機推薦",
+      "預算"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2574,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "LG CineBeam Q PU600U 適合用來玩遊戲嗎？用戶發文詢問輸入延遲",
+    "summary_zh": "有用戶在 Reddit 發文詢問 LG CineBeam Q PU600U 投影機的遊戲表現。發文者指出，根據客服提供的資訊（與舊款 HU710PB 歸在同一類），開啟遊戲優化器後的輸入延遲大約在 50 至 56 毫秒之間，擔心這對於休閒單机遊戲來說是否會產生明顯的畫面遲滯感，並同時考慮了極米 Xgimi Flip 4K 作為對比機型。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjgzjv/anyone_tried_gaming_on_lg_cinebeam_q_pu600u/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "LG CineBeam Q",
+      "PU600U",
+      "輸入延遲",
+      "遊戲投影機",
+      "Xgimi Flip 4K"
+    ],
+    "mentioned_brands": [
+      "LG",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2565,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "終於理解投影機的魅力了：新手預算2000美元內購買建議",
+    "summary_zh": "一名網友在參觀朋友剛架設好的家用投影機後，深刻體驗到大螢幕帶來的沉浸感，因此萌生在黑色星期五檔期購入人生第一台投影機的想法。他目前設定的預期價格在2000美元以下，幕布預算則另外計算，並在網路上尋求符合該預算區間的初學者機型推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xjacjj/okay_i_get_the_projector_thing_now/",
+    "publish_date": "2026-10-30",
+    "keywords": [
+      "家用投影機",
+      "黑色星期五",
+      "新手推薦",
+      "大螢幕體驗"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 2556,
     "source_name": "DigiTimes",
     "title_zh": "台虹與元太加速開發AI連線材料PTFE",
