@@ -1,5 +1,343 @@
 [
   {
+    "id": 2601,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米HORIZON 30系列預購熱烈：首批Pro售完，優惠延長至11月10日",
+    "summary_zh": "極米XGIMI宣布旗下的HORIZON 30系列投影機預購反應熱烈，首批HORIZON 30 Pro已售罄。為感謝消費者支持，官方將預購優惠價及專屬贈品延長至2026年11月10日。HORIZON 30 Pro與HORIZON 30 Ultra Max將於11月11日正式轉為現貨販售。針對11月1日起的新訂單，出貨日期將視庫存情況而定，現有預購訂單則享有優先出貨權利。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/horizon-30-series-pre-order-benefits-shipping-update",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "XGIMI",
+      "HORIZON 30 Series",
+      "HORIZON 30 Pro",
+      "HORIZON 30 Ultra Max",
+      "預購"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2595,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求XY固定框幕與超短焦投影機相容性資訊",
+    "summary_zh": "一名Reddit用戶正考慮升級其120吋編織幕，尋找XY品牌的固定框幕搭配超短焦（UST）投影機使用。由於超短焦投影的光線由下往上投射，框幕邊框（bezel）若過於突出容易在畫面底部產生陰影，該用戶正向社群詢問關於XY標準或極窄邊框的深度尺寸數據，以確認是否會影響超短焦投影的成像品質。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkipkt/anyone_have_an_xy_fixed_frame_and_an_ust/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "XY Screens",
+      "固定框幕",
+      "超短焦投影機",
+      "UST",
+      "布幕邊框"
+    ],
+    "mentioned_brands": [
+      "XY",
+      "SilverTicket"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2593,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "開發者分享萬聖節門面投影對位軟體，尋求投影機玩家回饋",
+    "summary_zh": "Projection Dreams 開發者在 Reddit 分享一款適用於 Mac 與 Windows 的付費萬聖節投影對位應用程式「Trick or Treat!」，售價 10 美元。該軟體透過四角拖曳控制點，將動畫角色精準對齊真實門框，需搭配電腦擴充顯示器與投影機使用。作者目前正募集不同投影機設定（特別是攜帶型機種）的實際使用回饋，並提供免費試用序號給有興趣測試的社群成員。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xks0jj/i_made_a_fourcorner_halloween_door_mapper_and/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "投影對位",
+      "萬聖節投影",
+      "投影軟體",
+      "攜帶型投影機"
+    ],
+    "mentioned_brands": [
+      "Projection Dreams"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2591,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手明基投影機燈泡外殼發現不明銀色液滴，用戶擔憂是否為汞",
+    "summary_zh": "一名用戶在Reddit討論區發文指出，他最近購買了一台更換過燈泡的二手明基投影機。在檢查燈泡模組與金屬外殼時，發現外殼上有白色粉塵殘留，並在傾斜時看到一滴約半粒到一粒米大小的銀色液體在金屬表面滑動，隨後滑入白色塑膠部件中。該用戶擔憂這可能是前一顆燈泡爆炸所釋放的液態汞，並詢問其他網友這是否可能是某種潤滑油或其它材料。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkp7np/found_a_strange_silver_liquid_like_droplet_on_my/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "BenQ",
+      "投影機燈泡",
+      "燈泡模組",
+      "汞",
+      "二手投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2589,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於Optoma UHZ50投影機搭配抗光幕與灰幕的選擇請益",
+    "summary_zh": "一名Reddit用戶發文詢問關於Optoma UHZ50投影機的銀幕升級方案。該用戶表示UHZ50在暗室表現優異，且在有光線的環境下觀看YouTube等較亮內容時表現也超出預期，但為了改善日間觀影效果、提升對比度，並在無環境光時加深黑色表現，正在尋求是否該購買抗光幕（ALR screen）、淺灰色銀幕或兩者兼具，並提到有人建議增益值應在0.8至1.1之間。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkpv36/alr_screens/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "ALR screen",
+      "抗光幕",
+      "灰幕",
+      "UHZ50",
+      "對比度"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2588,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "考慮從舊電視升級超短焦投影機，100吋銀幕花費5200加幣是否值得？",
+    "summary_zh": "一名Reddit網友發文詢問升級體驗，表示目前使用舊款49吋Sony電視，因尺寸過小且反應遲鈍，正認真考慮購買Aura Max 3超短焦投影機。搭配第三方抗光幕（ALR screen）的總預算約為5200加幣。由於空間限制，預計投影尺寸為100吋，發文者希望徵求有經驗的玩家意見，評估這筆高額花費在100吋畫面上是否符合效益。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkn4m5/thinking_of_converting_to_a_ust_is_the_cost_worth/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "超短焦投影機",
+      "UST",
+      "抗光幕",
+      "ALR screen",
+      "Aura Max 3"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2586,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求JVC NZ-500投影機銀幕挑選建議",
+    "summary_zh": "使用者發文尋求JVC NZ-500投影機的銀幕搭配建議。其專用視聽室即將漆成深海軍藍，目前投射距離約15.5英呎，可投出約131x74吋（17:9比例）的最大畫面。房間未來將極力遮光，90%用途為觀看實體與串流電影，正在猶豫尺寸、長寬比、顏色及增益值，並考慮先買平價銀幕過渡，兩年後再升級高階銀幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkubuk/need_help_deciding_what_projector_screen_for_jvc/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "JVC NZ-500",
+      "投影機銀幕",
+      "視聽室",
+      "投射距離",
+      "銀幕比例"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2585,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：BenQ TK700 4K投影機天花板吊掛需要40英尺長HDMI 2.0線材推薦",
+    "summary_zh": "一名Reddit用戶發文尋求BenQ 4K TK700投影機的長距離線材建議。該用戶已備妥投影機與銀幕並準備進行天花板吊掛安裝，但對於市面上價格差異極大的40英尺長HDMI 2.0線材不知該如何選擇，詢問社群是否有值得推薦的產品。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xktg77/i_got_the_projector_benq_4k_tk700_i_got_the/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "BenQ TK700",
+      "4K投影機",
+      "HDMI 2.0",
+      "線材推薦"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2583,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "ProjectorScreen.com 推出黑色星期五價格保證活動",
+    "summary_zh": "通路商 ProjectorScreen.com 的代表 Brian 在 Reddit 論壇發文宣布推出黑色星期五價格保證。消費者即日起即可提前購買投影機或投影幕設備，若商品在黑色星期五或網路星期一期間降價，官方將退還差價，旨在讓買家無需刻意觀望等待促檔。",
+    "category": "市場數據",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkray2/black_friday_pricing_guarantee_projectorscreencom/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "ProjectorScreen.com",
+      "黑色星期五",
+      "價格保證",
+      "促銷優惠",
+      "投影幕"
+    ],
+    "mentioned_brands": [
+      "ProjectorScreen.com"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2603,
+    "source_name": "ProjectorScreen",
+    "title_zh": "投影機需要多少流明？2026年最新選購與亮度指南",
+    "summary_zh": "本文為ProjectorScreen網站發布的2026年投影機亮度選購指南，詳細探討投影機流明對螢幕實際表現的影響。內容涵蓋現代雷射螢光與RGB三雷射光源（達3,000至10,000流明）的技術發展，並解析ANSI、ISO 21118、CVIA等多種流明標準。文章進一步分析不同應用場景（如家庭劇院、客廳、戶外及商用會議室等）所需的實際螢幕亮度（以英尺朗伯ftL與尼特nits計算），協助消費者在各種環境光條件下挑選最適合的投影設備。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/how-many-lumens-do-i-need-for-a-projector",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "投影機亮度",
+      "流明",
+      "雷射投影機",
+      "RGB三雷射",
+      "ANSI流明",
+      "ISO 21118",
+      "CVIA",
+      "尼特",
+      "英尺朗伯"
+    ],
+    "mentioned_brands": [
+      "ProjectorScreen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2598,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "XBJ Android投影機原廠設定與工程模式詢問",
+    "summary_zh": "有用戶在TikTok購入XBJ A5 Pro Android投影機後，發現其伽瑪值設定異常，導致呈現出虛假的HDR效果，且一般畫質調整無法改善。用戶正尋求如何存取該設備的原廠工程設定模式，以解決畫質過度調整的問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xk4y7u/xbj_android_projector_factory_settings/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "XBJ A5 Pro",
+      "Android投影機",
+      "工程模式",
+      "畫質設定",
+      "伽瑪值"
+    ],
+    "mentioned_brands": [
+      "XBJ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2597,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "PS5連接極米Horizon 20投影機遭遇HDMI解析度問題",
+    "summary_zh": "有用戶反映將PS5連接至全新的極米XGIMI Horizon 20投影機時，使用10公尺長的HDMI 2.1光纖線僅能輸出1080p解析度，但改用短線測試則可正常顯示4K。經初步判斷可能與線材長度有關，用戶正尋求使用HDMI中繼器或模擬器來解決此訊號衰減問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xk6eyt/ps5_horizon_20_hdmi_issue/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20",
+      "PS5",
+      "HDMI 2.1",
+      "解析度"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2596,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vidda C2 Ultra 陸版投影機求助：如何開啟 ADB 與安裝自定義桌面？",
+    "summary_zh": "一名外國用戶發文尋求協助，表示其購入的中國版海信 Vidda C2 Ultra 智慧投影機（搭載 MT9679 晶片與 Android 11 系統），內建中文桌面且缺少 Google Play 商店與檔案管理員。用戶嘗試多種常見的開發人員選項解鎖方法均告失敗，目前正尋求社群協助，探討如何在此型號上啟用 ADB、透過 USB 安裝 APK 或更換第三方桌面啟動器。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkdshl/vidda_c2_ultra_chinese_version_android_11_has/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "Vidda C2 Ultra",
+      "海信",
+      "智慧投影機",
+      "Android 11",
+      "ADB",
+      "自定義桌面"
+    ],
+    "mentioned_brands": [
+      "Vidda",
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2594,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC NZ500 投影機的最大適用銀幕尺寸討論",
+    "summary_zh": "一名用戶在Reddit討論區發文，探討JVC DLA-NZ500投影機在14x20x9英尺視聽室中搭配130吋Studiotek G4微透聲銀幕的可行性。用戶指出原先想使用180吋但擔心亮度不足，同時比較了Epson QB1000與更高階的JVC NZ800，並提及Titan Noir Max的斑點與彩虹效應問題，尋求關於NZ500極限銀幕尺寸與其他機種的建議。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkdk5a/biggest_screen_size_for_nz500/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "NZ500",
+      "JVC",
+      "QB1000",
+      "Epson",
+      "家用投影機",
+      "銀幕尺寸"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "Epson",
+      "Titan"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2587,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米雷射超短焦投影機的隱藏趣味功能",
+    "summary_zh": "有用戶發現極米 Mira RGB 雷射超短焦投影機具備一項趣味的隱藏功能，竟然可以作為寵物貓咪的雷射眼充電站，這是一篇來自 Reddit 論壇的趣味分享與用戶心得。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xk9on0/secret_hidden_laser_ust_function/",
+    "publish_date": "2026-10-31",
+    "keywords": [
+      "極米",
+      "雷射投影機",
+      "超短焦",
+      "XGIMI"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2582,
     "source_name": "ZNDS投影頻道",
     "title_zh": "極米在日本推出Elfin Flip Pro（New）：搭載三色激光與1000 ISO流明",
