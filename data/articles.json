@@ -1,5 +1,813 @@
 [
   {
+    "id": 2646,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下BMZ51SC雷射商務投影機特價促銷39760元",
+    "summary_zh": "松下PT-BMZ51SC商務雷射投影機近日在通路商「格林德益」展開特價促銷活動，優惠價格為新台幣或人民幣39760元。該款投影機具備5200流明高亮度、雷射光源以及雙HDMI介面等產品亮點，店家位於北京市海淀區中關村，提供有採購需求的消費者前往選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684452.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-BMZ51SC",
+      "雷射投影機",
+      "商務投影",
+      "促銷價格"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2645,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BHZ511C雷射投影機北京促銷，售價43260元",
+    "summary_zh": "松下PT-BHZ511C高亮度雷射投影機近日在北京通路商家「格林德益」進行特價促銷，優惠售價為新台幣換算後的43260元人民幣。該款投影機具備5200流明高亮度、採用先進雷射光源技術，並支援自動調整優化圖像功能，提供優異的畫質表現，吸引有採購需求的消費者前往北京市洽詢選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684451.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-BHZ511C",
+      "雷射投影機",
+      "促銷",
+      "5200流明"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2644,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BME700C雷射投影機中關村在線促銷價40460元",
+    "summary_zh": "松下PT-BME700C高畫質雷射投影機近日於中關村在線商家「格林德益」進行特價促銷，優惠價格為人民幣40460元。該款投影機主打7000流明亮度、雷射光源，具備靈活安裝與簡便操作等產品亮點，適合有商務或工程安裝需求的消費者選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684449.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-BME700C",
+      "雷射投影機",
+      "7000流明",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2643,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-A6U北京特價32200元",
+    "summary_zh": "ROLY RL-A6U投影機近期於北京經銷商「偉業投影」展開特價促銷活動，優惠價格為人民幣32200元。該機型主打簡約造型、輕巧設計以及真實色彩表現，實體店面位於北京市海澱區中成大廈，提供有興趣的消費者直接前往選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684448.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "ROLY",
+      "RL-A6U",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2642,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克SNP-LC46DHW北京特價促銷11550元",
+    "summary_zh": "根據中關村線上報導，索諾克（Sonnoc）SNP-LC46DHW投影機近日於北京經銷商「偉業投影」展開特價促銷活動，優惠售價為人民幣11550元。商家地址位於海澱區海澱19-1號中成大廈7層，提供有意向的消費者前往現場洽詢與選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684447.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索諾克",
+      "SNP-LC46DHW",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "索諾克"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2641,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-AC40LU 北京報價 12550 元",
+    "summary_zh": "索諾克 SNP-AC40LU 投影機近日於北京地區商家「偉業投影」進行特價促銷，優惠價格為人民幣 12550 元。有興趣的消費者可前往北京市海淀區中成大廈 7 層實地洽詢詳細優惠資訊。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684446.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索諾克",
+      "SNP-AC40LU",
+      "投影機",
+      "行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "偉業投影"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2640,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-GMZ510C激光超短焦投影機促銷，提供5200流明",
+    "summary_zh": "松下PT-GMZ510C投影機於中關村在線商家「格林德益」進行特價促銷活動，採價格面議方式銷售。該款投影機具備5200流明亮度、WUXGA解析度以及雷射光源，支援白天開窗直投的使用需求，商家地址位於北京市海淀區中關村東路。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684445.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-GMZ510C",
+      "激光投影機",
+      "超短焦",
+      "5200流明"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2639,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 EX575 投影機特價促銷 5999 人民幣",
+    "summary_zh": "索尼 EX575 投影機近日在通路商家「格林德益」展開特價促銷活動，優惠售價為 5999 人民幣。該款投影機主打 4200 流明亮度與 XGA 解析度，並採用 3LCD 投影技術、超高壓汞燈光源以及支援手動變焦功能。實體店面位於北京市海淀區中關村東，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684444.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索尼",
+      "EX575",
+      "3LCD",
+      "投影機行情",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2638,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基E585北京促銷價6000元",
+    "summary_zh": "明基E585投影機近期在北京地區的經銷商「偉業投影」展開特價促銷活動，優惠售價為人民幣6000元。該款產品主打高清畫質表現，並具備四向校正與支援側投等實用功能，實體店面位於海淀區中成大厦。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684443.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "明基",
+      "E585",
+      "投影機",
+      "促銷行情",
+      "零售價格"
+    ],
+    "mentioned_brands": [
+      "明基"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2637,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼EW575投影機4200流明WXGA激光投影 促銷價6999元",
+    "summary_zh": "索尼EW575雷射投影機近日於北京商家「格林德益」展開特價促銷，優惠售價為人民幣6999元。該機款具備4200流明亮度與WXGA解析度規格。有興趣的買家可前往位於北京市海淀區中關村東路66號世紀科貿大廈C2301的實體店面進行詳細洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684442.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索尼",
+      "EW575",
+      "雷射投影機",
+      "促銷",
+      "4200流明"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2636,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基 BH2800 投影機北京促銷價 5500 元",
+    "summary_zh": "根據中關村線上報導，明基 BH2800 投影機近日在北京經銷商「偉業投影」展開特價促銷活動，優惠價格為人民幣 5500 元。有興趣的消費者可前往北京市海澱區中成大廈 7 層洽詢詳細規格與優惠內容。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684441.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "明基",
+      "BH2800",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2635,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼VPL-P501XZ雷射投影機北京促銷價10999元",
+    "summary_zh": "索尼VPL-P501XZ投影機近日於北京商家「格林德益」進行特價促銷，優惠售價為新台幣合算或人民幣10999元。該款投影機具備5000流明亮度與雷射光源、XGA解析度規格，商家地址位於北京市海淀區中關村東路66號世紀科貿大廈C2301，提供有興趣的消費者前往現場洽詢選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684440.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索尼",
+      "VPL-P501XZ",
+      "雷射投影機",
+      "5000流明",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2634,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L530U 北京地區促銷價 14,000 元人民幣",
+    "summary_zh": "根據中關村線上報導，愛普生 CB-L530U 雷射工程投影機近日在經銷商「偉業投影」展開特價促銷，優惠價格為 14,000 元人民幣。有興趣的消費者可前往北京市海澱區中成大厦7層實地洽詢詳細的促銷方案與規格資訊。",
+    "category": "市場數據",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684439.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "愛普生",
+      "CB-L530U",
+      "投影機行情",
+      "促銷價",
+      "雷射投影機"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2633,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L690U北京促銷價21000元",
+    "summary_zh": "愛普生CB-L690U投影機近日在北京經銷商「偉業投影」展開特價促銷，優惠售價為人民幣21000元。該款投影機主打恆定輸出、迅速開機以及清晰圖像等產品亮點。有興趣的消費者可直接前往位於北京市海澱區海澱19-1號的實體店面洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684438.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "愛普生",
+      "CB-L690U",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2632,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-TW6250T 投影機北京促銷價 6000 元",
+    "summary_zh": "愛普生投影機型號 CH-TW6250T 近日在北京地區進行特價促銷活動，由商家「偉業投影」開出優惠價 6000 人民幣。該款產品主打 4K 畫質、智慧投影以及無線投屏功能，實體店面位於北京市海澱區海澱 19-1，提供有興趣的消費者直接前往選購。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684437.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "愛普生",
+      "CH-TW6250T",
+      "4K投影機",
+      "促銷行情"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "偉業投影"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2631,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CB-L260F投影機北京特價促銷13100元",
+    "summary_zh": "根據中關村線上報導，愛普生CB-L260F雷射投影機近日在北京商家「偉業投影」進行特價促銷，優惠售價為人民幣13100元。該款投影機具備1080P解析度與4600流明亮度，採用雷射光源技術，商家地址位於海澱區海澱19-1號。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684436.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "愛普生",
+      "CB-L260F",
+      "雷射投影機",
+      "特價促銷",
+      "4600流明"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2630,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BMZ62C投影機北京特價促銷15000元",
+    "summary_zh": "根據中關村在線報導，松下PT-BMZ62C投影機目前在北京地區展開特價促銷活動，由經銷商「偉業投影」提供優惠價人民幣15000元。該機型主打安裝簡易、適配靈活以及節能環保等產品亮點，實體店家位於北京市海淀區海淀19-1號，提供有興趣的消費者直接前往選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684435.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "投影機行情",
+      "促銷價",
+      "偉業投影"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2629,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-P530HZ 雷射投影機中關村特價促銷 16999 元",
+    "summary_zh": "索尼 VPL-P530HZ 工程雷射投影機目前於北京商家「格林德益」進行特價促銷，優惠價格為人民幣 16999 元。該款投影機具備 WUXGA 解析度、5800 流明中心亮度，以及自動識別信號等產品亮點，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684431.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索尼",
+      "VPL-P530HZ",
+      "雷射投影機",
+      "5800流明",
+      "WUXGA"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2628,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-P630HZ 雷射投影機促銷，特價 23999 元人民幣",
+    "summary_zh": "索尼推出 VPL-P630HZ 高清雷射投影機，近日於經銷商「格林德益」展開特價促銷活動，優惠價為 23999 元人民幣。該機型具備 WUXGA 解析度、7000 流明中心亮度以及鏡頭位移等產品亮點，提供有採購需求的消費者參考，實體店面位於北京市海淀區。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684417.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "索尼",
+      "VPL-P630HZ",
+      "雷射投影機",
+      "7000流明",
+      "WUXGA"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "格林德益"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2627,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-MK625 雷射投影機促銷，特價 41999 元",
+    "summary_zh": "光峰科技旗下的 AL-MK625 4K 激光投影機近日於北京中關村商家「格林德益」進行特價促銷，優惠價為 41999 元人民幣。該款投影機具備 6200 流明亮度、超高清 4K 解析度、內建安卓系統、支援 3D 功能以及八點校正等產品亮點，提供有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684416.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "光峰",
+      "AL-MK625",
+      "4K投影機",
+      "雷射投影機",
+      "6200流明"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2626,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰MU530雷射投影機中關村特價促銷 具備5200流明與4K解析度",
+    "summary_zh": "光峰科技推出的AL-MU530工程與商用投影機近日於中關村在線商家「格林德益」展開特價促銷活動，具體售價採價格面議。該款投影機主打高亮度5200流明，採用先進的雷射光源技術，支援4K超清解析度，能呈現豐富且準確的色彩表現，適合追求高品質畫質的用戶選購，商家地址位於北京市海淀區中關村東路66號。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684414.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "光峰",
+      "AL-MU530",
+      "雷射投影機",
+      "5200流明",
+      "4K超清"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "格林德益"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2625,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-MK530P 4K雷射投影機中關村特價促銷 18999 人民幣",
+    "summary_zh": "光峰科技旗下 AL-MK530P 4K雷射投影機近日於中關村在線商家「格林德益」展開特價促銷活動，優惠售價為 18999 人民幣。該款產品主打雷射光源、4K 超清畫質以及九點校正等功能亮點，商家店面位於北京市海淀區中關村東，提供有興趣的消費者直接前往選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684413.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "光峰",
+      "AL-MK530P",
+      "4K投影機",
+      "雷射投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "光峰",
+      "格林德益"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2624,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰MU630雷射投影機中關村在線特價促銷",
+    "summary_zh": "光峰科技旗下的AL-MU630高畫質雷射投影機，近日於北京中關村商家「格林德益」展開特價促銷活動，採價格面議方式銷售。該款投影機主打激光光源技術、豐富色彩表現以及4K超清解析度，提供有採購需求的消費者前往北京市海淀區中關村東路現場洽詢選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684412.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "光峰",
+      "AL-MU630",
+      "雷射投影機",
+      "4K超清",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2623,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-W320 激光投影機北京特價促銷 4521 元",
+    "summary_zh": "光峰 AL-W320 激光投影機近日於北京商家「格林德益」進行特價促銷，優惠價為新台幣換算約 4521 元人民幣。該款投影機具備 3600 流明亮度、寬屏顯示，產品亮點包含支援無線同屏、輕薄便攜設計以及超長光源壽命，提供有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684411.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "光峰",
+      "AL-W320",
+      "激光投影機",
+      "3600流明",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2622,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "光峰 AL-W360 4000流明寬屏雷射投影機中關村線上特價促銷",
+    "summary_zh": "光峰科技旗下 AL-W360 雷射投影機近日於中關村線上展開特價促銷，優惠價為人民幣6899元。該機型具備4000流明亮度、寬屏顯示、輕薄便携以及雷射光源等產品亮點，提供有採購需求的消費者參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684409.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "光峰",
+      "AL-W360",
+      "雷射投影機",
+      "4000流明",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2621,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BMZ62C 投影機 6500流明雷射高清新品促銷",
+    "summary_zh": "松下推出 PT-BMZ62C 投影機，具備 6500 流明亮度與雷射高清規格，強調輕鬆安裝、靈活適配以及節能環保等產品亮點。目前該款機型於北京中关村商家「格林德益」展開特價促銷活動，採價格面議方式銷售，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684137.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "雷射投影機",
+      "6500流明",
+      "新品促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2620,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BMZ41C 激光商務投影機中關村特價促銷 39060 元",
+    "summary_zh": "松下 PT-BMZ41C 4500流明高清激光商務投影機近期在北京中關村商家「格林德益」進行特價促銷活動，優惠售價為 39060 元人民幣。該款投影機主打高亮度與雷射光源技術，提供商務辦公與高畫質投影需求，目前於北京市海淀區中關村實體通路展售中。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12684135.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "松下",
+      "PT-BMZ41C",
+      "激光投影機",
+      "商務投影",
+      "4500流明"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2619,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-E6U北京促銷價42000元",
+    "summary_zh": "ROLY RL-E6U投影機近期於北京經銷商「偉業投影」展開特價促銷，優惠售價為42000元人民幣。該款產品主打超高亮度、高效實用以及輕巧便攜等亮點，商家位於北京市海淀區中成大廈，提供有興趣的消費者直接前往選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12683781.html",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "ROLY RL-E6U",
+      "投影機行情",
+      "促銷價",
+      "高亮度投影機"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2618,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 C3 Ultra Max 投影機 2026年11月抽獎活動",
+    "summary_zh": "通路商 ProjectorScreen 於 2026 年 11 月推出海信 C3 Ultra Max 4K 智慧投影機的抽獎活動。該款投影機具備 5000 流明亮度、4K RGB 三色雷射光源、HDR10 與 IMAX Enhanced 認證，並附帶雲台支架與內建喇叭。活動開放美國 18 歲以上居民參與，於 11 月 25 日截止。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-c3-ultra-max-giveaway-november-2026",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "Hisense C3 Ultra Max",
+      "ProjectorScreen",
+      "4K雷射投影機",
+      "5000流明",
+      "抽獎活動"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "ProjectorScreen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2614,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機布幕收回時出現異常聲響與歪斜問題探討",
+    "summary_zh": "一名用戶在Reddit發文求助，指出其使用的Drapor 85吋投影機布幕在一次意外快速彈回後，出現運作聲音變大、手動拉伸變得困難，以及布幕收起時歪斜露出白色邊緣的問題。該布幕為放置倉庫數月的全新產品，由於頻繁使用且曾發生自動高速彈回的情況，用戶擔心造成損壞並尋求修復建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlczi7/screen_is_loud_and_crooked_after_flying_up/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "投影機布幕",
+      "Drapor",
+      "85吋",
+      "布幕故障"
+    ],
+    "mentioned_brands": [
+      "Drapor"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2613,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion VisionMaster Pro 播放 4K Remux 影片的硬體連接討論",
+    "summary_zh": "有用戶在 Reddit 發文討論使用 Valerion VisionMaster Pro 投影機播放高碼率 70-100+ Mbps 的 4K remux 影片時遇到卡頓問題。由於車庫 Wi-Fi 不穩且外接硬碟直讀或串流 App 均無法流暢播放，嘗試 Google TV Streamer 4K 卻又遇到 HDMI-CEC 設定與選單衝突而退貨。目前僅能透過 HDMI 連接工作電腦獲得完美播放效果，用戶正在尋找如 NVIDIA Shield TV Pro、高階播放器或迷你 PC 等永久解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlasqv/valerion_visionmaster_pro_4k_remuxes/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "Valerion VisionMaster Pro",
+      "4K remux",
+      "播放器",
+      "HDMI-CEC"
+    ],
+    "mentioned_brands": [
+      "Valerion",
+      "Google",
+      "Plex",
+      "Kodi",
+      "VLC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2612,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "NexiGo Nova Mini Lite 投影機預購遭取消，用戶反應客服無回應",
+    "summary_zh": "有用戶在 Reddit 發文指出，其於 10 月 29 日預購的 NexiGo Nova Mini Lite 投影機在隔天無預警遭到取消且未說明原因，雖然退款已全數退回，但透過電子郵件與 Instagram 聯繫官方客服皆未獲得回應。猜測可能與庫存短缺或使用德拉瓦州轉運倉地址有關。目前官方尚未對此大規模取消預購的狀況做出正式說明，引發消費者關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlgjto/anyone_else_having_issues_with_nexigo_nova_mini/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "NexiGo",
+      "Nova Mini Lite",
+      "預購",
+      "客服",
+      "庫存"
+    ],
+    "mentioned_brands": [
+      "NexiGo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2610,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "臥室投影機配置評估與Epson Home Cinema 2350選型討論",
+    "summary_zh": "Reddit用戶在r/projectors發文尋求臥室投影機配置建議。考量空間限制（約9x14呎房間、窗戶寬度限制約60吋對角線畫面、投影距離9呎），傳統短焦或超短焦方案不適用，需尋找具備較長投射比的機型。目前首選為Epson Home Cinema 2350，其具備1.32至2.15的光學變焦與垂直鏡頭位移功能，特價約1,000美元，符合1,500美元以內的總預算。內文並探討數位縮放的畫質損失、小型對拉幕選擇以及頭部上方安裝的風扇噪音等問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlbgjs/sanity_check_on_minimal_bedroom_setup/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "Epson Home Cinema 2350",
+      "投射比",
+      "光學變焦",
+      "臥室劇院",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Xgimi",
+      "Nebula"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2608,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "2026年預算千美元內的投影機選購諮詢",
+    "summary_zh": "使用者在Reddit論壇發文詢問，計畫在2026年尋找預算低於1000美元的投影機，主要用於教會青年團契播放電影、電玩遊戲及教學使用。使用環境為光源充足度低的暗室，投影距離空間充足。目前對Optoma HD146x型號感興趣，但面對眾多市面選項感到迷茫，尋求社群推薦最佳替代方案與採購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xle15t/1000_projector_in_2026/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "投影機選購",
+      "千元預算",
+      "教會應用",
+      "Optoma HD146x"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2615,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion plus 2 投影機價格詢問",
+    "summary_zh": "有用戶在 Reddit 討論區發文詢問，以 600 美元購買 Valerion plus 2 投影機是否為合理價格，並考慮是否該等待黑色星期五的促銷活動。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xky1d3/valerion_plus_2/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "Valerion plus 2",
+      "投影機",
+      "價格",
+      "黑色星期五"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2607,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "100吋投影機幕與100吋電視的抉擇：用戶使用心得與選購討論",
+    "summary_zh": "Reddit論壇用戶發文尋求娛樂室顯示設備建議，探討在空間限制下，應選擇XGIMI Horizon 20投影機搭配100吋電動幕，還是直接購買100吋的Samsung UA100M90H電視或77吋OLED電視。文中提及4K藍光光碟播放需求，並詢問投影機運作噪音及綜合優缺點，引發社群關於大尺寸投影與大電視性價比的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xkx6wa/100_inch_projector_screen_or_100_inch_tv/",
+    "publish_date": "2026-11-01",
+    "keywords": [
+      "XGIMI Horizon 20",
+      "100吋電視",
+      "投影機幕",
+      "Samsung UA100M90H",
+      "OLED"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2601,
     "source_name": "XGIMI官方",
     "title_zh": "極米HORIZON 30系列預購熱烈：首批Pro售完，優惠延長至11月10日",
