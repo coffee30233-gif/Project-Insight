@@ -1,5 +1,364 @@
 [
   {
+    "id": 2667,
+    "source_name": "投影時代",
+    "title_zh": "愛普生推出清亮全彩親子護眼系列投影機，主打3LCD技術與豐富K12學習資源",
+    "summary_zh": "愛普生針對居家網課與親子教育需求，推出清亮全彩親子護眼系列投影機（CH-TW5750與CH-TW6280T）。該系列採用合光3LCD技術與LumiPure煦彩光源，有效避免彩虹效應並減輕用眼負擔。其中CH-TW5750具備2700流明亮度，定位親民實用；CH-TW6280T則提供4K超清畫質與2800流明亮度，並獲得TÜV萊茵護眼認證。兩款機型皆透過「愛普生家用投影小助手」內建十餘款涵蓋早教启蒙至K12全科的優質學習資源，兼顧大屏護眼與居家學習娛樂需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/122668225795.shtml",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "愛普生",
+      "CH-TW5750",
+      "CH-TW6280T",
+      "3LCD",
+      "護眼投影機",
+      "K12教育",
+      "LumiPure"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "TÜV 萊茵",
+      "貝瓦兒歌",
+      "騰訊視頻"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2661,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機規格誤導與亮度指標的討論",
+    "summary_zh": "一名Reddit用戶發文探討投影機市場上的亮度規格混淆現象。他指出自己現有的Epson PowerLite 118標示為3800流明，但許多價格較高的機種（例如售價2000美元的Anker Nebula Cosmos Laser 4K）在紙面亮度上反而較低，質疑為何平價或商教投影機的流明數似乎高於高階家用機種，並對ANSI流明與普通流明的差異產生疑惑，引發關於投影機規格標示膨風的討論。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xm4b6c/misleading_projector_specifications/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "流明",
+      "ANSI流明",
+      "規格標示",
+      "Epson PowerLite 118",
+      "Nebula Cosmos Laser 4K"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Nebula",
+      "Yaber"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2659,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "考慮入手極米 XGIMI Halo+ GTV，其實際表現如何？",
+    "summary_zh": "有用戶在 Reddit 討論區發文，尋求關於極米（XGIMI）Halo+ GTV 投影機的實際使用性能評價與真實體驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xm6fc3/thinking_of_getting_the_xgimi_halo_gtv_how_does/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "XGIMI",
+      "Halo+ GTV",
+      "投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2658,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "峰米菲涅爾抗光幕使用心得：雷射斑點無解、組裝瑕疵與客服爭議",
+    "summary_zh": "一名用戶分享搭配海信PX4雷射電視與峰米（ForMovie）100吋固定式菲涅爾抗光幕的使用心得。由於雷射斑點問題未獲改善，該用戶已退回投影機並改用奧圖碼D2。針對峰米抗光幕，用戶指出其具有正面畫質自然等優點，但也遭遇多項嚴重痛點：安裝說明不明導致容易裝反、彈簧拉力調整後仍有皺褶與枕形失真、螢幕出現因出貨捲曲造成的垂直線瑕疵，且官方售後政策嚴苛拒絕退款。此次經驗讓用戶決定未來不再購買峰米產品，並考慮改用非超短焦投影機。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xm19g5/formovie_fresnel_screen_speckle_and_next_steps/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "峰米",
+      "ForMovie",
+      "菲涅爾抗光幕",
+      "雷射斑點",
+      "海信PX4",
+      "奧圖碼D2",
+      "布幕瑕疵"
+    ],
+    "mentioned_brands": [
+      "ForMovie",
+      "峰米",
+      "Hisense",
+      "海信",
+      "Optoma",
+      "奧圖碼",
+      "Vividstorm",
+      "Nexigo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2657,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Lyncast X1 投影機 Whale OS 開發者模式與 APK 下載問題",
+    "summary_zh": "使用者在 Reddit 詢問關於 Lyncast X1 投影機搭載的 Whale OS 系統，在開啟開發者模式與下載 APK 應用程式時遇到困難，尋求社群協助。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmczh6/whale_os_dev_mode_unable_to_download_apks/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Whale OS",
+      "Lyncast X1",
+      "開發者模式",
+      "APK"
+    ],
+    "mentioned_brands": [
+      "Lyncast"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2656,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於150吋投影畫面的舒適觀看距離提問",
+    "summary_zh": "一名Reddit用戶發文詢問，計劃在深度3.8公尺的房間內，使用Valerion VisionMaster Pro 2投影機投射150吋、16:9比例的畫面。該用戶表示自己習慣使用三星G9 OLED 49吋超寬螢幕進行遊戲，因此擔憂150吋大畫面在3.8公尺的距離下是否會過近並造成眼睛疲勞，並尋求社群使用者的建議與看法。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xm7zui/question_about_the_a_confort_distance_for_150/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Valerion VisionMaster Pro 2",
+      "150吋",
+      "觀看距離",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2655,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：搭配Aura 3投影機是否真的需要抗光幕（ALR screen）？",
+    "summary_zh": "一名用戶在Reddit討論區發文指出，計畫購買新款Aura 3投影機並安裝在可完全遮光的地下室家庭劇院中，該環境僅有書架燈等微弱光源。使用者詢問在此特定條件下，是否非得購買抗光幕（ALR screen），抑或能繼續使用手邊現有的普通白色投影幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xm1r26/how_important_is_an_alr_screen/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "ALR screen",
+      "抗光幕",
+      "Aura 3",
+      "投影幕",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Aura 3"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2652,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "超短焦投影機的布幕尺寸、材質與類型選擇諮詢",
+    "summary_zh": "一名Reddit用戶發文尋求關於剛購入的Atherion Max超短焦投影機之布幕建議。其使用環境位於閣樓，多數在晚間觀賞電影、體育賽事與串流影片，並考量到150吋的大尺寸需求。文章中探討了固定式與電動地升式抗光幕（ALR）的取捨，包含Spectra Projection Equinox 150等產品選項，以及預算與居家裝潢協調性等實際使用考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xm9xbk/screen_size_fabric_and_type_suggestions_for_ust/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "超短焦投影機",
+      "抗光幕",
+      "布幕尺寸",
+      "Atherion Max",
+      "電動地升幕"
+    ],
+    "mentioned_brands": [
+      "Atherion",
+      "Spectra Projection"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2651,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson LS12000 投影機銀幕挑選求助",
+    "summary_zh": "一名 Epson LS12000 用戶在 Reddit 發文尋求地下室視聽空間的銀幕搭配建議。該空間預計設置 150 吋銀幕，投影距離約 17 至 18 呎，環境包含具備遮光窗簾的窗戶以及分區頂燈。用戶考量到可能在開啟部分後方光源或微光環境下觀看，因此詢問白色、灰色、抗光幕（ALR）或增益值的選擇考量，並提及過去曾使用 Elite Screens 品牌的經驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmh5rx/projector_screen_help_for_epson_ls12000/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Epson LS12000",
+      "投影機銀幕",
+      "抗光幕",
+      "Elite Screens",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Elite Screens"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2650,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找新投影機：用戶退貨Epson 3800並考慮Xgimi Horizon 20 Pro",
+    "summary_zh": "一名Reddit用戶表示剛購買並退貨了Epson 3800投影機，認為其播放體育賽事特別是冰球的效果不佳，表現甚至不如舊款的BenQ W7000。目前該用戶正考慮購入Xgimi Horizon 20 Pro，並在論壇上徵詢其他使用者的看法與意見。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmeqqq/in_the_market_for_a_new_projector/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Epson 3800",
+      "BenQ W7000",
+      "Xgimi Horizon 20 Pro",
+      "使用者心得"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "BenQ",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2649,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "120吋投影幕與XGimi Horizon 20投影機的最佳設置諮詢",
+    "summary_zh": "Reddit論壇用戶發文詢問關於120吋投影幕與XGimi Horizon 20投影機的最佳安裝配置。用戶希望在租屋處打造娛樂室，尋找預算低於1000美元的電動下拉式投影幕，並探討在無法拉明線的情況下，如何連接PS5、Apple TV與家庭劇院系統及進行投影機固定。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmiowq/whats_the_optimal_setup_if_i_want_a_120_screen/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "XGimi Horizon 20",
+      "120吋投影幕",
+      "電動投影幕",
+      "投影機安裝"
+    ],
+    "mentioned_brands": [
+      "XGimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2647,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 投影機動態畫面表現引發用戶失望與求助",
+    "summary_zh": "有印度用戶購買了極米 XGIMI Horizon 20 投影機，雖對畫質感到滿意，但在播放 4K 或 8K 快速動態音樂影片及觀看足球賽事時，出現明顯的畫面遲滯與拖影問題，即使調整各級 MEMC 設定或透過 Mac 的 HDMI 2.1 播放仍無法改善，表現不如預期，目前正在尋求解決方案並考慮選購投影幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmhsri/completely_disappointed_with_xgimi_horizon_20/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20",
+      "MEMC",
+      "動態畫面",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2666,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC NZ500 投影機安裝高度與線材孔位規劃問題",
+    "summary_zh": "一名 JVC NZ500 投影機用戶在 Reddit 發文詢問安裝高度的計算方式。其配置為鏡頭到銀幕距離 15.5 英尺、150 吋對角線銀幕，觀賞距離 10 英尺。由於牆面目前為開放式木樑結構，正尋求如何精確定位投影機掛載高度，以利規劃電源插座與線材盒的位置。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlsjk5/projector_height/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "JVC NZ500",
+      "投影機安裝",
+      "投射距離",
+      "線材規劃"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2665,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生LCD投影機討論",
+    "summary_zh": "這是一篇來自Reddit論壇投影機版面的簡短貼文，僅包含關於愛普生LCD投影機的標題與連結，並無提供具體的新品規格、市場數據或技術細節等實質內容。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Maybe",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlws23/epson_lcd_projector/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "EPSON",
+      "LCD投影機",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2664,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "請給我一些建議與協助：Wanbo TT 投影機出現故障問題",
+    "summary_zh": "一名 Reddit 用戶發文求助，指出他在今年 8 月購入的 Wanbo TT 投影機出現了異常狀況，並詢問這是否屬於硬體故障設備。文章主要為個人的售後與產品使用問題求助，並未涉及產業趨勢、市場數據或重大技術突破。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlydyd/please_give_me_some_advices_and_help/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "Wanbo TT",
+      "故障",
+      "用戶求助"
+    ],
+    "mentioned_brands": [
+      "Wanbo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2663,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "紅外線訊號是否能穿透投影幕？",
+    "summary_zh": "Reddit論壇用戶發文詢問關於家庭劇院設計的實務問題。由於投影幕將設置於放置DVD播放器與音響設備的視聽櫃前方，使用者擔憂投影幕材質是否會阻擋紅外線遙控器的控制指令，探討紅外線訊號穿透投影幕的可行性與相關規劃。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xlztz5/can_ir_transmit_through_a_screen/",
+    "publish_date": "2026-11-02",
+    "keywords": [
+      "投影幕",
+      "紅外線",
+      "遙控器",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 2646,
     "source_name": "ZOL投影機頻道",
     "title_zh": "松下BMZ51SC雷射商務投影機特價促銷39760元",
