@@ -1,5 +1,339 @@
 [
   {
+    "id": 2678,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "客廳便攜式投影幕推薦討論",
+    "summary_zh": "Reddit論壇用戶發文尋求客廳適用的135吋便攜式投影幕推薦，主要用於夜間電影欣賞，預算約為300美元。目前關注的型號包含售價285美元的JWSIT以及售價370美元的Elite Screens Yard Master 2，兩者評價皆不俗，並發文詢問其他品牌推薦與選購考量因素。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmzazx/portable_screen_for_living_room/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "投影幕",
+      "便攜式投影幕",
+      "135吋",
+      "Elite Screens",
+      "JWSIT"
+    ],
+    "mentioned_brands": [
+      "JWSIT",
+      "Elite Screens"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2677,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC DLA-X90RBU 投影機過熱問題求助",
+    "summary_zh": "一名用戶在 Reddit 論壇發文求助，其 JVC DLA-X90RBU 投影機近期使用數小時後會因過熱導致燈泡自動熄滅。用戶已確認風扇正常運轉、更換新燈泡、清理內部灰塵，並在高海拔模式下運行，但 AV 公司檢修後仍無法找出原因。用戶目前正尋求是否能透過改裝或升級風扇來解決散熱問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmzf00/my_jvc_dlax90rbu_projector_has_overheating_issues/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "JVC",
+      "DLA-X90RBU",
+      "過熱",
+      "散熱",
+      "燈泡"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2673,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Optoma PK31 相關規格詢問",
+    "summary_zh": "Reddit 用戶詢問關於奧圖碼 Optoma PK31 微型投影機的 3D 支援能力與 4K 亮度表現等相關技術規格問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xn1pgp/optoma_pk31_question_3d_support_4k_brigthnes/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "Optoma",
+      "PK31",
+      "3D支援",
+      "亮度"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2672,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶詢問DBPOWER G01投影機畫面出現橘色色偏問題",
+    "summary_zh": "有用戶在Reddit論壇發文求助，指出其使用的DBPOWER G01智慧投影機畫面出現異常的橘色色偏，且調整畫質設定與降低飽和度均無法改善。奇怪的是，畫面右下角顯示正常，其餘部分卻嚴重偏橘，詢問可能的原因與解決方式。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xn8ir7/does_anyone_know_why_my_projector_has_an_orange/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "DBPOWER G01",
+      "色偏",
+      "投影機故障",
+      "畫面問題"
+    ],
+    "mentioned_brands": [
+      "DBPOWER"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2671,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "家庭劇院空間選擇：超短焦（UST）與長焦投影機的抉擇",
+    "summary_zh": "一名用戶在Reddit論壇詢問關於家庭劇院投影機的選擇建議。該用戶計畫在地下室打造130吋投影螢幕，並考慮趁黑色星期五促銷購入新機。目前鎖定XGIMI Aura 3 Max超短焦投影機，但也猶豫是否應選擇如Horizon 30 Pro等長焦機型。儘管該空間具備充足的安裝距離且能達到全遮光效果，用戶對於在具備長焦安裝空間的前提下，選擇超短焦機型是否為明智之舉感到困惑，並尋求社群對於兩類技術在畫質與安裝便利性上的比較意見。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xn15qf/ust_over_long_throw_in_theater_room/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "超短焦投影機",
+      "長焦投影機",
+      "家庭劇院",
+      "XGIMI",
+      "投影螢幕"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2687,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技YR-L50UB激光投影機現貨特價促銷",
+    "summary_zh": "易仁科技推出的YR-L50UB激光投影機目前在中關村線上商家「易仁科技(核心合作伙伴)」進行特價促銷活動。該款商務會議投影機採用3LCD激光顯示技術，具備寬屏顯示特點，主打高色彩表現，適合作為商務會議投影優選，商家並提供專線電話供消費者諮詢詳細優惠價格。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12687538.html",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "易仁科技",
+      "YR-L50UB",
+      "激光投影機",
+      "3LCD",
+      "商務投影機"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2686,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技YR-CL7816投影機促銷 3LCD超清寬屏 報告廳演示設備",
+    "summary_zh": "易仁科技YR-CL7816投影機目前在中關村線上商家「易仁科技(核心合作伙伴)」展開特價促銷活動。該款設備定位於高亮度工程級激光投影機，採用3LCD超清寬屏設計，非常適合應用於報告廳等大型場域的演示設備需求，具體優惠價格與購機詳情可聯繫商家洽詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12687537.html",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "易仁科技",
+      "YR-CL7816",
+      "雷射投影機",
+      "工程投影機",
+      "3LCD",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2685,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-YP7803工程激光投影機熱賣促銷",
+    "summary_zh": "易仁科技推出的YR-YP7803高效能工程激光投影機，目前在中關村在線商家「易仁科技(核心合作伙伴)」進行特價促銷活動。此款投影機定位為會議投影主機，具備激光光源與工程級性能，適合大型會議室等商業應用場景。商家提供優惠價格，並提供專線聯絡電話供消費者諮詢詳細規格與採購方案。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12687536.html",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "易仁科技",
+      "YR-YP7803",
+      "工程投影機",
+      "激光投影機",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2684,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技 YR-MU440L 雷射投影機 商務教學優選",
+    "summary_zh": "易仁科技推出 YR-MU440L 雷射投影機，主打高清畫質與商務教學應用，具備高實用性。目前該款新機已在中關村線上核心經銷商「易仁科技」展開特價促銷活動，提供價格優惠，供有採購需求的商務與教育用戶參考諮詢。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12687535.html",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "易仁科技",
+      "YR-MU440L",
+      "雷射投影機",
+      "商務投影",
+      "教學投影"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2683,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技推出YR-JFH48UBST超短焦激光投影機，主打近距離大畫面教學應用",
+    "summary_zh": "易仁科技近期推出全新YR-JFH48UBST超短焦激光投影機，採用DLP顯示技術，主打近距離即可投射大畫面的教學應用場景。目前該款新機已在中关村在线的合作商家「易仁科技(核心合作伙伴)」展開特價促銷活動，為有採購需求的教育單位與商用客戶提供價格優惠方案。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12687532.html",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "易仁科技",
+      "YR-JFH48UBST",
+      "超短焦投影機",
+      "激光投影機",
+      "DLP"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2682,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "易仁科技YR-D45UB雷射投影機特惠，互動教學高清投影設備優選",
+    "summary_zh": "易仁科技推出YR-D45UB雷射投影機特惠活動，該款設備採用DLP雷射顯示技術，主打高清畫質，適合作為互動教學的高清投影設備優選。目前正透過中關村線上商家「易仁科技(核心合作伙伴)」進行促銷，詳細優惠價格與規格可透過商家電話聯繫諮詢。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1268/12687379.html",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "易仁科技",
+      "YR-D45UB",
+      "雷射投影機",
+      "DLP",
+      "互動教學"
+    ],
+    "mentioned_brands": [
+      "易仁科技"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2681,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 5050ub 在兩千美元價位帶是否有新對手？",
+    "summary_zh": "一名消費者正計劃建立120吋投影螢幕系統，目前在研究二手價約1700至2000美元的Epson 5050ub投影機，並尋求是否有如堅果（JMGO）或極米（XGIMI）等品牌的新機型能與之匹敵。文章同時探討運作噪音表現，並詢問從該款機種升級或替換的使用者經驗，目前處於前期研究階段。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmib0a/is_there_anything_new_that_rivals_the_epson/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Epson 5050ub",
+      "投影機升級",
+      "二手投影機",
+      "JMGO",
+      "XGIMI"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Sony",
+      "JMGO",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2679,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "歐盟地區預算約850歐元家用投影機選購諮詢",
+    "summary_zh": "一名歐洲消費者在網路論壇尋求預算約850歐元內的家用投影機推薦，用以取代電視並具備便攜性。文中提及已關注Hisense M2 Pro（售價850歐元）與JMGO N1S 4K（售價799歐元），並詢問兩者優劣及黑五檔期是否有更好價格。該討論反映中階便攜智慧投影機在歐洲市場的實際零售價格區間與用戶選購考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmqyd1/buying_projector_in_eu_max_around_850_euro/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Hisense M2 Pro",
+      "JMGO N1S 4K",
+      "歐洲市場",
+      "家用投影機",
+      "便攜投影機"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "JMGO"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2676,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找極米 Titian Noir 投影機的客製化腳座解決方案",
+    "summary_zh": "有 Reddit 用戶發文詢問關於極米 XGIMI Titian Noir 投影機的腳座改裝方案。由於原廠腳座外擴幅度過大，導致機器無法順利放置在深僅 30 公分（約 11.8 吋）的層架上，目前暫時使用眼鏡盒來調整水平，因此希望能找到適合該空間的客製化腳座以解決擺放問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmplcf/custom_feet_xgimi_titian_noir/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "XGIMI",
+      "Titian Noir",
+      "投影機腳座",
+      "擺放空間"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2675,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Mira 與 Mira Pro 超短焦投影機能否投射超過120吋畫面？",
+    "summary_zh": "一名Reddit用戶發文詢問，計劃將舊款LG HF60LS投影機升級為極米Xgimi Mira或Mira Pro 4K超短焦投影機。由於其目前使用白牆投射約140吋畫面，而官方標示這兩款新機的最大尺寸為120吋，因此發文探討若拉開投影距離將畫面擴大至140至145吋時，是否會導致影像失焦、變形或僅出現輕微亮度衰減。用戶表示因主要在夜間觀影，且新機亮度高於現有機型，故不在意微幅的亮度損失。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xmwqwy/xgimi_mira_or_mira_pro_larger_than_120_size/",
+    "publish_date": "2026-11-03",
+    "keywords": [
+      "Xgimi Mira",
+      "Mira Pro",
+      "超短焦投影機",
+      "UST projector",
+      "投影尺寸"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2667,
     "source_name": "投影時代",
     "title_zh": "愛普生推出清亮全彩親子護眼系列投影機，主打3LCD技術與豐富K12學習資源",
