@@ -1,13 +1,11 @@
+# Runtime packages for the Vercel Serverless Functions (api/ask.py, api/subscribe.py).
+# Vercel bundles everything listed here into EVERY function of EVERY deployment,
+# so keep this to what the functions actually import. Scraping / report / PDF /
+# PPTX packages belong in requirements-pipeline.txt (local + GitHub Actions only).
+# Adding them back here makes Vercel "Functions Storage" blow past its limit again.
+# (Keep this file ASCII-only: pip on Windows reads it with the local code page.)
 fastapi>=0.115.0
 google-genai>=1.0.0
 pydantic>=2.7.0
 numpy>=1.26.0
 python-dotenv>=1.0.0
-feedparser>=6.0.0
-requests>=2.32.0
-beautifulsoup4>=4.12.0
-python-dateutil>=2.9.0
-python-pptx>=1.0.0
-markdown>=3.6
-matplotlib>=3.8.0
-reportlab>=4.0.0

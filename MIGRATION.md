@@ -42,7 +42,7 @@ cd projector-insight
 # 3. Python 環境
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt -r requirements-dev.txt   # requirements-dev 是測試用，非必要
+pip install -r requirements-pipeline.txt -r requirements-dev.txt   # requirements-dev 是測試用，非必要
 
 # 4. git 推送權限（HTTPS + token，跟這台機器同做法）
 #    去 GitHub → Settings → Developer settings → Personal access tokens

@@ -36,7 +36,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-pipeline.txt
 
       # GitHub 的 Linux 主機預設沒有中文字型。generate_weekly_pdf.py 找不到字型時會退回
       # 「不內嵌字型」的備用方案，PDF 在不少閱讀器裡會變亂碼；週報圖表（matplotlib）也

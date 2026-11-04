@@ -25,7 +25,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-pipeline.txt
 
       - name: Restore projector_intel.db（來自 tmp/db-transfer 分支）
         run: python backup_db.py restore

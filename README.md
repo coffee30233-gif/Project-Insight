@@ -26,7 +26,7 @@
 ## 安裝
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-pipeline.txt
 export GEMINI_API_KEY="你的 API Key"   # 於 https://aistudio.google.com 取得
 ```
 
