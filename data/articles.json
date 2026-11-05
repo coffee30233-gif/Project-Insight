@@ -1,5 +1,385 @@
 [
   {
+    "id": 2712,
+    "source_name": "ProjectorReviews",
+    "title_zh": "極米科技推出 HORIZON 30 系列 RGB 雷射投影機",
+    "summary_zh": "極米科技（XGIMI）正式發表全新 HORIZON 30 系列 4K RGB 雷射投影機，包含 Pro、Max 與 Ultra Max 三款型號。該系列支援 4K 解析度與 120Hz 更新率，搭載雙光圈設計，最高亮度可達 6,000 流明。建議售價自 2,499 美元起，預購優惠價則由 1,899 美元起，鎖定高階家庭劇院與沉浸式大畫面市場。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorreviews.com/xgimi-launches-horizon-30-series-rgb-laser-projectors/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "XGIMI",
+      "HORIZON 30",
+      "RGB雷射",
+      "4K投影機",
+      "6000流明"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2708,
+    "source_name": "DigiTimes",
+    "title_zh": "康寧在印度西部啟動光連接產品生產，並規劃2027年擴建鄰近廠房",
+    "summary_zh": "美國玻璃與材料大廠康寧（Corning）宣布，其位於印度西部的光連接產品生產線已正式啟動，主要目標為滿足全球資料中心對光纖與連接解決方案日益增長的市場需求。此外，康寧已制定進一步擴張計畫，預計於2027年完成鄰近大型廠房的建設，以提升產能規模。此舉顯示康寧正積極布局印度製造基地，藉由強化供應鏈韌性來應對AI與雲端運算帶來的基礎設施建設潮。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261105VL208/corning-plant-2027-demand-data-center.html",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "康寧",
+      "Corning",
+      "光連接",
+      "印度製造",
+      "資料中心"
+    ],
+    "mentioned_brands": [
+      "康寧"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2707,
+    "source_name": "投影時代",
+    "title_zh": "第89屆中國教育裝備展示會將於2027年4月在鄭州舉行",
+    "summary_zh": "由中國教育裝備行業協會主辦的「第89屆中國教育裝備展示會」預定於2027年4月23日至25日在鄭州中原國際會展中心隆重登場。本屆展會以「人工智能引領教育裝備高質量發展」為主題，全面涵蓋數位校園、智慧校園、互動教學設備（包含投影設備、大屏幕、觸控一體機等）、實驗實训與學前教育裝備，展期為期三天，並同期舉辦新品發布與學術研討活動。",
+    "category": "市場數據",
+    "importance": 3,
+    "relevance": "Indirect",
+    "url": "http://www.pjtime.com/2026/11/152237397155.shtml",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "中國教育裝備展示會",
+      "教育裝備",
+      "智慧校園",
+      "投影設備",
+      "互動教學設備"
+    ],
+    "mentioned_brands": [
+      "滬鑫堡展覽"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2697,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "奧圖碼 GT2100HDR 全新未拆封投影機轉售",
+    "summary_zh": "Reddit 用戶發文轉售全新未拆封的奧圖碼（Optoma）GT2100HDR 投影機，開價 1,000 美元，並表示價格可包含運費，呼籲有興趣的買家透過私訊聯繫。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnwdwy/optoma_gt2100hdr_box_sealed/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "Optoma",
+      "GT2100HDR",
+      "二手轉售",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2695,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 Hisense PT1 投影機與 100 吋投影幕選購建議",
+    "summary_zh": "一名荷蘭用戶在 Reddit 論壇詢問關於海信 Hisense PT1 超短焦投影機的購買建議。該用戶預算約 2,000 歐元，計畫搭配 100 吋 ALR 抗光幕使用，主要觀影環境為夜間或拉上窗簾的室內。文中提到該機型售價約 1,600 歐元，投影幕約 400 歐元。用戶考量到搬遷便利性與安裝空間，傾向選擇投影方案而非同尺寸電視，並尋求社群對於此組合的評價與使用經驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xny4qh/hisense_pt1_100_inch_screen_suggestions/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "Hisense",
+      "PT1",
+      "超短焦投影機",
+      "ALR投影幕",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Sony",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2694,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "剛收到我的 NexiGo Nova Mini Lite 投影機開箱心得",
+    "summary_zh": "有用戶在 Reddit 論壇分享剛收到的 NexiGo Nova Mini Lite 投影機使用心得。該用戶表示，以其入手價格來看，這是他見過最令人驚豔的投影機，不僅畫質與亮度表現優異，內建揚聲器在音量僅開到 25% 時就已經非常大聲。由於先前網路上實際使用心得極少，因此特別發文分享，認為這款產品值得更多關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xo5hhr/just_received_my_nexigo_nova_mini_lite/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "NexiGo",
+      "Nova Mini Lite",
+      "投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "NexiGo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2693,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用遠端串流技術將個人電腦畫面投影至20公里外之投影機",
+    "summary_zh": "有用戶分享透過 Sunshine 軟體結合虛擬專用網路工具，成功將距離 20 公里外的個人電腦遊戲畫面串流至投影機上。實際體驗指出，延遲表現非常適合遊玩，多數時候能維持 60 FPS 的流暢度，提供良好的遠端投影娛樂體驗。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xo39mo/streaming_from_my_pc_to_my_place_on_the_projector/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "串流",
+      "延遲",
+      "60FPS",
+      "Sunshine",
+      "遠端投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2692,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "TCL C1 與 Anker Nebula Capsule 3 投影機規格與保固比較請益",
+    "summary_zh": "有消費者在 Reddit 論壇發文尋求首款家用投影機建議，在可攜式的 Anker Nebula Capsule 3 與 TCL C1 之間猶豫。Anker 因體積小備受吸引，但網路負面保固評價令人卻步；而 TCL C1 則缺乏相關品牌評價與售後服務資訊。原發文者同時考量 120 公分寬度投影空間、3 公尺觀賞距離白牆投影，並詢問兩款機型的運作風扇音量表現。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xo3dc9/tcl_c1_projector_vs_anker_nebula_capsule_3/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "TCL C1",
+      "Anker Nebula Capsule 3",
+      "家用投影機",
+      "可攜式投影機",
+      "售後保固"
+    ],
+    "mentioned_brands": [
+      "TCL",
+      "Anker"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2690,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "N1S 4K 與 Elfin Flip 4K 臥室投影機選購建議",
+    "summary_zh": "本篇為 Reddit 用戶針對臥室投影需求進行的諮詢，主要比較 JMGO N1S 4K 與 XGIMI Elfin Flip 4K 兩款機型。用戶計畫在床邊小桌放置投影機，投射約 100 吋畫面。N1S 4K 在當地價格較具優勢，且評價穩定；而 Elfin Flip 4K 具備光學變焦功能，對於空間受限、無法移動投影機位置的場景較為便利。用戶同時關注 HDMI 線材連接對 Elfin Flip 穩定性的影響，並評估在固定距離下是否仍需光學變焦功能，目前傾向選擇 N1S 4K。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xobso6/n1s_4k_or_elfin_flip_4k_for_a_bedroom/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "N1S 4K",
+      "Elfin Flip 4K",
+      "臥室投影",
+      "光學變焦",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2706,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "堅果 Jmgo Iris Ultra Max 投影機連接 PS5 時遇到 VRR 不支援問題",
+    "summary_zh": "有用戶在 Reddit 發文求助，指出其安裝在天花板的全新堅果 Jmgo Iris Ultra Max 投影機，在連接 PlayStation 5 主機時，系統顯示不支援可變更新率（VRR）功能，尋求社群協助解決此相容性狀況。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xn3ym8/maybe_someone_here_can_help_with_my_vrr_ps5/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "Jmgo Iris Ultra Max",
+      "PS5",
+      "VRR",
+      "可變更新率",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "Jmgo",
+      "堅果",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2705,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "堅果 O2S Ultra 與海信 PT1 實測對比：超短焦投影機的亮度與牆面適應性體驗",
+    "summary_zh": "本文為使用者實際測試堅果 O2S Ultra（3,600 流明）與海信 PT1（2,500 流明）兩款超短焦投影機的心得分享。作者針對體積重量、牆面投射表現（無抗光幕環境）、亮度差異進行評測。堅果 O2S Ultra 體積更輕巧且具備自動牆面顏色調整功能，便於攜帶；兩者在一般米色牆面上皆展現出色的畫質，能媲美傳統電視。雖然堅果紙面流明高出 1,100，但實際肉眼感受的亮度差距並未如數字懸殊。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnah9s/jmgo_o2s_ultra_3600_lumens_vs_hisense_pt1_2500/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "JMGO O2S Ultra",
+      "Hisense PT1",
+      "超短焦投影機",
+      "UST projector",
+      "流明",
+      "投影機評測"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "Hisense",
+      "Epson",
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2704,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Panasonic PT-TW230 投影機遙控器與按鍵失效求助",
+    "summary_zh": "使用者在 Reddit 發文尋求 Panasonic PT-TW230 投影機的操作問題協助。文中指出該設備的遙控器與機身按鍵皆無法正常運作，疑似在設定中被誤觸上鎖，且目前無法切關至待機模式，因此發文詢問解鎖與排除故障的方法。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnlcy7/prjector_panasonic_model_pttw230/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "Panasonic",
+      "PT-TW230",
+      "投影機",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2703,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 2.0 投影機出現異常光影與色彩問題",
+    "summary_zh": "Reddit 用戶回報其極米（Xgimi）Horizon 2.0 投影機在播放 YouTube 的《阿凡達》預告片後，返回系統選單時出現異常的暗光與藍、綠、紅混合色斑。該用戶同時詢問如何檢測個人對 RBE（彩虹效應）的敏感度。此類問題可能涉及投影機韌體處理影像訊號的錯誤或硬體顯示異常，屬於單一用戶的產品使用故障回報。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnmys8/xgimi_horizon_20_weird_dim_light_and_diffrent/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "Xgimi",
+      "Horizon 2.0",
+      "投影機故障",
+      "彩虹效應",
+      "RBE"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2701,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "請協助解釋Aura 3 Kickstarter集資方案的差異",
+    "summary_zh": "一名初次接觸投影機的消費者在Reddit論壇發文，詢問關於Aura 3投影機在Kickstarter上定價2400美元的集資方案內容。使用者主要疑惑該方案是否包含抗光幕，以及是否能直接投射在一般牆面上，並提及自身擁有85吋4K電視，因看中超短焦投影機可隱藏收納的特點而考慮入手。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnhgfh/can_someone_explain_the_aura_3_kickstarter_tiers/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "Aura 3",
+      "Kickstarter",
+      "集資方案",
+      "超短焦投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2700,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找中國版極米RS20或RS30系列投影機可靠賣家的討論",
+    "summary_zh": "一名歐洲用戶在Reddit發文尋求購買中國市場專用之極米（XGIMI）RS20系列或RS30系列投影機的可靠管道與賣家推薦。文中提到希望賣家能提供良好的歐洲寄送服務、售後保固或品質保證，以因應可能發生的故障風險。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnisty/reliable_sellers_for_chinese_xgimi_rs20_or_rs30/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "極米",
+      "XGIMI",
+      "RS20",
+      "RS30",
+      "跨境購買"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2698,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "從阿里巴巴購買堅果投影機的慘痛經驗：鏡片故障與保固爭議",
+    "summary_zh": "消費者分享透過阿里巴巴以約1600歐元購入堅果JMGO N5S Ultra Max投影機，僅使用兩個月便出現明顯的DMD晶片鏡片故障問題。儘管商家原承諾提供一年保固與前六個月免費國際運費，但實際發生故障後商家卻拒絕履約，且PayPal政策與阿里巴巴平台皆無法提供實質協助。此事件凸顯跨境網購高價投影機在售後服務與保固維權上的風險與法律漏洞。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnfqze/tried_saving_money_by_ordering_from_alibaba_the/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "JMGO",
+      "堅果",
+      "N5S Ultra max",
+      "阿里巴巴",
+      "DMD晶片",
+      "保固維修"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "堅果",
+      "Alibaba",
+      "PayPal"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2696,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Acer H6815 投影機出現光暈與影像模糊問題",
+    "summary_zh": "一名用戶回報其購入約1.5年、燈泡時數約400小時的二手Acer H6815投影機出現影像異常。在經歷一場使用煙霧機且有人吸菸的聚會後，投影機畫面在白色高亮區域周圍產生明顯光暈，且整體影像模糊失焦。該問題在未連接訊號源的投影機選單介面上依然存在，排除HDMI線材或外部設備故障的可能性。用戶懷疑是煙霧或霧氣殘留物污染內部光學元件，或是DLP投影系統出現硬體故障，目前正尋求社群是否有類似經驗或維修建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xnrsdq/acer_h6815_projector_showing_halos_and_blurry/",
+    "publish_date": "2026-11-04",
+    "keywords": [
+      "Acer",
+      "H6815",
+      "投影機故障",
+      "光學污染",
+      "DLP"
+    ],
+    "mentioned_brands": [
+      "Acer"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2689,
     "source_name": "ZOL投影機頻道",
     "title_zh": "思影PB18雲台款投影機壁掛支架限時直降",
@@ -36022,6 +36402,29 @@
       "Sony"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2711,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生CH-LS12000B特價促銷歡迎來電洽詢",
+    "summary_zh": "愛普生CH-LS12000B雷射家用4K高畫質投影機，近日於北京商家「北京合眾聯鑫」展開特價促銷活動，價格採面議方式。該產品主打4K高畫質與雷射光源技術，有興趣的消費者可直接前往北京市海澱區中關村進行洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1187/11875775.html",
+    "publish_date": "2026-05-26",
+    "keywords": [
+      "愛普生",
+      "CH-LS12000B",
+      "雷射投影機",
+      "4K投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 1767,
