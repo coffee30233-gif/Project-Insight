@@ -1,5 +1,281 @@
 [
   {
+    "id": 2727,
+    "source_name": "DigiTimes",
+    "title_zh": "索尼娛樂業務提升獲利，硬體與感光元件需求分歧",
+    "summary_zh": "根據報導，索尼（Sony）的娛樂相關業務成功帶動整體獲利成長，但在硬體設備與感光元件市場上，兩者的需求表現出現了明顯的分歧走勢。詳細數據與後續產業影響仍待進一步觀察。",
+    "category": "市場數據",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261106VL202/sony-profit-hardware-demand-earnings.html",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Sony",
+      "獲利",
+      "硬體需求",
+      "感光元件"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2726,
+    "source_name": "DigiTimes",
+    "title_zh": "旭創科技攜手Tower在美國啟動AI光互連NPO試產",
+    "summary_zh": "Innolight（旭創科技）與Tower Semiconductor合作，在美國開始進行針對AI光互連應用的NPO（板上光學）試產作業，此舉旨在推動資料中心與通訊領域的光學封裝開發與生產技術。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261106PD202/production-communications-data-packaging-development.html",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "NPO",
+      "光互連",
+      "AI",
+      "封裝",
+      "試產"
+    ],
+    "mentioned_brands": [
+      "Innolight",
+      "Tower Semiconductor"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2724,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "出售我的極米Titan 4K雷射投影機",
+    "summary_zh": "國外網友在Reddit論壇發文出售其擁有的極米Titan 4K雷射投影機，該機於2026年1月中下旬交貨，目前整體狀況極佳且功能完全正常，因改為轉向大尺寸電視而決定出售。售價為2800美元誠可議，地點位於紐約市與長島地區，因無原廠包裝以面交自取為優先，買家若需寄送則需自付運費並另行協商安全包裝。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xp0jik/selling_my_xgimi_titan/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "XGIMI Titan",
+      "4K投影機",
+      "雷射投影機",
+      "二手買賣"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2723,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "堅果 N3 投影機內建喇叭音質討論與用戶使用心得",
+    "summary_zh": "有用戶在 Reddit 論壇發文詢問堅果（JMGO）N3 標準版投影機的內建喇叭表現。該用戶表示，雖然升級自 WEMAX/Formovie Dice 後畫質有顯著提升，但 N3 的內建音效聽起來卻相對單薄且窄，音場表現不如瓦數較小的舊機型，無法有效營造環繞感，且內建的音效模式改善有限。這篇討論反映出消費者對於精巧型生活風格投影機在整合式音效表現上的實際期待與落差。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xor7j0/jmgo_n3_speaker_quality/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "JMGO N3",
+      "堅果投影機",
+      "內建喇叭",
+      "音質表現",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "堅果",
+      "WEMAX",
+      "Formovie"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2722,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "大型開放式空間家庭劇院架設建議與選購諮詢",
+    "summary_zh": "本文為Reddit論壇用戶針對大型開放式客廳進行家庭劇院規劃的求助討論。使用者預計投影尺寸達15英尺寬、投射距離23英尺，主要用於觀看電影及低延遲遊戲體驗，預算約在2,000至4,000美元之間。內文探討了投射至粉刷白牆、13英尺挑高天花板、窗戶遮光處理以及雷射光源高亮度等實際架設挑戰與空間配置細節。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xory8s/advice_for_a_big_room/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "家庭劇院",
+      "投影機架設",
+      "投射距離",
+      "雷射光源",
+      "客廳投影"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2720,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "歐洲臥室投影機選購建議：低噪音與低延遲需求分析",
+    "summary_zh": "一名歐洲用戶在Reddit詢問適合臥室使用的投影機，預算約250至400歐元。核心需求為低運作噪音（因對聲音敏感）及低輸入延遲（用於遊戲串流，目標30ms以下）。文中比較了Dangbei N2 Mini、XGIMI Vibe One及Nebula Capsule 3 Laser等機型，並對市面上廉價中國品牌投影機的規格真實性提出質疑。用戶指出，部分廉價機型標榜的高規格（如4K、高流明、低噪音）往往與實際體驗不符，特別是在風扇噪音與輸入延遲方面，尋求社群對於這些入門機型的真實評價與選購建議。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xosegr/quiet_projector_for_a_bedroom_300_eu_with_low/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "投影機",
+      "低延遲",
+      "風扇噪音",
+      "遊戲串流",
+      "歐洲市場"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "XGIMI",
+      "Nebula",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2719,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Titan Noir Pro 與堅果 Iris Max 投影機選購比較討論",
+    "summary_zh": "Reddit 用戶發文尋求家庭劇院與遊戲室投影機的選購建議，主要在極米 Xgimi titan noir pro 與堅果 jmgo iris max 兩款機型間難以抉擇。發文者表示其主要用途為 4K 高階 PC 遊戲，並希望能在黑色星期五促銷檔期前做出決定以節省預算，目前正苦惱於規格取捨。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xonjwv/xgimi_titan_noir_pro_vs_jmgo_iris_max/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Xgimi",
+      "jmgo",
+      "4K遊戲",
+      "家庭劇院",
+      "黑色星期五"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "jmgo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2718,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 RS20 與海信 Vidda M2 Pro 旗艦版投影機規格比較",
+    "summary_zh": "越南消費者在 Reddit 發文尋求建議，在售價皆約 680 美元的極米 RS20（Horizon 20 中國版）與海信 Vidda M2 Pro 旗艦版之間進行選擇。使用者考量臥室空間需求、投射比、便攜性、系統語言及劇院色彩表現，討論兩款中國大陸市場投影機的優劣。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xonzol/xgimi_rs20_vs_vidda_m2_pro_flagship/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Xgimi RS20",
+      "Vidda M2 Pro",
+      "極米",
+      "海信",
+      "智慧投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Vidda",
+      "Hisense",
+      "JMGO"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2717,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 C3 Ultra 投影機是否支援吊裝？",
+    "summary_zh": "一名 Reddit 用戶發文詢問關於海信 Hisense C3 Ultra 三色雷射便攜智慧投影機的吊裝可行性。該款投影機具備 4000 流明亮度、支援原生 4K、HDR10+、IMAX Enhanced 與 Dolby Vision，投射尺寸可達 65 至 300 吋。用戶目前正考慮將其用以替換距離牆面約 13 呎的舊款 Epson HD 投影機，並尋求其他使用者的吊裝經驗分享。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xowk2e/hisense_c3_ultra_ceiling_mount/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Hisense C3 Ultra",
+      "三色雷射",
+      "智慧投影機",
+      "吊裝",
+      "4000流明"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2716,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion Max特惠組合與Epson LS7500投影機選購比較請益",
+    "summary_zh": "Reddit論壇用戶發文尋求投影機選購建議，比較特價中的Valerion Max組合包與Epson LS7500。使用者需求包含非全暗客廳環境、115吋Elite Screen電動布幕及14英尺以內投影距離，主要用途為觀賞電影與偶爾遊戲。文中詢問兩款機型在環境光亮度、對比度、銳利度與可靠度的實際表現差異，並徵求同價位帶的其他機型推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xon46i/valerion_max_bundle_on_sale_vs_epson_ls7500_or/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Valerion Max",
+      "Epson LS7500",
+      "家用投影機",
+      "環境光",
+      "規格比較"
+    ],
+    "mentioned_brands": [
+      "Valerion",
+      "Epson",
+      "Elite Screen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2728,
+    "source_name": "Epson官方",
+    "title_zh": "Epson投影機助力太陽馬戲團巡演「ECHO」打造沉浸式舞台視覺",
+    "summary_zh": "Epson於2026年11月5日宣布，其高階投影系統將成為太陽馬戲團全新巡演劇目「ECHO」的重要技術支撐。此巡演項目透過Epson精密的投影設備，在各個巡演城市中將表演環境轉化為充滿動態與沉浸感的視覺世界，展現投影技術在大規模現場娛樂演出中的應用實力。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://news.epson.com/news/cirque-du-soleil-ECHO-projector-partner",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "Epson",
+      "太陽馬戲團",
+      "ECHO",
+      "投影系統",
+      "沉浸式投影"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Cirque du Soleil"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2725,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "堅果 JMGO N3 4K 投影機售價與選購討論",
+    "summary_zh": "Reddit 投影機討論區用戶發文尋求意見，指出堅果 JMGO N3 4K 投影機目前在 Best Buy 的特價為 1000 加幣。發文者在預算投影機版獲得推薦後，正考慮是否購買該款產品，並詢問社群成員在此價格帶是否有更好的選擇。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xo9nal/jmgo_n3_4k/",
+    "publish_date": "2026-11-05",
+    "keywords": [
+      "JMGO N3 4K",
+      "堅果投影機",
+      "Best Buy",
+      "價格"
+    ],
+    "mentioned_brands": [
+      "JMGO",
+      "堅果"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2712,
     "source_name": "ProjectorReviews",
     "title_zh": "極米科技推出 HORIZON 30 系列 RGB 雷射投影機",
