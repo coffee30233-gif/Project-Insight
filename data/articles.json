@@ -1,5 +1,283 @@
 [
   {
+    "id": 2746,
+    "source_name": "ProjectorScreen",
+    "title_zh": "極米在紐約時代廣場盛大展示旗艦4K雷射投影機",
+    "summary_zh": "極米（XGIMI）於紐約時代廣場的TM:RW科技零售空間舉辦旗艦4K雷射投影機展示活動，重點演示了包含120吋AURA 3 Max超短焦投影機櫃組合、HORIZON 30 Ultra Max標準投射比機型，以及搭載雙光圈與7000流明的TITAN Noir Max高階機種。活動中透過客廳實景與大螢幕遊戲體驗，突顯RGB三原色雷射光源與抗光幕（ALR）在明亮環境下的優異投影表現。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/xgimi-goes-big-in-times-square-with-flagship-4k-laser-projectors",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "極米",
+      "4K雷射投影機",
+      "超短焦投影機",
+      "AURA 3 Max",
+      "HORIZON 30 Ultra Max",
+      "TITAN Noir Max"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米",
+      "Vividstorm",
+      "Spectra Projection"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2745,
+    "source_name": "Epson官方",
+    "title_zh": "堪薩斯城家庭夢幻家庭劇院採用 Epson QB1000B 雷射投影機",
+    "summary_zh": "堪薩斯城一棟曾於2024年藝術家住宅巡禮中亮相的豪華住宅，其屋主將一間未完工的彈性空間打造成夢幻家庭劇院，並採用了 Epson QB1000B 雷射投影機來實現高品質的家庭娛樂視聽體驗。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://news.epson.com/case-studies/kansas-city-qb1000b-laser-projector",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "Epson",
+      "QB1000B",
+      "雷射投影機",
+      "家庭劇院",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2742,
+    "source_name": "投影時代",
+    "title_zh": "文昌閣3D Mapping光影秀，用夜遊「重建」宋代書院",
+    "summary_zh": "福建長汀卧龙書院推出夜遊項目，其中文昌閣3D Mapping光影秀《文脈汀州》採用兩台光峰T Pro系列工程投影機，進行雙機融合投影。該項目克服飛檐、屋脊與斗拱等複雜起伏曲面，透過高亮度與高穩定性，讓震撼光影夜夜在古建築立面上呈現，成為當地夜間文旅打卡的新亮點。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/162950604191.shtml",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "光峰科技",
+      "工程投影機",
+      "3D Mapping",
+      "文昌閣",
+      "卧龍書院"
+    ],
+    "mentioned_brands": [
+      "光峰"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2738,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明亮客廳投影機推薦詢問",
+    "summary_zh": "一名Reddit用戶在r/projectors發文尋求投影機推薦，預算介於500至1000歐元之間，計劃用來取代客廳的電視。使用環境為採光良好的客廳，雖無陽光直射但有兩扇大窗戶。主要用途涵蓋電影、YouTube及遊戲等日常綜合娛樂，核心需求是希望在白天採光佳的情況下，無須緊閉窗簾也能有清晰的觀看體驗。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xpm8iy/recommendation_projector_in_bright_room/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "客廳投影機",
+      "預算500-1000歐元",
+      "高亮度",
+      "家用投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2737,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找具備三種以上色彩的極光星空投影機",
+    "summary_zh": "Reddit論壇用戶發文尋求具備三種以上色彩的極光與星空投影機相關產品資訊，探討消費級氛圍燈光投影設備的色彩表現與規格選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xpnxdu/auroragalaxy_projectors_with_more_than_3_colors/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "星空投影機",
+      "極光投影機",
+      "氛圍燈光",
+      "消費性電子"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2735,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "TCL C1適合放在我的臥室嗎？",
+    "summary_zh": "這是一篇來自Reddit論壇r/projectors的用戶發文，標題詢問TCL C1投影機是否適合放置於臥室使用。內文僅包含連結與留言討論區入口，未提供進一步的規格數據、價格或深入的技術評測，屬於典型的個人消費諮詢與用戶心得交流內容。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xpsno2/tcl_c1_for_my_bedroom/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "TCL C1",
+      "臥室投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "TCL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2734,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vividstorm Silux Pro 電動地升式菲涅爾抗光幕產品討論",
+    "summary_zh": "Reddit 論壇用戶討論 Vividstorm 推出的 Silux Pro 電動地升式菲涅爾超短焦抗光幕（UST ALR screen）。該產品目前似乎處於預購階段，但市場上尚未見到相關的實際評測或使用心得，引發投影機愛好者的關注與詢問。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xpo1jk/vividstorm_silux_pro_floor_rising_fresnel_screen/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "Vividstorm",
+      "Silux Pro",
+      "抗光幕",
+      "菲涅爾",
+      "超短焦投影幕"
+    ],
+    "mentioned_brands": [
+      "Vividstorm"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2733,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明亮地下室投影機選購建議詢問",
+    "summary_zh": "Reddit論壇用戶發文尋求適用於明亮地下室的投影機建議。該地下室東側設有逃生窗與大型玻璃磚窗，白天採光較佳。用戶預計投射90至100吋畫面，投射距離為12呎，主要用途為電玩遊戲與觀賞電影，多數使用時間為夜間或夏季避暑時段。預算範圍約在1,300至2,000美元之間，若有性價比更高的選項亦可彈性調整。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xpt8ig/projector_advice_for_a_brightish_basement/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "家用投影機",
+      "地下室投影",
+      "選購建議",
+      "投射距離",
+      "預算"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2732,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit討論：尋找適合PS5遊戲、白天可見且低輸入延遲的投影機建議",
+    "summary_zh": "國外網友在Reddit發文尋求遊戲投影機推薦，主要用於搭配PS5遊玩，訴求包含使用壽命長、畫質佳、白天可見及低輸入延遲。使用者考量空間美觀放棄電視，並評估安裝在英國平均尺寸的壁爐上方或2.78公尺寬的臥室牆面，預計投影畫面約1.4公尺。初步研究指出BenQ TK710與TK710STi為潛在選項，預算上限約1,200至1,500英鎊，希望能兼顧性價比與耐用度。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xputx6/gaming_projector_advice/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "BenQ",
+      "TK710",
+      "TK710STi",
+      "遊戲投影機",
+      "PS5",
+      "低輸入延遲"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2744,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "當貝公布2026年黑色星期五促銷活動，多款投影機祭出最高四成以上折扣",
+    "summary_zh": "當貝（Dangbei）官方宣布2026年黑色星期五促銷活動將於11月19日至11月30日正式展開，預熱期則自11月8日起跑。此次活動涵蓋多款熱門投影機降價優惠，折扣最高可達45%以上。重點參與機型包含旗艦款Dangbei MP1 Max（特價1,119美元）、Dangbei DBOX02（特價899美元）、DBOX02 Pro（特價689美元）、N3 Max（特價359.20美元）、N2 mini（特價149美元）以及攜帶型Freedo（特價283.09美元）。活動期間指定型號除享有限時優惠價外，還附贈3D眼鏡與專屬禮品，並推出早鳥付15美元解鎖30美元折價券的訂閱優惠。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/dangbei-black-friday-countdown-best-projector-deals-free-gifts-event-schedule",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "當貝",
+      "Dangbei",
+      "黑色星期五",
+      "促銷折扣",
+      "智慧投影機",
+      "Dangbei MP1 Max",
+      "Dangbei DBOX02"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2741,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找優質且平價的投影機推薦",
+    "summary_zh": "有用戶在 Reddit 發文尋找價格實惠且品質良好的投影機，投影距離為4公尺，全新預算上限為 500 歐元，並同時詢問是否有值得購買的二手品牌推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xp799l/good_and_cheap_projector/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "平價投影機",
+      "預算",
+      "二手投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2740,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Vidda C5 Ultra 投影機阿里巴巴採購經驗與保固條款討論",
+    "summary_zh": "有消費者在 Reddit 論壇分享透過阿里巴巴平台採購 Vidda C5 Ultra 投影機的經驗。經過與三家供應商交涉，最終談定含運費、關稅與稅金總價為 1,470 美元，並爭取到長達 5 年的保固合約。保固條款包含到貨即損換新、前 3 個月故障換新、2 年內免費維修（買方負擔寄回中國運費），以及 2 到 5 年間提供免費維修但買方須負擔來回運費與關稅，相關條款已寫入阿里巴巴付款訂單中。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xp8mbl/vidda_c5_ultra_alibaba/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Vidda C5 Ultra",
+      "阿里巴巴",
+      "跨境採購",
+      "投影機保固"
+    ],
+    "mentioned_brands": [
+      "Vidda",
+      "Alibaba"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2739,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找小型投影機設置",
+    "summary_zh": "有用戶在 Reddit 論壇上發文分享，表示自己為小型投影機設置購入了一台 31k 的 Panasonic 投影機，並詢問其他成員這樣是否足夠。該文為一般消費者的個人使用心得與設備分享，未涉及深度的產業數據、技術突破或供應鏈動態。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xpfn4a/looking_for_a_small_setup/",
+    "publish_date": "2026-11-06",
+    "keywords": [
+      "Panasonic",
+      "小型設置",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Panasonic"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2727,
     "source_name": "DigiTimes",
     "title_zh": "索尼娛樂業務提升獲利，硬體與感光元件需求分歧",
@@ -36614,6 +36892,29 @@
       "奧圖碼"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2747,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-F650HZ 投影機在北京市場展開特價促銷活動",
+    "summary_zh": "根據中關村線上報導，索尼（Sony）旗下型號 VPL-F650HZ 投影機近日於北京經銷商「北京合眾聯鑫」展開特價促銷活動，採價格面議方式銷售。有意採購的消費者可直接前往北京市海澱區中關村中科大廈 9 層的實體店鋪進行詳細諮詢與洽談。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1188/11883094.html",
+    "publish_date": "2026-05-28",
+    "keywords": [
+      "索尼",
+      "VPL-F650HZ",
+      "投影機",
+      "特價促銷",
+      "北京合眾聯鑫"
+    ],
+    "mentioned_brands": [
+      "索尼",
+      "Sony"
+    ],
+    "link_status": null
   },
   {
     "id": 1203,
