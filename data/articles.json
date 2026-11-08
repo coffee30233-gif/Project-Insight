@@ -1,5 +1,331 @@
 [
   {
+    "id": 2764,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Epson LS6000 投影機與 Denon 接收器搭配使用時出現綠屏閃爍問題",
+    "summary_zh": "有用戶分享新安裝的 Epson LS6000 投影機搭配 Denon 6800 接收器時，在切換選單或使用 Roku 串流盒觀看 Netflix 時，會出現短暫的綠屏閃爍現象。據了解，此問題是由於畫面幀率改變導致投影機需快速重新校準所引起，調降輸出解析度可改善此狀況，並尋求社群是否有類似經驗及最佳設定建議。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqan5c/epson_ls6000/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "Epson LS6000",
+      "Denon 6800",
+      "綠屏閃爍",
+      "幀率校準"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Denon",
+      "Roku",
+      "Netflix"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2763,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 M2 Pro 與 PT1 投影機選購比較討論",
+    "summary_zh": "使用者在 Reddit 討論區發文尋求建議，探討海信（Hisense）M2 Pro 與 PT1 兩款投影機型號的差異。發文者表示預計將投影機安裝於常拉窗簾的客廳使用，且兩者價格差距不大，因此詢問針對此使用情境，PT1 是否為整體表現更佳的選擇。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqatb3/hisense_m2_pro_vs_pt1/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "Hisense",
+      "M2 Pro",
+      "PT1",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2760,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit 用戶尋求 4 呎投射距離與高亮度客廳投影機推薦",
+    "summary_zh": "Reddit 用戶發文尋求客廳投影機購買建議，預算介於 750 至 1250 美元之間。因客廳有窗戶且無法安裝電視，主要訴求為高亮度以滿足白天觀看體育賽事的需求，不希望必須拉上窗簾。規劃將投影機安裝於距離螢幕約 4 呎的天花板上，預計搭配 60 至 80 吋、最好具備電動升降功能的電動布幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqe3p3/best_projector_for_4_foot_throw/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "投影機推薦",
+      "短焦投影",
+      "客廳投影",
+      "高亮度投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2759,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度齋浦爾 Skydome 成為全球第三大永久性圓頂投影裝置",
+    "summary_zh": "位於印度拉賈斯坦邦齋浦爾的 Skydome 圓頂投影裝置正式亮相，被譽為全球第三大的永久性圓頂投影安裝工程。該專案展示了大型沉浸式投影應用的最新進展，吸引了投影機技術愛好者與業界的關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqfpor/skydome_jaipur_rajasthan_india_the_worlds_3rd/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "Skydome",
+      "圓頂投影",
+      "沉浸式投影",
+      "印度齋浦爾"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2758,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "初學者超短焦投影機推薦與PS5遊戲需求詢問",
+    "summary_zh": "Reddit論壇用戶發文尋求預算約1000美元的入門級超短焦投影機，主要用途為放置於地下室空間搭配PS5供小孩遊戲使用，重視低延遲與HDMI規格。使用者提及考慮LG Cinebeam系列，並認為Epson定價約2600美元超出預算。文章同時詢問關於投影機布幕選擇及免除天花板配線的超短焦優勢，屬於典型的消費者產品諮詢討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqbo80/beginner_ust_projector/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "超短焦投影機",
+      "UST projector",
+      "PS5",
+      "遊戲投影機",
+      "入門投影機"
+    ],
+    "mentioned_brands": [
+      "LG",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2753,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valerion菲涅爾螢幕討論",
+    "summary_zh": "Reddit論壇用戶發起關於Valerion菲涅爾螢幕（Fresnel screen）的討論，內容連結指向家庭劇院與投影機專版。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqo373/valerion_fresnel_screen/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "Valerion",
+      "Fresnel screen",
+      "菲涅爾螢幕",
+      "投影機布幕"
+    ],
+    "mentioned_brands": [
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2752,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：4000至6000美元預算之150吋家用投影機選購建議",
+    "summary_zh": "一名剛接觸投影機的消費者發文尋求4000至6000美元預算內的機型推薦，計畫搭配150吋大型銀幕使用於裝有遮光簾的客廳。文中提及正考慮特價3700美元的Epson LS11000、特價4800美元的Sony 5000ES，以及亮度吸引人但有彩虹效應與散斑疑慮的Titan Noir系列。求助內容反映了消費者在面對大尺寸銀幕亮度需求、不同顯示技術及品牌評價時的選購困擾。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqpg7p/need_help_choosing_a_46k_projector/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "Epson LS11000",
+      "Sony 5000ES",
+      "Titan Noir",
+      "家用投影機",
+      "選購指南"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Sony",
+      "Titan",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2750,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新購入的海信 PX3-UK 投影機畫面調整求助",
+    "summary_zh": "有消費者分享新購入的海信 Hisense PX3-UK 雷射超短焦投影機，在客廳安裝時遇到畫面尺寸對齊100吋銀幕的調校難題。使用者表示畫面兩側始終會出現黑邊，無法完美契合，因此在討論區發文尋求其他用戶的安裝與對齊技巧建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqek7v/new_hisense_px3uk/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "Hisense PX3-UK",
+      "超短焦投影機",
+      "畫面調整",
+      "100吋銀幕"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2749,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "考慮購買極米 Horizon 20 投影機：規格與使用環境評估",
+    "summary_zh": "有用戶計畫以約 2000 加幣購入極米 XGIMI Horizon 20 開箱機，並針對其使用環境進行評估。該空間寬約 11 英尺、投射距離約 10 英尺、觀賞距離約 9 英尺，預計搭配 92 吋至 100 吋銀幕。主要用途包含電影、電視、遊戲與運動賽事，環境為白色牆面與天花板的客廳，白天環境光約 45 lux。用戶主要擔憂該機型在夜間觀看時是否會過亮，以及自身是否對彩虹效應（RBE）敏感。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqmov2/about_to_pull_the_trigger_on_the_xgimi_horizon_20/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20",
+      "家用投影機",
+      "開箱機",
+      "規格評估"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2748,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "HY300GT (Google TV) 投影機內建 Videostrong 後門惡意軟體",
+    "summary_zh": "Reddit 論壇用戶指出，HY300GT (Google TV) 投影機產品被發現內建名為 Videostrong 的後門惡意軟體。這項資安問題引起消費者與社群的關注，突顯出部分平價智慧投影機在韌體安全與供應鏈審查上的隱憂，可能對用戶的網路隱私與資安造成潛在威脅。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xqp0gl/hy300gt_google_tv_has_the_videostrong_backdoor/",
+    "publish_date": "2026-11-08",
+    "keywords": [
+      "HY300GT",
+      "Google TV",
+      "Videostrong",
+      "惡意軟體",
+      "後門漏洞"
+    ],
+    "mentioned_brands": [
+      "Magcubic",
+      "Videostrong"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2767,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我為1GB記憶體的Android投影機開發了更乾淨、更明亮的介面並分享至GitHub",
+    "summary_zh": "Reddit用戶分享針對配備1GB記憶體的入門級Android投影機所開發的優化介面，旨在改善原廠系統的臃腫與卡頓，提供更乾淨、明亮的視覺與操作體驗，並已將相關設定與程式碼開源至GitHub供社群使用。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xq0cv8/i_gave_my_1gb_android_projector_a_cleaner/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "Android投影機",
+      "介面優化",
+      "GitHub",
+      "韌體"
+    ],
+    "mentioned_brands": [
+      "Android"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2766,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用 Barco 鏡頭轉接環將 Christie 鏡頭安裝至 Barco 投影機",
+    "summary_zh": "本篇來自 Reddit 論壇的討論，探討如何利用 Barco 鏡頭轉接環，將科視（Christie）的投影機鏡頭安裝在巴可（Barco）投影機上。這類跨品牌鏡頭轉接與相容性的技術探討，對於大型場域投影與工程機租賃應用具備一定的實務參考價值。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xq2ntf/christie_lens_to_bacro_projector_using_barco_lens/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "Christie",
+      "Barco",
+      "投影機鏡頭",
+      "轉接環",
+      "工程機"
+    ],
+    "mentioned_brands": [
+      "Christie",
+      "Barco"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2765,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手海信XR10投影機售價3750美元是否值得購入？",
+    "summary_zh": "有消費者在當地市場發現一台二手海信XR10投影機，標價為3750美元，隨附原廠外盒、配件及收納箱，但使用時數未知。發文者在Reddit論壇詢問此價格是否合理，以及面交時除了確認燈泡或雷射使用時數外，還需要檢查哪些項目。這是一則來自網路社群的單一消費者購買諮詢與產品評價討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xq200y/used_hisense_xr10_in_3750_worth_it/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "海信",
+      "XR10",
+      "二手投影機",
+      "價格評估"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2762,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "青年福利機構尋求預算約1000歐元的便攜式投影機推薦",
+    "summary_zh": "某青年福利機構正在尋找適合舉辦電影之夜與公開觀賞活動的投影機，預算約為1,000歐元。由於需在多個不同地點使用，設備必須具備良好的便攜性與易於運輸的特點。主要需求包含良好的畫質與高亮度，期盼能在夏季或無法完全遮光的環境下投射出清晰影像。此外，該機構也計畫購入兩個投影幕及獨立揚聲器，目前正向社群徵求可靠的機型推薦與採購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xq7cgh/help_pls/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "便攜式投影機",
+      "戶外投影",
+      "1000歐元預算",
+      "公共觀賞"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2757,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米紐約時代廣場新品活動報導：亮相 AURA 3 Max、HORIZON 30 與 TITAN Noir Max",
+    "summary_zh": "極米（XGIMI）於 11 月 5 日在紐約時代廣場舉辦大型發表活動，展示多款旗艦 4K 雷射投影機。現場重點包含搭配 Vividstorm 120 吋電動落地抗光幕的 AURA 3 Max 超短焦投影機、提供牆面級大畫面的 HORIZON 30 遊戲展示，以及在明亮商場環境中依然展現高色彩與對比度的 TITAN/Shadowscape 設置。現場同時具備 4K/120 相關效能展示與實機影片。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xq29jw/xgimi_times_square_event_report_aura_3_max/",
+    "publish_date": "2026-11-07",
+    "keywords": [
+      "XGIMI",
+      "AURA 3 Max",
+      "HORIZON 30",
+      "TITAN Noir Max",
+      "4K雷射投影機",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Vividstorm"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2746,
     "source_name": "ProjectorScreen",
     "title_zh": "極米在紐約時代廣場盛大展示旗艦4K雷射投影機",
