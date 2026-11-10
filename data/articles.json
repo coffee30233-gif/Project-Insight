@@ -1,5 +1,386 @@
 [
   {
+    "id": 2819,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "雙11投影優選：優派LX720-4KC Ultra三色雷射4K投影，影音遊戲一把抓",
+    "summary_zh": "針對雙11家用投影市場，消費者在選購時常面臨畫質與遊戲體驗難以兼顧的痛點。優派推出的LX720-4KC Ultra三色雷射4K投影機，主打同時滿足家庭劇院的優異色彩與清晰度需求，並具備高速畫面表現，企圖搶攻兼具影音娛樂與大屏遊戲體驗的消費族群。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1271/12713228.html",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "優派",
+      "LX720-4KC Ultra",
+      "三色雷射",
+      "4K投影機",
+      "雙11",
+      "家用投影"
+    ],
+    "mentioned_brands": [
+      "優派",
+      "ViewSonic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2815,
+    "source_name": "DigiTimes",
+    "title_zh": "研究洞察：鴻騰精密擴大水冷連接器產品線以支援 Vera Rubin NVL72",
+    "summary_zh": "鴻騰精密（FIT）針對輝達（Nvidia）次世代 AI 伺服器架構 Vera Rubin NVL72，進一步擴大其液冷連接器產品線，搶佔高速運算散熱商機。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261109PD241/fit-rubin-connector-equipment-nvidia.html",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "鴻騰精密",
+      "液冷連接器",
+      "Vera Rubin NVL72",
+      "伺服器散熱"
+    ],
+    "mentioned_brands": [
+      "FIT",
+      "Nvidia"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2814,
+    "source_name": "DigiTimes",
+    "title_zh": "獨家：無量子電腦的量子技術——Quinas押注量子穿隧突破AI記憶體瓶頸",
+    "summary_zh": "Quinas公司的James Ashforth-Pook與Manus Hayne教授探討ULTRARAM技術在緩解AI資料中心記憶體瓶頸方面的潛力。該技術利用量子穿隧效應，旨在改善資料中心的記憶體限制問題，為AI硬體架構帶來新發展。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261109VL213/quantum-taiwan-technology.html",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Quinas",
+      "ULTRARAM",
+      "量子穿隧",
+      "記憶體瓶頸",
+      "AI資料中心"
+    ],
+    "mentioned_brands": [
+      "Quinas"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2810,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找最佳小型低價投影機的用戶討論",
+    "summary_zh": "Reddit論壇用戶發文尋求推薦體積小巧、價格便宜且品質堪用的微型投影機。該用戶表示由於預算考量放棄購買智慧型手機，希望尋找能支援行動電源供電、且便於與手機連接的經濟型投影機產品。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs4jew/best_shitty_small_projector/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "微型投影機",
+      "行動電源供電",
+      "手機連接",
+      "平價投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2808,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：預算2000美元內、適用於全黑房間的4K投影機推薦",
+    "summary_zh": "一名消費者在Reddit論壇發文尋求投影機推薦，使用環境為12x10英呎的全黑房間，不需高流明應對環境光，預計投射120吋銀幕。主要用途為觀看足球賽事與電影，無遊戲需求，機器將放置於落地支架上。預算約為2000美元，個人偏好明基（BenQ）品牌，但也歡迎其他符合高對比度與4K解析度要求的替代建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xrxya4/need_some_help_to_choose_a_projector_please/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "4K投影機",
+      "家用投影機",
+      "BenQ",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2805,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "2026年二手BenQ HT3560投影機購買心得與詢問",
+    "summary_zh": "有消費者在二手市場發現一台標價300美元、使用時數約1800小時的BenQ HT3560投影機，並詢問網友評價。該買家過去長期使用1080p投影機，認為此機型在2026年的二手價格相當具有性價比。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs0d8m/thoughts_on_a_used_benq_ht3560_in_2026/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "BenQ HT3560",
+      "二手投影機",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2801,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valarion還是極米：論壇用戶面臨投影機選購抉擇",
+    "summary_zh": "Reddit論壇用戶發文尋求投影機選購建議，正考慮售價約1100美元的Valarion Visionmaster Pro，以及售價約1900美元、支援4K 120Hz的高階機種極米Horizon 30 Pro。發文者主要用於車庫劇院、主機遊戲及戶外觀影，面臨是否該多花800美元購買極米，或是選擇Valarion並省下差價去買一台小型OLED電視的抉擇，同時也擔憂明年新機價格可能突破2500美元。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs4azd/valarion_or_xgimi/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Valarion Visionmaster Pro",
+      "極米 Horizon 30 Pro",
+      "4K 120Hz",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Valarion",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2800,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Valarion 與極米投影機的選擇諮詢",
+    "summary_zh": "用戶在 Reddit 論壇發起討論，尋求關於 Valarion 與極米（Xgimi）兩家品牌投影機的選購建議與比較。原文內容極為簡短，僅為用戶之間的產品挑選提問，並未涉及具體型號規格、價格、技術細節或市場數據。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs4big/valarion_or_xgimi/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Valarion",
+      "極米",
+      "Xgimi",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Valarion",
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2799,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 Pro 鏡頭偏移與模糊問題求助",
+    "summary_zh": "一名 Reddit 用戶發文詢問關於剛收到的極米 Horizon 20 Pro（開箱整新機）投影機狀況。用戶表示投影畫面極為模糊，且發現鏡頭明顯沒有置中，因此發文詢問其他網友該機器是否已經損壞。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs4k82/xgimi_horizon_20_pro_issue/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20 Pro",
+      "鏡頭偏移",
+      "畫質模糊"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2798,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ W4100i 投影機長期使用心得與購買詢問",
+    "summary_zh": "有用戶在 Reddit 詢問 BenQ W4100i 投影機的長期使用回饋。該款投影機目前價格落在 2000 至 2500 美元之間，發文者透過學生優惠可在今日以 2200 美元入手。由於客廳空間為 13x13 呎，觀賞距離約 9.5 至 10.5 呎，預計投影尺寸為 92 吋，希望了解此機型是否適合未來幾年的長期使用。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs67c1/benq_w4100i_question/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "BenQ",
+      "W4100i",
+      "家用投影機",
+      "消費心得"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2797,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony Vpl-vw10ht投影機的影音連接與黑白畫面問題求助",
+    "summary_zh": "Reddit用戶發文詢問關於Sony Vpl-vw10ht復古投影機的連接問題。使用者嘗試連接Sony DVD播放器、N64及Sega Megadrive等舊款設備，但遇到無聲音以及透過S端子連接時僅能輸出黑白畫面的狀況。使用者懷疑是S端子線材故障，並正尋求如何解決舊型主機的影像色彩與聲音輸出配置問題。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs73u6/help_with_sony_vplvw10ht_projector/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Sony",
+      "VPL-VW10HT",
+      "投影機",
+      "S端子",
+      "復古主機"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Sega",
+      "Nintendo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2795,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "消費者分享於Costco以1,999美元購買海信C3 Pro投影機之經驗",
+    "summary_zh": "有消費者在德州北部的Costco新賣場以1,999美元購買了海信C3 Pro投影機，但在隔週發現商品已下架。根據該名消費者的說法，節慶檔期優惠手冊顯示未來將以1,499美元特價促銷，推測可能是賣場提前上架導致提早售罄。這反映出特定零售通路在新品鋪貨與檔期價格策略上的調配狀況，引起投影機愛好者的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xs2ntr/am_i_the_only_one_who_pulled_the_trigger_on_the/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "海信",
+      "C3 Pro",
+      "Costco",
+      "零售通路",
+      "價格"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Costco"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2816,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技公布2026年黑五早鳥優惠與TITAN Noir系列投影機降價資訊",
+    "summary_zh": "極米科技（XGIMI）公布2026年美國黑色星期五促銷時程與早鳥優惠。活動自11月9日開跑，訂閱者可於11月16日至18日享有早鳥搶購權，公開特賣則於11月19日展開。本次重點包含TITAN Noir系列三款4K投影機全面降價1500美元：TITAN Noir Max特價4499美元（原價5999美元），Pro與標準版則透過優惠券降至3499美元與2499美元。此外，活動期間也推出訂閱抽獎，有機會獲得MoGo 4投影機或旅行收納包。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/xgimi-black-friday-countdown",
+    "publish_date": "2026-11-09",
+    "keywords": [
+      "XGIMI",
+      "Black Friday",
+      "TITAN Noir",
+      "MoGo 4",
+      " projector sales"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2813,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "初次使用投影機心得與自動梯形修正陰影疑問",
+    "summary_zh": "一名初次使用投影機的用戶在Reddit論壇發文詢問，在使用極米XGIMI Horizon 20進行側投並搭配自動梯形修正功能時，畫面周遭產生的「陰影」現象是否屬於正常狀況。這反映出消費者在實際操作智慧投影機時，對於數位梯形修正所產生的光學邊緣損耗與投影機擺放角度的技術限制仍有疑問。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xrv9zy/first_time_projector_user/",
+    "publish_date": "2026-11-09",
+    "keywords": [
+      "自動梯形修正",
+      "側投",
+      "投影陰影",
+      "XGIMI Horizon 20"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2812,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "印度齋浦爾 Skydome 成為全球第三大永久性圓頂投影裝置",
+    "summary_zh": "位於印度拉賈斯坦邦齋浦爾的 Skydome 專案，被指出是全球第三大永久性圓頂投影裝置。相關討論出現在 Reddit 投影機專版，展示了大型戶外與沉浸式巨型圓頂投影應用的工程規模與硬體配置實例。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xrpjyq/skydome_jaipur_rajasthan_india_the_worlds_3rd/",
+    "publish_date": "2026-11-09",
+    "keywords": [
+      "Skydome",
+      "圓頂投影",
+      "沉浸式投影",
+      "印度"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2809,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "這是什麼？尋找老舊劇院設備識別協助",
+    "summary_zh": "有用戶在 Reddit 的投影機板上發文求助，表示在音樂會現場看到類似博物館展示的老舊劇院設備，但現場沒有任何標示說明名稱。該用戶上傳了照片並詢問社群成員這些器材的確切名稱與背景。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Maybe",
+    "url": "https://www.reddit.com/r/projectors/comments/1xru2c8/what_are_these/",
+    "publish_date": "2026-11-09",
+    "keywords": [
+      "老舊設備",
+      "劇院器材",
+      "展示",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2803,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "地拉幕與電動下拉幕的耐用度與張力表現抉擇",
+    "summary_zh": "一名用戶在Reddit發文尋求關於極光超短焦投影機XGIMI Aura 3 Max搭配抗光幕（CLR）的建議。文章主要探討地拉幕與天花板電動下拉幕在長期使用下的耐用度、可靠度，以及張力維持表現，是否容易產生皺褶或波浪紋，希望獲得實際使用經驗與推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xrqe0u/floor_rising_or_ceiling_drop_down_screen/",
+    "publish_date": "2026-11-09",
+    "keywords": [
+      "CLR投影幕",
+      "抗光幕",
+      "地拉幕",
+      "電動下拉幕",
+      "XGIMI Aura 3 Max"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2802,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我剛進口了這台投影機",
+    "summary_zh": "Reddit論壇用戶分享了一篇關於進口投影機的討論貼文，內文僅包含圖片連結與簡單的主題，未提供具體的型號、規格、價格或品牌等詳細產業資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Maybe",
+    "url": "https://www.reddit.com/r/projectors/comments/1xrn553/just_imported_this_thing/",
+    "publish_date": "2026-11-09",
+    "keywords": [
+      "進口投影機",
+      "Reddit"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 2793,
     "source_name": "投影時代",
     "title_zh": "光影敘龜茲，文脈永流傳——索諾克領航系列工程投影機賦能龜茲博物館數字文博新表達",
@@ -35748,6 +36129,29 @@
     "link_status": "ok"
   },
   {
+    "id": 2818,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "奧圖碼 REV9178 家用影院機火熱開搶",
+    "summary_zh": "根據中關村線上報導，奧圖碼（Optoma）推出的 REV9178 家用影院投影機目前正進行特價促銷活動。該機型由核心合作夥伴易仁科技販售，優惠價格為新台幣換算約 19999 元人民幣。實體店面位於北京市海淀區知春路111號理想大厦，提供消費者前往現場諮詢與選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1207/12079163.html",
+    "publish_date": "2026-06-30",
+    "keywords": [
+      "奧圖碼",
+      "REV9178",
+      "家用投影機",
+      "特價促銷",
+      "中關村線上"
+    ],
+    "mentioned_brands": [
+      "奧圖碼",
+      "Optoma"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2475,
     "source_name": "ZOL投影機頻道",
     "title_zh": "索尼 VPL-F755HZ 投影機特價促銷活動",
@@ -37682,6 +38086,29 @@
       "Epson"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2817,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CH-TZ2800 投影機特價促銷中",
+    "summary_zh": "愛普生推出 CH-TZ2800 家用投影機，主打 4K 高畫質與高對比度表現。目前該款產品正於北京商家「北京合众联鑫」進行特價促銷活動，實際售價採價格面議方式，提供有興趣的消費者前往位於北京市海淀區中關村中科的實體店面洽詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1186/11862520.html",
+    "publish_date": "2026-05-25",
+    "keywords": [
+      "愛普生",
+      "CH-TZ2800",
+      "家用投影機",
+      "4K投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
   },
   {
     "id": 2310,
