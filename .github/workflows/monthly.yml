@@ -27,7 +27,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-pipeline.txt
 
+      # id: restore——後面所有會碰資料的步驟都要確認它成功才執行（見 daily.yml 的說明）。
       - name: Restore projector_intel.db（來自 tmp/db-transfer 分支）
+        id: restore
         run: python backup_db.py restore
 
       - name: 產生月報（預設處理「上個月」）
@@ -46,7 +48,7 @@ jobs:
 
       - name: 產生簡報
         id: slides
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -61,13 +63,13 @@ jobs:
 
       - name: 匯出靜態資料
         id: export
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: python export_static_data.py
 
       - name: git commit + push（data/ 和 reports/）
         id: commit
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: |
           git config user.name "projector-insight-bot"
@@ -81,7 +83,7 @@ jobs:
           fi
 
       - name: 把資料庫狀態存回 tmp/db-transfer 分支
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: python backup_db.py
 
@@ -89,7 +91,8 @@ jobs:
         id: status
         if: always()
         run: |
-          if [ "${{ steps.report.outcome }}" = "failure" ] || \
+          if [ "${{ steps.restore.outcome }}" != "success" ] || \
+             [ "${{ steps.report.outcome }}" = "failure" ] || \
              [ "${{ steps.slides.outcome }}" = "failure" ] || \
              [ "${{ steps.export.outcome }}" = "failure" ] || \
              [ "${{ steps.commit.outcome }}" = "failure" ]; then

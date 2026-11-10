@@ -16,9 +16,11 @@ backup_db.py
                                     #  沒有本機這台電腦累積下來的 db）
 """
 import shutil
+import sqlite3
 import subprocess
 import sys
 import tarfile
+from contextlib import closing
 from datetime import date
 from pathlib import Path
 
@@ -41,9 +43,22 @@ def run(cmd, cwd=None) -> int:
     return result.returncode
 
 
+def article_count(path: Path) -> int:
+    """資料庫裡的文章數；打不開或沒有 articles 表一律當 0。"""
+    try:
+        with closing(sqlite3.connect(path)) as conn:
+            return conn.execute("SELECT COUNT(*) FROM articles").fetchone()[0]
+    except sqlite3.Error:
+        return 0
+
+
 def backup_local() -> bool:
     if not DB_PATH.exists():
         print(f"找不到 {DB_PATH}，略過本機備份", file=sys.stderr)
+        return False
+    if article_count(DB_PATH) == 0:
+        # 空資料庫絕不能當備份：它會蓋掉 GitHub 上唯一的正常備份（2026-11-10 事故）
+        print("資料庫是空的（0 篇文章），拒絕備份", file=sys.stderr)
         return False
 
     BACKUPS_DIR.mkdir(exist_ok=True)
@@ -62,6 +77,9 @@ def backup_local() -> bool:
 def backup_github() -> bool:
     if not DB_PATH.exists():
         print(f"找不到 {DB_PATH}，略過 GitHub 備份", file=sys.stderr)
+        return False
+    if article_count(DB_PATH) == 0:
+        print("資料庫是空的（0 篇文章），拒絕備份到 GitHub", file=sys.stderr)
         return False
 
     tar_path = ROOT / "projector_intel.db.tar.gz"
@@ -115,6 +133,9 @@ def restore_from_github() -> bool:
 
     if not DB_PATH.exists():
         print("還原後找不到 projector_intel.db", file=sys.stderr)
+        return False
+    if article_count(DB_PATH) == 0:
+        print("還原出來的資料庫是空的（0 篇文章），視為還原失敗", file=sys.stderr)
         return False
     print(f"已從 GitHub tmp/db-transfer 分支還原：{DB_PATH}")
     return True

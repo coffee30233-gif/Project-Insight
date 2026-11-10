@@ -27,6 +27,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-pipeline.txt
 
+      # 年報本身只讀月報檔，不需要資料庫；但後面的「匯出靜態資料」會讀資料庫，
+      # 沒還原的話拿到的是空資料庫，匯出後會把網站的 articles.json 等全部清空。
+      # 年報不會改動資料庫，所以這支 workflow 不用備份回 tmp/db-transfer。
+      - name: Restore projector_intel.db（來自 tmp/db-transfer 分支）
+        id: restore
+        run: python backup_db.py restore
+
       - name: 產生年報（預設處理「去年」，讀取該年 1-12 月的月報彙整）
         id: report
         continue-on-error: true
@@ -43,7 +50,7 @@ jobs:
 
       - name: 產生簡報
         id: slides
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -58,13 +65,13 @@ jobs:
 
       - name: 匯出靜態資料
         id: export
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: python export_static_data.py
 
       - name: git commit + push（data/ 和 reports/）
         id: commit
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: |
           git config user.name "projector-insight-bot"
@@ -81,7 +88,8 @@ jobs:
         id: status
         if: always()
         run: |
-          if [ "${{ steps.report.outcome }}" = "failure" ] || \
+          if [ "${{ steps.restore.outcome }}" != "success" ] || \
+             [ "${{ steps.report.outcome }}" = "failure" ] || \
              [ "${{ steps.slides.outcome }}" = "failure" ] || \
              [ "${{ steps.export.outcome }}" = "failure" ] || \
              [ "${{ steps.commit.outcome }}" = "failure" ]; then

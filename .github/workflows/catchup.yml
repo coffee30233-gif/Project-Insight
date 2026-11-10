@@ -65,7 +65,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-pipeline.txt
 
+      # id: restore——後面所有會碰資料的步驟都要確認它成功才執行（見 daily.yml 的說明）。
       - name: Restore projector_intel.db（來自 tmp/db-transfer 分支）
+        id: restore
         run: python backup_db.py restore
 
       - name: 跑爬蟲
@@ -77,7 +79,7 @@ jobs:
 
       - name: 每季原文連結健檢（1/4/7/10 月 1 號）
         id: linkcheck
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -91,13 +93,13 @@ jobs:
 
       - name: 匯出靜態資料
         id: export
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: python export_static_data.py
 
       - name: git commit + push（data/）
         id: commit
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: |
           git config user.name "projector-insight-bot"
@@ -111,7 +113,7 @@ jobs:
           fi
 
       - name: 把資料庫狀態存回 tmp/db-transfer 分支
-        if: always()
+        if: always() && steps.restore.outcome == 'success'
         continue-on-error: true
         run: python backup_db.py
 
@@ -119,7 +121,8 @@ jobs:
         id: status
         if: always()
         run: |
-          if [ "${{ steps.scraper.outcome }}" = "failure" ] || \
+          if [ "${{ steps.restore.outcome }}" != "success" ] || \
+             [ "${{ steps.scraper.outcome }}" = "failure" ] || \
              [ "${{ steps.linkcheck.outcome }}" = "failure" ] || \
              [ "${{ steps.export.outcome }}" = "failure" ] || \
              [ "${{ steps.commit.outcome }}" = "failure" ]; then
