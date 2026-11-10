@@ -1,5 +1,5 @@
 {
-  "total_articles": 1944,
+  "total_articles": 1945,
   "total_sources": 35,
   "by_source": {
     "Reddit r/projectors": 827,
@@ -8,7 +8,7 @@
     "ProjectorCentral": 71,
     "投影時代": 46,
     "當貝Dangbei官方": 40,
-    "DigiTimes": 34,
+    "DigiTimes": 35,
     "ProjectorScreen": 33,
     "XGIMI官方": 32,
     "ZNDS投影頻道": 24,
@@ -39,7 +39,7 @@
     "AVS Forum": 1
   },
   "by_category": {
-    "供應鏈": 33,
+    "供應鏈": 34,
     "市場數據": 187,
     "技術動態": 235,
     "新品發布": 1489
@@ -50,7 +50,7 @@
       "blocked": 651,
       "dead": 6,
       "ok": 972,
-      "unchecked": 1073
+      "unchecked": 1075
     },
     "last_checked_at": "2026-10-01T07:21:50.171791+00:00"
   }

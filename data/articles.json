@@ -1,5 +1,30 @@
 [
   {
+    "id": 2820,
+    "source_name": "DigiTimes",
+    "title_zh": "諾基亞進軍AI光互連市場，挑戰Lumentum與Coherent地位",
+    "summary_zh": "諾基亞（Nokia）近期宣布將擴大投入AI光互連技術市場，此舉預計將對現有的光學元件大廠Lumentum與Coherent構成競爭壓力。該市場主要聚焦於資料中心內部的雷射光源與高速傳輸技術，旨在提升AI運算架構下的數據傳輸效率。儘管諾基亞在通訊基礎設施領域深耕多年，但此次切入光互連領域，顯示其意圖在高速光通訊與雷射技術供應鏈中佔據更關鍵的戰略位置，後續對光學元件市場的競爭格局影響值得關注。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261110PD231/nokia-market-coherent-data-center-laser.html",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Nokia",
+      "AI光互連",
+      "Lumentum",
+      "Coherent",
+      "光學元件",
+      "資料中心"
+    ],
+    "mentioned_brands": [
+      "Nokia",
+      "Lumentum",
+      "Coherent"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2819,
     "source_name": "ZOL投影機頻道",
     "title_zh": "雙11投影優選：優派LX720-4KC Ultra三色雷射4K投影，影音遊戲一把抓",
