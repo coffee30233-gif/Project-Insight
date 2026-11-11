@@ -1,5 +1,353 @@
 [
   {
+    "id": 2843,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "雙11家庭投影選購指南：優派 LX720-4KC Ultra 影游娛樂表現解析",
+    "summary_zh": "針對雙11購物節的家庭投影機選購需求，本文以優派（ViewSonic）LX720-4KC Ultra 為例，探討現代家庭對投影設備的多樣化期待。針對客廳日間觀影，強調高亮度輸出的重要性；針對夜間追劇與賽事轉播，則著重於色彩還原與細節呈現；此外，針對年輕族群的遊戲需求，特別提及操作響應速度的關鍵性。該機型定位於滿足家庭成員在不同場景下的影音娛樂需求，為消費者提供選購參考。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1271/12713242.html",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "優派",
+      "LX720-4KC Ultra",
+      "家庭投影",
+      "雙11",
+      "影音娛樂"
+    ],
+    "mentioned_brands": [
+      "優派"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2837,
+    "source_name": "DigiTimes",
+    "title_zh": "Nvidia OOI架構為GPU光互連技術鋪路",
+    "summary_zh": "Nvidia近期發布的OOI（Optical-to-Optical Interconnect）架構，旨在解決高效能運算中GPU與記憶體間的頻寬瓶頸。該技術透過矽光子技術實現晶片間的光學互連，顯著提升資料傳輸效率並降低功耗。雖然此技術主要針對AI運算與資料中心GPU應用，但其核心的光學傳輸與封裝技術，對於未來高階投影機在處理超高解析度影像訊號傳輸與內部高速數據處理具有潛在的技術參考價值，屬於顯示產業上游關鍵技術的延伸應用。",
+    "category": "技術動態",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261110PD250/nvidia-digitimes-interposer-bandwidth-silicon.html",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "Nvidia",
+      "OOI架構",
+      "矽光子",
+      "光互連",
+      "GPU"
+    ],
+    "mentioned_brands": [
+      "Nvidia"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2829,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求推薦可配送至歐洲地區的可靠投影機購買網站",
+    "summary_zh": "一名居住在歐洲的網友在 Reddit 論壇發文求助，表示因本地買不到心儀的投影機型號，希望能有熱心網友推薦支援歐洲跨國配送且信譽良好的投影機零售或購物網站，以解決跨境購買顯示設備的需求。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsumj6/reliable_websites/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "歐洲",
+      "購買管道",
+      "跨境購物",
+      "零售網站"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2828,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ HT5550 投影機評價詢問",
+    "summary_zh": "一名Reddit用戶發文詢問，從BenQ HT2050A升級至二手價格低於700美元的BenQ HT5550，在專用劇院室中是否能明顯感受到畫質（PQ）的巨大提升。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xt1l6z/benq_ht5550_feedback/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "BenQ HT5550",
+      "HT2050A",
+      "二手投影機",
+      "畫質提升"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2826,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "NothingProjector 100吋電動地升式抗光幕轉售資訊",
+    "summary_zh": "Reddit用戶發布二手轉售資訊，產品為NothingProjector品牌之100吋電動地升式抗光幕（ALR Screen），專為超短焦（UST）投影機設計。該螢幕具備95%環境光抑制能力，支援4K/8K UHD與主動式3D顯示。賣家表示產品狀況極佳且使用頻率極低，目前開價950美元，相較新品價格可節省約520美元（約40%折扣），並開放買家議價。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xt01qu/nothingprojector_motorized_alr_screen_for_ultra/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "NothingProjector",
+      "抗光幕",
+      "超短焦投影機",
+      "電動地升幕",
+      "ALR"
+    ],
+    "mentioned_brands": [
+      "NothingProjector"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2825,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "用戶詢問是否應預購極米H30 Pro黑五優惠並尋求2千美元左右投影機推薦",
+    "summary_zh": "Reddit論壇用戶發文詢問是否該在黑色星期五以1899美元預購極米H30 Pro投影機（含支架或吊架及3D眼鏡），並探討其與Titan Noir（2500美元）及海信C2 Ultra等競品的性價比差異。用戶主要用於全黑臥室觀賞4K與3D藍光光碟及遊戲，同時關注投影機色彩表現與QLED電視的差距。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xt6i44/should_i_preorder_xgimi_h30_pro_for_black_friday/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "極米H30 Pro",
+      "黑色星期五",
+      "Titan Noir",
+      "海信C2 Ultra",
+      "3D藍光",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Hisense",
+      "TCL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2822,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "這就是投射劇院的魅力所在",
+    "summary_zh": "一名Reddit用戶分享其家用投影劇院的設置經驗，指出擁有144吋大螢幕與7.2.2聲道音響系統（包含設置於後方閣樓與地板下的雙重重低音），能帶來極佳的劇院沉浸感。該用戶提及螢幕在不使用時可收納於上方飾板中，並對比了其早期的Zenith PV-800投影機設備，展現家庭劇院的技術演進。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsukbq/this_is_the_reason_for_projection/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "家庭劇院",
+      "144吋螢幕",
+      "7.2.2聲道",
+      "重低音"
+    ],
+    "mentioned_brands": [
+      "Zenith"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2840,
+    "source_name": "AV Network",
+    "title_zh": "觀賞Epson如何為太陽馬戲團ECHO帶來投影魔法",
+    "summary_zh": "Epson投影機再次展現其在大型娛樂演出的應用實力，為知名太陽馬戲團的ECHO表演提供精彩的投影視覺特效。透過高階投影技術與藝術表演的結合，打造出沉浸式的舞台視覺體驗，突顯出Epson在大型文娛展演市場中的技術應用與實際案例。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.avnetwork.com/installations/sports-entertainment/watch-how-epson-brings-projection-magic-to-cirque-du-soleil-echo",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Epson",
+      "太陽馬戲團",
+      "投影魔法",
+      "舞台投影",
+      "ECHO"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Cirque du Soleil"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2836,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Stewart投影幕收到時有輕微瑕疵，消費者苦惱是否再次申請更換",
+    "summary_zh": "有消費者在Reddit論壇發文抱怨，花費高額資金購買高價的Stewart品牌投影幕，然而第一塊收到的產品有多處受損。經過更換後的新布幕雖然狀況改善，但仍存在邊角小黑點與微小凹陷等兩處輕微的外觀瑕疵。這讓消費者陷入兩難，猶豫是否該向廠商要求完美品質並再次經歷繁瑣的退換貨流程，還是直接接受現狀，擔心後續換貨也無法拿到完美無瑕的產品。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xscswx/screen_damage/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Stewart",
+      "投影幕",
+      "瑕疵",
+      "退換貨"
+    ],
+    "mentioned_brands": [
+      "Stewart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2835,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找臥室投影機升級建議",
+    "summary_zh": "一名Reddit用戶發文尋求臥室投影機的升級建議。原使用者多年前購入TOPTRO投影機作為偶爾使用，但過去一年已成為主力臥室設備。由於風扇噪音變大影響夜間觀影，且需連接PS5與Fire TV Stick，希望能尋找運作更安靜、畫質更好，並具備雙HDMI埠或內建智慧作業系統的新機型。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsijx6/looking_to_upgrade_my_bedroom_projector/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "臥室投影機",
+      "TOPTRO",
+      "投影機升級",
+      "風扇噪音"
+    ],
+    "mentioned_brands": [
+      "TOPTRO"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2833,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "歐洲用戶反映購買投影機Amnesia作業系統遭遇付款障礙",
+    "summary_zh": "一名法國投影機用戶在Reddit發文求助，指出其在購買適用於XGIMI RS 30 Ultra與Z9X Highlight Flagship投影機的Amnesia OS時，結帳頁面被強制導向俄羅斯支付閘道Robokassa，僅支援MIR、Yandex Pay等當地支付方式，導致法國信用卡付款遭拒，且無法使用PayPal或Google Pay。該用戶正尋求其他歐洲買家的經驗分享以突破此付款限制。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xshnmv/galère_pour_payer_amnesia_os_depuis_leurope/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "Amnesia OS",
+      "XGIMI RS 30 Ultra",
+      "Z9X Highlight Flagship",
+      "付款問題",
+      "歐洲用戶"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Amnesia OS"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2832,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "XGIMI Horizon 20 Pro 無法透過內建 App 輸出 Dolby Atmos 音效之問題探討",
+    "summary_zh": "用戶回報在使用 XGIMI Horizon 20 Pro 投影機搭配 Sony BRAVIA Theatre Quad 音響系統時，無法透過投影機內建的 Google TV 應用程式（如 Prime Video、Disney+）成功輸出 Dolby Atmos 音效，系統僅顯示 LPCM 5.1 或 Dolby Audio 5.1。用戶已嘗試調整 HDMI eARC 設定、EDID 參數及數位音訊輸出格式，但均無效。經測試，若將 MacBook M1 直接連接至 Sony 音響系統則可正常顯示 Dolby Atmos，證實音響端無硬體故障。目前用戶正尋求確認該投影機是否支援內建 App 的 Dolby Atmos 透傳（Passthrough）功能，或是否存在韌體限制。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsn4rj/no_dolby_atmos_with_xgimi_horizon_20_pro_sony/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20 Pro",
+      "Dolby Atmos",
+      "eARC",
+      "投影機音效"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2831,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ W1070投影機清潔後仍有灰塵問題探討",
+    "summary_zh": "一名用戶購入BenQ W1070投影機進行維修與轉售，雖然機器運作正常，但在未對焦時仍能看見灰塵。用戶表示已清潔DLP晶片、鏡頭及色輪兩次，並指出部分Epson LCD投影機也有類似情況，於論壇發文詢問是否為正常現象。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsn6fu/is_this_normal/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "BenQ W1070",
+      "DLP晶片",
+      "灰塵清理",
+      "投影機維修"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2830,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米投影機 20基礎版與30專業版之選購比較請益",
+    "summary_zh": "Reddit論壇用戶發文詢問極米投影機20基礎版與30專業版的差異與性價比，尋求同時擁有兩款機型經驗的使用者建議。發文者目前使用BenQ W2000，升級訴求為提升亮度，預計安裝於天花板，投射100至130吋白牆畫面，主要用途為白天播放兒童節目與日常電視、夜晚進行遊戲與觀影，由於電腦規格無法支援4K 120Hz遊戲，正猶豫是否值得多花預算購買30專業版。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsit60/xgimi_20_base_vs_30_pro/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "極米",
+      "Xgimi",
+      "20 base",
+      "30 pro",
+      "BenQ w2000",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2827,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "同時保留電視與投影機的配置建議與免釘牆布幕詢問",
+    "summary_zh": "一名即將購入投影機的消費者在 Reddit 論壇發文詢問，計劃將投影機放置於沙發旁的支架上，同時保留現有的電視來觀看新聞或 YouTube 等日常內容。由於使用者目前為租屋族，希望避免在天花板或牆壁鑽孔，因此尋求無需打孔就能安裝投影機布幕的替代方案與配置建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xska19/keeping_tv_with_projector/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "投影機",
+      "電視",
+      "租屋",
+      "投影幕",
+      "安裝"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2823,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機新手請益：黑色星期五該先買投影幕還是回音壁音響？",
+    "summary_zh": "一名初次購買投影機的用戶在Reddit社群發文求助，表示目前使用N1s 4K投影機投射在臥室牆面上，對現有畫質感到滿意，且仍在使用內建揚聲器。由於預算有限，在黑色星期五特賣期間只能二擇一，因此詢問其他玩家應該優先升級投影幕還是購入Soundbar音響。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xsh8zp/screen_or_soundbar_first/",
+    "publish_date": "2026-11-10",
+    "keywords": [
+      "N1s 4K",
+      "投影幕",
+      "Soundbar",
+      "家用投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
     "id": 2820,
     "source_name": "DigiTimes",
     "title_zh": "諾基亞進軍AI光互連市場，挑戰Lumentum與Coherent地位",
@@ -38291,6 +38639,29 @@
       "Electronic Arts"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2841,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "寶視來 VU765 北京特價促銷 41,999 人民幣",
+    "summary_zh": "寶視來 VU765 激光投影機在北京授權核心代理商「富日廣通」進行特價促銷活動，優惠售價為 41,999 人民幣。該產品主打激光投影光源，商家地址位於北京市海澱區海澱中街 16 號，提供有興趣的消費者直接前往選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1184/11849672.html",
+    "publish_date": "2026-05-22",
+    "keywords": [
+      "寶視來",
+      "VU765",
+      "激光投影機",
+      "零售行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "宝视来",
+      "VU765"
+    ],
+    "link_status": null
   },
   {
     "id": 2364,
