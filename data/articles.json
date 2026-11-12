@@ -1,5 +1,426 @@
 [
   {
+    "id": 2868,
+    "source_name": "DigiTimes",
+    "title_zh": "Electronica論壇指出薪資與能源為歐洲科技業瓶頸",
+    "summary_zh": "在德國慕尼黑舉辦的Electronica論壇中，產業專家針對歐洲科技產業的未來發展進行探討。會議重點指出，高昂的能源成本以及勞動力薪資水平的攀升，已成為制約歐洲科技製造與研發競爭力的主要瓶頸。儘管歐洲在半導體與工業自動化領域擁有深厚基礎，但面對全球供應鏈重組與成本壓力，如何維持製造業的獲利能力與技術領先地位，成為與會者關注的核心議題。此次論壇反映了歐洲科技供應鏈在宏觀經濟環境下面臨的結構性挑戰。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261111PD260/electronica-europe-2026-technology-industrial.html",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "Electronica",
+      "歐洲科技業",
+      "能源成本",
+      "薪資",
+      "供應鏈"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2867,
+    "source_name": "DigiTimes",
+    "title_zh": "AI瓶頸從運算轉向電力；歐洲供應鏈視功率半導體為下一個短缺點",
+    "summary_zh": "DIGITIMES報導指出，隨著AI產業發展，瓶頸已從運算能力轉移至電力供應。歐洲供應鏈目前高度關注功率半導體，認為其將成為繼運算晶片後的下一個關鍵短缺零組件。此趨勢反映了全球對高效能電源管理晶片與相關功率元件的需求激增，可能對包含投影機在內的各類電子設備供應鏈產生排擠效應，影響電源模組的取得成本與交期。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261112PD214/2026-panel-supply-chain-power-semiconductors-data.html",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "AI",
+      "功率半導體",
+      "供應鏈",
+      "電力瓶頸",
+      "歐洲市場"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2866,
+    "source_name": "投影時代",
+    "title_zh": "科視與贏康攜手舉辦「無界之巔，萬象臻境」全感沉浸體驗會圓滿收官",
+    "summary_zh": "科視與贏康日前聯合舉辦為期兩週的「無界之巔，萬象臻境」全感沉浸體驗會，展示多款高階投影設備與前沿光影應用。現場重點呈現科視Eclipse G3 6DLP投影機（具備20,000,000:1超高對比度）暗場空間體驗，以及50,000流明Griffyn 4K50-RGB、Griffyn 4K35-RGB投影秀等。活動期間結合數十場專業培訓與技術交流，吸引主題公園、文旅創意及集成商等數百人次到場，並接待粤芒協會與深圳市照明學會等代表團參訪，全面展現RGB純激光投影技術與沉浸式方案的落地實力。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/221940248132.shtml",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "科視",
+      "贏康",
+      "RGB純激光投影機",
+      "Eclipse G3",
+      "Griffyn 4K50-RGB",
+      "沉浸式投影",
+      "文旅光影"
+    ],
+    "mentioned_brands": [
+      "科視",
+      "贏康"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2864,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影畫面出現亮點問題詢問",
+    "summary_zh": "一名Reddit用戶在r/projectors發文求助，指出其使用的平價投影機在投影時畫面上出現不明亮點，但確認牆面乾淨且鏡頭無灰塵，詢問此問題成因及解決方式。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtudhr/what_are_the_dots_projected/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "投影機故障",
+      "畫面亮點",
+      "平價投影機",
+      "疑難排解"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2862,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit用戶分享JUMZ 6 Z投影機圖片",
+    "summary_zh": "本篇內容來自Reddit投影機討論版，用戶分享了一張名為「JUMZ 6 Z boku」的投影機設備圖片。原文僅包含圖片連結，未提供任何關於該機型的規格、技術參數、價格或市場定位等詳細資訊，屬於單一用戶的產品展示或詢問性質，缺乏產業參考價值。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtrwgs/jumz_6_z_boku/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "JUMZ",
+      "投影機",
+      "Reddit"
+    ],
+    "mentioned_brands": [
+      "JUMZ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2861,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "明基高爾夫模擬器投影機選擇討論",
+    "summary_zh": "Reddit論壇用戶發文詢問關於建置車庫高爾夫模擬器時的投影機選擇，主要比較明基BenQ AH30st與AH500st兩款天花板吊裝機型。兩者存在500美元價差，AH500st具備雷射光源且亮度高出1000 ANSI流明，而AH30st則採用4 LED光源並擁有較高的色彩評等。使用者在全暗環境搭配局部LED投射燈的條件下，尋求關於實際畫質與亮度差異的評估建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtsv7t/benq_golf_simulator_projector_options/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "BenQ",
+      "AH30st",
+      "AH500st",
+      "高爾夫模擬器",
+      "雷射光源",
+      "LED光源"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2858,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Denon X1700H 與 Epson Pro Cinema LS9000 之間的 HDMI CEC 與 eARC 連接問題",
+    "summary_zh": "一名圖書館IT管理員在升級投影設備時，遇到 Denon X1700H 環繞擴大機與 Epson Pro Cinema LS9000 投影機之間的 HDMI CEC 控制問題。儘管已正確設定 HDMI Link 等功能，Denon 遙控器仍無法控制 Epson 投影機的電源開關，但反向操作卻可行。用戶指出使用了 50 英尺的 Highwinds 8K 光纖 HDMI 線材，並懷疑線材方向性或設備相容性問題。此現象與部分 Epson LS12000 用戶回報的 CEC 故障情況相似，目前尚無明確解決方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtteez/denon_x1700h_to_epson_pro_cinema_ls9000_earc/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "Epson",
+      "Denon",
+      "HDMI CEC",
+      "eARC",
+      "LS9000",
+      "投影機連接"
+    ],
+    "mentioned_brands": [
+      "Denon",
+      "Epson",
+      "Highwinds"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2854,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "便攜式投影機選購諮詢",
+    "summary_zh": "一名Reddit用戶發文詢問便攜式投影機的選購建議。該用戶需求包含日常電影觀賞（需考量日間與夜間使用場景）以及透過HDMI連接Xbox進行線上遊戲（如Destiny）。用戶明確表示不追求4K UHD解析度或環繞音效等高階規格，主要訴求為實用性與便攜性，並希望尋求性價比高的替代方案，以避免購買過於昂貴的機型。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtw9f2/proyector_portatil/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "便攜式投影機",
+      "遊戲投影",
+      "選購建議",
+      "HDMI"
+    ],
+    "mentioned_brands": [
+      "Xbox"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2853,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用極米 Horizon 20 觀看閃光畫面時出現畫面撕裂感",
+    "summary_zh": "一名 Reddit 用戶發文詢問，在使用極米 Horizon 20 投影機觀看包含閃光燈或槍口閃光等快速閃爍場景時，畫面會出現類似於電玩遊戲中的畫面撕裂線條，並懷疑這是否由 3:2 pulldown 造成。該問題在使用內建應用程式與外部訊號源時皆會發生。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtxye5/artifact_during_scenes_with_flashes/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "極米",
+      "Horizon 20",
+      "畫面撕裂",
+      "投影機故障"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2852,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "購買NexiGo Nova Mini Lite的糟糕體驗：訂單遭多次取消且客服失聯",
+    "summary_zh": "一名消費者分享購買NexiGo Nova Mini Lite微型投影機的挫折經驗。他在10月29日以預購價549美元下單，因使用喬治亞共和國的轉運地址及推薦碼等問題，遭遇超過5次訂單被取消、繁瑣的審核要求，且客服後續未再回覆。NexiGo官方政策雖未全面禁止轉運，但消費者在更改帳單地址後仍無法順利完成購買。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtydj9/my_experience_trying_to_buy_a_nexigo_nova_mini/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "NexiGo Nova Mini Lite",
+      "微型投影機",
+      "預購",
+      "消費者體驗",
+      "轉運服務"
+    ],
+    "mentioned_brands": [
+      "NexiGo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2850,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 RS30 Pro 與 RS20 規格及性價比討論",
+    "summary_zh": "有用戶在 Reddit 論壇發文詢問關於極米投影機的選購建議。該用戶在 AliExpress 平台上發現了兩款機型的特惠價格，其中極米 RS30 Pro 標價 950 美元，而前一代的 RS20 標價 650 美元。文章主要探討兩者之間 300 美元的價差是否值得，藉此尋求社群網友對於這兩款投影機在性能與價格上的評比與購買建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtvhll/xgimi_rs30_pro_vs_rs20/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "極米",
+      "RS30 Pro",
+      "RS20",
+      "投影機",
+      "性價比"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2848,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Z9x 旗艦版用戶發文詢問黑色畫面模糊問題",
+    "summary_zh": "一名 Reddit 用戶發文詢問其新購入的極米 Z9x 旗艦版（XGIMI Z9x Flagship Edition）投影機是否故障，指出黑色畫面看起來有點模糊，尋求社群網友解答該現象是否正常。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtsnnq/xgimi_z9x_flagship_edition/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "極米",
+      "Z9x 旗艦版",
+      "投影機故障",
+      "畫質問題"
+    ],
+    "mentioned_brands": [
+      "極米",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2846,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋求高處吊裝投影機建議",
+    "summary_zh": "Reddit用戶發文尋求投影機安裝建議，希望能在約10英尺高的天花板進行吊裝，並向下投影覆蓋19x15英尺的空間，詢問社群成員此配置是否可行。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xu11k6/suggestions_wanted/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "投影機安裝",
+      "吊裝",
+      "投影距離"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2845,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aura 3 與 Nothing Projector Shore 超短焦電視櫃相容性探討",
+    "summary_zh": "有用戶在 Reddit 發文詢問，討論極光 Aura 3 投影機與 Nothing Projector Shore 超短焦專用電視櫃的相容性問題。主要疑慮在於 Aura 3 內建的向上開啟式雷射防護擋板，是否會在放入該款電視櫃時受到機構設計的干擾。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xu5p20/aura_3_compatibility_with_nothing_projector_shore/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "Aura 3",
+      "Nothing Projector Shore",
+      "超短焦電視櫃",
+      "雷射防護擋板"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2865,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC NZ500 投影機與 98 吋 TCL 98X11L 電視的選擇比較",
+    "summary_zh": "本篇討論源自 Reddit 論壇，用戶針對 JVC NZ500 投影機與 TCL 98X11L 98 吋電視進行規格與應用場景的比較。討論重點在於投影機與大型顯示器在家庭劇院環境下的優劣勢權衡，包含影像品質、安裝靈活性及觀影體驗的差異。此類討論反映了高階投影機市場面臨大尺寸電視價格下探後的競爭壓力，以及消費者在選擇顯示方案時的決策考量。",
+    "category": "市場數據",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtezpo/jvc_nz500_projector_or_98_tcl_98x11l_tv/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "JVC NZ500",
+      "TCL 98X11L",
+      "家庭劇院",
+      "投影機",
+      "大尺寸電視"
+    ],
+    "mentioned_brands": [
+      "JVC",
+      "TCL"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2859,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米RS20與RS30 Pro用於PS5 Pro遊戲的比較與全球速賣通購買諮詢",
+    "summary_zh": "有用戶在Reddit上詢問極米XGIMI RS20（約560美元）與RS30 Pro（約800美元）兩款投影機的規格差異，主要用於搭配PS5 Pro遊戲及觀影。發文者關注兩者的遊戲延遲、畫質表現、價差240美元是否值得，以及在全球速賣通（AliExpress）購買高價投影機的通路風險與可靠賣家推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xteyuo/xgimi_rs20_vs_rs30_pro_for_ps5_pro_gaming_worth/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "XGIMI",
+      "極米",
+      "RS20",
+      "RS30 Pro",
+      "PS5 Pro",
+      "遊戲投影機",
+      "AliExpress"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2856,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "首購短焦投影機諮詢：預算600至1500歐元、支援遊戲與白牆投影",
+    "summary_zh": "一名Reddit用戶發文尋求購買第一台家用短焦投影機的建議，預算介於600至1500歐元之間，偏好900歐元以下。主要用途包含觀看DVD、播放YouTube以及連接PS4、PS5、Wii與Switch等遊戲主機，因此要求低延遲。使用環境多為夜間或拉上窗簾的白天，打算直接投射於白牆上，不打算額外購買布幕。同時提及對外觀設計有美感要求，並詢問內建音響、擴充性以及寵物貓隻靠近投影機的安全性問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtl2sc/looking_to_buy_my_first_short_throw_projectorany/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "短焦投影機",
+      "家用投影機",
+      "遊戲延遲",
+      "白牆投影",
+      "購買指南"
+    ],
+    "mentioned_brands": [
+      "Sony",
+      "Nintendo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2849,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機選購諮詢：XGIMI Titan Noir、JVC NZ7 與 Sony XW5000ES 比較",
+    "summary_zh": "Reddit 用戶詢問針對 120 吋牆面投影的選購建議，比較機型包括 XGIMI Titan Noir、JVC DLA-NZ7 及 Sony VPL-XW5000ES。用戶考量重點在於全黑環境下的畫質表現，以及在預算約 7,000 歐元內，高階機種（JVC/Sony）的黑位與原生 4K 優勢是否值得相較於 Titan Noir 的高價差。此外，文中亦討論了投影牆面處理（漆面與螢幕選擇）、吊掛安裝可行性及散熱空間等實務問題，並尋求其他適合的替代方案建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xthfkn/help_me_choose_a_projector_xgimi_titan_noir_vs/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "XGIMI",
+      "JVC",
+      "Sony",
+      "Titan Noir",
+      "NZ7",
+      "XW5000ES",
+      "投影機選購"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "JVC",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2847,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 XGIMI Horizon 30 Pro 使用體驗不佳：開機故障與啟動異常",
+    "summary_zh": "一名用戶分享了剛入手的極米（XGIMI）Horizon 30 Pro 投影機使用體驗，表示對該產品感到失望。該機型在開機時存在嚴重問題，經常無法正常顯示畫面，僅能聽到風扇運轉聲，且需經過多次冷啟動（完全斷電等待10分鐘）後才偶爾能顯示影像。儘管用戶嘗試聯繫官方客服並進行韌體重置，但因無法進入恢復模式而未果。雖然該機型在成功顯示時畫質表現優異，但對於售價2000歐元的產品，用戶認為這種啟動可靠性完全無法接受，目前仍在等待官方進一步的技術支援回應。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xtf8ub/xgimi_horizon_30_pro_disappointment/",
+    "publish_date": "2026-11-11",
+    "keywords": [
+      "XGIMI",
+      "Horizon 30 Pro",
+      "投影機故障",
+      "開機異常",
+      "用戶體驗"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2843,
     "source_name": "ZOL投影機頻道",
     "title_zh": "雙11家庭投影選購指南：優派 LX720-4KC Ultra 影游娛樂表現解析",
@@ -38198,6 +38619,28 @@
       "偉業投影"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2869,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下 PT-BAZ712C 投影機特價促銷中",
+    "summary_zh": "根據中關村線上報導，松下（Panasonic）PT-BAZ712C 高亮投影機目前在經銷商「北京合眾聯鑫」展開特價促銷活動，價格採面議方式。該產品主打高亮度特色，銷售據點位於北京市海澱區中關村中科大廈9層，提供有採購需求的消費者前往現場諮詢選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1189/11890895.html",
+    "publish_date": "2026-05-30",
+    "keywords": [
+      "松下",
+      "PT-BAZ712C",
+      "投影機",
+      "促銷",
+      "高亮投影"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
   },
   {
     "id": 1808,
