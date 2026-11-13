@@ -1,5 +1,305 @@
 [
   {
+    "id": 2890,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "當貝公布2026年黑色星期五促銷活動：多款智慧投影機祭出最高45%折扣",
+    "summary_zh": "當貝（Dangbei）官方公布2026年黑色星期五促銷活動細節，預熱期為11月8日至18日，正式特賣則於11月19日至30日在美國官網展開。活動期間指定投影機型號最高可享約45%折扣，VIP會員並可領取30美元優惠券及早鳥通行證。本次促銷重點包含旗艦級4K三雷射與LED混合光源投影機MP1 Max，具備3100 ISO流明與Google TV；以及4K雷射投影機DBOX02 Pro，具備2000 ISO流明與內建雲台。活動期間購買指定機型還可獲贈3D眼鏡等好禮，提供消費者升級家庭劇院的優惠管道。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/dangbei-black-friday-2026-bring-big-screen-entertainment-home-for-the-holidays",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "當貝",
+      "Dangbei",
+      "黑色星期五",
+      "促銷",
+      "4K投影機",
+      "MP1 Max",
+      "DBOX02 Pro"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2887,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "萊卡 Cine 1 與海信 L9Q 超短焦投影機選購比較",
+    "summary_zh": "有用戶在論壇上尋求建議，探討是否應以 Leica Cine 1 取代現有的 75 吋三星 The Frame 電視。Leica Cine 1 具備 3000 流明，售價約 6500 美元，實機展示效果佳且有設計感家具搭配；而海信 L9Q 則擁有較高的 5000 亞洲流明，價格較親民約在 4000 至 6000 美元之間，但缺乏實機展示且周邊配件搭配尚不確定。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuhmeo/leica_cine_1_or_hisense_l9q/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "Leica Cine 1",
+      "Hisense L9Q",
+      "超短焦投影機",
+      "雷射電視",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "Leica",
+      "Hisense",
+      "Samsung"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2883,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ HT2550 投影機持續切換至節能模式並閃爍求助",
+    "summary_zh": "有 Reddit 用戶發文求助，指出其使用的 BenQ HT2550 投影機在更換全新燈泡後，仍持續發生自動切換至節能模式（Eco Mode）且指示燈不斷閃爍的問題，詢問是否有其他用戶曾遭遇類似狀況或了解其故障原因。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xunedg/benq_ht2550_need_help_it_keep_going_to_eco_mode/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "BenQ",
+      "HT2550",
+      "故障排除",
+      "節能模式",
+      "燈泡"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2882,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "JVC旗艦機型是否採用手工挑選的頂級零件？",
+    "summary_zh": "Reddit論壇用戶討論JVC投影機x950r與x790r的差異，特別是關於x950r是否採用手工挑選的頂級零件。發文者指出兩者規格相近但當初定價差距達一倍，由於兩台二手價格相近，但x790r燈泡時數僅350小時低於x950r的800小時，因而猶豫該如何選擇，並探討頂級零件帶來的實際差異是否明顯。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuq21i/jvc_flagship_hand_selected_top_bin_parts/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "JVC",
+      "x950r",
+      "x790r",
+      "頂級零件",
+      "對比度"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2881,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "二手投影機購買指南與型號評估：Epson、BenQ、LG等熱門舊機型推薦",
+    "summary_zh": "一名網友在Reddit詢問預算約1000歐元左右、安裝於客廳（3公尺投射距離）購買二手投影機的建議。文中點名多款2019至2023年間的高階舊機型進行詢價與比較，包含售價約700歐元的Epson EH-TW7100、1200歐元的Epson EH-TW9400與BenQ W5700，以及900至1100歐元的LG HU810PW。貼文並探討選購二手投影機時應注意的關鍵細節，如燈泡使用時數與壞點狀況等。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuqaaj/buying_second_hand_what_should_i_look_for_and/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "二手投影機",
+      "Epson",
+      "BenQ",
+      "LG",
+      "EH-TW7100",
+      "EH-TW9400",
+      "W5700",
+      "HU810PW"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "BenQ",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2880,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 C2 Pro 吊裝投影機與抗光幕搭配抉擇：Akia CineGrey 3D 與 Valerion PureVision 比較",
+    "summary_zh": "一名用戶在 Reddit 論壇上發文尋求協助，探討使用海信 C2 Pro 投影機進行吊裝時，應保留已購買的 103 吋 Akia CineGrey 3D 稜鏡抗光幕，還是更換為 100 吋的 Valerion PureVision 白幕。文章詳細分析了安裝幾何角度、投射比約 1.27x 是否小於原廠建議的 1.5x、吊裝對抗光幕效能的影響，以及 2600 流明亮度在日間有環境光時搭配白幕的實用性，引發關於投影幕搭配與視角亮度的討論。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xut5z8/ceiling_mount_hisensec2_pro_deciding_on_screen/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "Hisense C2 Pro",
+      "Akia CineGrey 3D",
+      "Valerion PureVision",
+      "投影幕",
+      "抗光幕",
+      "吊裝"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Akia",
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2879,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aura 3 Max 還是 Epson ultra LS 800？",
+    "summary_zh": "有用戶在 Reddit 發文尋求建議，正考慮購買極米 Xgimi Aura 3 Max，或是以大約 1999 美元購入 Epson 認證整新版的 Epson ultra LS 800 超短焦投影機。該用戶表示曾買過 Epson 認證整新機 Home Cinema 3800 且體驗良好，因此對整新機品質不擔心，希望能獲得這兩款機型的選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xutm16/aura_3_max_or_epson_ultra_ls_800/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "Xgimi Aura 3 Max",
+      "Epson ultra LS 800",
+      "超短焦投影機",
+      "整新機"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2877,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "客廳投影機該如何選擇布幕尺寸與高對比？",
+    "summary_zh": "一名用戶在Reddit發文詢問客廳投影機布幕的挑選困擾。他打算搭配海信Hisense C2 Ultra投影機使用，面臨在110吋高對比（0.8增益）會遮擋聲霸、110吋透聲白幕（1.1增益），以及100吋高對比（0.8增益）之間做抉擇，並在畫面尺寸與對比度之間權衡。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuofxa/which_projector_screen_to_choose/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "投影機布幕",
+      "Hisense C2 Ultra",
+      "增益",
+      "高對比",
+      "透聲幕"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "海信"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2876,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "PC玩家提問：投影機上1080p與4K解析度差異明顯嗎？",
+    "summary_zh": "一名Reddit用戶分享使用極米XGIMI Titan Noir Pro投影機搭配150吋大銀幕進行PC遊戲的實際體驗。在9英尺的觀賞距離下，該用戶發現切換1080p與4K解析度時，畫質差異僅屬細微至適度，並非天壤之別。他傾向以1080p、120Hz高更新率搭配極致畫質設定與DLAA技術進行遊戲，並對4K帶來的視覺升級幅度感到疑惑。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuyk2s/question_for_the_pc_gamers_do_you_notice_a/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "1080p",
+      "4K",
+      "遊戲投影機",
+      "解析度",
+      "極米"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2874,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aurzen Roku投影機串流時背景顯示主畫面問題",
+    "summary_zh": "有用戶在Reddit討論區反映，使用Aurzen Roku投影機進行串流播放時，畫面背景會異常疊加顯示Roku的主畫面。這是一則來自一般消費者的單一使用心得與產品故障回報，未涉及重大市場數據、供應鏈變動或核心技術突破。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuzfba/roku_home_screen_showing_in_background_while/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "Aurzen",
+      "Roku",
+      "投影機",
+      "串流",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Aurzen",
+      "Roku"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2871,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "我的第一台大螢幕投影機，目前使用極米 Horizon 30 Pro 感覺非常棒",
+    "summary_zh": "Reddit 用戶分享其首次使用大尺寸螢幕投影機的體驗，指出目前搭配使用的極米 XGIMI Horizon 30 Pro 表現非常出色，展現出家用投影機在實際觀影上的沈浸感與良好效果。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xv0kjd/my_first_projector_with_screen_this_big_i_am/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "XGIMI",
+      "Horizon 30 Pro",
+      "家用投影機",
+      "大螢幕體驗"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2888,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "詢問 MyFitSpark Cinemagic 102 Pro 與 Lumio Arc 7 投影機評價",
+    "summary_zh": "有消費者在 Reddit 論壇發文詢問 MyFitSpark Cinemagic 102 Pro 投影機的實際使用評價，並表示在該款機種與 Lumio Arc 7 之間難以抉擇，希望能徵求使用過這兩款投影機的網友提供相關建議與心得分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xu786m/myfitspark_cinemagic_102_pro_reviews/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "MyFitSpark Cinemagic 102 Pro",
+      "Lumio Arc 7",
+      "投影機評價",
+      "消費者心得"
+    ],
+    "mentioned_brands": [
+      "MyFitSpark",
+      "Lumio"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2884,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "XGIMI Titan Noir Max三色雷射投影機之布幕推薦與雷射散斑問題討論",
+    "summary_zh": "Reddit用戶發文詢問針對極米XGIMI Titan Noir Max三色雷射投影機的135至150吋布幕推薦。文章主要探討如何搭配布幕以減少三色雷射常見的雷射散斑問題，並希望其他使用者能分享針對此類高階投影機的實際布幕使用經驗，而非單純建議購入透聲編織幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xuaquc/screen_recommendation_for_xgimi_titan_noir_triple/",
+    "publish_date": "2026-11-12",
+    "keywords": [
+      "XGIMI",
+      "投影機布幕",
+      "三色雷射",
+      "雷射散斑"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2868,
     "source_name": "DigiTimes",
     "title_zh": "Electronica論壇指出薪資與能源為歐洲科技業瓶頸",
@@ -37612,6 +37912,29 @@
       "愛普生"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2891,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基MH560投影機北京促銷價5000元人民幣",
+    "summary_zh": "根據中關村線上報導，明基（BenQ）MH560商務教育投影機近日在北京經銷商「偉業投影」展開特價促銷活動，優惠售價為5000元人民幣。該機型主打便攜、商務、教學及會議室應用等亮點，實體店面位於北京市海淀區中成大廈7層，提供有意向的消費者前往洽詢購買。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1203/12036885.html",
+    "publish_date": "2026-06-22",
+    "keywords": [
+      "明基",
+      "MH560",
+      "投影機行情",
+      "促銷價",
+      "商務投影機"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "BenQ"
+    ],
+    "link_status": null
   },
   {
     "id": 2447,
