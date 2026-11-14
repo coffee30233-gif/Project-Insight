@@ -1,5 +1,286 @@
 [
   {
+    "id": 2908,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影機外接螢幕保護程式與背景牆討論",
+    "summary_zh": "Reddit用戶在r/projectors板發文，分享其使用極米Xgimi Halo投影機內建的動態螢幕保護程式（如牆面貓咪動畫），並探討市場上類似的背景牆應用程式。用戶認為現行多數商業化螢幕保護程式廣告過多且價格昂貴，因而發文尋求社群推薦適合居家日常使用的優質背景畫面與應用程式。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvcomo/dope_walls_for_projector/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "Xgimi Halo",
+      "螢幕保護程式",
+      "背景牆",
+      "家用投影機"
+    ],
+    "mentioned_brands": [
+      "Xgimi",
+      "極米"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2907,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "求助：中國CY300投影機在恢復原廠設定後卡在Android開機動畫",
+    "summary_zh": "有一名Reddit用戶求助，其使用的中國產CY300投影機在執行恢復原廠設定後出現異常，開機時無限卡在Android系統的動畫畫面，無法進入主畫面。經多次重新開機及長時間等待仍無法解決，尋求社群提供系統救援或刷機相關協助。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvf3u0/help_needed_chinese_cy300_projector_stuck_on/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "CY300",
+      "Android",
+      "恢復原廠設定",
+      "開機故障",
+      "投影機"
+    ],
+    "mentioned_brands": [
+      "CY300"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2906,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 Epson 5050 UB 投影機使用光纖 HDMI 時的 HDMI CEC 電源問題",
+    "summary_zh": "有用戶反映使用 Epson 5050 UB 投影機連接 Apple TV，並搭配 Ruiro 光纖 HDMI 線時遇到 HDMI CEC 異常。由於該線材顯示端需要持續供電，用戶利用投影機的 USB-A 連接埠供電，導致雖然能用 Apple TV 遙控器關閉投影機，但無法開機。推測是因為投影機的 USB 埠並非隨時處於通電狀態，因而詢問是否改用外部獨立電源或其他常時通電的 USB 埠解決。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvf93t/hdmi_cec_for_epson_5050_ub_with_fiber_optic_hdmi/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "Epson 5050 UB",
+      "HDMI CEC",
+      "光纖 HDMI",
+      "Apple TV",
+      "Ruiro"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Apple",
+      "Ruiro"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2905,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "戶外電影院架設建議：Mars 3 Air 與其他機型比較",
+    "summary_zh": "有用戶在 Reddit 發文尋求戶外電影之投影機架設建議，預算約 1000 美元，主要用於夜間戶外社區觀影。考量到現場有水池燈及鄰居的景觀燈等環境光干擾，希望具備可攜性、簡便操作介面與內建喇叭。文中提及正在評估 Anker 旗下的 Mars 3 Air 以及體積較大的標準版 Mars 3，期望尋找一體成型的簡易投影方案，投影尺寸希望落在 80 至 120 吋之間。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvfuif/outdoor_setup_advice_mars_3_air_vs_others/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "Mars 3 Air",
+      "Mars 3",
+      "戶外投影機",
+      "可攜式投影機",
+      "Anker"
+    ],
+    "mentioned_brands": [
+      "Mars"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2903,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "宏碁 Acer H6815BD 投影機暗場出現圓形光暈，用戶發文詢問是否該退貨",
+    "summary_zh": "一名用戶在 Reddit 發文表示，他最近買了人生第一台比較高價的投影機 Acer H6815BD DLP，整體而言雖然滿意，但在播放暗場畫面時，發現螢幕中間附近有一個奇怪的圓形光暈。他詢問這是否為正常現象、是否有快速解決方法，還是應該直接辦理退貨。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvdin3/should_i_return_it/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "Acer",
+      "H6815BD",
+      "DLP投影機",
+      "使用心得",
+      "故障排查"
+    ],
+    "mentioned_brands": [
+      "Acer"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2902,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信C2 Ultra投影機用戶分享3D功能故障與換機經驗",
+    "summary_zh": "一名Reddit用戶分享其購買海信C2 Ultra 4K投影機的經驗，指出雖然喜愛其4K畫質，但因主打的3D功能出現嚴重串影、殘影與延遲問題，經過數月交涉後終於獲得換機機會。文中提及嘗試過遊戲模式與關閉梯形校正等設定仍無法解決，並詢問其他用戶是否遭遇相同狀況。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvjqtt/finally_getting_my_c2_ultra_replacement_hoping/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "Hisense C2 Ultra",
+      "3D投影",
+      "串影",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2901,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "120吋超短焦投影幕推薦詢問",
+    "summary_zh": "一名影片剪輯師計畫將工作室的OLED電視更換為Aura 3 Max超短焦投影機，並搭配120吋固定式抗光幕。由於室內已做全黑化處理及塗刷中性灰色調，他希望尋找預算在1000美元以內的投影幕，目前注意到Nothingprojector Black Series 95%的黑色星期五優惠價格略高於1000美元，因此在Reddit論壇上發文徵求同等級或更好的性價比替代方案。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvhf5e/ust_screen_recommendations_120/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "超短焦投影幕",
+      "Aura 3 Max",
+      "120吋",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "Aura",
+      "Nothingprojector"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2898,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "戶外投影機地面固定支架選項詢問",
+    "summary_zh": "Reddit用戶發文尋求戶外投影機的可移動式地面固定支架解決方案。使用者擁有具備200mm VESA底座的戶外防護箱，搭配以500美元購入的Epson EB-L210SF短焦投影機，希望能找到能固定在草地或地面、方便季節性移動且非永久安裝的支架桿，用以進行戶外電影播放與冬季房屋投影。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvp3zg/outdoor_projector_ground_mounting_options/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "戶外投影機",
+      "VESA支架",
+      "Epson EB-L210SF",
+      "短焦投影機",
+      "安裝配件"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2897,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手求助：規劃預算 2000 美元的地下室 DIY 投影機家庭劇院設定",
+    "summary_zh": "一名剛接觸投影機的網民在 Reddit 發文尋求建議，計畫在預算 2000 美元以內，為地下室兒童遊戲室打造一套 120 吋的 DIY 投影系統。該空間主要用於觀看運動賽事與家庭電影，投影牆寬 16 呎、樓高 93 吋，帶有天花板橫樑。使用者希望尋找價格在 1000 美元以內的投影機，並探討直接投影於漆面牆壁的可行性、音響配置以及安裝細節，以防範球類運動損壞傳統電視。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvv1ud/new_to_projectors_help_me_plan_a_2k_diy_basement/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "家庭劇院",
+      "DIY投影",
+      "120吋螢幕",
+      "地下室娛樂",
+      "預算投影機"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2894,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影布幕安裝心得與線材收納困擾",
+    "summary_zh": "本篇為Reddit用戶分享投影布幕安裝後的個人心得。使用者反映在完成布幕懸掛後，對於隨附的控制器外觀感到不滿，並指出由於布幕距離牆面較遠，加上天花板設有雙層窗簾軌道，導致電源線材難以隱藏，造成視覺上的困擾。儘管該用戶表示慶幸配有遙控器可操作，但對於線材無法妥善收納的問題感到無奈，反映了家庭影院安裝過程中常見的環境佈線挑戰。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xvvook/finally_hung_this_damn_screen_and_wow_these/",
+    "publish_date": "2026-11-14",
+    "keywords": [
+      "投影布幕",
+      "安裝",
+      "線材管理",
+      "家庭影院"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2909,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "捷克消費者尋求約1.5千歐元預算之短焦雷射投影機建議",
+    "summary_zh": "一名位於捷克的消費者正計畫購入新居投影設備，預算約1.5萬歐元，主要用途為觀賞電影及配合PS5與Nintendo Switch進行遊戲。由於市面產品繁多，使用者發文詢問超短焦雷射投影機的實際性價比與選購建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xv952z/potential_new_projector_member_short_throw_laser/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "短焦投影機",
+      "雷射投影機",
+      "遊戲投影",
+      "歐洲市場"
+    ],
+    "mentioned_brands": [
+      "Samsung",
+      "Sony",
+      "Nintendo"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2893,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生新款LS6000家用劇院投影機用戶真實開箱與使用心得",
+    "summary_zh": "一名用戶在Reddit論壇分享將使用十六年的舊機Epson 8350升級至全新的Epson LS6000家用劇院投影機心得。售價為2,200美元，經一週調整後畫質表現驚豔，但在對比度、鏡頭位移控制手感與過於敏感的對焦環上有改進空間，整體而言仍具備極高性價比。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xv7u5h/new_epson_ls6000_for_my_dedicated_theater/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "Epson LS6000",
+      "Epson 8350",
+      "家用劇院投影機",
+      "用戶心得"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2892,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "初學者購買極米Horizon 20 Pro投影機，面臨白布幕與黑布幕選擇困擾",
+    "summary_zh": "一名剛購入極米XGIMI Horizon 20 Pro投影機的初學者，在Reddit論壇發文求助。他搭配了平價彈性白色布幕，並額外使用攝影棚的三層編織黑遮光布進行對比測試。發現在4K HDR影片下黑灰布幕對比顯著，但在環境光下播放Netflix等日常影片時暗部過於深沉，因而陷入該直接捨棄白布幕的抉擇困境。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xv48yk/i_dont_know_what_to_do_pls_help/",
+    "publish_date": "2026-11-13",
+    "keywords": [
+      "XGIMI",
+      "Horizon 20 Pro",
+      "投影機布幕",
+      "4K HDR"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2890,
     "source_name": "當貝Dangbei官方",
     "title_zh": "當貝公布2026年黑色星期五促銷活動：多款智慧投影機祭出最高45%折扣",
@@ -38253,6 +38534,28 @@
     "link_status": "ok"
   },
   {
+    "id": 2914,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-EW575 商務投影機促銷價 7399 元",
+    "summary_zh": "索尼（SONY）VPL-EW575 商務辦公投影機近日在經銷商「格林德益」展開特價促銷活動，優惠價格為 7399 元人民幣。有興趣的消費者可前往位於北京市海淀區中關村東路 66 號世紀科貿大廈 C2301 的實體店面進行現場詳詢與選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1200/12000970.html",
+    "publish_date": "2026-06-16",
+    "keywords": [
+      "索尼",
+      "VPL-EW575",
+      "商務投影機",
+      "促銷",
+      "中關村在線"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2508,
     "source_name": "ZOL投影機頻道",
     "title_zh": "光峰AL-MU500雷射投影機促銷價16399元",
@@ -38477,6 +38780,28 @@
       "極米"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 2913,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 R3 Ultra 旗艦版投影機特價促銷 2776 元",
+    "summary_zh": "投影機品牌大眼橙旗艦機型 R3 Ultra 旗艦版近日於通路商易仁科技展開特價促銷活動，優惠價格為人民幣 2776 元。該產品主打高清畫質、超大內存與高對比度等核心規格亮點，吸引市場關注。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1196/11963754.html",
+    "publish_date": "2026-06-10",
+    "keywords": [
+      "大眼橙",
+      "R3 Ultra 旗艦版",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "易仁科技"
+    ],
+    "link_status": null
   },
   {
     "id": 1964,
