@@ -1,5 +1,363 @@
 [
   {
+    "id": 2970,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson LS12000 對決 JVC DLA-NZ500：4K120 遊戲與明亮空間對決原生 4K 電影院",
+    "summary_zh": "本文詳細比較兩款定價約 6,000 美元的旗艦級雷射家用投影機 Epson Pro Cinema LS12000 與 JVC DLA-NZ500。Epson 售價 5,999 美元，具備 2,700 流明亮度、2.1 倍電動鏡頭、4K120 遊戲支援及內附吊架，適合多功能媒體室；JVC 售價 5,999.95 美元（原價 6,999.95 美元），採用三個原生 4K D-ILA 反射式面板、擁有 40,000:1 原生對比度及第二代 Frame Adapt HDR 動態對應，主打光控劇院室。兩者皆無彩虹效應，消費者可依空間條件與使用偏好進行選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-ls12000-vs-jvc-nz500-projector-comparison",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Epson LS12000",
+      "JVC DLA-NZ500",
+      "4K雷射投影機",
+      "家用投影機",
+      "3LCD",
+      "D-ILA"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2969,
+    "source_name": "ProjectorScreen",
+    "title_zh": "海信 PX4-Pro 對決 PX3-Pro：哪一款 4K 三色雷射超短焦投影機更值得購買？",
+    "summary_zh": "本文深度比較海信（Hisense）兩款旗艦 4K 三色雷射超短焦投影機：PX3-Pro 售價 2,497.97 美元，具備 3,000 流明亮度與 Harman Kardon 音效，主打高性價比；PX4-Pro 售價 3,997.97 美元，亮度提升至 3,500 流明，並加入 7 段手動光圈、更緊湊的 0.20:1 投射比、FreeSync VRR 以及 66 瓦 Devialet 4.0.2 聲道音響。兩者價差 1,500 美元，消費者可依據暗室對比度需求、預算及投影尺寸來進行選擇。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/hisense-px3-pro-vs-px4-pro-ust-projector-comparison",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Hisense PX3-Pro",
+      "Hisense PX4-Pro",
+      "超短焦投影機",
+      "三色雷射",
+      "4K投影機",
+      "UST"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Harman Kardon",
+      "Devialet",
+      "Xbox"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2968,
+    "source_name": "ProjectorScreen",
+    "title_zh": "JVC DLA-NZ500 與 DLA-NZ700 投影機規格、亮度與廣色域電影濾鏡對比",
+    "summary_zh": "本文詳細比較了 JVC 兩款原生 4K D-ILA 雷射家庭劇院投影機 DLA-NZ500 與 DLA-NZ700。兩者皆採用全新輕巧機身、第三代 0.69 吋 4K 晶片及第二代 Frame Adapt HDR 動態對應。DLA-NZ500 售價 5,999.95 美元，提供 2,000 流明與 40,000:1 原生對比；而 DLA-NZ700 售價 7,999.95 美元，亮度提升至 2,300 流明、原生對比倍增至 80,000:1，並內建電動電影濾鏡，可將 HDR 色彩覆蓋率擴展至 98% DCI-P3。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/jvc-nz500-vs-jvc-nz700-projector-comparison",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "JVC",
+      "DLA-NZ500",
+      "DLA-NZ700",
+      "4K D-ILA",
+      "雷射投影機",
+      "家庭劇院",
+      "DCI-P3",
+      "高對比"
+    ],
+    "mentioned_brands": [
+      "JVC"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2965,
+    "source_name": "DigiTimes",
+    "title_zh": "印度科技雄心加速推進，半導體瓶頸與供應鏈風險同步攀升",
+    "summary_zh": "本文探討印度在電子製造與半導體領域的最新發展，隨著當地科技雄心加速，半導體發展瓶頸與相關供應鏈風險也隨之增加，顯示印度在打造自主高科技製造基地時仍面臨挑戰。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "印度",
+      "半導體",
+      "供應鏈",
+      "電子製造"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2959,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "為什麼這台投影機會出現影像複製與殘影問題？",
+    "summary_zh": "有用戶在Reddit發文求助，指出一台Epson白色投影機透過VGA連接時，會出現影像被複製多份（multiplies the image）以及長時間顯示後產生殘影的狀況。該用戶表示，相同的VGA配置與線材連接同型號的其他投影機時皆可正常運作，唯獨此台機器出現異常現象。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxbpf7/why_this_projector_multiplies_the_image/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Epson",
+      "VGA",
+      "影像複製",
+      "殘影",
+      "故障排除"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2958,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Sony VPL-HW50ES 投影機設置諮詢",
+    "summary_zh": "一名用戶在 Reddit 論壇尋求關於 Sony VPL-HW50ES 投影機的設置建議。該用戶指出，在嘗試投射 100 吋畫面時遇到困難，若距離過近則難以維持影像清晰度。根據用戶實測，在 13.5 英尺距離下僅能獲得約 87 吋的清晰畫面，需退後至 15.5 英尺才能達到 100 吋目標，這與其理解的產品規格手冊說明有所出入。用戶詢問此現象是否為該型號的設計限制、機齡老化問題，或是存在可調整的設置參數，以改善在較短距離下的對焦與投射表現。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xx26bp/looking_for_advice_on_setting_up_a_sony_vplhw50es/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Sony",
+      "VPL-HW50ES",
+      "投影機設置",
+      "對焦",
+      "投射距離"
+    ],
+    "mentioned_brands": [
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2957,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影至特殊塗漆牆壁的可行性與效果討論",
+    "summary_zh": "一名用戶在Reddit討論區發文指出，其正在進行地下室裝修，考慮將一面牆壁塗上特殊漆料，搭配新購買的海信Hisense C3投影機，投射出130吋的畫面。用戶詢問在含有白天環境光的地下室中，使用特殊漆牆做為投影幕是否適合日常電視觀賞與遊戲，以及是否需要在外圍繪製黑色邊框，即使在夜間完全遮光的環境下是否仍有差異。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xx83ps/project_to_specially_painted_wall/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Hisense C3",
+      "投影牆漆",
+      "130吋投影",
+      "地下室投影"
+    ],
+    "mentioned_brands": [
+      "Hisense"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2955,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找支援不移動投影機就能縮小畫面尺寸的家用投影機推薦",
+    "summary_zh": "一名Reddit用戶在r/projectors板上發文尋求協助，表示正在尋找一款家用投影機，其功能可以讓使用者在不移動投影機實體位置的情況下，直接縮小投影畫面的尺寸。發文者表示這項規格在市面上似乎不容易輕易找到，因此向社群尋求相關的產品推薦與建議。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xx92l9/projector_help/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "家用投影機",
+      "畫面縮放",
+      "投影機推薦"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2951,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "愛普生 Lifestudio Grand 超短焦投影機適用布幕推薦請益",
+    "summary_zh": "Reddit 用戶發文詢問針對擁有 3600 流明亮度的 Epson Lifestudio Grand 超短焦（UST）投影機，搭配 120 吋布幕的選購建議。使用環境為白牆臥室，主要在夜間觀看但偶有日間使用需求。使用者探討抗光幕（ALR）之必要性、白色白幕的影響，並考量牆面空間限制傾向選擇地拉式布幕。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxbbhu/projection_screen_for_epson_lifestudio_grand_ust/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Epson",
+      "超短焦投影機",
+      "抗光幕",
+      "地拉幕",
+      "布幕推薦"
+    ],
+    "mentioned_brands": [
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2950,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "關於 Horizon 20 投影機內建 DAC 的音質探討",
+    "summary_zh": "一名用戶近期購入 XGIMI Horizon 20 投影機，並詢問其內建數位類比轉換器（DAC）的音質表現。該用戶計畫將 Apple TV 與藍光播放器透過 HDMI 連接至投影機，再經由投影機的 RCA 類比輸出連接至舊款 NAD 擴大機與 2.0 聲道喇叭系統。用戶主要關心內建 DAC 的性能是否足以應付日常聆聽，以及是否有必要額外添購外部 DAC 以提升音訊品質。此討論反映了消費者在將現代投影機整合至舊式音響系統時，對於訊號傳輸與音質處理的技術需求。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxcht8/internal_dac_on_the_horizon_20/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Horizon 20",
+      "DAC",
+      "音訊輸出",
+      "投影機連接",
+      "XGIMI"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Apple",
+      "NAD"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2946,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ 3550 色輪故障與售後維修經驗討論",
+    "summary_zh": "一名日本用戶在Reddit發文抱怨其購買約三年的BenQ 3550投影機色輪故障，剛過保固期即損壞。當地維修中心表示無零件可修並建議直接丟棄換新，令用戶感到震驚與不滿。文章探討了投影機零組件壽命與品質控制問題，並尋求可靠的非官方零組件管道及探討集體訴訟的可能性。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxfuw5/benq_3550_color_wheel/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "BenQ 3550",
+      "色輪",
+      "維修",
+      "售後服務",
+      "品質控制"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2944,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "海信 C2 Ultra 對決極米 RS 20 投影機選購比較",
+    "summary_zh": "Reddit 用戶發文尋求海信 C2 Ultra 與極米 RS 20 兩款投影機的選購建議。主要用途為夜間電影欣賞與 PS5 遊戲體驗。發文者指出，極米 RS 20 畫質略勝一籌但需從中國進口，而海信 C2 Ultra 具備在地購買便利性與更好的便攜性，兩者價格相近，正猶豫畫質優勢是否能彌補其他功能差異。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxib4b/hisense_c2_ultra_vs_xgimi_rs_20/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "Hisense C2 Ultra",
+      "XGIMI RS 20",
+      "家用投影機",
+      "PS5遊戲投影"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2943,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 Horizon 20 初步使用心得：一般消費者的真實開箱與評價",
+    "summary_zh": "本文為 Reddit 用戶針對極米 XGIMI Horizon 20 投影機的開箱與初步使用心得。作者自認為是一般非專業新手，因新家地下室留有120吋銀幕而購入該機型。文章提到，儘管網路上有關於畫面撕裂、雷射散斑及韌體更新問題的討論，但作者實際安裝於12呎投影距離後，搭配 Cinesleek MC-S 1327 吊架與內建 Google TV，認為其畫質與內建音效表現優異，觀看球賽與演唱會直播體驗極佳，未發現明顯視覺瑕疵，對此產品性價比感到非常滿意。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xx99ex/xgimi_horizon_20_initial_review_lucky_blind_or/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "XGIMI Horizon 20",
+      "極米",
+      "家用投影機",
+      "用戶心得",
+      "開箱評測"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "極米",
+      "Google"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2963,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "澳洲使用者詢問極米客服經驗與Horizon 20對比BenQ 705i選購",
+    "summary_zh": "澳洲Reddit網友發文詢問極米（XGIMI）品牌的售後客服體驗，並在考慮購買Horizon 20系列投影機時，與BenQ 705i進行比較。貼文指出Horizon雖獲得良好評價，但缺乏長期擁有的實際使用資訊。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xwqyxp/how_is_xgimi_customer_service_considering_horizon/",
+    "publish_date": "2026-11-15",
+    "keywords": [
+      "XGIMI",
+      "BenQ",
+      "Horizon 20",
+      "BenQ 705i",
+      "客服經驗"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2962,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Reddit 用戶尋找投影幕建議：從 Epson LS300 升級至 Hisense LQ9",
+    "summary_zh": "一名 Reddit 用戶發文尋找 120 至 130 吋投影幕建議。他剛購買 Hisense LQ9 投影機準備替代即將故障的 Epson LS300。用戶提到舊機 Epson LS300 出現風扇噪音大、雷射閃爍及切換訊源緩慢等問題。由於牆面空間限制以及已有兩台 75 吋電視用於多畫面觀看體育賽事，他不打算拆除電視，且評估自身多在夜間看電影，認為抗光幕（ALR）性價比不高，因此徵求適合的白幕或其他類型投影幕推薦。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xwxpye/screen_suggestions/",
+    "publish_date": "2026-11-15",
+    "keywords": [
+      "投影幕",
+      "雷射投影機",
+      "Epson LS300",
+      "Hisense LQ9",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2961,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "極米 RS30 Pro 亮度規格疑問：3200 還是 4500 CVIA？",
+    "summary_zh": "Reddit 用戶發文詢問關於極米 XGIMI RS30 Pro 投影機的亮度規格差異，討論焦點在於 3200 與 4500 CVIA 兩種亮度版本，並懷疑自己是否訂購到舊款型號，反映出消費者對規格細節與版本差異的關注。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xwycs4/xgimi_rs30_pro_3200_vs_4500_cvia_did_i_order_an/",
+    "publish_date": "2026-11-15",
+    "keywords": [
+      "XGIMI",
+      "RS30 Pro",
+      "CVIA",
+      "亮度規格"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2939,
     "source_name": "ProjectorScreen",
     "title_zh": "GTA 6 最佳投影機推薦：大銀幕體驗 Vice City 虛擬世界的極致享受",
