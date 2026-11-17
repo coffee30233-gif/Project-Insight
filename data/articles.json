@@ -1,5 +1,414 @@
 [
   {
+    "id": 2999,
+    "source_name": "ProjectorScreen",
+    "title_zh": "Epson QB1000 對決 Sony BRAVIA Projector 7 (VPL-XW5100ES)：高階家庭劇院雷射投影機深度比較",
+    "summary_zh": "本文詳細比較了 Epson QB1000 與 Sony BRAVIA Projector 7 (VPL-XW5100ES) 兩款高階家庭劇院雷射投影機。Epson QB1000 具備 3,300 流明、3LCD 技術、電動 2.1x 鏡頭（含 10 組記憶）、HDR10+ 與 HDMI 2.1 eARC，售價 8,499 美元。Sony VPL-XW5100ES 則採用三片原生 4K SXRD 面板、具備 95% DCI-P3 色域、XR 處理器與 12ms 的 4K/120Hz 遊戲規格，黑色版售價 7,998 美元，白色版特價 6,998 美元。兩者展現截然不同的設計哲學與安裝彈性。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/epson-qb1000-vs-5100es-projector-comparison",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "Epson QB1000",
+      "Sony VPL-XW5100ES",
+      "BRAVIA Projector 7",
+      "4K雷射投影機",
+      "3LCD",
+      "SXRD",
+      "家庭劇院"
+    ],
+    "mentioned_brands": [
+      "Epson",
+      "Sony"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2996,
+    "source_name": "DigiTimes",
+    "title_zh": "台灣連接器大廠順德預計將QD產能加倍，目標鎖定2027年10%營收佔比",
+    "summary_zh": "台灣連接器製造商順德（Lotes）規劃將其量子點（QD）相關產能擴增一倍，並設定在2027年時，此業務能貢獻整體營收達10%的目標。該公司正積極布局相關先進技術與產能擴張，以因應未來市場需求並優化產品營收結構。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261116PD224/capacity-connector-revenue-2027.html",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "順德",
+      "Lotes",
+      "QD",
+      "連接器",
+      "產能擴充",
+      "供應鏈"
+    ],
+    "mentioned_brands": [
+      "Lotes"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2993,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "遊戲與電視設定諮詢",
+    "summary_zh": "Reddit 用戶詢問關於將 PS5 遊戲機移至餐廳的投影機建置方案。因空間限制需保留餐桌，計畫將左側書桌改為沙發，並在露台門上方壁掛 77 吋 Sapphire SEWS180RWSF-ATR 電動抗光布幕，沙發上方則壁掛 BenQ TH575i 投影機，音效搭配 Geemarc SONARYA 可攜式喇叭。空間投影距離約 3 公尺，預計投射比約 1.66，因應環境光線需求選擇較亮機型與抗光幕配置。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxup27/gamingtv_set_up/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "BenQ TH575i",
+      "電動布幕",
+      "家用投影機",
+      "遊戲投影"
+    ],
+    "mentioned_brands": [
+      "BenQ",
+      "Sapphire",
+      "Geemarc"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2991,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "加拿大居家影院投影機選購諮詢：1,500加幣預算與投射距離挑戰",
+    "summary_zh": "一名加拿大用戶正尋求居家影院投影機建議，預算約為1,500加幣，目標搭配100吋螢幕。該用戶目前的安裝環境為專用影音室，投影機需吊掛於距離螢幕約13至14英尺處。用戶曾考慮Hisense M2 Pro，但發現其投射比（1.0–1.3:1）無法在現有距離下投射出100吋畫面，因此詢問是否有適合長投射比（約1.8–1.9:1）的機型推薦，或是否有值得等待的黑色星期五促銷活動。此討論反映了消費者在規劃家庭劇院時，對於投射比與安裝距離匹配性的常見需求與困惑。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy5gdt/projector_recommendation_for_a_dedicated_room/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "投影機選購",
+      "投射比",
+      "居家影院",
+      "加拿大市場",
+      "Hisense"
+    ],
+    "mentioned_brands": [
+      "Hisense",
+      "Mitsubishi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2989,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "投影幕使用不當導致皺褶，是否可修復？",
+    "summary_zh": "一名用戶在Facebook購入一款自2019年起閒置於車庫的二手投影幕，因操作不當導致電動捲收機制卡住，強行拉出後造成投影幕表面出現嚴重皺褶與變形。該用戶詢問是否能透過吹風機等方式進行修復。此案例反映了二手投影幕在長期存放後，其材質韌性可能下降，且電動結構若缺乏保養，極易在操作過程中因卡頓造成不可逆的物理損壞，對於初次購買投影設備的用戶而言，需注意二手幕布的材質老化與機械結構風險。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxuaml/i_accidentally_gave_my_new_out_of_box_projector/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "投影幕",
+      "皺褶",
+      "二手設備",
+      "維修"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2988,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Elfin Flip 4K 與 Valerion Streammaster 2 於夜間使用的比較請益",
+    "summary_zh": "Reddit 用戶發文詢問兩款投影機 Elfin Flip 4K 與 Valerion Streammaster 2 的實際使用經驗與優缺點比較。由於兩者價格相近，發文者主要針對夜間使用情境，徵求使用過這兩款機型者的第一手真實反饋與評價。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy0j9n/elfin_flip_4k_vs_valerion_streammaster_2_for/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "Elfin Flip 4K",
+      "Valerion Streammaster 2",
+      "投影機比較",
+      "夜間使用"
+    ],
+    "mentioned_brands": [
+      "Elfin",
+      "Valerion"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2987,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BIG VUE 110吋 16:9 手動下拉式高增益白幕二手出售",
+    "summary_zh": "使用者於 Reddit 轉售 BIG VUE 品牌之 110 吋 16:9 手動下拉式高增益白幕（High Gain White Fabric Insta Lock），適用於教室、家庭劇院或辦公室。原購入價格為 6500，現開價 3500，地點位於印度海得拉巴 Kukatpally。商品狀況極新且極少使用，因搬遷至已裝潢且無法懸掛布幕之房屋而出售。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy7zh8/projector_screen_high_gain_white_fabric_110_inch/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "投影幕",
+      "手動布幕",
+      "高增益白幕",
+      "110吋",
+      "二手買賣"
+    ],
+    "mentioned_brands": [
+      "BIG VUE"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2986,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "克里斯多夫·諾蘭《奧德賽》4K UHD發行：針對不同空間環境的家用投影機挑選指南",
+    "summary_zh": "隨著環球影業推出諾蘭執導電影《奧德賽》的4K UHD藍光光碟，本文針對家用投影機玩家提供實務觀影與設備配置指南。文章探討了16:9規格光碟的畫面裁切、2.39:1寬螢幕鏡頭記憶設定、IMAX Enhanced預設模式誤區，以及室內環境反光對對比度的影響。同時，作者針對三種不同房間類型（專屬暗室劇院、遮光多功能室、客廳超短焦設置）推薦了多款具代表性的投影機型號，包含Sony BRAVIA Projector 8、JVC DLA-NZ700、Hisense XR10、XGIMI TITAN Noir Max、Epson QB1000以及Hisense PX3-Pro與PX4 Pro，並提供實測數據與銀幕搭配建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxwlx0/christopher_nolans_the_odyssey_hits_4k_uhd/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "4K UHD",
+      "家用投影機",
+      "Sony BRAVIA Projector 8",
+      "JVC DLA-NZ700",
+      "Hisense XR10",
+      "XGIMI TITAN Noir Max",
+      "Epson QB1000",
+      "Hisense PX4 Pro",
+      "IMAX Enhanced"
+    ],
+    "mentioned_brands": [
+      "Universal",
+      "Hisense",
+      "Sony",
+      "JVC",
+      "XGIMI",
+      "Epson",
+      "Stewart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2985,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "BenQ W2720i 對決 TK705i：專屬家庭劇院該選哪一台？",
+    "summary_zh": "本文為 Reddit 討論區使用者的提問，聚焦於明基（BenQ）兩款投影機型號 W2720i 與 TK705i 的規格與應用比較，探討在建置專屬家庭劇院時，消費者應如何在兩者之間做出選擇，反應出市場對中高階家用投影機的實際選購考量。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy9v0s/benq_w2720i_vs_tk705i_which_would_you_choose_for/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "BenQ",
+      "W2720i",
+      "TK705i",
+      "家庭劇院",
+      "投影機比較"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2984,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Miroir Roku 投影機無法播放 Peacock App 的用戶求助文",
+    "summary_zh": "有用戶在 Reddit 發文求助，表示其購買 31 天的 Miroir Roku 投影機在使用 Peacock 串流應用程式時，出現要求更新軟體的 I0001 錯誤代碼。經嘗試軟體更新、諮詢 ChatGPT 以及聯繫 Roku 客服後皆無法解決此問題。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xya1sh/miroir_roku_projector_wont_play_peacock_help/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "Miroir",
+      "Roku",
+      "投影機",
+      "Peacock",
+      "軟體更新"
+    ],
+    "mentioned_brands": [
+      "Miroir",
+      "Roku",
+      "Peacock"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2982,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "尋找適合替代電視的平價投影機建議",
+    "summary_zh": "有用戶在Reddit論壇上發文尋求投影機購買建議，希望能替代傳統電視使用。他們先前曾從沃爾瑪購買一台便宜的機型，但面臨風扇噪音過大、完全蓋過音訊的問題。目前訴求是不需要太高階的複雜功能，主要希望維持相對親民的預算，並公開徵求網友的推薦清單。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xyajnk/suggestions_on_projector/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "投影機推薦",
+      "平價投影機",
+      "替代電視",
+      "噪音問題"
+    ],
+    "mentioned_brands": [
+      "Walmart"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2980,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Titan Noir Pro 對決 Epson LS12000 與 JVC NZ500 投影機選購討論",
+    "summary_zh": "一名具備色彩校正專業背景的消費者在Reddit論壇發文，探討在客廳環境下升級投影機的選購抉擇，候選機型包含Titan Noir Pro、Epson LS12000、JVC NZ500以及Epson LS11000。文中提到其主要需求為120吋投影畫面、15呎投影距離，因職業關係高度重視色彩準確度勝過亮度和解析度，主要用途為夜間觀看串流、運動賽事與電影。使用者也考量了客廳環境與幼童防護問題，並對Titan Noir Pro可能產生的彩虹效應與雷射斑點現象表達疑慮。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxzk67/titan_noir_pro_vs_epson_ls12000_vs_jvc_nz500/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "Titan Noir Pro",
+      "Epson LS12000",
+      "JVC NZ500",
+      "Epson LS11000",
+      "家用投影機",
+      "色彩準確度"
+    ],
+    "mentioned_brands": [
+      "Titan",
+      "Epson",
+      "JVC",
+      "LG"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2977,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "Aura 3 max 投影機該搭配哪款抗光幕？",
+    "summary_zh": "一名初次購買投影機的使用者在 Reddit 發文詢問，其設備將安裝在半黑暗的地下室環境，尋求適合搭配的投影幕。文中提及 ChatGPT 建議使用 NothingProjector Black Series 95% ALR/CLR 抗光幕，並列出其他備選方案包含 XGIMI Spectra Vantage 以及 XGIMI Fresnel，尋求社群網友的選購建議與使用經驗分享。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy3rfh/screen_for_aura_3_max/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "Aura 3 max",
+      "ALR/CLR",
+      "投影幕",
+      "抗光幕"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "NothingProjector"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2976,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "客廳投影幕增益選擇：0.95與0.8增益幕之比較與諮詢",
+    "summary_zh": "一名消費者在Reddit發文詢問，針對預購的極米XGIMI Horizon 30 Pro 4K投影機（亮度4800流明），在客廳大片落地窗旁安裝120吋投影幕時，應選擇0.95增益的Silver Ticket高對比灰色幕，還是0.8增益的進階深灰色幕。該投影機具備高亮度4800流明，空間雖有落地窗但無陽光直射，引發網友討論客廳環境下的投影幕增益搭配。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy9l3g/should_i_choose_a_095_gain_or_08_gain_screen_for/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "投影幕",
+      "增益",
+      "XGIMI Horizon 30 Pro",
+      "Silver Ticket",
+      "4800流明"
+    ],
+    "mentioned_brands": [
+      "XGIMI",
+      "Silver Ticket"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2974,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "新手發問：Xgimi Horizon 30 Pro 關機後出現微弱異音及自動開機現象是否正常？",
+    "summary_zh": "一名Reddit用戶發文詢問關於極米Xgimi Horizon 30 Pro投影機的異常狀況。該用戶指出，當使用遙控器關機（未完全斷電）時，機器會持續發出類似快門開關的微弱喀噠聲；此外，昨晚背光電源按鈕與風扇更曾無故自動啟動約半分鐘後才關閉。用戶同時詢問如何徹底關閉線上功能及串流服務。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xybtv6/new_to_projectors_my_xgimi_horizon_30_pro_keeps/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "Xgimi Horizon 30 Pro",
+      "投影機故障",
+      "異音",
+      "自動開機"
+    ],
+    "mentioned_brands": [
+      "Xgimi"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2973,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "XGIMI Horizon 30 Pro播放4k藍光光碟出現白邊問題之討論",
+    "summary_zh": "一名用戶在Reddit發文詢問其新購入的XGIMI Horizon 30 Pro投影機在播放4k藍光電影時，畫面上下出現干擾性的亮白線條。起初懷疑是否為三色雷射DLP投影機的通病，經自行排查後發現問題源於4k藍光播放器的「銳利度調整」設定過高導致邊緣過衝，調整後已順利解決。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy7plj/is_this_normal_for_4k_blu_rays/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "XGIMI Horizon 30 Pro",
+      "DLP投影機",
+      "4K藍光",
+      "畫質調整"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 2972,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "終於入手固定式投影幕，升級體驗令人滿意",
+    "summary_zh": "一名 Reddit 用戶分享其投影設備升級心得，原先長期直接將影像投射於牆面上，在參考社群建議後，決定購入一款 110 吋的固定式框架投影幕（Fixed Frame Screen）。該用戶表示，升級至專業投影幕後，畫質與觀影體驗有顯著提升，認為這項投資相當值得。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xy9217/finally_got_a_frame_and_screen_and_very_happy/",
+    "publish_date": "2026-11-17",
+    "keywords": [
+      "投影幕",
+      "固定式框架",
+      "家庭劇院",
+      "用戶體驗"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 2975,
+    "source_name": "Reddit r/projectors",
+    "title_zh": "使用金屬螢幕支架倒吊安裝BenQ投影機的可行性討論",
+    "summary_zh": "一名Reddit用戶分享了其針對BenQ TH575i投影機的創意安裝構想。由於無法進行傳統的天花板或牆面固定，該用戶計畫利用全金屬可調節式螢幕支架，將投影機以倒吊方式安裝在支架下方，並已透過AI生成預覽圖確認尺寸與間隙。他在社群發文徵求網友意見，探討這種非典型架設方式的實際可行性。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://www.reddit.com/r/projectors/comments/1xxroda/does_this_look_like_a_smart_idea/",
+    "publish_date": "2026-11-16",
+    "keywords": [
+      "BenQ",
+      "TH575i",
+      "投影機安裝",
+      "支架"
+    ],
+    "mentioned_brands": [
+      "BenQ"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2970,
     "source_name": "ProjectorScreen",
     "title_zh": "Epson LS12000 對決 JVC DLA-NZ500：4K120 遊戲與明亮空間對決原生 4K 電影院",
@@ -40214,6 +40623,28 @@
       "Sony"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 3000,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索尼 VPL-P530HZ 投影機特價促銷資訊",
+    "summary_zh": "根據中關村線上報導，索尼（Sony）旗下的 VPL-P530HZ 工程投影機近日在北京商家「北京合眾聯鑫」展開特價促銷活動，採價格面議方式銷售。該款投影機具備 WUXGA 解析度、5800流明中心亮度，並支援自動識別信號等產品亮點，商家位於北京海淀區，提供有興趣的買家前往洽詢。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1187/11875768.html",
+    "publish_date": "2026-05-26",
+    "keywords": [
+      "索尼",
+      "VPL-P530HZ",
+      "工程投影機",
+      "特價促銷",
+      "流明"
+    ],
+    "mentioned_brands": [
+      "索尼"
+    ],
+    "link_status": null
   },
   {
     "id": 2711,
