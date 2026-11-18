@@ -1,5 +1,92 @@
 [
   {
+    "id": 3006,
+    "source_name": "DigiTimes",
+    "title_zh": "鐘鳴電子從銅連接轉向光連接",
+    "summary_zh": "DIGITIMES報導指出鐘鳴電子（Bellwether Electronic）近期正進行技術轉型，將其核心連接技術從傳統的銅連接全面轉向光連接，以因應未來高速傳輸與資料中心的需求。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261117PD235/bellwether-data-technology.html",
+    "publish_date": "2026-11-18",
+    "keywords": [
+      "光連接",
+      "銅連接",
+      "鐘鳴電子",
+      "高速傳輸"
+    ],
+    "mentioned_brands": [
+      "Bellwether Electronic"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3003,
+    "source_name": "DigiTimes",
+    "title_zh": "網狀架構競爭加劇：光學互連與ASIC採用擴大供應鏈商機",
+    "summary_zh": "本文探討資料中心與網狀架構的競爭持續升溫，隨著光學互連技術與特殊應用積體電路（ASIC）的採用率不斷擴大，為相關零組件供應鏈帶來了新的成長機會與市場發展空間。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261117RS400/asic-interconnection-adoption-switch-bandwidth-competition.html?chid=2",
+    "publish_date": "2026-11-18",
+    "keywords": [
+      "光學互連",
+      "ASIC",
+      "供應鏈",
+      "資料中心",
+      "網狀架構"
+    ],
+    "mentioned_brands": [],
+    "link_status": null
+  },
+  {
+    "id": 3002,
+    "source_name": "DigiTimes",
+    "title_zh": "Profet AI 認為 AI 代理能緩解台灣製造業的人才瓶頸",
+    "summary_zh": "Profet AI 指出，AI 代理技術有助於緩解台灣製造業面臨的人才短缺與產能擴張壓力，透過自動化流程提升生產效率。",
+    "category": "技術動態",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261118PD200/profet-ai-talent-production-manufacturing-capacity-expansion.html?chid=10",
+    "publish_date": "2026-11-18",
+    "keywords": [
+      "Profet AI",
+      "AI agents",
+      "製造業",
+      "台灣"
+    ],
+    "mentioned_brands": [
+      "Profet AI"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3001,
+    "source_name": "投影時代",
+    "title_zh": "极米宜宾投影基地改建：年增208万片玻璃镜片、优化光机组装工序",
+    "summary_zh": "极米科技全资子公司宜宾萤火虫光电拟投资2700万元改建宜宾投影基地3号厂房，项目不新增用地与员工，主要内容为新增年产208万片玻璃镜片，并优化塑料镜片产线及光机组装工序。改建后年产镜片达620万片（含515万片自用、105万片外售），投影光机产能維持103万台不变。此举将原本僅供自用的光学零组件转为独立主体对外接单販售，標誌著极米垂直整合的供應鏈能力進一步向外拓展，也為投影市場提供新的玻璃鏡片供應商選擇。",
+    "category": "供應鏈",
+    "importance": 4,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/282262416747.shtml",
+    "publish_date": "2026-11-18",
+    "keywords": [
+      "极米科技",
+      "萤火虫光电",
+      "玻璃镜片",
+      "投影光机",
+      "供应链",
+      "宜宾基地"
+    ],
+    "mentioned_brands": [
+      "极米",
+      "萤火虫光电",
+      "当贝"
+    ],
+    "link_status": null
+  },
+  {
     "id": 2999,
     "source_name": "ProjectorScreen",
     "title_zh": "Epson QB1000 對決 Sony BRAVIA Projector 7 (VPL-XW5100ES)：高階家庭劇院雷射投影機深度比較",
