@@ -1,5 +1,78 @@
 [
   {
+    "id": 3012,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "希沃SC08投影展台特價促銷優惠價1099元",
+    "summary_zh": "希沃SC08投影展台目前在中關村線上商家「景源偉業」進行特價促銷活動，優惠售價為新台幣或人民幣1099元。該款投影展台主要針對課堂實物演示與移動教學應用而設計，具備高清自動對焦等功能，為講台與移動教學提供優質選擇。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1274/12746726.html",
+    "publish_date": "2026-11-19",
+    "keywords": [
+      "希沃SC08",
+      "投影展台",
+      "自動對焦",
+      "教學設備"
+    ],
+    "mentioned_brands": [
+      "希沃"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3008,
+    "source_name": "投影時代",
+    "title_zh": "奧德賽水族館沉浸式海洋投影案例：科視激光投影機打造海底世界",
+    "summary_zh": "美國亞利桑那州斯科茨代爾奧德賽水族館（OdySea Aquarium）透過科視（Christie）專業投影技術與好萊塢創意團隊合作，將大廳打造為沉浸式深海體驗空間。面對不規則建築空間與保護館內動物的挑戰，專案部署了12台科視HS系列激光投影機，聯合輸出282,000流明，並搭配Christie Twist與Mystique軟體進行精準融合與對齊。同時結合BoldColor技術呈現生動的海底生物動畫，另於咖啡區設置LED視頻牆，成功克服工程難題並實現極致的沉浸式視覺效果。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/292448133395.shtml",
+    "publish_date": "2026-11-19",
+    "keywords": [
+      "科視",
+      "激光投影機",
+      "HS系列",
+      "Christie Mystique",
+      "沉浸式投影",
+      "奧德賽水族館"
+    ],
+    "mentioned_brands": [
+      "科視",
+      "Christie",
+      "CCS",
+      "AVI-SPL",
+      "Malvern Entertainment",
+      "Smashworks Fabrication"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3010,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "臥室投影機選購指南：從擺放空間、投射比與夜間觀影需求出發",
+    "summary_zh": "本文探討臥室投影機的選購邏輯，強調應從房間實際空間、擺放位置（如床頭櫃或矮桌）與投射比切入，而非追求最大畫面。文中提及當貝旗下 N2 mini 與 Freedo 兩款機種具備大角度俯仰調整能力，可直接支援床面向上投射至天花板。同時提醒夜間觀影需考量字幕清晰度、亮度與近距離音效表現，滿足臥室特定環境下的日常使用需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/projector-for-bedroom-choose-one-for-your-room-and-nighttime-routine",
+    "publish_date": "2026-11-18",
+    "keywords": [
+      "臥室投影機",
+      "投射比",
+      "N2 mini",
+      "Freedo",
+      "當貝",
+      "天花板投影"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3006,
     "source_name": "DigiTimes",
     "title_zh": "鐘鳴電子從銅連接轉向光連接",
@@ -40027,6 +40100,28 @@
       "極米"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 3011,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙C3 Air銷量霸榜，百元檔全能王炸特價829元",
+    "summary_zh": "大眼橙C3 Air投影機近日於經銷商「易仁科技」展開特價促銷，優惠價為人民幣829元。該機型主打臥室精靈、夜燈雲台及極速穩定等產品亮點，定位於百元價格帶的熱銷機種，吸引消費者關注並前往北京市海淀區參觀選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1196/11963740.html",
+    "publish_date": "2026-06-10",
+    "keywords": [
+      "大眼橙",
+      "C3 Air",
+      "投影機行情",
+      "促銷",
+      "百元檔"
+    ],
+    "mentioned_brands": [
+      "大眼橙"
+    ],
+    "link_status": null
   },
   {
     "id": 2913,
