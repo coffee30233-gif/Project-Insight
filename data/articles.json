@@ -1,5 +1,81 @@
 [
   {
+    "id": 3017,
+    "source_name": "ZNDS投影頻道",
+    "title_zh": "明基AK900ST高爾夫投影機上架京東，標價52999元支援4K與6000流明",
+    "summary_zh": "明基推出全新AK900ST高爾夫投影機，目前已在國內京東平台正式上架，建議標價為人民幣52999元。該款投影機搭載4K解析度與雷射光源技術，具備高達6000流明的標稱亮度，並配備1.1倍電動光學變焦與四向鏡頭位移功能，能同時支援平面與弧形幕布校正，滿足高爾夫模擬器等特殊專業場景的投影需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://news.znds.com/article/69822.html",
+    "publish_date": "2026-11-20",
+    "keywords": [
+      "明基",
+      "AK900ST",
+      "高爾夫投影機",
+      "雷射投影",
+      "4K",
+      "京東"
+    ],
+    "mentioned_brands": [
+      "明基",
+      "京東"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3016,
+    "source_name": "ProjectorScreen",
+    "title_zh": "ProjectorScreen 宣布將於 2026 年 11 月舉辦生活投影機對決大賽",
+    "summary_zh": "通路商 ProjectorScreen.com 宣布將於 2026 年 11 月 21 日在其位於紐澤西州總部舉辦「2026 Lifestyle Projector Showdown™」生活投影機對決大賽，由 Projector Reviews 的 Phil Jones 帶領獨立編輯評測。本次活動聚焦於適合日常客廳娛樂的智慧投影機，確認參賽機種包含海信 XR10、堅果 IRIS Ultra Max、海信 C3 Ultra Max、極米 HORIZON 30 Ultra Max 與 Soundcore Nebula X1 Pro，另有一款神祕機種待確認。評測團隊除評比畫質外，亦將針對擺位靈活性、內建音效及實際功能進行全方位評估。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://www.projectorscreen.com/blogs/insights/2026-lifestyle-projector-showdown-announcement",
+    "publish_date": "2026-11-20",
+    "keywords": [
+      "ProjectorScreen",
+      "Projector Reviews",
+      "Lifestyle Projector Showdown",
+      "智慧投影機",
+      "海信",
+      "極米",
+      "堅果"
+    ],
+    "mentioned_brands": [
+      "ProjectorScreen",
+      "Projector Reviews",
+      "Hisense",
+      "JMGO",
+      "XGIMI",
+      "Soundcore"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3013,
+    "source_name": "投影時代",
+    "title_zh": "光峰科技以激光光源與工程投影機助力深圳APEC期間城市光影秀",
+    "summary_zh": "今年11月深圳舉辦APEC會議期間，本土企業光峰科技運用原創半导体激光光源技術與高亮工程投影機，全面助力市民中心、人才公園及蛇口海上世界等地的城市光影秀。其中，市民中心採用其Quasar全彩激光探照燈打造氣勢宏大的光束矩陣；人才公園與海上世界明华轮則透過激光工程投影機與AIMapper技術，實現水幕投影與異形曲面投影，展現強大戶外環境適應力與穩定性。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/301966423712.shtml",
+    "publish_date": "2026-11-20",
+    "keywords": [
+      "光峰科技",
+      "激光投影機",
+      "雷射光源",
+      "工程投影",
+      "APEC會議",
+      "光影秀"
+    ],
+    "mentioned_brands": [
+      "光峰科技"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3012,
     "source_name": "ZOL投影機頻道",
     "title_zh": "希沃SC08投影展台特價促銷優惠價1099元",
