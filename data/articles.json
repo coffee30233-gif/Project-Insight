@@ -1,5 +1,117 @@
 [
   {
+    "id": 3024,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-E6U投影機北京促銷價42000元",
+    "summary_zh": "根據中關村線上報導，ROLY RL-E6U投影機目前在北京商家「偉業投影」進行特價促銷，優惠售價為人民幣42000元。該款產品主打超高亮度、高效實用與輕巧便攜等亮點，實體店面位於北京市海澱區海澱19-1號中成大廈，提供有興趣的消費者前往選購。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12751620.html",
+    "publish_date": "2026-11-21",
+    "keywords": [
+      "ROLY",
+      "RL-E6U",
+      "投影機",
+      "促銷行情",
+      "偉業投影"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3023,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "索諾克 SNP-AC40LU 北京地區特價 12530 元",
+    "summary_zh": "根據中关村在线報導，索諾克（Sonnoc）SNP-AC40LU投影機近日於北京商家「偉業投影」進行特價促銷活動，優惠售價為人民幣 12530 元。商家地址位於海淀區海淀19-1號中成大廈7層，提供給有需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12751618.html",
+    "publish_date": "2026-11-21",
+    "keywords": [
+      "索諾克",
+      "SNP-AC40LU",
+      "投影機",
+      "促銷價格",
+      "偉業投影"
+    ],
+    "mentioned_brands": [
+      "索諾克",
+      "Sonnoc"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3022,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "Aurzen推出ZIP Pro三折疊口袋投影機：具備1080P與200流明規格",
+    "summary_zh": "Aurzen於2026年11月20日在海外市場推出全新ZIP Pro三折疊式投影設備。該產品主打輕巧便攜，收攏後尺寸為115毫米乘以97毫米乘以44毫米，重量僅586克，外型近似厚钱包，可輕鬆放入口袋。使用時只需展開機身並將鏡頭對準牆面直立放置，支援多場景投射，提供1080P解析度與200流明的亮度表現，滿足行動投影需求。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12750662.html",
+    "publish_date": "2026-11-20",
+    "keywords": [
+      "Aurzen",
+      "ZIP Pro",
+      "三折疊投影機",
+      "口袋投影",
+      "1080P",
+      "便攜投影"
+    ],
+    "mentioned_brands": [
+      "Aurzen"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3020,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "打造難忘家庭電影夜的七種創意玩法與投影機搭配建議",
+    "summary_zh": "當貝Dangbei官方發布文章分享如何透過七種創意玩法讓家庭電影夜更具沉浸感與回憶。內容涵蓋主題挑選、投票選片、打造舒適的觀影空間、首映會儀式感、雙片連播中場休息、自製零食吧台以及映後討論等實用建議。文章指出投影機能為家庭劇院帶來更大、更具沉浸感的觀影體驗，並提醒注意投影設備的散熱、線材安全與續航力，適合家庭與聚會參考。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Maybe",
+    "url": "https://us.dangbei.com/blogs/newsroom/movie-night-ideas-7-ways-to-make-an-evening-at-home-more-memorable",
+    "publish_date": "2026-11-20",
+    "keywords": [
+      "家庭劇院",
+      "投影機應用",
+      "觀影體驗",
+      "當貝"
+    ],
+    "mentioned_brands": [
+      "Dangbei",
+      "當貝"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3019,
+    "source_name": "XGIMI官方",
+    "title_zh": "極米科技針對HORIZON 30 Ultra Max推出1.7.269版手動韌體更新",
+    "summary_zh": "極米科技針對旗下HORIZON 30 Ultra Max智慧投影機發布1.7.269版韌體更新，主要針對色彩準確度與畫質進行改善。此版本為選用的手動USB更新，主要提供給經驗豐富的高階用戶提前升級，官方建議一般用戶等待未來的正式OTA自動推送以確保安全。",
+    "category": "技術動態",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://us.xgimi.com/blogs/news/horizon-30-ultra-max-firmware-update",
+    "publish_date": "2026-11-20",
+    "keywords": [
+      "極米",
+      "HORIZON 30 Ultra Max",
+      "韌體更新",
+      "手動更新",
+      "色彩準確度"
+    ],
+    "mentioned_brands": [
+      "XGIMI"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3017,
     "source_name": "ZNDS投影頻道",
     "title_zh": "明基AK900ST高爾夫投影機上架京東，標價52999元支援4K與6000流明",
