@@ -1,5 +1,92 @@
 [
   {
+    "id": 3030,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "明基MH560投影機北京地區促銷，售價5200元",
+    "summary_zh": "明基（BenQ）旗下商務投影機型號MH560，近日於北京市場展開促銷活動。經銷商「偉業投影」將該機型優惠價格定為5200元人民幣。明基MH560主打便攜性與多場景應用，適用於商務辦公、教學演示及會議室環境。有興趣的消費者可前往位於北京市海淀區中成大廈7層的門市進行諮詢與購買。",
+    "category": "市場數據",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12751707.html",
+    "publish_date": "2026-11-21",
+    "keywords": [
+      "明基",
+      "MH560",
+      "投影機",
+      "促銷",
+      "商務投影"
+    ],
+    "mentioned_brands": [
+      "明基"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3029,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "宏碁 AF609北京促銷價6300元",
+    "summary_zh": "宏碁 AF609 投影機近日在北京經銷商「偉業投影」展開特價促銷活動，優惠售價為人民幣 6300 元。該機型主打高清畫質、光學變焦以及梯形校正等功能亮點，商家地址位於海淀區海淀 19-1 號中成大廈 7 層，提供有採購需求的消費者參考選購。",
+    "category": "市場數據",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12751702.html",
+    "publish_date": "2026-11-21",
+    "keywords": [
+      "宏碁",
+      "AF609",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "宏碁"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3028,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "愛普生 CB-L690U 投影機北京促銷價 21,000 元",
+    "summary_zh": "愛普生 CB-L690U 投影機近日在北京經銷商「偉業投影」展開特價促銷，優惠售價為人民幣 21,000 元。該款投影機主打恆定輸出、迅速開機與清晰圖像等產品亮點。商家地址位於海澱區海澱 19-1 號，提供有採購需求的消費者參考選購。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12751700.html",
+    "publish_date": "2026-11-21",
+    "keywords": [
+      "愛普生",
+      "CB-L690U",
+      "投影機",
+      "促銷行情",
+      "偉業投影"
+    ],
+    "mentioned_brands": [
+      "愛普生",
+      "Epson"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3027,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-BMZ62C投影機北京特價促銷11900元",
+    "summary_zh": "根據中關村在線報導，松下PT-BMZ62C投影機近日在北京經銷商「偉業投影」進行特價促銷，優惠價格為人民幣11900元。該款投影機主打輕鬆安裝、靈活適配以及節能環保等產品亮點。有興趣的消費者可直接前往位於北京市海澱區海澱19-1號的實體店面參觀選購，把握此次促銷優惠。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1275/12751699.html",
+    "publish_date": "2026-11-21",
+    "keywords": [
+      "松下",
+      "PT-BMZ62C",
+      "投影機行情",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3024,
     "source_name": "ZOL投影機頻道",
     "title_zh": "ROLY RL-E6U投影機北京促銷價42000元",
@@ -40755,6 +40842,27 @@
       "飛利浦"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 3026,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "ROLY RL-A6U北京特價32199元",
+    "summary_zh": "ROLY RL-A6U投影機近期在北京通路「偉業投影」展開特價促銷活動，優惠售價為人民幣32199元。該產品主打簡約造型、輕巧設計以及真實色彩表現，實體店面位於海淀區中成大廈，提供有採購需求的消費者前往選購。",
+    "category": "新品發布",
+    "importance": 2,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1191/11913576.html",
+    "publish_date": "2026-06-01",
+    "keywords": [
+      "ROLY",
+      "RL-A6U",
+      "投影機行情",
+      "促銷價"
+    ],
+    "mentioned_brands": [
+      "ROLY"
+    ],
+    "link_status": null
   },
   {
     "id": 2054,
