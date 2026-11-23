@@ -1,5 +1,28 @@
 [
   {
+    "id": 3032,
+    "source_name": "DigiTimes",
+    "title_zh": "瀾起科技DDR5出貨增長，釋放AI伺服器互連更大商機",
+    "summary_zh": "瀾起科技近期DDR5記憶體介面晶片出貨量強勁增長，凸顯出AI伺服器與高速運算領域中，伺服器互連技術與相關晶片正迎來龐大的市場商機。隨著AI應用加速普及，高頻寬與低延遲需求推動DDR5及PCIe介面晶片的需求持續向上，帶動相關供應鏈的營運表現。",
+    "category": "供應鏈",
+    "importance": 2,
+    "relevance": "Maybe",
+    "url": "https://www.digitimes.com/news/a20261120VL214/montage-ddr5-shipments-ai-server-pcie.html",
+    "publish_date": "2026-11-23",
+    "keywords": [
+      "瀾起科技",
+      "DDR5",
+      "AI伺服器",
+      "伺服器互連",
+      "晶片供應鏈"
+    ],
+    "mentioned_brands": [
+      "Montage Technology",
+      "瀾起科技"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3030,
     "source_name": "ZOL投影機頻道",
     "title_zh": "明基MH560投影機北京地區促銷，售價5200元",
