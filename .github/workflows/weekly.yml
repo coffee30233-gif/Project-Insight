@@ -1,10 +1,19 @@
 name: Weekly Report
 
+# 填了 test_email 的測試執行會標成「(test)」，備援檢查不會把它當成「本週已寄出」。
+run-name: ${{ github.event.inputs.test_email && 'Weekly Report (test)' || 'Weekly Report' }}
+
 on:
   schedule:
     # 週一 05:00 台北時間 = 週日 21:00 UTC。刻意提早：GitHub 排程常延遲數小時，
     # 提早排才有機會在週一早上上班前寄出。
     - cron: '0 21 * * 0'
+    # 備援：GitHub 偶爾會整個漏掉排程（2026-11-23 就發生過）。下面三個時間點每次都會先
+    # 檢查「本週是否已有成功寄出的正式週報」，有就直接跳過，沒有才補跑（上一次失敗也會
+    # 自動重試）。週一 11:00 / 16:00、週二 08:00（台北時間）。
+    - cron: '0 3 * * 1'
+    - cron: '0 8 * * 1'
+    - cron: '0 0 * * 2'
   workflow_dispatch:
     inputs:
       test_email:
@@ -20,7 +29,50 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+    outputs:
+      already_sent: ${{ steps.check.outputs.already_sent }}
+    steps:
+      - name: 檢查本週是否已經有成功寄出的正式週報
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          # 手動觸發一律執行（你按 Run workflow 就是要跑）
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            echo "手動觸發，不檢查，直接執行"
+            echo "already_sent=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          # 「本週」= 台北時間本週一 00:00 起（換算成 UTC）。主排程是週日 21:00 UTC，
+          # 剛好落在新的一週裡。
+          SINCE=$(python3 -c "from datetime import datetime, timedelta, timezone; tz=timezone(timedelta(hours=8)); n=datetime.now(tz); m=(n-timedelta(days=n.weekday())).replace(hour=0,minute=0,second=0,microsecond=0); print(m.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'))")
+          echo "本週起點（UTC）：$SINCE"
+
+          # 只算「成功」的正式執行：「通知 n8n」失敗會讓整個 run 失敗，所以成功就代表
+          # n8n 有收到、信有送出；失敗的不算，會被補跑。測試執行（標題含 (test)）也不算。
+          # 查詢失敗時當作 0（寧可重複寄一次，也不要漏寄）。
+          COUNT=$(gh api -X GET "repos/${{ github.repository }}/actions/workflows/weekly.yml/runs" \
+            -f status=success -f created=">=$SINCE" -f per_page=50 \
+            --jq '[.workflow_runs[] | select((.display_title // "") | contains("(test)") | not)] | length') || COUNT=0
+          echo "本週已成功的正式週報執行次數：${COUNT:-0}"
+
+          if [ "${COUNT:-0}" -gt 0 ]; then
+            echo "already_sent=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "already_sent=false" >> "$GITHUB_OUTPUT"
+          fi
+
   weekly-report:
+    needs: check
+    # !cancelled() 讓 check 這個 job 自己出錯時週報仍然會執行（寧可重複寄也不要漏寄）；
+    # 只有 check 明確回報「本週已寄出」才跳過。
+    if: ${{ !cancelled() && needs.check.outputs.already_sent != 'true' }}
     runs-on: ubuntu-latest
     env:
       # 排程時間是週日 21:00 UTC，Runner 預設時區是 UTC，date.today() 會算成「週日」，
