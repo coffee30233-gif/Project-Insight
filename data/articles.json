@@ -1,5 +1,28 @@
 [
   {
+    "id": 3039,
+    "source_name": "投影時代",
+    "title_zh": "科視Christie任命National Audio Systems為澳新地區商用產品獨家經銷商",
+    "summary_zh": "科視Christie（Christie）正式宣布任命National Audio Systems（NAS）為其在澳洲與紐西蘭地區的商用產品獨家經銷商，該合作已於2026年10月下旬生效。NAS將負責分銷Christie旗下的3DLP與1DLP雷射投影系統，以及Spyder系列圖像處理解決方案。NAS成立於1998年，在澳洲與紐西蘭擁有深厚的專業視聽市場經驗與倉儲網絡，服務對象涵蓋系統整合商、租賃與舞台搭建公司，以及政府、教育與企業客戶。此次合作旨在透過NAS的在地通路優勢，進一步推廣Christie的高亮度投影機（如Griffyn系列、M 4K RGB系列）及專業顯示技術，強化其在現場活動、投影映射、模擬仿真及控制室等領域的市場覆蓋與客戶服務能力。",
+    "category": "供應鏈",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/352022138125.shtml",
+    "publish_date": "2026-11-25",
+    "keywords": [
+      "科視Christie",
+      "National Audio Systems",
+      "投影機經銷",
+      "商用投影",
+      "澳洲市場"
+    ],
+    "mentioned_brands": [
+      "Christie",
+      "National Audio Systems"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3038,
     "source_name": "ZOL投影機頻道",
     "title_zh": "明基LH655C雷射長焦會議投影機促銷優惠價15999元",
@@ -39389,6 +39412,28 @@
       "Optoma"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 3041,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "松下PT-XZ431C特價促銷歡迎來電諮詢",
+    "summary_zh": "松下PT-XZ431C高亮投影機目前正由北京商家「北京合眾聯鑫」進行特價促銷活動，價格採取面議方式。該產品主打高亮度投影亮點，有興趣的消費者可前往北京市海澱區中關村中科大廈9層進行詳細洽詢。",
+    "category": "新品發布",
+    "importance": 1,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1207/12073365.html",
+    "publish_date": "2026-06-29",
+    "keywords": [
+      "松下",
+      "PT-XZ431C",
+      "投影機",
+      "特價促銷"
+    ],
+    "mentioned_brands": [
+      "松下",
+      "Panasonic"
+    ],
+    "link_status": null
   },
   {
     "id": 2941,
