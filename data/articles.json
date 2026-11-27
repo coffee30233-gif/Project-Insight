@@ -1,5 +1,83 @@
 [
   {
+    "id": 3047,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "當貝發布GTA 6遊戲投影機選購與設置指南",
+    "summary_zh": "當貝官方針對即將推出的《GTA 6》遊戲，發布了投影機選購與設置指南。文中指出因主機版本鎖定30 fps，玩家無需盲目追求4K 120 Hz機種，選購4K@60 Hz的雷射投影機即可滿足需求。文章同時推薦了三款適合遊玩《GTA 6》的當貝機型，包含適合暗室對比的DBOX02 / Mars Pro 2、具備靈活雲台的DBOX02 Pro，以及亮度較高適合明亮客廳的MP1 Max。指南並針對投影距離、環境光控制、HDMI連接埠、輸入延遲及MEMC動態補償等設定提供實用建議。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/gta-6-gaming-projector-how-to-choose-and-set-up",
+    "publish_date": "2026-11-27",
+    "keywords": [
+      "GTA 6",
+      "遊戲投影機",
+      "4K雷射投影機",
+      "當貝",
+      "DBOX02 Pro",
+      "MP1 Max"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei",
+      "Rockstar",
+      "Sony",
+      "Microsoft"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3046,
+    "source_name": "當貝Dangbei官方",
+    "title_zh": "客廳與明亮空間投影機選購與設置指南",
+    "summary_zh": "當貝官方發布明亮客廳投影機選購與設置指南，指出在遮光窗簾或柔和燈光環境下，建議選擇標示2000 ISO流明的4K雷射投影機；若在經常開燈的客廳，則需提升至3000+ ISO流明並搭配長焦抗光幕（ALR）。文章強調光源方向（如避開正對螢幕的窗戶）、投影尺寸（80至100吋）以及將投影機移近以縮小畫面來增加表面照度的光學技巧，並分析了各種室內光源環境的應對策略。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://us.dangbei.com/blogs/newsroom/bright-living-room-projector-setup-buying-guide",
+    "publish_date": "2026-11-27",
+    "keywords": [
+      "當貝",
+      "ISO流明",
+      "抗光幕",
+      "雷射投影機",
+      "客廳投影機"
+    ],
+    "mentioned_brands": [
+      "當貝",
+      "Dangbei"
+    ],
+    "link_status": null
+  },
+  {
+    "id": 3044,
+    "source_name": "投影時代",
+    "title_zh": "均價跌破2000元的投影業：降溫背後，高亮、激光、4K在偷偷下沉",
+    "summary_zh": "2026年雙十一中國投影市場迎來深度調整，大盤銷量42.6萬台、同比下降24%，整體均價降至1995元。其中，1LCD銷量占比升至64.3%且均價逆勢微漲至1008元；DLP均價持穩在3679元但銷量下滑；3LCD面臨量價雙降。儘管整體市場需求走弱、新品數量縮減，但產品核心體驗持續進階，高亮度、4K解析度、光學變焦與激光光源等高端配置加速向中低價位段下沉，品牌策略從價格戰轉向打磨畫質。",
+    "category": "市場數據",
+    "importance": 5,
+    "relevance": "Direct",
+    "url": "http://www.pjtime.com/2026/11/352451646332.shtml",
+    "publish_date": "2026-11-27",
+    "keywords": [
+      "投影市場",
+      "雙十一",
+      "均價",
+      "1LCD",
+      "DLP",
+      "3LCD",
+      "激光投影",
+      "4K投影",
+      "迪顯諮詢",
+      "洛圖科技"
+    ],
+    "mentioned_brands": [
+      "迪顯諮詢",
+      "洛圖科技"
+    ],
+    "link_status": null
+  },
+  {
     "id": 3039,
     "source_name": "投影時代",
     "title_zh": "科視Christie任命National Audio Systems為澳新地區商用產品獨家經銷商",
@@ -40756,6 +40834,29 @@
       "Panasonic"
     ],
     "link_status": "ok"
+  },
+  {
+    "id": 3048,
+    "source_name": "ZOL投影機頻道",
+    "title_zh": "大眼橙 V10 Ultra 高亮超清投影機打造沉浸式全屋家庭影院促銷",
+    "summary_zh": "大眼橙 V10 Ultra 旗艦級投影機於中關村在線商家「易仁科技」展開特價促銷活動。該款投影機專為家庭影音場景打造，主打高亮超清畫質，旨在為用戶提供沉浸式的全屋家庭影院體驗。詳細優惠價格與規格資訊可透過商家電話進一步洽詢。",
+    "category": "新品發布",
+    "importance": 3,
+    "relevance": "Direct",
+    "url": "https://projector.zol.com.cn/1192/11928340.html",
+    "publish_date": "2026-06-05",
+    "keywords": [
+      "大眼橙",
+      "V10 Ultra",
+      "投影機",
+      "家庭影院",
+      "促銷"
+    ],
+    "mentioned_brands": [
+      "大眼橙",
+      "中關村在線"
+    ],
+    "link_status": null
   },
   {
     "id": 1308,
